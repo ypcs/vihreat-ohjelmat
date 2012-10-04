@@ -40,27 +40,27 @@ Metsien hakkuista ja uudistamisesta on säädetty metsälaissa. Nykyisen metsäl
 puuntuotannon maksimointi teollisuuden tarpeisiin ja laki rajoittaa myös metsienkäsittelyn
 vaihtoehtoja.
 
-Suomen jäljellä olevat luonnontilaiset ja niiden kaltaiset metsät on säilytettävä. Täydennetään nykyisiä metsiensuojelualueita Metsähallituksen hallinnoimilla mailla.
+ - Suomen jäljellä olevat luonnontilaiset ja niiden kaltaiset metsät on säilytettävä. Täydennetään nykyisiä metsiensuojelualueita Metsähallituksen hallinnoimilla mailla.
 
-Etelä-Suomen metsien monimuotoisuusohjelman Metson (2011‒2020) rahoitus nostetaan ensi vaalikaudella 100 miljoonaan euroon vuodessa, jotta ohjelmassa asetetun 96 000 hehtaarin suojelutavoitteen toteutuminen varmistetaan.
+ - Etelä-Suomen metsien monimuotoisuusohjelman Metson (2011‒2020) rahoitus nostetaan ensi vaalikaudella 100 miljoonaan euroon vuodessa, jotta ohjelmassa asetetun 96 000 hehtaarin suojelutavoitteen toteutuminen varmistetaan.
 
-Mahdollistetaan yhtiöiden, kuntien ja muiden yhteisöjen osallistuminen Metso-ohjelmaan, joka on suunnattu vain yksityisille metsänomistajille. Jatketaan yhteisöjen omistuksessa olevien metsien inventointiin haettavaa rahoitusta.
+ - Mahdollistetaan yhtiöiden, kuntien ja muiden yhteisöjen osallistuminen Metso-ohjelmaan, joka on suunnattu vain yksityisille metsänomistajille. Jatketaan yhteisöjen omistuksessa olevien metsien inventointiin haettavaa rahoitusta.
 
-Metson suojelutavoitteiden toteuduttua Etelä-Suomen metsämaasta on suojeltu noin kolme prosenttia. Pitkän aikavälin tavoitteena tulee olla monimuotoisuuden paremmin turvaava kymmenen prosentin suojeluaste.
+ - Metson suojelutavoitteiden toteuduttua Etelä-Suomen metsämaasta on suojeltu noin kolme prosenttia. Pitkän aikavälin tavoitteena tulee olla monimuotoisuuden paremmin turvaava kymmenen prosentin suojeluaste.
 
-Laajennetaan luonnonsuojelulain tavoitesäännöstä (metsälain 1 §) koskemaan elinympäristöjen kytkeytyneisyyden huomioon ottamista ja ekosysteemipalvelujen ylläpitoa.
+ - Laajennetaan luonnonsuojelulain tavoitesäännöstä (metsälain 1 §) koskemaan elinympäristöjen kytkeytyneisyyden huomioon ottamista ja ekosysteemipalvelujen ylläpitoa.
 
-Suojelualueiden kytkeytyneisyyden parantamiseksi Metso-ohjelman suojelualueiden hankintaa keskitetään elinkeino-, liikenne- ja ympäristökeskusten (ELY-keskukset) alueellisesti ennalta valitsemille, arvokkaiksi tunnetuille painopistealueille.
+ - Suojelualueiden kytkeytyneisyyden parantamiseksi Metso-ohjelman suojelualueiden hankintaa keskitetään elinkeino-, liikenne- ja ympäristökeskusten (ELY-keskukset) alueellisesti ennalta valitsemille, arvokkaiksi tunnetuille painopistealueille.
 
-Metsälain kokonaisuudistus toteutetaan siten, että metsänhoito on ekologisesti kestävää ja monimuotoisuutta säilyttävää. Maanomistajille turvataan aito mahdollisuus päättää mitä arvoja hän metsänhoidossa haluaa suosia, esimerkkinä avohakkuuton metsänhoito. Uudistuksessa otetaan myös lähempään tarkasteluun,miten metsäojitusten aiheuttamia vahinkoja pienvesistöille voisi vähentää.
+ - Metsälain kokonaisuudistus toteutetaan siten, että metsänhoito on ekologisesti kestävää ja monimuotoisuutta säilyttävää. Maanomistajille turvataan aito mahdollisuus päättää mitä arvoja hän metsänhoidossa haluaa suosia, esimerkkinä avohakkuuton metsänhoito. Uudistuksessa otetaan myös lähempään tarkasteluun,miten metsäojitusten aiheuttamia vahinkoja pienvesistöille voisi vähentää.
 
-Metsänhoitopalvelut on avattava kilpailulle, jotta metsänhoitoyhdistysten monopoliasema neuvonnassa ja metsänhoitomaksun keräämisessä poistuu. Avoimessa julkisessa hallinnossa toimijan ja valvojan roolit on erotettava toisistaan.
+ - Metsänhoitopalvelut on avattava kilpailulle, jotta metsänhoitoyhdistysten monopoliasema neuvonnassa ja metsänhoitomaksun keräämisessä poistuu. Avoimessa julkisessa hallinnossa toimijan ja valvojan roolit on erotettava toisistaan.
 
-Valtion metsäkeskusten keräämän metsätietojärjestelmän tiedot on vapautettava avoimesti kaikkien saataville. Metsätieto on kerätty julkisin varoin, joten tiedon tulee olla yhteiskunnan, erityisesti ympäristöhallinnon ja tutkijoiden hyödynnettävissä.
+ - Valtion metsäkeskusten keräämän metsätietojärjestelmän tiedot on vapautettava avoimesti kaikkien saataville. Metsätieto on kerätty julkisin varoin, joten tiedon tulee olla yhteiskunnan, erityisesti ympäristöhallinnon ja tutkijoiden hyödynnettävissä.
 
-Arvokkaiden kohteiden säilymisen ja metsälain noudattamisen seuranta on siirrettävä metsäkeskuksilta riippumattoman arvioijan, esim. alueellisen ympäristöviranomaisen tehtäväksi.
+ - Arvokkaiden kohteiden säilymisen ja metsälain noudattamisen seuranta on siirrettävä metsäkeskuksilta riippumattoman arvioijan, esim. alueellisen ympäristöviranomaisen tehtäväksi.
 
-Energiapuun ja biomassan korjuulle metsistä on luotava Euroopan unionin laajuiset kestävyyskriteerit.
+ - Energiapuun ja biomassan korjuulle metsistä on luotava Euroopan unionin laajuiset kestävyyskriteerit.
 
 ### Suot
 
@@ -87,23 +87,23 @@ tulee säilyttää. Soiden reunat, joissa kangasmaa vaihtuu suoksi, ovat omanlai
 elinympäristöjä, joita myös tulee suojella. Soiden reunojen ojitukset estävät sadevesiä valumasta
 kangasmailta soille, jolloin suot kuivuvat.
 
-Turpeen tuotannolle ja poltolle asetetut julkiset tuet poistetaan ja turpeen vero nostetaan asteittain vastaamaan sen päästöjä. Turpeen käytöstä polttoaineena luovutaan asteittain.
+ - Turpeen tuotannolle ja poltolle asetetut julkiset tuet poistetaan ja turpeen vero nostetaan asteittain vastaamaan sen päästöjä. Turpeen käytöstä polttoaineena luovutaan asteittain.
 
-Suoluontoa muuttavat toimet ja turpeen tuotanto rajoitetaan jo ojitetuille ja luontoarvonsa jo menettäneille kohteille. Varmistetaan lainsäädännön keinoin, että luonnontilaisten ja luonnontilaisen kaltaisten ojittamattomien soiden ottaminen turvetuotantoon lopetetaan.
+ - Suoluontoa muuttavat toimet ja turpeen tuotanto rajoitetaan jo ojitetuille ja luontoarvonsa jo menettäneille kohteille. Varmistetaan lainsäädännön keinoin, että luonnontilaisten ja luonnontilaisen kaltaisten ojittamattomien soiden ottaminen turvetuotantoon lopetetaan.
 
-Ympäristönsuojeluasetuksesta poistetaan turpeenottoa koskevan ympäristöluvan 10 hehtaarin alaraja, jolloin kaikesta turpeennostosta tulee luvanvaraista.
+ - Ympäristönsuojeluasetuksesta poistetaan turpeenottoa koskevan ympäristöluvan 10 hehtaarin alaraja, jolloin kaikesta turpeennostosta tulee luvanvaraista.
 
-Soidensuojelua kehitetään laatimalla soidensuojeluverkoston täydentämisohjelma.
+ - Soidensuojelua kehitetään laatimalla soidensuojeluverkoston täydentämisohjelma.
 
-Reuna-alueidensa ojituksen vuoksi alun perin puutteellisesti rajattujen suojelusoiden alueita laajennetaan reunoiltaan. Uusien rajausten tuottama lisäsuojelun tarve on nykyisellään muutamia tuhansia hehtaareita.
+ - Reuna-alueidensa ojituksen vuoksi alun perin puutteellisesti rajattujen suojelusoiden alueita laajennetaan reunoiltaan. Uusien rajausten tuottama lisäsuojelun tarve on nykyisellään muutamia tuhansia hehtaareita.
 
-Vapon omistuksessa olevat tai vuokraamat luonnontilaisen kaltaiset suoalueet siirretään Metsähallituksen hallintaan.
+ - Vapon omistuksessa olevat tai vuokraamat luonnontilaisen kaltaiset suoalueet siirretään Metsähallituksen hallintaan.
 
-Turpeennosto levittää orgaanista ainesta, joka pilaa vesistöjä. Lainsäädännöllä laitetaan turveteollisuus maksamaan vesistöjen kunnostusten kustannuksia. Laajennetaan ryhmäkannemenettely koskemaan vesistöjen pilaamista.
+ - Turpeennosto levittää orgaanista ainesta, joka pilaa vesistöjä. Lainsäädännöllä laitetaan turveteollisuus maksamaan vesistöjen kunnostusten kustannuksia. Laajennetaan ryhmäkannemenettely koskemaan vesistöjen pilaamista.
 
-Ennallistetut ojitetut suot toimivat hiilinieluina. Samalla palautuvat soiden luonnolliset ekosysteemipalvelut. Laaditaan hallituskauden alussa suoluonnon ennallistamisen rahoitus- ja toimenpideohjelma, jolla vähennetään ojitettujen turvemaiden aiheuttamaa ilmastokuormitusta.  Ensivaiheessa ennallistetaan valtionmaiden suojelualueilla 5 000 hehtaaria metsäojitettuja soita vuoteen 2016 mennessä. Pitkän aikavälin tavoitteeksi asetetaan ennallistaa 500 000 hehtaaria metsäojitettuja turvemaita, mikä on 10 % Suomen ojitetuista soista.
+ - Ennallistetut ojitetut suot toimivat hiilinieluina. Samalla palautuvat soiden luonnolliset ekosysteemipalvelut. Laaditaan hallituskauden alussa suoluonnon ennallistamisen rahoitus- ja toimenpideohjelma, jolla vähennetään ojitettujen turvemaiden aiheuttamaa ilmastokuormitusta.  Ensivaiheessa ennallistetaan valtionmaiden suojelualueilla 5 000 hehtaaria metsäojitettuja soita vuoteen 2016 mennessä. Pitkän aikavälin tavoitteeksi asetetaan ennallistaa 500 000 hehtaaria metsäojitettuja turvemaita, mikä on 10 % Suomen ojitetuista soista.
 
-Turvemaiden raivaus pelloksi lopetetaan.
+ - Turvemaiden raivaus pelloksi lopetetaan.
 
 ### Maatalous ja vesistöt
 
@@ -118,25 +118,25 @@ Maatalouden ympäristötuki on kohdennettava uudelleen. Paras ratkaisu on kohden
 
 Vesistönsuojelussa tehokkaaksi havaitut keinot ovat itse asiassa pääosin yksinkertaisia, yleisluonteisia ympäristötoimia: vähennetään lannoitusta ja peltojen muokkausta eri tavoin, ylläpidetään kasvipeitettä talviaikaan, lisätään viljelykiertoa ja pysyviä laitumia. Pelloilla tehtäviä toimia täydentävät erilaiset suojavyöhykkeet ja kosteikot. Viljelymaan eroosiota ja pintavaluntaa on vähennettävä erityisesti kaltevilla, vesistöihin ja ojiin rajoittuvilla pelloilla.
 
-Maatalouden ympäristötuki kohdennetaan alueellisesti ja tilatasolla kaikista kuormittavimmille alueille ja lohkoille. Ympäristötuen rakennetta muutetaan siten, että perus- ja lisätoimenpiteiden osuus pienenee ja erityistukien osuus kasvaa. Alueellisesti ympäristötuki suunnataan vesiensuojelullisin ja vesien tilaan liittyvin perustein, jotka pohjautuvat EU:n vesipuitedirektiivin mukaiseen vesien tilan luokitteluun ja vesienhoitosuunnitelmiin. Tilakohtaisesti tuki kohdennetaan vesiensuojelullisesti riskiherkimmille lohkoille. Apuna käytetään tutkimustietoa.
+ - Maatalouden ympäristötuki kohdennetaan alueellisesti ja tilatasolla kaikista kuormittavimmille alueille ja lohkoille. Ympäristötuen rakennetta muutetaan siten, että perus- ja lisätoimenpiteiden osuus pienenee ja erityistukien osuus kasvaa. Alueellisesti ympäristötuki suunnataan vesiensuojelullisin ja vesien tilaan liittyvin perustein, jotka pohjautuvat EU:n vesipuitedirektiivin mukaiseen vesien tilan luokitteluun ja vesienhoitosuunnitelmiin. Tilakohtaisesti tuki kohdennetaan vesiensuojelullisesti riskiherkimmille lohkoille. Apuna käytetään tutkimustietoa.
 
-Kehitetään maatalouden ympäristötuen ja ei-tuotannollisten investointitukien ehtoja siten, että ne  kannustavat entistä paremmin perinnebiotooppien hoitoon ja parantavat kohteiden hoidon laatua.
+ - Kehitetään maatalouden ympäristötuen ja ei-tuotannollisten investointitukien ehtoja siten, että ne  kannustavat entistä paremmin perinnebiotooppien hoitoon ja parantavat kohteiden hoidon laatua.
 
-Luodaan maatalouden ympäristötuen rinnalle kansallinen tukijärjestelmä, jolla tuetaan muiden kuin viljelijöiden tekemää perinnebiotooppien kunnostusta ja hoitoa. Näin saadaan hoidettujen perinnebiotooppien pinta-ala kaksinkertaistettua 60 000 hehtaariin.
+ - Luodaan maatalouden ympäristötuen rinnalle kansallinen tukijärjestelmä, jolla tuetaan muiden kuin viljelijöiden tekemää perinnebiotooppien kunnostusta ja hoitoa. Näin saadaan hoidettujen perinnebiotooppien pinta-ala kaksinkertaistettua 60 000 hehtaariin.
 
-Luomutuotannon lisääminen otetaan Suomen maatalouspolitiikan strategiseksi tavoitteeksi. Luomutuotannon määrä nostetaan 25 %:iin kokonaistuotannosta vuoteen 2020 mennessä. Vauhditetaan luomutuotantoa muun muassa asettamalla tavoite, että julkisissa keittiöissä neljännes ravinnosta olisi luomua.
+ - Luomutuotannon lisääminen otetaan Suomen maatalouspolitiikan strategiseksi tavoitteeksi. Luomutuotannon määrä nostetaan 25 %:iin kokonaistuotannosta vuoteen 2020 mennessä. Vauhditetaan luomutuotantoa muun muassa asettamalla tavoite, että julkisissa keittiöissä neljännes ravinnosta olisi luomua.
 
-Eläintuotannon tukia vähennetään ja sidotaan ne ympäristön ja eläinten hyvinvointiin liittyviin kriteereihin. Keinotekoisesti halpojen eläintuotteiden tuotanto tulee lopettaa.
+ - Eläintuotannon tukia vähennetään ja sidotaan ne ympäristön ja eläinten hyvinvointiin liittyviin kriteereihin. Keinotekoisesti halpojen eläintuotteiden tuotanto tulee lopettaa.
 
-Kotieläintilojen lannankierto pyritään saamaan kestäväksi. Lannan liukoinen typpi ja kokonaisfosfori otetaan kokonaan huomioon laskettaessa lannan ravinteita ympäristötukien lannoitusmäärissä. Lannan syyslevitys pelloille lopetetaan huuhtoumien vähentämiseksi. Karjatiloja kannustetaan toimittamaan lanta ensisijaisesti paikallisiin biokaasuvoimaloihin.
+ - Kotieläintilojen lannankierto pyritään saamaan kestäväksi. Lannan liukoinen typpi ja kokonaisfosfori otetaan kokonaan huomioon laskettaessa lannan ravinteita ympäristötukien lannoitusmäärissä. Lannan syyslevitys pelloille lopetetaan huuhtoumien vähentämiseksi. Karjatiloja kannustetaan toimittamaan lanta ensisijaisesti paikallisiin biokaasuvoimaloihin.
 
-Kalankasvatuksessa syntyvät ravinnepäästöt on minimoitava. Optimoidaan kalanrehun koostumusta ja ruokintajärjestelmiä. Lisätään umpikasseja ja muita kasvatusmenetelmiä, jotka mekaanisesti vähentävät vesistöön joutuvaa ravinnekuormitusta.
+ - Kalankasvatuksessa syntyvät ravinnepäästöt on minimoitava. Optimoidaan kalanrehun koostumusta ja ruokintajärjestelmiä. Lisätään umpikasseja ja muita kasvatusmenetelmiä, jotka mekaanisesti vähentävät vesistöön joutuvaa ravinnekuormitusta.
 
-Fosfaattia sisältävien pesuaineiden käyttö kielletään Suomessa.
+ - Fosfaattia sisältävien pesuaineiden käyttö kielletään Suomessa.
 
-Suomen öljyn ja kemikaalien torjuntavalmiutta nostetaan. Rannikko- ja avomeriöljyntorjuntaan taataan riittävät varat vastaamaan öljykuljetusten määrän lisääntymistä Suomenlahdella.
+ - Suomen öljyn ja kemikaalien torjuntavalmiutta nostetaan. Rannikko- ja avomeriöljyntorjuntaan taataan riittävät varat vastaamaan öljykuljetusten määrän lisääntymistä Suomenlahdella.
 
-Pidemmällä aikavälillä maataloustuissa on siirryttävä kaiken tuotannon kattavaan "saastuttaja maksaa"-periaatteeseen, jossa tuottajille maksetaan perustulon tapaista perustukea. Vastaavasti saastuttavista tuotantotavoista joutuu maksamaan.
+ - Pidemmällä aikavälillä maataloustuissa on siirryttävä kaiken tuotannon kattavaan "saastuttaja maksaa"-periaatteeseen, jossa tuottajille maksetaan perustulon tapaista perustukea. Vastaavasti saastuttavista tuotantotavoista joutuu maksamaan.
 
 
 #### FOSFORI
@@ -171,35 +171,35 @@ lisäksi nykyistä yksityiskohtaisempia ja tehokkaampia toimia. Tavoitteena on l
 Suurpedot kuuluvat Suomen luontoon. Noin sadan viime vuoden aikana suurpetoja vainottiin. Tällöin
 totuttiin siihen, että metsissämme pedot ovat harvinaisia. Nyt meidän tulee tottua elämään Suomessa, jossa myös suurpedoilla on oma paikkansa. Se on haasteellista mutta mahdollista. Viranomaisten on lisättävä valistusta ja asiallista keskustelua petokysymyksistä paikallisten asukkaiden kanssa.  Petokorvaukset on suoritettava viivyttelemättä ja selkein perustein.
 
-Suomen eliölajien uhanalaisarvioinnin tulosten perusteella laaditaan toimenpideohjelma lajien suojelun tehostamiseksi ja turvataan sille rahoitus. Uhanalaisten lajien suojeluun lisätään 3 miljoonaa euroa vuodessa.
+ - Suomen eliölajien uhanalaisarvioinnin tulosten perusteella laaditaan toimenpideohjelma lajien suojelun tehostamiseksi ja turvataan sille rahoitus. Uhanalaisten lajien suojeluun lisätään 3 miljoonaa euroa vuodessa.
 
-Suomen uhanalaisten luontotyyppien selvityksen tulosten perusteella toteutetaan luontotyyppien suojelun toimintaohjelma ja turvataan ohjelman rahoitus.
+ - Suomen uhanalaisten luontotyyppien selvityksen tulosten perusteella toteutetaan luontotyyppien suojelun toimintaohjelma ja turvataan ohjelman rahoitus.
 
-Saimaannorpalle valmistellaan lajikohtainen elvytyssuunnitelma.
+ - Saimaannorpalle valmistellaan lajikohtainen elvytyssuunnitelma.
 
-Saimaannorppaa suojellaan keväisellä verkkokalastuskiellolla ja kalastuksen rajoitukset siirretään luonnonsuojelulakiin. Keväinen verkkokalastus on saimaannorpan suurin välitön uhka. Vapaaehtoiset kalastusrajoitukset ovat kallis suojelukeino, erityisesti kun kyse on ensisijaisesti vapaa-ajan kalastuksesta.
+ - Saimaannorppaa suojellaan keväisellä verkkokalastuskiellolla ja kalastuksen rajoitukset siirretään luonnonsuojelulakiin. Keväinen verkkokalastus on saimaannorpan suurin välitön uhka. Vapaaehtoiset kalastusrajoitukset ovat kallis suojelukeino, erityisesti kun kyse on ensisijaisesti vapaa-ajan kalastuksesta.
 
-Itämeren lohen sekakantakalastus lopetetaan toistaiseksi meressä ja villiä lohta pyydetään yksinomaan joissa, missä kalastusta voidaan rajoittaa kantakohtaisesti.
+ - Itämeren lohen sekakantakalastus lopetetaan toistaiseksi meressä ja villiä lohta pyydetään yksinomaan joissa, missä kalastusta voidaan rajoittaa kantakohtaisesti.
 
-Tehostetaan toimia vaelluskalojen kulkureittien palauttamiseksi entisiin lohijokiimme. Koska uusin tutkimus osoittaa että uomien kunnostamisesta ei ole hyötyä jos vedenlaatu on heikko, on samalla tehostettava metsätalouden ja turvetuotannon vesiensuojelua kiintoaineksen vähentämiseksi.
+ - Tehostetaan toimia vaelluskalojen kulkureittien palauttamiseksi entisiin lohijokiimme. Koska uusin tutkimus osoittaa että uomien kunnostamisesta ei ole hyötyä jos vedenlaatu on heikko, on samalla tehostettava metsätalouden ja turvetuotannon vesiensuojelua kiintoaineksen vähentämiseksi.
 
-Kalastuslaki uudistetaan siten, että turvataan luonnon monimuotoisuuden säilyminen ja nykyisen kaltainen virkistyskalastus.
+ - Kalastuslaki uudistetaan siten, että turvataan luonnon monimuotoisuuden säilyminen ja nykyisen kaltainen virkistyskalastus.
 
-Liikenneväylät katkovat eläinten perinteiset kulkureitit ja pirstovat niiden elinpiirit. Kun uusia liikenneväyliä rakennetaan, on selvitettävä eläinten kulkureitit ja rakennettava tarvittavat yli- ja alikulkukäytävät. Nykyisille väylille rakennetaan lisää ylitys- ja alituspaikkoja eläimille tärkeimpien ekologisten käytävien palauttamiseksi. Kulkuyhteyksien rakentaminen turvaa sekä eläinten liikkumisen että vähentää liikenneonnettomuuksia eläinten kanssa.
+ - Liikenneväylät katkovat eläinten perinteiset kulkureitit ja pirstovat niiden elinpiirit. Kun uusia liikenneväyliä rakennetaan, on selvitettävä eläinten kulkureitit ja rakennettava tarvittavat yli- ja alikulkukäytävät. Nykyisille väylille rakennetaan lisää ylitys- ja alituspaikkoja eläimille tärkeimpien ekologisten käytävien palauttamiseksi. Kulkuyhteyksien rakentaminen turvaa sekä eläinten liikkumisen että vähentää liikenneonnettomuuksia eläinten kanssa.
 
-Vesilintujen kevätmetsästys kielletään. Kestävä metsästys tarkoittaa sitä, että metsästetään vain syksyisin kuluneen kesän ”tuottoa”.
+ - Vesilintujen kevätmetsästys kielletään. Kestävä metsästys tarkoittaa sitä, että metsästetään vain syksyisin kuluneen kesän ”tuottoa”.
 
-Merimetsojen aktiivisesta vähentämisestä luovutaan ja poikkeuslupia annetaan vain kun on osoitettu merkittäviä haittoja. Merimetso on Suomen alkupäinen laji ja sen aiheeton vaino on lopetettava.
+ - Merimetsojen aktiivisesta vähentämisestä luovutaan ja poikkeuslupia annetaan vain kun on osoitettu merkittäviä haittoja. Merimetso on Suomen alkupäinen laji ja sen aiheeton vaino on lopetettava.
 
-Suomen suurpetopolitiikan onnistumisesta tehdään kokonaisarvio. Suomen susikannan tavoitekooksi otetaan 500 yksilöä. Susiaitojen rakentamista ja laumanvartijakoirien hankintaa tuetaan. Vastuuta ongelmapetojen poistamisessa tarkennetaan viranomaisten ja metsästysseurojen välillä.
+ - Suomen suurpetopolitiikan onnistumisesta tehdään kokonaisarvio. Suomen susikannan tavoitekooksi otetaan 500 yksilöä. Susiaitojen rakentamista ja laumanvartijakoirien hankintaa tuetaan. Vastuuta ongelmapetojen poistamisessa tarkennetaan viranomaisten ja metsästysseurojen välillä.
 
-Suurpetojen aiheuttamien porovahinkojen korvausjärjestelmä muutetaan lisääntymiseen perustuvaksi ja reviiripohjaiseksi kuten maakotkan kohdalla on jo tehty. Poronhoidon tulevaisuus ja poronhoitoalueen luonnon monimuotoisuus on turvattava. Laidunten laadun ja määrän ongelmat suhteessa eloporojen määrään on ratkaistava.
+ - Suurpetojen aiheuttamien porovahinkojen korvausjärjestelmä muutetaan lisääntymiseen perustuvaksi ja reviiripohjaiseksi kuten maakotkan kohdalla on jo tehty. Poronhoidon tulevaisuus ja poronhoitoalueen luonnon monimuotoisuus on turvattava. Laidunten laadun ja määrän ongelmat suhteessa eloporojen määrään on ratkaistava.
 
-Salametsästyksen rangaistuskäytäntöjä kovennetaan ja törkeä metsästysrikos lisätään rikoslakiin. Lisätään poliisien ja syyttäjien koulutusta luonnonsuojelurikosten tunnistamiseen.
+ - Salametsästyksen rangaistuskäytäntöjä kovennetaan ja törkeä metsästysrikos lisätään rikoslakiin. Lisätään poliisien ja syyttäjien koulutusta luonnonsuojelurikosten tunnistamiseen.
 
-Uhanalaisten riistalajien, kuten monien vesilintujen, metsästystä rajoitetaan.
+ - hanalaisten riistalajien, kuten monien vesilintujen, metsästystä rajoitetaan.
 
-Haitallisten vieraslajien torjumiseksi ratifioidaan ja toimeenpannaan painolastivesisopimus mahdollisimman nopeasti.
+ - Haitallisten vieraslajien torjumiseksi ratifioidaan ja toimeenpannaan painolastivesisopimus mahdollisimman nopeasti.
 
 
 #### VIERASLAJIT
@@ -227,19 +227,19 @@ Rannikkovesissämme on monimuotoinen meriluonto niin rannoilla kuin pinnan alla.
 
 Suojelualueet ovat yhteistä kansallisomaisuuttamme. Niissä suojellaan arvokkainta suomalaista luontoa. Ne ovat samalla virkistyksen lähteitä ja osa Suomen matkailun maakuvaa. Ne ovat investointi, jota on hoidettava hyvin niiden arvon säilyttämiseksi. Luonnon näkeminen sekä luonnossa oleminen ja liikkuminen edistävät terveyttä. Erityisesti kaupungeissa ja kasvavissa taajamissa pitää turvata mahdollisuus päästä luontoon. Ulkoilulaki on yli 30 vuotta vanha ja se tulee uudistaa 2000-luvulle.
 
-Käynnistetään Suomen ekologisten yhteyksien kartoitus.
+ - Käynnistetään Suomen ekologisten yhteyksien kartoitus.
 
-Etelä-Suomeen perustettuja valtion suojelualueita laajennetaan ja niiden välisten ekologisten yhteyksien parantaminen otetaan huomioon uusien suojelualueiden kohdennuksessa.
+ - Etelä-Suomeen perustettuja valtion suojelualueita laajennetaan ja niiden välisten ekologisten yhteyksien parantaminen otetaan huomioon uusien suojelualueiden kohdennuksessa.
 
-Meriluonnon suojelun tason parantamiseksi selvitetään uusien kansallispuistojen perustamista merialueille. Suojelun on perustuttava meriluonnon inventointitietoihin.
+ - Meriluonnon suojelun tason parantamiseksi selvitetään uusien kansallispuistojen perustamista merialueille. Suojelun on perustuttava meriluonnon inventointitietoihin.
 
-Vedenalaisen meriluonnon inventointiohjelman VELMU:n rahoitusta lisätään 4 miljoonalla eurolla vuodessa, jotta vuoteen 2016 mennessä saadaan riittävä yleiskuva merialueiden luontotyypeistä. Alueidenkäytön suunnittelun rajausta laajennetaan käsittelemään myös merialueiden vedenalaista luontoa.
+ - Vedenalaisen meriluonnon inventointiohjelman VELMU:n rahoitusta lisätään 4 miljoonalla eurolla vuodessa, jotta vuoteen 2016 mennessä saadaan riittävä yleiskuva merialueiden luontotyypeistä. Alueidenkäytön suunnittelun rajausta laajennetaan käsittelemään myös merialueiden vedenalaista luontoa.
 
-Suojelualueiden hoidon rahoitusta nostetaan 20 miljoonaa euroa vuodessa.
+ - Suojelualueiden hoidon rahoitusta nostetaan 20 miljoonaa euroa vuodessa.
 
-Sipoonkorven kansallispuistoa laajennetaan ensimmäiseksi sisämaasta merelle asti jatkuvaksi kansallispuistoksi. Toteutetaan Tammisaaren kansallispuiston laajennus. Perustetaan Napapiirin ja Inarin retkeilyalueet ulkoilulain mukaisiksi retkeilyalueiksi.
+ - Sipoonkorven kansallispuistoa laajennetaan ensimmäiseksi sisämaasta merelle asti jatkuvaksi kansallispuistoksi. Toteutetaan Tammisaaren kansallispuiston laajennus. Perustetaan Napapiirin ja Inarin retkeilyalueet ulkoilulain mukaisiksi retkeilyalueiksi.
 
-Vanhentunut ulkoilulaki ajanmukaistetaan tukemaan paremmin kasvavien kaupunkiseutujen ulkoilu- ja virkistystoimintaa.
+ - Vanhentunut ulkoilulaki ajanmukaistetaan tukemaan paremmin kasvavien kaupunkiseutujen ulkoilu- ja virkistystoimintaa.
 
 #### LUONTOMATKAILU
 Suomen matkailun vetovoima on puhdas erämainen luonto. Luontomatkailu on yhä suositumpaa vapaa-ajanvietettä. Matkailu voi olla myös hyväksi ympäristölle. Matkailun tuoman taloudellisen hyvinvoinnin perusteella on mm. pystytty suojelemaan arvokkaita luonto- ja kulttuuriperintökohteita niin kehitysmaissa kuin teollisuusmaissakin. Suomessakin kansallispuistomatkailu tuo hyötyjä paikallistalouteen.
@@ -268,11 +268,11 @@ Tulevia sukupolvia kunnioittava hyvinvointi voi perustua vain kestävälle ilmas
 Ilmastonsuojeluun tarvitaan määrätietoista politiikkaa, joka kulkee vihreänä lankana läpi
 yhteiskuntamme kaiken suunnittelun, päätöksenteon ja toiminnan.
 
-Suomeen on saatava voimaan ilmastolaki, jonka myötä päästöjä vähennetään vuosittain viisi prosenttia. Tavoitteeksi asetetaan 40 % vähennystavoite kasvihuonekaasupäästöihin vuoden 1990 tasosta vuoteen 2020 mennessä ja 95 % vuoteen 2050 mennessä. Tavoitetta on voitava tarvittaessa tarkistaa ilmastotieteen mukaisesti.
+ - Suomeen on saatava voimaan ilmastolaki, jonka myötä päästöjä vähennetään vuosittain viisi prosenttia. Tavoitteeksi asetetaan 40 % vähennystavoite kasvihuonekaasupäästöihin vuoden 1990 tasosta vuoteen 2020 mennessä ja 95 % vuoteen 2050 mennessä. Tavoitetta on voitava tarvittaessa tarkistaa ilmastotieteen mukaisesti.
 
-Jokaiseen Suomen kuntaan on saatava oma tai seutukunnallinen sitova ilmasto-ohjelma. Tavoitteeksi tulee asettaa leikata päästöjä asukasta kohti vähintään 30 % vuoden 1990 tasosta vuoteen 2020 mennessä. Pitkän ajan tavoitteena tulee olla hiilineutraali kunta.
+ - Jokaiseen Suomen kuntaan on saatava oma tai seutukunnallinen sitova ilmasto-ohjelma. Tavoitteeksi tulee asettaa leikata päästöjä asukasta kohti vähintään 30 % vuoden 1990 tasosta vuoteen 2020 mennessä. Pitkän ajan tavoitteena tulee olla hiilineutraali kunta.
 
-Suomen hallituksen on ajettava aktiivisesti EU:n sitoutumista 30 %:n päästövähennystavoitteeseen vuoteen 2020 mennessä.
+ - Suomen hallituksen on ajettava aktiivisesti EU:n sitoutumista 30 %:n päästövähennystavoitteeseen vuoteen 2020 mennessä.
 
 ### Energiatehokkuus
 
@@ -291,19 +291,19 @@ Hukkalämpöä voidaan uuden tekniikan avulla hyödyntää myös pienimuotoisess
 
 Kannattavat energiatehokkuusinvestoinnit jäävät monesti tekemättä. Energiatehokkuusratkaisujen kilpailukykyä uuden tuotannon kanssa voidaan parantaa esimerkiksi tukemalla näitä ratkaisuja edistävää yritystoimintaa ja parantamalla rahoituksen saatavuutta. Rakennusten energiankäytössä on paljon tehostamisen varaa. Tästä kerrotaan tarkemmin kaavoitusta ja asumista käsittelevässä luvussa.
 
-Energiatehokkuuden parantaminen 20 %:lla vuoteen 2020 muutetaan sitovaksi tavoitteeksi Suomessa ja koko Euroopan unionissa.
+ - Energiatehokkuuden parantaminen 20 %:lla vuoteen 2020 muutetaan sitovaksi tavoitteeksi Suomessa ja koko Euroopan unionissa.
 
-Yrityksiä kannustetaan parantamaan energiatehokkuutta sallimalla pysyvästi tehokkuusinvestointien kertapoistot.
+ - Yrityksiä kannustetaan parantamaan energiatehokkuutta sallimalla pysyvästi tehokkuusinvestointien kertapoistot.
 
-Säädöksillä ohjataan ripeään älykkään sähköverkon käyttöön, jotta sähkön kulutus ja tuotanto saadaan kohtaamaan nykyistä paremmin.
+ - Säädöksillä ohjataan ripeään älykkään sähköverkon käyttöön, jotta sähkön kulutus ja tuotanto saadaan kohtaamaan nykyistä paremmin.
 
-Sähkön kulutushuippuja hillitään lisäämällä kysyntäjoustoja. Markkinaehtoisten sähkön kysyntäjoustoon perustuvien sopimusten solmimista vauhditetaan ja samalla edistetään älykkään mittaroinnin sovellusten leviämistä rakennuskantaan. Tavoitteeksi otetaan, että huipputehon tarvetta leikataan yhteensä 800 MW muutoin toteutuvaan kehitykseen verrattuna.
+ - Sähkön kulutushuippuja hillitään lisäämällä kysyntäjoustoja. Markkinaehtoisten sähkön kysyntäjoustoon perustuvien sopimusten solmimista vauhditetaan ja samalla edistetään älykkään mittaroinnin sovellusten leviämistä rakennuskantaan. Tavoitteeksi otetaan, että huipputehon tarvetta leikataan yhteensä 800 MW muutoin toteutuvaan kehitykseen verrattuna.
 
-Selvitetään hukkalämpöveron ja muiden kannustimien käyttöönottoa edistämään muun muassa teollisuuden tuottaman hukkalämmön käyttöä yhdyskuntien kaukolämpönä.
+ - Selvitetään hukkalämpöveron ja muiden kannustimien käyttöönottoa edistämään muun muassa teollisuuden tuottaman hukkalämmön käyttöä yhdyskuntien kaukolämpönä.
 
-Parannetaan energiatehokkuusinvestointien rahoitusmahdollisuuksia esim. korkotuetuilla lainoilla ja vakuusjärjestelyillä.
+ - Parannetaan energiatehokkuusinvestointien rahoitusmahdollisuuksia esim. korkotuetuilla lainoilla ja vakuusjärjestelyillä.
 
-Tuetaan energiatehokkuusliiketoimintaa, kuten ESCO-toimintaa, energiahallintapalveluja kiinteistöille jne.
+ - Tuetaan energiatehokkuusliiketoimintaa, kuten ESCO-toimintaa, energiahallintapalveluja kiinteistöille jne.
 
 
 #### SÄHKÖN KULUTUSJOUSTOT
@@ -331,19 +331,19 @@ liete, maatalouden kasvijätteet, lanta ja yhdyskuntien biojäte. Biokaasua void
 
 Aurinkoenergiaa on Suomen oloissa edullista hyödyntää etenkin aurinkolämpönä: rakennusten ja käyttöveden lämmittämiseen. Aurinkolämmön käyttö tulisi ottaa huomioon jo rakennuksen suunnittelussa: suunnataan ikkunoita etelään, käytetään lämpöä varaavia rakenteita. Talojen lisääntyvä tiiviys lisää myös aurinkoon suunnattujen rakennusten jäähdytystarvetta kesäisin. Tähän tulee suunnittelussa varautua talojen riittävällä varjostuksella. Aurinkolämpökeräimien avulla voidaan puolestaan helposti ja taloudellisesti kattaa 25–30 % rakennuksen ja käyttöveden lämmityksestä.
 
-Tuulivoimaluvitus on tehtävä joustavammaksi, kuitenkin ympäristönäkökulmista ja kansalaisten oikeuksista tinkimättä.
+ - Tuulivoimaluvitus on tehtävä joustavammaksi, kuitenkin ympäristönäkökulmista ja kansalaisten oikeuksista tinkimättä.
 
-Hajautetun energiantuotannon tukia on laajennettava koskemaan myös pienempiä yksiköitä. Maatiloille on laadittava uusiutuvien energiamuotojen tukijärjestelmä, jotta ne voivat hyödyntää esim. paikallista biokaasua tai olkea energian tuottamiseen.
+ - Hajautetun energiantuotannon tukia on laajennettava koskemaan myös pienempiä yksiköitä. Maatiloille on laadittava uusiutuvien energiamuotojen tukijärjestelmä, jotta ne voivat hyödyntää esim. paikallista biokaasua tai olkea energian tuottamiseen.
 
-Syöttötariffi laajennetaan koskemaan kattavasti kaikkia uusiutuvia energianlähteitä.
+ - Syöttötariffi laajennetaan koskemaan kattavasti kaikkia uusiutuvia energianlähteitä.
 
-Biokaasun tukea on parannettava siten, että tuki on hallinnollisesti kevyt eikä vääristä kilpailua sähköntuotannon ja liikennekäytön välillä ja siten, että sitä voidaan soveltaa myös pieniin laitoksiin.
+ - Biokaasun tukea on parannettava siten, että tuki on hallinnollisesti kevyt eikä vääristä kilpailua sähköntuotannon ja liikennekäytön välillä ja siten, että sitä voidaan soveltaa myös pieniin laitoksiin.
 
-Vihreän sähkön pientuotannossa otetaan käyttöön nettomittarointi eli sähkön tuottaja voi vähentää verkkoon tuottamansa sähkön sähkölaskussaan ja maksaa vain kuluttamastaan sähköstä.
+ - Vihreän sähkön pientuotannossa otetaan käyttöön nettomittarointi eli sähkön tuottaja voi vähentää verkkoon tuottamansa sähkön sähkölaskussaan ja maksaa vain kuluttamastaan sähköstä.
 
-Rakennusmääräyksiä on kehitettävä niin, että ne ohjaavat rakentajia parempaan aurinkoenergian hyödyntämiseen ja jäähdytystarvetta pienentävien ratkaisujen käyttöön.
+ - Rakennusmääräyksiä on kehitettävä niin, että ne ohjaavat rakentajia parempaan aurinkoenergian hyödyntämiseen ja jäähdytystarvetta pienentävien ratkaisujen käyttöön.
 
-Vesivoimaa voidaan jonkin verran lisätä nykyisten voimaloiden tehonkorotuksilla. Voimaloissa on otettava huomioon kalojen liikkuvuus ja vaikutus vesiekosysteemiin.
+ - Vesivoimaa voidaan jonkin verran lisätä nykyisten voimaloiden tehonkorotuksilla. Voimaloissa on otettava huomioon kalojen liikkuvuus ja vaikutus vesiekosysteemiin.
 
 ### Haitalliset energiamuodot
 
@@ -352,25 +352,25 @@ Uusiutuviin siirtymisen esteenä on joissain tapauksissa tuet, jotka kannustavat
 Ydinvoiman koko elinkaareen liittyy riskejä, joita ei hallita. Uraanin louhinta voi aiheuttaa vakavia
 ympäristö- ja terveysongelmia kaivosalueilla. Uraanimalmia on louhittava noin tuhatkertainen määrä verrattuna siitä saatuun ydinvoimalan polttoaineeseen. Ydinpolttoaineen ja ydinjätteen kuljetus on vaarallista. Ydinpolttoaineen varastointia tai ydinjätteen loppusijoitusta ei pystytä järjestämään täysin turvallisesti vielä missään päin maailmaa, ei edes Suomessa. Suomalaiset ydinvoimalat tuottavat noin 70 tonnia korkea-aktiivista ydinjätettä vuosittain. Käytetty ydinpolttoaine on erittäin radioaktiivista, sen aktiivisuus on laskenut alkuperäisen uraanimalmin tasolle vasta 200 000 vuoden kuluttua.
 
-Kivihiilestä päästään eroon normaalissa energiantuotannossa kokonaan vuoteen 2025 mennessä.
+ - Kivihiilestä päästään eroon normaalissa energiantuotannossa kokonaan vuoteen 2025 mennessä.
 
-Sähkön ja fossiilisten lämmitys- ja liikennepolttoaineiden veronkorotuksia jatketaan johdonmukaisesti. Veroja porrastetaan hiili- ja rikkisisällön mukaan. Verotuksen painopistettä siirretään energiasisällöstä hiilidioksidipäästöihin.
+ - Sähkön ja fossiilisten lämmitys- ja liikennepolttoaineiden veronkorotuksia jatketaan johdonmukaisesti. Veroja porrastetaan hiili- ja rikkisisällön mukaan. Verotuksen painopistettä siirretään energiasisällöstä hiilidioksidipäästöihin.
 
-Turpeen energiakäytöstä irtaudutaan määrätietoisesti. Turpeen tuet poistetaan: verohelpotukset ovat vuosittain 150-200 miljoonaa. Nostetaan turpeen verotus päästöjen mukaiselle tasolle.
+ - Turpeen energiakäytöstä irtaudutaan määrätietoisesti. Turpeen tuet poistetaan: verohelpotukset ovat vuosittain 150-200 miljoonaa. Nostetaan turpeen verotus päästöjen mukaiselle tasolle.
 
-Biopolttoaineiden verotuksessa on huomioitava myös polttoaineiden valmistuksen elinkaarivaikutukset. Jätteistä valmistetulta biokaasulta poistetaan vero kokonaan.
+ - Biopolttoaineiden verotuksessa on huomioitava myös polttoaineiden valmistuksen elinkaarivaikutukset. Jätteistä valmistetulta biokaasulta poistetaan vero kokonaan.
 
-Kevyen polttoöljyn verotuista luovutaan ja sitä verotetaan kuten dieselöljyä. Maatilojen nykyinen fossiilienergian käyttöä tukeva verotukijärjestelmä puretaan ja korvataan se uusiutuvan energian tuotantoa ja käyttöä tukevalla järjestelmällä. (Maatalouden energiaveropalautukset olivat 23 miljoonaa vuonna 2008 ja arviolta 52 miljoonaa vuonna 2011.)
+ - Kevyen polttoöljyn verotuista luovutaan ja sitä verotetaan kuten dieselöljyä. Maatilojen nykyinen fossiilienergian käyttöä tukeva verotukijärjestelmä puretaan ja korvataan se uusiutuvan energian tuotantoa ja käyttöä tukevalla järjestelmällä. (Maatalouden energiaveropalautukset olivat 23 miljoonaa vuonna 2008 ja arviolta 52 miljoonaa vuonna 2011.)
 
-Eurooppalaista teollisuutta suojellaan hiilivuodolta tuontitavaroiden hiilitulleilla. Päästökaupan ilmaisista kiintiöistä luovutaan EU:ssa vaiheittain pitkällä aikavälillä.
+ - Eurooppalaista teollisuutta suojellaan hiilivuodolta tuontitavaroiden hiilitulleilla. Päästökaupan ilmaisista kiintiöistä luovutaan EU:ssa vaiheittain pitkällä aikavälillä.
 
-Otetaan käyttöön windfall-vero. Sen tarkoitus on verottaa ylimääräisiä voittoja, joita päästökauppa tuo päästöttömille sähköntuotantomuodoille, käytännössä ydinvoimalle ja vanhalle vesivoimalle.
+ - Otetaan käyttöön windfall-vero. Sen tarkoitus on verottaa ylimääräisiä voittoja, joita päästökauppa tuo päästöttömille sähköntuotantomuodoille, käytännössä ydinvoimalle ja vanhalle vesivoimalle.
 
-Eduskunta ei anna uusia periaatepäätöslupia ydinvoimaloille. Uusien voimaloiden rakennuslupien ehtoja on tiukennettava ja voimaloista on tehtävä kattava turvallisuus- ja riskiarviointi. Rakennusluvista on päätettävä eduskunnassa. Suomi luopuu olemassa olevista ydinvoimaloista sitä mukaa kuin kestäviä vaihtoehtoja saadaan otettua käyttöön.
+ - Eduskunta ei anna uusia periaatepäätöslupia ydinvoimaloille. Uusien voimaloiden rakennuslupien ehtoja on tiukennettava ja voimaloista on tehtävä kattava turvallisuus- ja riskiarviointi. Rakennusluvista on päätettävä eduskunnassa. Suomi luopuu olemassa olevista ydinvoimaloista sitä mukaa kuin kestäviä vaihtoehtoja saadaan otettua käyttöön.
 
-Ydinvastuulakia muutetaan niin, että vastuu ydinonnettomuuden haitoista ulotetaan koskemaan myös ydinlaitosten haltijoiden omistajia. Ydinvoiman rakentamisen lopettamisesta ja vaarallisimpien ydinvoimaloiden pikaisesta sulkemisesta tulee sopia kansainvälisellä sopimuksella
+ - Ydinvastuulakia muutetaan niin, että vastuu ydinonnettomuuden haitoista ulotetaan koskemaan myös ydinlaitosten haltijoiden omistajia. Ydinvoiman rakentamisen lopettamisesta ja vaarallisimpien ydinvoimaloiden pikaisesta sulkemisesta tulee sopia kansainvälisellä sopimuksella
 
-Otetaan käyttöön uraanivero.
+ - Otetaan käyttöön uraanivero.
 
 ### Maankäytön suunnittelu
 
@@ -384,23 +384,23 @@ Ympäristöministeriön alaisuudessa toimivien alueellisten elinkeino-, liikenne
 
 Kaavojen laadinnan tulee aina perustua joukkoliikenteen edellytysten parantamiseen. Vihreässä kunnassa pyöräillään ja kävellään. Miellyttävässä ja turvallisessa ympäristössä ollaan halukkaampia kävelemään ja pyöräilemään pidempiä matkoja. Tähän mennessä perustetut kävelykadut ovat toimineet hyvin. Ne parantavat kaupan ja palveluiden menestystä katujen varsilla. Autottomuudesta pitää voida nauttia myös asuinalueilla.
 
-Ympäristöministeriön alaisuudessa toimivien alueellisten elinkeino-, liikenne- ja ympäristökeskusten (ELY) keinovalikoimaa kuntien kaavaohjauksessa monipuolistetaan siirtämällä niille oikeus kaavoituskehotuksen antamiseen kunnalle.
+ - Ympäristöministeriön alaisuudessa toimivien alueellisten elinkeino-, liikenne- ja ympäristökeskusten (ELY) keinovalikoimaa kuntien kaavaohjauksessa monipuolistetaan siirtämällä niille oikeus kaavoituskehotuksen antamiseen kunnalle.
 
-Turvataan vuosittaisen rakennusperinnön hoitoavustusten jakaminen, mikä edistää olemassa olevien arvorakennusten säilyttämistä ja perinnerakentamisen taitojen ylläpitoa.
+ - Turvataan vuosittaisen rakennusperinnön hoitoavustusten jakaminen, mikä edistää olemassa olevien arvorakennusten säilyttämistä ja perinnerakentamisen taitojen ylläpitoa.
 
-Kaavojen laadintaan on lisättävä joukkoliikennetarkastelu kuvaamaan, miten alueen rakentaminen edistää joukkoliikenteen käyttöä sekä energiatehokkuustarkastelu kuvaamaan, miten alueen rakentamistapa ja lämmitys voidaan hoitaa vähäpäästöisesti.
+ - Kaavojen laadintaan on lisättävä joukkoliikennetarkastelu kuvaamaan, miten alueen rakentaminen edistää joukkoliikenteen käyttöä sekä energiatehokkuustarkastelu kuvaamaan, miten alueen rakentamistapa ja lämmitys voidaan hoitaa vähäpäästöisesti.
 
-Päivittäistavarakaupan keskittyminen on estettävä liiketilan enimmäiskokoa säätelevällä lailla.
+ - Päivittäistavarakaupan keskittyminen on estettävä liiketilan enimmäiskokoa säätelevällä lailla.
 
-Julkisten päivittäin käytettävien palveluiden alueellinen saatavuus ilman omaa autoa (koulut, päiväkodit) on turvattava lailla.
+ - Julkisten päivittäin käytettävien palveluiden alueellinen saatavuus ilman omaa autoa (koulut, päiväkodit) on turvattava lailla.
 
-Ranta-alueiden kaavoituksessa ja rakentamisessa tulee varmistaa yhtenäisten vapaiden rantaosuuksien säilyttäminen. Uuden rakentamisen poikkeamisluvat tulee säilyttää ELY-keskusten ratkaistavina suorien kuntalupien sijaan.
+ - Ranta-alueiden kaavoituksessa ja rakentamisessa tulee varmistaa yhtenäisten vapaiden rantaosuuksien säilyttäminen. Uuden rakentamisen poikkeamisluvat tulee säilyttää ELY-keskusten ratkaistavina suorien kuntalupien sijaan.
 
-Kasvua tulee keskittää olemassa oleviin kaupunkeihin ja taajamiin, eikä rakentamista saa levittää hallitsemattomasti. Uudet laajat asuinalueet tulee sijoittaa joukkoliikenteen runkolinjojen ja erityisesti raideliikenteen varrelle.
+ - Kasvua tulee keskittää olemassa oleviin kaupunkeihin ja taajamiin, eikä rakentamista saa levittää hallitsemattomasti. Uudet laajat asuinalueet tulee sijoittaa joukkoliikenteen runkolinjojen ja erityisesti raideliikenteen varrelle.
 
-Hiljaisten alueiden kartoitukset tulee ulottaa kaikkiin Suomen kaupunkeihin. Meluntorjunnassa on keskityttävä melualueiden supistamiseen eikä asuinrakennusten julkisivujen äänieristyksen parantamiseen, sillä muutoin esimerkiksi asuntojen ikkunoita ei voi pitää auki kesäisin.
+ - Hiljaisten alueiden kartoitukset tulee ulottaa kaikkiin Suomen kaupunkeihin. Meluntorjunnassa on keskityttävä melualueiden supistamiseen eikä asuinrakennusten julkisivujen äänieristyksen parantamiseen, sillä muutoin esimerkiksi asuntojen ikkunoita ei voi pitää auki kesäisin.
 
-Uudet päivittäistavarakaupan suuryksiköt on sijoitettava aluekeskuksiin palvelemaan asutusta.
+ - Uudet päivittäistavarakaupan suuryksiköt on sijoitettava aluekeskuksiin palvelemaan asutusta.
 
 
 ### Asuminen ja kaupunkiluonto
@@ -425,31 +425,31 @@ Kaupunkimetsiä ei tulisikaan hoitaa metsätalouden ehdoilla vaan virkistys- ja 
 ajatellen. Paikallisesti arvokkaat luontokohteet ja -alueet tulee turvata asemakaavoissa, samoin
 yhteydet viheralueilta toisille.
 
-Uudisrakentamisen energiatehokkuudessa tulee edellyttää passiivitasoa lähivuosien aikana ja keskipitkällä aikavälillä nollaenergiatasoa. Energiatehokkuuden tulee perustua kokonaisenergiatarkasteluun, jolloin voidaan käyttää luonnonmukaista rakentamista kuten painovoimaista ilmanvaihtoa. Korjausrakentamisen yhteydessä rakennusten energiatehokkuutta on samoin parannettava. Päävastuu rakentamiseen liittyvien energiatehokkuustavoitteiden laadunohjauksesta kuuluu kuntien rakennusvalvontaviranomaisille.
+ - Uudisrakentamisen energiatehokkuudessa tulee edellyttää passiivitasoa lähivuosien aikana ja keskipitkällä aikavälillä nollaenergiatasoa. Energiatehokkuuden tulee perustua kokonaisenergiatarkasteluun, jolloin voidaan käyttää luonnonmukaista rakentamista kuten painovoimaista ilmanvaihtoa. Korjausrakentamisen yhteydessä rakennusten energiatehokkuutta on samoin parannettava. Päävastuu rakentamiseen liittyvien energiatehokkuustavoitteiden laadunohjauksesta kuuluu kuntien rakennusvalvontaviranomaisille.
 
-Uudisrakentamisessa käytettävien materiaalien koko elinkaaren aikana tuottama ympäristökuorma on otettava yhdeksi osaksi rakentamisen normiohjausta.
+ - Uudisrakentamisessa käytettävien materiaalien koko elinkaaren aikana tuottama ympäristökuorma on otettava yhdeksi osaksi rakentamisen normiohjausta.
 
-Puurakentamista suositaan julkisissa rakennushankkeissa investointituella ja korotetulla valtionavulla kuntien uusille julkisille puurakennuksille. Asetetaan tavoitteeksi lisätä puukerrostalorakentamista parillakymmenellä paikkakunnalla. Tätä tuetaan pilottirahoituksella.
+ - Puurakentamista suositaan julkisissa rakennushankkeissa investointituella ja korotetulla valtionavulla kuntien uusille julkisille puurakennuksille. Asetetaan tavoitteeksi lisätä puukerrostalorakentamista parillakymmenellä paikkakunnalla. Tätä tuetaan pilottirahoituksella.
 
-Yliopistoihin perustetaan lisää puurakenne- ja puuarkkitehtuurin professuureja sekä luodaan uusi puurakentamisen valtakunnallinen tutkimusohjelma.
+ - Yliopistoihin perustetaan lisää puurakenne- ja puuarkkitehtuurin professuureja sekä luodaan uusi puurakentamisen valtakunnallinen tutkimusohjelma.
 
-Energiankulutusta vähentävä asuntokohtainen lämmön ja lämpimän veden kulutuksen mittaus on otettava käyttöön uusissa ja korjattavissa rakennuksissa.
+ - Energiankulutusta vähentävä asuntokohtainen lämmön ja lämpimän veden kulutuksen mittaus on otettava käyttöön uusissa ja korjattavissa rakennuksissa.
 
-Tuetaan asuinrakennusten energiakatselmuksia, joilla selvitetään lämmön, sähkön ja veden säästön mahdollisuuksia. Taloyhtiöissä voidaan saada aikaan jopa 10-15 % energiasäästöt säätämällä lämmitysjärjestelmä oikein.
+ - Tuetaan asuinrakennusten energiakatselmuksia, joilla selvitetään lämmön, sähkön ja veden säästön mahdollisuuksia. Taloyhtiöissä voidaan saada aikaan jopa 10-15 % energiasäästöt säätämällä lämmitysjärjestelmä oikein.
 
-Eriytetään lailla parkkipaikkojen hinnat asuntojen hinnoista. Otetaan pyöräsäilytyksen parantaminen mukaan asuinrakennusten julkisista energia-avustuksista tuettavaksi kohteeksi.
+ - Eriytetään lailla parkkipaikkojen hinnat asuntojen hinnoista. Otetaan pyöräsäilytyksen parantaminen mukaan asuinrakennusten julkisista energia-avustuksista tuettavaksi kohteeksi.
 
-Kaupunkien keskusta-alueista vähintään 10 % maapinta-alasta on oltava viheralueita tai veden läpäiseviä pintoja. Keskusta-alueen ulkopuolella osuuden on oltava suurempi. Tämä helpottaa merkittävästi sadevesien imeytymistä, ehkäisee tulvimista ja lisää viihtyisyyttä sekä auttaa puhdistamaan ilmaa.
+ - Kaupunkien keskusta-alueista vähintään 10 % maapinta-alasta on oltava viheralueita tai veden läpäiseviä pintoja. Keskusta-alueen ulkopuolella osuuden on oltava suurempi. Tämä helpottaa merkittävästi sadevesien imeytymistä, ehkäisee tulvimista ja lisää viihtyisyyttä sekä auttaa puhdistamaan ilmaa.
 
-Kaupunkialueiden viherverkostosta vähintään puolet tulee olla kytkettynä toisiinsa viherkäytävillä tai tarvittaessa viherrakentamisella, kuten viherkatoilla. Tämä parantaa edellytyksiä lajien liikkumisen ja säilymisen kannalta sekä lisää merkittävästi kaupunkiviihtyisyyttä ja vähentää kiinteistöjen energiankulutusta.
+ - Kaupunkialueiden viherverkostosta vähintään puolet tulee olla kytkettynä toisiinsa viherkäytävillä tai tarvittaessa viherrakentamisella, kuten viherkatoilla. Tämä parantaa edellytyksiä lajien liikkumisen ja säilymisen kannalta sekä lisää merkittävästi kaupunkiviihtyisyyttä ja vähentää kiinteistöjen energiankulutusta.
 
-Edistetään hankkeita, joissa asukkaat pääsevät itse suunnittelemaan tulevaa kotiaan ja elinympäristöään.
+ - Edistetään hankkeita, joissa asukkaat pääsevät itse suunnittelemaan tulevaa kotiaan ja elinympäristöään.
 
-Edistetään kaupunkiviljelyä kaupunkilaisten arkiluontokokemusten lisäämiseksi. Perustetaan kaupunkialueille lisää ryhmäpuutarha-alueita ja viljelypalstoja.
+ - Edistetään kaupunkiviljelyä kaupunkilaisten arkiluontokokemusten lisäämiseksi. Perustetaan kaupunkialueille lisää ryhmäpuutarha-alueita ja viljelypalstoja.
 
-Kaupunkien vihersuunnittelussa on käytettävä pääasiassa kotimaisia kasvilajeja vieraslajiongelman vähentämiseksi.
+ - Kaupunkien vihersuunnittelussa on käytettävä pääasiassa kotimaisia kasvilajeja vieraslajiongelman vähentämiseksi.
 
-Lahopuiden määrää kaupunkimetsissä on lisättävä biodiversiteetin turvaamiseksi. Kaupunkimetsien metsienkäsittelyä muutetaan luonnonmukaisemmaksi.
+ - Lahopuiden määrää kaupunkimetsissä on lisättävä biodiversiteetin turvaamiseksi. Kaupunkimetsien metsienkäsittelyä muutetaan luonnonmukaisemmaksi.
 
 ### Liikenne
 
@@ -463,25 +463,25 @@ päätyen autojen romuttamoon.
 
 Vihreän liikennepolitiikan tavoitteena on liikennetarpeen ja liikkumisen pakon vähentäminen sekä joukko- ja kevyen liikenteen edellytysten parantaminen. Hajanainen yhdyskuntarakenne pakottaa ihmiset käyttämään omaa autoa. Maankäytön ja liikennepolitiikan järkevällä yhteensovittamisella voidaan merkittävästi vähentää ihmisten ja tavaroiden liikkumistarpeita. Kaupunkiseutujen kasvua pitää tietoisesti ohjata joukkoliikenteen varaan. Asemanseutujen kehittäminen ja junayhteyksien parantaminen tukevat toinen toistaan. Raskaan liikenteen kuljetuksia tulee aktiivisesti siirtää kumipyöriltä raiteille.
 
-Auto- ja ajoneuvoveron ohjausvaikutusta tulee edelleen voimistaa laskemalla vähiten ja korottamalla eniten päästävien autojen veroa. Käyttövoimavero pitää poistaa sähkö- ja kaasuautoilta, mutta vastaavasti sen käyttö on laajennettava kaikkiin muihin moottoriajoneuvoihin.
+ - Auto- ja ajoneuvoveron ohjausvaikutusta tulee edelleen voimistaa laskemalla vähiten ja korottamalla eniten päästävien autojen veroa. Käyttövoimavero pitää poistaa sähkö- ja kaasuautoilta, mutta vastaavasti sen käyttö on laajennettava kaikkiin muihin moottoriajoneuvoihin.
 
-Luodaan maanlaajuinen pikalatausverkosto sähkö- ja hybridiautoille.
+ - Luodaan maanlaajuinen pikalatausverkosto sähkö- ja hybridiautoille.
 
-Työmatkaliikkumisen verotus on uudistettava niin, että se kannustaa kestävään liikkumiseen. Vapaa autoetu poistetaan, työmatkavähennykset ja kilometrikorvaukset tarvitsevat päivitystä kestävän liikennepolitiikan aikaan. Jatkossa kilometrikorvaus ei saa ylittää todellisia kustannuksia, maksimipituuksia pitää rajoittaa ja korvaus pitää porrastaa auton päästötason mukaan.
+ - Työmatkaliikkumisen verotus on uudistettava niin, että se kannustaa kestävään liikkumiseen. Vapaa autoetu poistetaan, työmatkavähennykset ja kilometrikorvaukset tarvitsevat päivitystä kestävän liikennepolitiikan aikaan. Jatkossa kilometrikorvaus ei saa ylittää todellisia kustannuksia, maksimipituuksia pitää rajoittaa ja korvaus pitää porrastaa auton päästötason mukaan.
 
-Työsuhdematkalipusta on tehtävä veroton etuus, joka on mahdollista hankkia myös omatoimisesti ja nykyistä vähemmällä byrokratialla.
+ - Työsuhdematkalipusta on tehtävä veroton etuus, joka on mahdollista hankkia myös omatoimisesti ja nykyistä vähemmällä byrokratialla.
 
-Helsingin seudulla otetaan käyttöön ruuhkamaksut. Myös Turun, Tampereen ja Oulun seuduilla ruuhkamaksujen käyttöönottomahdollisuudet selvitetään. Raskaalle liikenteelle otetaan käyttöön tienkäyttömaksu. Näiden maksujen tuottoa on ohjattava joukkoliikenteen, kävelyn ja pyöräilyn edistämiseen.
+ - Helsingin seudulla otetaan käyttöön ruuhkamaksut. Myös Turun, Tampereen ja Oulun seuduilla ruuhkamaksujen käyttöönottomahdollisuudet selvitetään. Raskaalle liikenteelle otetaan käyttöön tienkäyttömaksu. Näiden maksujen tuottoa on ohjattava joukkoliikenteen, kävelyn ja pyöräilyn edistämiseen.
 
-Uusien väylähankkeiden määrärahoista vähintään 70 prosenttia kohdennetaan rataverkon kehittämiseen, joukkoliikenteeseen, sekä kävelyn ja pyöräilyn edistämiseen.
+ - Uusien väylähankkeiden määrärahoista vähintään 70 prosenttia kohdennetaan rataverkon kehittämiseen, joukkoliikenteeseen, sekä kävelyn ja pyöräilyn edistämiseen.
 
-Moottoriteiden kattonopeuksia lasketaan. Esimerkiksi kattonopeuden lasku 120 km:sta tunnissa 110:een säästää polttoainetta 15 % ja vähentää hiilidioksidipäästöjä vastaavasti.
+ - Moottoriteiden kattonopeuksia lasketaan. Esimerkiksi kattonopeuden lasku 120 km:sta tunnissa 110:een säästää polttoainetta 15 % ja vähentää hiilidioksidipäästöjä vastaavasti.
 
-Lentoliikenteen kasvua on hillittävä lopettamalla kotimaan lentoliikenteen polttoaineiden verovapaus. Lentoliikenteen veroedun poistaminen parantaa samalla kotimaan junaliikenteen kilpailukykyä. Lentokenttien suorasta taloudellisesta tuesta luovutaan.
+ - Lentoliikenteen kasvua on hillittävä lopettamalla kotimaan lentoliikenteen polttoaineiden verovapaus. Lentoliikenteen veroedun poistaminen parantaa samalla kotimaan junaliikenteen kilpailukykyä. Lentokenttien suorasta taloudellisesta tuesta luovutaan.
 
-Viranomaisten liikennejärjestelmiin liittyvät tietovarannot kuten liikennelaskennat on avattava avoimesti hyödynnettäväksi.
+ - Viranomaisten liikennejärjestelmiin liittyvät tietovarannot kuten liikennelaskennat on avattava avoimesti hyödynnettäväksi.
 
-Etätyön mahdollisuuksia on kehitettävä.
+ - Etätyön mahdollisuuksia on kehitettävä.
 
 
 #### SUOMEN LIIKENNE VUONNA 2030
@@ -502,31 +502,31 @@ käyttöön oton tukeminen ovat tarpeen. Tuotepolitiikassa pitää ottaa entist�
 
 Myös kuluttajalla on oikeus riittävään ja selkeään tuotteita ja palveluja koskevaan ympäristötietoon. Tämän edistämiseksi kehitetään nykyisiä vakiintuneita ympäristötiedon välittäjiä, kuten rakennusten energialuokkia ja yhteispohjoismaista Joutsen-ympäristömerkkiä,  ja niiden rinnalle luodaan tarpeen mukaan uusia, esimerkkinä elintarvikkeille kaavailtu ilmastomerkki.
 
-Jotta kehityksen suuntaa voidaan tarkkailla, ympäristöindikaattorit ja luonnonvaratilinpito on saatava mukaan talouden kovaan ytimeen. Bruttokansantuotteelle vaihtoehtoisia mittareita, kuten Aidon kehityksen mittaria (Genuine Progress Indicator, GPI), tulee kehittää ja hyödyntää niin Suomessa kuin kansainvälisestikin.
+ - Jotta kehityksen suuntaa voidaan tarkkailla, ympäristöindikaattorit ja luonnonvaratilinpito on saatava mukaan talouden kovaan ytimeen. Bruttokansantuotteelle vaihtoehtoisia mittareita, kuten Aidon kehityksen mittaria (Genuine Progress Indicator, GPI), tulee kehittää ja hyödyntää niin Suomessa kuin kansainvälisestikin.
 
-Suomelle ja EU:lle tulee laatia materiaalitehokkuusohjelmat, joissa määritellään luonnonvarojen kestävän käytön periaatteet. Lisäksi tulee luoda tavoitteita talouden ekotehostumiselle (esimerkiksi ns. factor-tavoitteet). Kunnianhimoinen tavoite olisi pyrkiä talouden kymmenkertaiseen ekotehostumiseen vuosisadan puoliväliin mennessä (factor10-tavoite).
+ - Suomelle ja EU:lle tulee laatia materiaalitehokkuusohjelmat, joissa määritellään luonnonvarojen kestävän käytön periaatteet. Lisäksi tulee luoda tavoitteita talouden ekotehostumiselle (esimerkiksi ns. factor-tavoitteet). Kunnianhimoinen tavoite olisi pyrkiä talouden kymmenkertaiseen ekotehostumiseen vuosisadan puoliväliin mennessä (factor10-tavoite).
 
-Ympäristöluvitusta kehitetään niin, että se ottaa esimerkiksi päästöjen ohella nykyistä paremmin huomioon myös luontoarvot, ilmastopäästöt ja kestävän materiaalitalouden.
+ - Ympäristöluvitusta kehitetään niin, että se ottaa esimerkiksi päästöjen ohella nykyistä paremmin huomioon myös luontoarvot, ilmastopäästöt ja kestävän materiaalitalouden.
 
-EU:n tuotepolitiikassa nostetaan keskeisemmälle sijalle nyt pelkän energiankäytön varjoon jääneitä ominaisuuksia, kuten tuotteiden kestävyys, päivitettävyys, korjattavuus, kierrätettävyys sekä jätevaiheen ympäristövaikutukset. Lisätään valmistajien vastuuta näiden ominaisuuksien suhteen. Nostetaan esiin kunkin alan parhaita tuotteita ja pyritään levittämään niiden ominaisuuksia alan muihin tuotteisiin muun muassa tuotepaneelien avulla. Ecodesign-direktiivin uudistustyössä ja tuotekriteerien määrittelyssä tulee huomioida energian käytön lisäksi myös muu luonnonvarojen ja haitallisten aineiden käyttö entistä paremmin.
+ - EU:n tuotepolitiikassa nostetaan keskeisemmälle sijalle nyt pelkän energiankäytön varjoon jääneitä ominaisuuksia, kuten tuotteiden kestävyys, päivitettävyys, korjattavuus, kierrätettävyys sekä jätevaiheen ympäristövaikutukset. Lisätään valmistajien vastuuta näiden ominaisuuksien suhteen. Nostetaan esiin kunkin alan parhaita tuotteita ja pyritään levittämään niiden ominaisuuksia alan muihin tuotteisiin muun muassa tuotepaneelien avulla. Ecodesign-direktiivin uudistustyössä ja tuotekriteerien määrittelyssä tulee huomioida energian käytön lisäksi myös muu luonnonvarojen ja haitallisten aineiden käyttö entistä paremmin.
 
-EU:ssa tulee myös edistää mahdollisuuksia käyttää alennettuja arvonlisäverokantoja ympäristöystävällisille tuotteille. Globaalisti mahdollisuutena ovat taas sektorikohtaiset sopimukset, joiden avulla voidaan luoda maailmanlaajuisia ympäristöstandardeja tietyille tuoteryhmille. Kaikkialla tulee painottaa ympäristönäkökulmaa tuotesuunnittelun kannalta keskeisillä aloilla kuten muotoilun ja tuotantotalouden koulutuksessa.
+ - EU:ssa tulee myös edistää mahdollisuuksia käyttää alennettuja arvonlisäverokantoja ympäristöystävällisille tuotteille. Globaalisti mahdollisuutena ovat taas sektorikohtaiset sopimukset, joiden avulla voidaan luoda maailmanlaajuisia ympäristöstandardeja tietyille tuoteryhmille. Kaikkialla tulee painottaa ympäristönäkökulmaa tuotesuunnittelun kannalta keskeisillä aloilla kuten muotoilun ja tuotantotalouden koulutuksessa.
 
-Suomen tulee laatia Norjan mallin mukainen laki kuluttajan oikeudesta ympäristötietoon, ja  samaa mallia on ajettava myös Euroopan unioniin. Norjan ympäristötietolain mukaan valmistajan on annettava kuluttajalle tietoa tuotteen valmistuksen ja käytön aikaisista ympäristövaikutuksista. Kannustetaan uuden tieto- ja viestintäteknologian hyväksikäyttöä ympäristötiedon levittämisessä tukemalla rohkeita kokeiluja ja tukemalla näitä myös julkisissa hankinnoissa.
+ - Suomen tulee laatia Norjan mallin mukainen laki kuluttajan oikeudesta ympäristötietoon, ja  samaa mallia on ajettava myös Euroopan unioniin. Norjan ympäristötietolain mukaan valmistajan on annettava kuluttajalle tietoa tuotteen valmistuksen ja käytön aikaisista ympäristövaikutuksista. Kannustetaan uuden tieto- ja viestintäteknologian hyväksikäyttöä ympäristötiedon levittämisessä tukemalla rohkeita kokeiluja ja tukemalla näitä myös julkisissa hankinnoissa.
 
-Kartoitetaan ympäristötiedon saannin katvealueet ympäristön kannalta merkittävillä alueilla, eli asumisessa, liikkumisessa ja ruuassa, ja pyritään korjaamaan puutteet. Katvealueita ovat ainakin lämmön ja lämpimän veden asuntokohtainen mittaaminen, liikennepolttoaineiden ja julkisten liikennevälineiden päästötiedot lentojen päästöt mukaan lukien sekä elintarvikkeiden ympäristövaikutukset.
+ - Kartoitetaan ympäristötiedon saannin katvealueet ympäristön kannalta merkittävillä alueilla, eli asumisessa, liikkumisessa ja ruuassa, ja pyritään korjaamaan puutteet. Katvealueita ovat ainakin lämmön ja lämpimän veden asuntokohtainen mittaaminen, liikennepolttoaineiden ja julkisten liikennevälineiden päästötiedot lentojen päästöt mukaan lukien sekä elintarvikkeiden ympäristövaikutukset.
 
-Luodaan Suomeen ympäristö- ja ympäristöterveysasioiden neuvontapalvelu kuluttajille yhden numeron, verkko-osoitteen ja luukun periaatteella. Neuvonnan pitää aluksi keskittyä asumisen ja liikkumisen ilmastovaikutuksiin ja ruokaan. Lisäksi neuvotaan haitallisten aineiden välttämisessä ja käsittelyssä.
+ - Luodaan Suomeen ympäristö- ja ympäristöterveysasioiden neuvontapalvelu kuluttajille yhden numeron, verkko-osoitteen ja luukun periaatteella. Neuvonnan pitää aluksi keskittyä asumisen ja liikkumisen ilmastovaikutuksiin ja ruokaan. Lisäksi neuvotaan haitallisten aineiden välttämisessä ja käsittelyssä.
 
-Tuotteiden ympäristöselosteita ja -merkintöjä tulee pitkällä aikavälillä muuttaa siten, että tuotteiden ja tuoteryhmien keskeisimpien ympäristövaikutusten vertailu on mahdollista. Tällaisia ovat elinkaaren aikaiset kasvihuonekaasupäästöt, vesistöjä rehevöittävä vaikutus sekä luonnonvarojen kulutus. Vastaavasti Joutsenmerkkiä ja EU-kukkaa kehitetään tietyn tuoteryhmän parhaan tuotteen osoittavina merkintöinä. Parannetaan merkintöjen resursseja ja kannustetaan Motivaa laatimaan uusia kriteerejä sekä lisäämään niiden tunnettavuutta yritysten ja kuluttajien keskuudessa. Tuotteiden ohella myös palveluille on luotava uusia kriteerejä.
+ - Tuotteiden ympäristöselosteita ja -merkintöjä tulee pitkällä aikavälillä muuttaa siten, että tuotteiden ja tuoteryhmien keskeisimpien ympäristövaikutusten vertailu on mahdollista. Tällaisia ovat elinkaaren aikaiset kasvihuonekaasupäästöt, vesistöjä rehevöittävä vaikutus sekä luonnonvarojen kulutus. Vastaavasti Joutsenmerkkiä ja EU-kukkaa kehitetään tietyn tuoteryhmän parhaan tuotteen osoittavina merkintöinä. Parannetaan merkintöjen resursseja ja kannustetaan Motivaa laatimaan uusia kriteerejä sekä lisäämään niiden tunnettavuutta yritysten ja kuluttajien keskuudessa. Tuotteiden ohella myös palveluille on luotava uusia kriteerejä.
 
-Pakkausmerkintöihin kerätyt tiedot tulee siirtymäajan kuluessa avata eri tuoteryhmiltä myös internetiin kaikkien saataville koeluettavana avoimena datana.
+ - Pakkausmerkintöihin kerätyt tiedot tulee siirtymäajan kuluessa avata eri tuoteryhmiltä myös internetiin kaikkien saataville koeluettavana avoimena datana.
 
-Otetaan julkisessa hallinnossa laajalti käyttöön ympäristöjärjestelmät ja edistetään kestäviä hankintoja. Tuetaan Julkiset hankinnat kestäviksi -ohjelman tavoitteiden toteutumista, ja kiristetään tavoitteita ajan kuluessa.
+ - Otetaan julkisessa hallinnossa laajalti käyttöön ympäristöjärjestelmät ja edistetään kestäviä hankintoja. Tuetaan Julkiset hankinnat kestäviksi -ohjelman tavoitteiden toteutumista, ja kiristetään tavoitteita ajan kuluessa.
 
-Luodaan julkisella tukirahoituksella vihreitä vientiverkostoja, joiden avulla myös pienet ja keskisuuret yritykset voivat viedä ympäristöystävällisiä tuotteitaan ja palveluitaan suoraan maailmalle.
+ - Luodaan julkisella tukirahoituksella vihreitä vientiverkostoja, joiden avulla myös pienet ja keskisuuret yritykset voivat viedä ympäristöystävällisiä tuotteitaan ja palveluitaan suoraan maailmalle.
 
-Suomalaiseen panttijärjestelmään on palautettava useampaan kertaan käytettävät muoviset juomapullot, samalla kun kertakäyttöisistä palautuspulloista luovutaan.
+ - Suomalaiseen panttijärjestelmään on palautettava useampaan kertaan käytettävät muoviset juomapullot, samalla kun kertakäyttöisistä palautuspulloista luovutaan.
 
 ### Ravinto
 
@@ -538,21 +538,21 @@ Alkutuotannon ohella myös ruuan elinkaaren muilla osilla on väliä. Tutkimukse
 
 Vaikka ruuan turhaa ylipakkaamista ja pakastamista tulisi välttää, asianmukainen pakkaus ja säilytys parantavat merkittävästi ruuan säilymistä ja vähentävät ruokahävikkiä. Päivittäistavarakaupat ovat Suomessa merkittäviä energiankuluttajia, ja niiden asiakkaille tarjoamat valikoimat, ympäristötiedot ja kierrätysmahdollisuudet vaikuttavat kuluttajien ympäristöjälkeen laajemminkin. Kodeissa ruuan energiatehokas säilytys ja lämmitys sekä biojätteen kierrätys tai kompostointi vähentävät osaltaan ruokailun aiheuttamaa ilmastotaakkaa.
 
-Globaalisti ruuan kuljetukset ovat iso ympäristövaikutusten aiheuttaja, mutta yksittäisen tuotteen elinkaaressa suurempi vaikutus voi olla sillä, kuljetaanko kauppaan pitkä matka yksityisautolla.
+ - Globaalisti ruuan kuljetukset ovat iso ympäristövaikutusten aiheuttaja, mutta yksittäisen tuotteen elinkaaressa suurempi vaikutus voi olla sillä, kuljetaanko kauppaan pitkä matka yksityisautolla.
 
-Ylikalastuksen lopettamiseen tulee vaikuttaa muun muassa EU:n yhteisen kalastuspolitiikan kautta. Tuhlaavista kalastusmenetelmistä, kuten pohjatroolauksesta, tulee luopua. Myös kalakantojen elinympäristöjen pirstoutuminen ja valuma-alueiden saasteet tulee saada kuriin. Uhanalaisten kalalajien myynti kielletään.
+ - Ylikalastuksen lopettamiseen tulee vaikuttaa muun muassa EU:n yhteisen kalastuspolitiikan kautta. Tuhlaavista kalastusmenetelmistä, kuten pohjatroolauksesta, tulee luopua. Myös kalakantojen elinympäristöjen pirstoutuminen ja valuma-alueiden saasteet tulee saada kuriin. Uhanalaisten kalalajien myynti kielletään.
 
-Kasvispainotteiselle ruoalle on saatava enemmän arvoa julkisissa keittiöissä ja ravintoloissa. Monipuolisia vaihtoehtoja sisältävä kasvisruokapäivä tulee ottaa käyttöön kaikkiin julkisiin keittiöihin. Lisäksi kasvisruokaa, kuten myös muita ruuan elinkaaren kestävyysvaikutuksia, tulee painottaa kokkien ja muun keittiöhenkilökunnan koulutuksessa ja jatkokoulutuksessa. Tavoitteena on, että kestävämpien elintarvikkeiden käyttö julkisyhteisöjen ja yritysten keittiöissä tarjotuissa ruoka-annoksissa kasvaa vuosittain 10–15 prosenttia.
+ - Kasvispainotteiselle ruoalle on saatava enemmän arvoa julkisissa keittiöissä ja ravintoloissa. Monipuolisia vaihtoehtoja sisältävä kasvisruokapäivä tulee ottaa käyttöön kaikkiin julkisiin keittiöihin. Lisäksi kasvisruokaa, kuten myös muita ruuan elinkaaren kestävyysvaikutuksia, tulee painottaa kokkien ja muun keittiöhenkilökunnan koulutuksessa ja jatkokoulutuksessa. Tavoitteena on, että kestävämpien elintarvikkeiden käyttö julkisyhteisöjen ja yritysten keittiöissä tarjotuissa ruoka-annoksissa kasvaa vuosittain 10–15 prosenttia.
 
-Elintarviketeollisuuden ja vähittäiskaupan kanssa tehdään työtä muun muassa energiatehokkuuden parantamiseksi, biojätteen ja pakkausten minimoimiseksi ja kierrättämiseksi, kestävien elintarvikkeiden valikoimien lisäämiseksi sekä ympäristötiedon levittämiseksi.
+ - Elintarviketeollisuuden ja vähittäiskaupan kanssa tehdään työtä muun muassa energiatehokkuuden parantamiseksi, biojätteen ja pakkausten minimoimiseksi ja kierrättämiseksi, kestävien elintarvikkeiden valikoimien lisäämiseksi sekä ympäristötiedon levittämiseksi.
 
-Elintarvikkeiden ympäristöselosteita ja -merkintöjä tulee kehittää suuntaan, joka mahdollistaa tuotteiden ja tuoteryhmien välisen vertailun tuotteiden keskeisimpien ympäristövaikutusten välillä kuten elinkaaren aikaiset kasvihuonekaasupäästöt, vesistöjä rehevöittävä vaikutus sekä luonnonvarojen kulutus. Myös eläinten hyvinvointiin liittyviä merkintäjärjestelmiä on kehitettävä.
+ - Elintarvikkeiden ympäristöselosteita ja -merkintöjä tulee kehittää suuntaan, joka mahdollistaa tuotteiden ja tuoteryhmien välisen vertailun tuotteiden keskeisimpien ympäristövaikutusten välillä kuten elinkaaren aikaiset kasvihuonekaasupäästöt, vesistöjä rehevöittävä vaikutus sekä luonnonvarojen kulutus. Myös eläinten hyvinvointiin liittyviä merkintäjärjestelmiä on kehitettävä.
 
-Ruokajätteen määrän vähentämisestä on parhaillaan käynnissä tutkimus, jonka pohjalta tulee ryhtyä toimiin ruuan haaskuun pienentämiseksi. Myös elinkeinotoiminnassa ja kotitalouksissa syntyvän biojätteen lajittelua ja hyödyntämistä materiaalina tulee parantaa.
+ - Ruokajätteen määrän vähentämisestä on parhaillaan käynnissä tutkimus, jonka pohjalta tulee ryhtyä toimiin ruuan haaskuun pienentämiseksi. Myös elinkeinotoiminnassa ja kotitalouksissa syntyvän biojätteen lajittelua ja hyödyntämistä materiaalina tulee parantaa.
 
-Seuraavalla hallituskaudella tulee tehdä selvitys taloudellisista ohjauskeinoista, joiden avulla voidaan tukea ympäristöystävällisten elintarvikkeiden kulutusta ja rokottaa runsaasti luonnonvaroja kuluttavaa ruokaa. Tarkastelun kohteeksi tulee ottaa ainakin valmisteverot ja lihavero.
+ - Seuraavalla hallituskaudella tulee tehdä selvitys taloudellisista ohjauskeinoista, joiden avulla voidaan tukea ympäristöystävällisten elintarvikkeiden kulutusta ja rokottaa runsaasti luonnonvaroja kuluttavaa ruokaa. Tarkastelun kohteeksi tulee ottaa ainakin valmisteverot ja lihavero.
 
-Lihatiedotukseen tällä hetkellä suunnatut julkiset viestintätuet tulee poistaa ja siirtää kestävän ravinnon edistämiseen.
+ - Lihatiedotukseen tällä hetkellä suunnatut julkiset viestintätuet tulee poistaa ja siirtää kestävän ravinnon edistämiseen.
 
 ### Jätteet
 
@@ -561,29 +561,29 @@ jätepolitiikan keinoin. Myös kierrätyksen edistäminen edellyttää muitakin 
 
 Eniten jätettä Suomessa syntyy rakentamisessa ja mineraalien kaivamisessa. Erityisesti näiden alojen säätelyä on kehitettävä. Oikeansuuntaisia toimia ovat viimeaikaiset ehdotukset jäteveron korottamisesta sekä jäteveron ulottamisesta kattamaan myös yksityiset kaatopaikat. Kielto biohajoavien jätteiden sijoittamiselle kaatopaikalle myös osaltaan edistää jätehierarkian ensisijaisia tavoitteita: jätteen määrän ja haitallisuuden ehkäisyä, uudelleenkäyttöä sekä kierrätystä.
 
-Jäteveroa korotetaan ja vero ulotetaan asteittain myös jätteenpolttoon.
+ - Jäteveroa korotetaan ja vero ulotetaan asteittain myös jätteenpolttoon.
 
-Pakkausmateriaalien hyödyntämisvaatimuksia nostetaan. Turhaa pakkaamista ja haitallisia pakkausmateriaaleja vähennetään vero-ohjauksella.
+ - Pakkausmateriaalien hyödyntämisvaatimuksia nostetaan. Turhaa pakkaamista ja haitallisia pakkausmateriaaleja vähennetään vero-ohjauksella.
 
-Kierrätyksen helpottamiseksi kehitetään tarkkoja tuoteselosteita tai komponenteissa olevia symbolimerkintöjä, jotka kertovat, mistä materiaaleista laitteiden komponentit koostuvat.
+ - Kierrätyksen helpottamiseksi kehitetään tarkkoja tuoteselosteita tai komponenteissa olevia symbolimerkintöjä, jotka kertovat, mistä materiaaleista laitteiden komponentit koostuvat.
 
-Kotitalouksien mahdollisuuksia jätteiden kierrättämiseen tulee parantaa erityisesti metallin, lasin ja muovien osalta.
+ - Kotitalouksien mahdollisuuksia jätteiden kierrättämiseen tulee parantaa erityisesti metallin, lasin ja muovien osalta.
 
-Luodaan panttijärjestelmät elektroniikkajätteelle (SER) sekä loisteputkille.
+ - Luodaan panttijärjestelmät elektroniikkajätteelle (SER) sekä loisteputkille.
 
-Rakennusjätteiden lajittelu- ja hyödyntämisvaatimuksia koskevaa lainsäädäntöä tiukennetaan.
+ - Rakennusjätteiden lajittelu- ja hyödyntämisvaatimuksia koskevaa lainsäädäntöä tiukennetaan.
 
-Otetaan käyttöön maa-ainesvero uusiomateriaalien, kuten ylijäämämaiden tai teollisuuden sivutuotteiden kysynnän lisäämiseksi ja neitseellisten materiaalien käytön vähentämiseksi.
+ - Otetaan käyttöön maa-ainesvero uusiomateriaalien, kuten ylijäämämaiden tai teollisuuden sivutuotteiden kysynnän lisäämiseksi ja neitseellisten materiaalien käytön vähentämiseksi.
 
-Kaivoslakia on uudistettava mineraalivarojen kestävän hyödyntämisen suuntaan esimerkiksi kaivosveroilla. Uraani poistetaan kaivoslain hyödynnettävien mineraalien listasta.
+ - Kaivoslakia on uudistettava mineraalivarojen kestävän hyödyntämisen suuntaan esimerkiksi kaivosveroilla. Uraani poistetaan kaivoslain hyödynnettävien mineraalien listasta.
 
-Kiviainesten käytössä on kannustettava kierrätykseen ja uusiokäyttöön, koska rakentamisessa käytetyt kiviainekset ovat loppumassa etenkin suurten kaupunkien läheltä.
+ - Kiviainesten käytössä on kannustettava kierrätykseen ja uusiokäyttöön, koska rakentamisessa käytetyt kiviainekset ovat loppumassa etenkin suurten kaupunkien läheltä.
 
-Luodaan kannusteita kaivostoiminnassa syntyvien sivukivien, rikastushiekkojen, rakennusmassojen ja mineraalituotteiden kierrätykselle ja uusiokäytölle.
+ - Luodaan kannusteita kaivostoiminnassa syntyvien sivukivien, rikastushiekkojen, rakennusmassojen ja mineraalituotteiden kierrätykselle ja uusiokäytölle.
 
-Kehitetään erityisesti seuraavien teollisuuden jätejakeiden synnyn ehkäisyä ja toisaalta hyödyntämistä: elintarviketeollisuuden ja kaupan eloperäiset jätteet ja pakkausmateriaalit, kaivannaisteollisuuden sivukivet ja rikastushiekat, metalliteollisuuden kuonat ja prosessisakat, massa- ja paperiteollisuuden soodasakat ja tuhkat, lannoiteteollisuuden pasutteet ja kipsijätteet, korjausrakentamisen sekajätteet sekä maa- ja vesirakentamisen ylijäämämateriaalit.
+ - Kehitetään erityisesti seuraavien teollisuuden jätejakeiden synnyn ehkäisyä ja toisaalta hyödyntämistä: elintarviketeollisuuden ja kaupan eloperäiset jätteet ja pakkausmateriaalit, kaivannaisteollisuuden sivukivet ja rikastushiekat, metalliteollisuuden kuonat ja prosessisakat, massa- ja paperiteollisuuden soodasakat ja tuhkat, lannoiteteollisuuden pasutteet ja kipsijätteet, korjausrakentamisen sekajätteet sekä maa- ja vesirakentamisen ylijäämämateriaalit.
 
-Julkisen sektorin rakennushankkeiden suunnittelussa ja kilpailuttamisessa painotetaan materiaalitehokkuutta.
+ - Julkisen sektorin rakennushankkeiden suunnittelussa ja kilpailuttamisessa painotetaan materiaalitehokkuutta.
 
 ### Kemikalisoituminen
 
@@ -596,19 +596,19 @@ Kemikaalien rekisteröintiä, arviointia, lupamenettelyä ja rajoituksia koskeva
 
 Kansallisen kemikaaliohjelman toteutumista arvioidaan vuonna 2011. Ohjelmaa päivitettäessä on tärkeää ottaa huomioon uudet teemat, kuten nanomateriaalit ja hormonitoimintaa häiritsevät aineet, joista tarvitaan lisää tutkimusta ja mahdollisia säädöksiä.
 
-Parannetaan Suomen kemikaaliviranomaisten resursseja. Kemikaaliosaaminen on nykyisin keskitetty Turvatekniikan Keskus TUKESille ja sosiaali- ja terveysalan lupa- ja valvontaosasto Valvira avustaa. Molemmat laitokset, ympäristöministeriö sekä kemikaalineuvottelukunta hyötyisivät lisäresursseista.
+ - Parannetaan Suomen kemikaaliviranomaisten resursseja. Kemikaaliosaaminen on nykyisin keskitetty Turvatekniikan Keskus TUKESille ja sosiaali- ja terveysalan lupa- ja valvontaosasto Valvira avustaa. Molemmat laitokset, ympäristöministeriö sekä kemikaalineuvottelukunta hyötyisivät lisäresursseista.
 
-Parannetaan kuluttajien tiedonsaannin mahdollisuuksia ja valvotaan nykyisten oikeuksien toteutumista. Kuluttajalla on mm. oikeus saada aineen tai seoksen käyttöturvatiedote kolmen viikon sisällä, jos hän sitä pyytää. Kaikista valmisteiden ainesosista pitää antaa tietoa kuluttajille ymmärrettävässä muodossa.
+ - Parannetaan kuluttajien tiedonsaannin mahdollisuuksia ja valvotaan nykyisten oikeuksien toteutumista. Kuluttajalla on mm. oikeus saada aineen tai seoksen käyttöturvatiedote kolmen viikon sisällä, jos hän sitä pyytää. Kaikista valmisteiden ainesosista pitää antaa tietoa kuluttajille ymmärrettävässä muodossa.
 
-Kosmetiikan valmistuksessa käytettävien aineiden ilmoituskäytäntö on saatava EU-säädöksissä samalle vaatimustasolle kuin muillakin kemikaaleilla. Nykyinen kosmetiikkaa säätelevä asetus sallii joidenkin vaarallisten aineiden ilmoittamatta jättämisen.
+ - Kosmetiikan valmistuksessa käytettävien aineiden ilmoituskäytäntö on saatava EU-säädöksissä samalle vaatimustasolle kuin muillakin kemikaaleilla. Nykyinen kosmetiikkaa säätelevä asetus sallii joidenkin vaarallisten aineiden ilmoittamatta jättämisen.
 
-Kemikaalien kertymisestä ihmisiin ja muihin eliöihin tarvitaan lisää seurantatietoa.
+ - Kemikaalien kertymisestä ihmisiin ja muihin eliöihin tarvitaan lisää seurantatietoa.
 
-Hormonaalisia haitta-aineita sisältävien tuotteiden käyttöä on rajoitettava nykyistä enemmän. Hormonihäiritsijäkemikaalit on luokiteltava aineiksi, jotka poistetaan käytöstä, jos turvallisempi vaihtoehto on olemassa.
+ - Hormonaalisia haitta-aineita sisältävien tuotteiden käyttöä on rajoitettava nykyistä enemmän. Hormonihäiritsijäkemikaalit on luokiteltava aineiksi, jotka poistetaan käytöstä, jos turvallisempi vaihtoehto on olemassa.
 
-Selvitetään jätevedenpuhdistamojen mahdollisuudet mitata ja vähentää puhdistusprosessin nykyisin läpäisevien haitallisten aineiden ‒ erityisesti toksisten ja hormonivaikutteisten ‒ määriä.
+ - Selvitetään jätevedenpuhdistamojen mahdollisuudet mitata ja vähentää puhdistusprosessin nykyisin läpäisevien haitallisten aineiden ‒ erityisesti toksisten ja hormonivaikutteisten ‒ määriä.
 
-Yksi esimerkki haitallisista aineista on elohopea, jonka kauppaa on edelleen rajoitettava kansainvälisellä tasolla. Parhaiden tekniikoiden käyttöönottoa elohopean päästöjen minimoimiseksi on edistettävä. Maailmanlaajuisesti suurin elohopeapäästöjen lähde on kivihiileen perustuva energiantuotanto.
+ - Yksi esimerkki haitallisista aineista on elohopea, jonka kauppaa on edelleen rajoitettava kansainvälisellä tasolla. Parhaiden tekniikoiden käyttöönottoa elohopean päästöjen minimoimiseksi on edistettävä. Maailmanlaajuisesti suurin elohopeapäästöjen lähde on kivihiileen perustuva energiantuotanto.
 
 
 
@@ -640,36 +640,36 @@ Tulevat sukupolvet ovat ympäristömme hoitajia ja käyttäjiä. Jotta he osaisi
 
 Myös kansainvälisen ympäristöhallinnon asemaa on vahvistettava. Nykyinen kansainvälinen ympäristöhallinto on tehoton ja liian pirstaleinen voidakseen toimia tehokkaasti. Suomi on tehnyt pitkäjänteistä työtä kansainvälisen ympäristöhallinnon uudistamisessa ja sen vaikuttavuuden lisäämisessä. Suomi ja muut Pohjoismaat ovat olleet aktiivisia myös ympäristösopimusten synergioiden työstämisessä, muun muassa biodiversiteettisopimusten osalta. Tätä työtä on entisestään vahvistettava.
 
-Ympäristöministeriöllä säilytetään sen itsenäinen asema ministeriönä. Ympäristöministeriöön siirretään maa- ja metsätalousministeriöstä ulkoilulain nojalla perustettujen valtion retkeilyalueiden hallinto sekä valtion maiden muu virkistyskäyttö, virkistyskalastus- sekä metsästysasiat. Ympäristöministeriöön siirretään työ- ja elinkeinoministeriöstä energiaosasto sekä elinkeino-, liikenne- ja ympäristökeskusten ympäristövastuualueen strateginen ja resurssiohjaus.
+ - Ympäristöministeriöllä säilytetään sen itsenäinen asema ministeriönä. Ympäristöministeriöön siirretään maa- ja metsätalousministeriöstä ulkoilulain nojalla perustettujen valtion retkeilyalueiden hallinto sekä valtion maiden muu virkistyskäyttö, virkistyskalastus- sekä metsästysasiat. Ympäristöministeriöön siirretään työ- ja elinkeinoministeriöstä energiaosasto sekä elinkeino-, liikenne- ja ympäristökeskusten ympäristövastuualueen strateginen ja resurssiohjaus.
 
-Turvataan alueellisen ympäristöhallinnon itsenäisyys ja toimintaedellytykset riittävin resurssein.
+ - Turvataan alueellisen ympäristöhallinnon itsenäisyys ja toimintaedellytykset riittävin resurssein.
 
-Lievennetään tuottavuusohjelman tavoitteita ympäristöhallinnon osalta
+ - Lievennetään tuottavuusohjelman tavoitteita ympäristöhallinnon osalta
 
-Suomen ympäristökeskukseen siirretään luonnonvarojen suojeluun liittyvä tutkimus muista valtion tutkimuslaitoksista. Toteutetaan uusi Suomen kansallista biodiversiteettiohjelmaa tukeva monitieteinen tutkimusohjelma.
+ - Suomen ympäristökeskukseen siirretään luonnonvarojen suojeluun liittyvä tutkimus muista valtion tutkimuslaitoksista. Toteutetaan uusi Suomen kansallista biodiversiteettiohjelmaa tukeva monitieteinen tutkimusohjelma.
 
-Selvitetään uusia ympäristönsuojelun rahoitusmekanismeja, esimerkkinä öljysuojarahaston kaltaisen toiminnan soveltaminen muihinkin ympäristöuhkiin.
+ - Selvitetään uusia ympäristönsuojelun rahoitusmekanismeja, esimerkkinä öljysuojarahaston kaltaisen toiminnan soveltaminen muihinkin ympäristöuhkiin.
 
-Julkisia hallintotehtäviä hoitavaa Metsähallituksen luontopalveluita kehitetään budjettirahoituksella yhtenäisenä ja tehokkaana ympäristöministeriön suorassa tulosohjauksessa toimivana valtion virastona.
+ - Julkisia hallintotehtäviä hoitavaa Metsähallituksen luontopalveluita kehitetään budjettirahoituksella yhtenäisenä ja tehokkaana ympäristöministeriön suorassa tulosohjauksessa toimivana valtion virastona.
 
-Valtion mittavan maa- ja vesiomaisuuden hallinta tulee säilyttää valtiolla, eikä siirtää sitä esim. valtionyhtiöihin tai rahastoihin. Alueita hallinnoiva virasto myöntää käyttöluvat alueiden luonnonvarojen hyödyntämiseen.
+ - Valtion mittavan maa- ja vesiomaisuuden hallinta tulee säilyttää valtiolla, eikä siirtää sitä esim. valtionyhtiöihin tai rahastoihin. Alueita hallinnoiva virasto myöntää käyttöluvat alueiden luonnonvarojen hyödyntämiseen.
 
-YK:n ympäristöohjelma UNEPin roolia on vahvistettava joko nykyisen ympäristöohjelman puitteissa tai kokonaan uuden ympäristöjärjestön perustamisen kautta.
+ - YK:n ympäristöohjelma UNEPin roolia on vahvistettava joko nykyisen ympäristöohjelman puitteissa tai kokonaan uuden ympäristöjärjestön perustamisen kautta.
 
-Suomen tulee ajaa koko YK-järjestelmän läpileikkaavan ympäristöstrategian tekemistä, jotta ympäristökysymykset saadaan nivottua entistä paremmin mukaan kaikkeen käytännön toimintaan.
+ - Suomen tulee ajaa koko YK-järjestelmän läpileikkaavan ympäristöstrategian tekemistä, jotta ympäristökysymykset saadaan nivottua entistä paremmin mukaan kaikkeen käytännön toimintaan.
 
-Kansainvälisten ympäristösopimusten välistä yhteensopivuutta on lisättävä. Maailmassa on tällä hetkellä laskentatavasta riippuen noin 250–500 kansainvälistä ympäristösopimusta, jotka ovat osittain päällekkäisiä ja jopa ristiriitaisia.
+ - Kansainvälisten ympäristösopimusten välistä yhteensopivuutta on lisättävä. Maailmassa on tällä hetkellä laskentatavasta riippuen noin 250–500 kansainvälistä ympäristösopimusta, jotka ovat osittain päällekkäisiä ja jopa ristiriitaisia.
 
-Toteutetaan säädösten ympäristötilintarkastus: Käydään läpi eri luonnonvarasektorien lait, ja otetaan niihin mukaan perustuslain vaatimat kestävän kehityksen tavoitteet, hyväksyttävien hankkeiden ympäristökriteerit sekä kansalaisten tiedonsaanti-, osallistumis-, vireillepano- ja muutoksenhakuoikeudet
+ - Toteutetaan säädösten ympäristötilintarkastus: Käydään läpi eri luonnonvarasektorien lait, ja otetaan niihin mukaan perustuslain vaatimat kestävän kehityksen tavoitteet, hyväksyttävien hankkeiden ympäristökriteerit sekä kansalaisten tiedonsaanti-, osallistumis-, vireillepano- ja muutoksenhakuoikeudet
 
-Ympäristörikosten selvittämiseen keskittyviä virkoja lisätään.
+ - Ympäristörikosten selvittämiseen keskittyviä virkoja lisätään.
 
-Varsinaisen ympäristölainsäädännön lisäksi myös muulla lainsäädännöllä on usein merkittävä vaikutus ympäristöön. Siksi lainsäädännön ympäristövaikutusten arviointia on kehitettävä.
+ - Varsinaisen ympäristölainsäädännön lisäksi myös muulla lainsäädännöllä on usein merkittävä vaikutus ympäristöön. Siksi lainsäädännön ympäristövaikutusten arviointia on kehitettävä.
 
-Kehitetään säädösten ympäristövaikutusten ennakkoarviointia.
+ - Kehitetään säädösten ympäristövaikutusten ennakkoarviointia.
 
-Luodaan päättäjien maanpuolustuskurssin kaltainen kurssi aikamme ympäristö- ja kestävyyshaasteista tai integroidaan tämä näkökulma nykyiseen kurssiin siten, että siitä tulee laajempi kriisinhallintakurssi.
+ - Luodaan päättäjien maanpuolustuskurssin kaltainen kurssi aikamme ympäristö- ja kestävyyshaasteista tai integroidaan tämä näkökulma nykyiseen kurssiin siten, että siitä tulee laajempi kriisinhallintakurssi.
 
-Ympäristö- ja luontokoulujen toimintarahoitus turvataan ja luontokoulutoiminta ulotetaan koko maan kattavaksi. Kuntia tuetaan nykyisten ympäristö- ja luontokoulujen ylläpidossa ja kannustetaan kuntia perustamaan uusia luontokouluja.
+ - Ympäristö- ja luontokoulujen toimintarahoitus turvataan ja luontokoulutoiminta ulotetaan koko maan kattavaksi. Kuntia tuetaan nykyisten ympäristö- ja luontokoulujen ylläpidossa ja kannustetaan kuntia perustamaan uusia luontokouluja.
 
-Kansalaisjärjestöjen ympäristökasvatus ja -valistustoiminnan tukia kasvatetaan miljoonalla eurolla. Kansalaisten ja järjestöjen tiedonsaanti- ja osallistumisoikeuksia laajennetaan lainsäädännössä. 
+ - Kansalaisjärjestöjen ympäristökasvatus ja -valistustoiminnan tukia kasvatetaan miljoonalla eurolla. Kansalaisten ja järjestöjen tiedonsaanti- ja osallistumisoikeuksia laajennetaan lainsäädännössä. 
