@@ -12,9 +12,11 @@ Vihreät on olemassa turvatakseen tulevaisuuden. Haluamme pelastaa ympäristön:
 Tässä periaateohjelmassa kerrotaan tarkemmin, miten haluamme turvata tulevaisuuden. Ohjelmaan on koottu yhteen Vihreiden keskeiset arvot ja periaatteet sekä se, miten niitä edistämme. Tällä ohjelmalla kerromme, millaista maailmaa haluamme olla tekemässä.
 
 Toimintaamme ohjaavat seuraavat arvot ja periaatteet:
- * Vastuu ympäristöstä ja tulevaisuudesta. Ihmisen toiminnan tulee sopeutua ympäristön kantokykyyn. Hyvinvoinnin on perustuttava kohtuutalouteen. Emme voi elää tulevien sukupolvien kustannuksella.
- * Vapaus kaikille. Ihmisillä tulee olla oikeus elää haluamallaan tavalla, kunhan ei rajoita toisen oikeutta samaan tai vahingoita eläimiä tai ympäristöä. Vapaus lisää onnellisuutta ja osallisuutta parantamalla ihmisten edellytyksiä päättää elämästään ja osallistua yhteiskunnan kehittämiseen eri tavoin.
- * Välittäminen muista ihmisistä. Kaiken toiminnan tulee olla oikeudenmukaista niin paikallisesti kuin maailmanlaajuisestikin. Julkisen vallan tulee huolehtia ihmisten elämän edellytyksistä, hyvinvoinnista ja yhdenvertaisuudesta.
+
+ - Vastuu ympäristöstä ja tulevaisuudesta. Ihmisen toiminnan tulee sopeutua ympäristön kantokykyyn. Hyvinvoinnin on perustuttava kohtuutalouteen. Emme voi elää tulevien sukupolvien kustannuksella.
+ - Vapaus kaikille. Ihmisillä tulee olla oikeus elää haluamallaan tavalla, kunhan ei rajoita toisen oikeutta samaan tai vahingoita eläimiä tai ympäristöä. Vapaus lisää onnellisuutta ja osallisuutta parantamalla ihmisten edellytyksiä päättää elämästään ja osallistua yhteiskunnan kehittämiseen eri tavoin.
+ - Välittäminen muista ihmisistä. Kaiken toiminnan tulee olla oikeudenmukaista niin paikallisesti kuin maailmanlaajuisestikin. Julkisen vallan tulee huolehtia ihmisten elämän edellytyksistä, hyvinvoinnista ja yhdenvertaisuudesta.
+
 
 Vihreille on tärkeää tavoitteiden lisäksi se, miten ne saavutetaan. Haluamme uudistaa politiikkaa avoimeksi, osallistavaksi ja reiluksi. Tulevaisuuden rakentamiseen tarvitaan kaikkia.
 
