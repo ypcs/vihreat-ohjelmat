@@ -4,7 +4,7 @@ title: Kommunalsvalprogrammet 2012
 description: En öppnare kommun
 ---
 
-Vihreiden puoluevaltuuskunta hyväksyi kunnallisvaaliohjelman syksyn 2012 vaaleihin kokouksessaan 1.4.2012. http://www.vihreat.fi/kunnallisvaaliohjelma
+Vihreiden puoluevaltuuskunta hyväksyi kunnallisvaaliohjelman syksyn 2012 vaaleihin kokouksessaan 1.4.2012. https://www.vihreat.fi/kunnallisvaaliohjelma
 
 
 # Hurdan är den gröna kommunen?

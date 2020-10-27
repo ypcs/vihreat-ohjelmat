@@ -4,7 +4,7 @@ title: Vihreiden periaateohjelma 2012-2018
 description: Vastuu, vapaus, välittäminen
 ---
 
-Hyväksytty Vihreä liitto r.p:n puoluekokouksessa Lappeenrannassa 20.5.2012. http://www.vihreat.fi/periaateohjelma
+Hyväksytty Vihreä liitto r.p:n puoluekokouksessa Lappeenrannassa 20.5.2012. https://www.vihreat.fi/periaateohjelma
 
 ## Johdanto
 Vihreät on olemassa turvatakseen tulevaisuuden. Haluamme pelastaa ympäristön: lajien kirjon, luonnon kauneuden, ilman ja vesien puhtauden. Haluamme pelastaa ihmiset: poistaa kurjuuden, saavuttaa todellisen tasa-arvon ja yhdenvertaisuuden, antaa kaikille vapauden elää omana itsenään. Haluamme pelastaa politiikan: antaa ihmisten päättää itse, lopettaa korruption, sallia mielipiteiden kirjon.

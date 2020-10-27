@@ -3,7 +3,7 @@ layout: default
 title: Vihreän feminismin linjapaperi 2009
 ---
 
-Linjapaperi on hyväksytty puoluehallituksessa 7.11.2009. http://www.vihreat.fi/node/4608
+Linjapaperi on hyväksytty puoluehallituksessa 7.11.2009. https://www.vihreat.fi/node/4608
 
 Vihreä feminismi kumpuaa feminismin vahvoista historiallisista perinteistä. Kamppailu 1800- ja 1900-luvuilla lähti perustellusti liikkeelle heikommassa asemassa olevan naisen aseman vahvistamisesta. 2000-luvulla tuon tehtävän ohella tulee kiinnittää huomiota myös miesten ongelmien tiedostamiseen ja purkamiseen. On tärkeää kyseenalaistaa jähmeä kuva sekä naiseudesta että miehisyydestä ja kahdesta sukupuolesta.
 

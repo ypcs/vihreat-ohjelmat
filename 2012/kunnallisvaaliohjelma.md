@@ -4,7 +4,7 @@ title: Vihreiden kunnallisvaaliohjelma 2012
 description: Avoimempi kunta
 ---
 
-Vihreiden puoluevaltuuskunta hyväksyi kunnallisvaaliohjelman syksyn 2012 vaaleihin kokouksessaan 1.4.2012. http://www.vihreat.fi/kunnallisvaaliohjelma
+Vihreiden puoluevaltuuskunta hyväksyi kunnallisvaaliohjelman syksyn 2012 vaaleihin kokouksessaan 1.4.2012. https://www.vihreat.fi/kunnallisvaaliohjelma
 
 # Millainen on vihreä kunta?
 

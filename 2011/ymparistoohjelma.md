@@ -3,7 +3,7 @@ layout: default
 title: Vihreiden ympäristöohjelma
 ---
 
-Hyväksytty puoluevaltuuskunnan kokouksessa 3.4.2011. http://www.vihreat.fi/node/6744
+Hyväksytty puoluevaltuuskunnan kokouksessa 3.4.2011. https://www.vihreat.fi/node/6744
 
 ## Johdanto
 Vihreiden tavoitteena on luoda ekologisesti kestävä yhteiskunta, jossa talous ja muu ihmistoiminta sopeutetaan planeetan kestokyvyn rajoihin. Vihreät esittävät, että luonnon monimuotoisuuden köyhtyminen pysäytetään Suomessa vuoteen 2020 mennessä ja ilmastonmuutoksen hillitsemiseksi kotimaisia ilmastopäästöjä leikataan 40 prosenttia vuoteen 2020 mennessä vuoden 1990 tasosta.

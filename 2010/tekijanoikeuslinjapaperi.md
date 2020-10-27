@@ -4,7 +4,7 @@ title: Tekijänoikeuslinjapaperi 2010
 description: Vihreitä tekijänoikeuslinjoja
 ---
 
-Vihreiden tekijäoikeuslinjapaperi hyväksyttiin puoluehallituksessa 26.11.2010. http://www.vihreat.fi/node/6208
+Vihreiden tekijäoikeuslinjapaperi hyväksyttiin puoluehallituksessa 26.11.2010. https://www.vihreat.fi/node/6208
 
 ## Linjapaperissa käytetyt määritelmät
 Tekijänoikeuslainsäädäntö, tekijänoikeuslaki: laki. Se, mitä tekijänoikeuksista Suomen laissa säädetään.
