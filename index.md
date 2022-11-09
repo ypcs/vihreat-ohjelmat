@@ -5,6 +5,12 @@ title: Vihreiden ohjelmat
 
 # Vihreiden ohjelmat
 
-{% for page in site.pages %}
- - [{{ page.year }}: {{ page.title }} ({{ page.type }})]({{ site.url }}/{{ page.url }})
+{% assign groups = site.pages |group_by:"year" %}
+{% assign sgroups = groups |sort:"name" |reverse %}
+{% for group in sgroups %}
+## {{ group.name|default:"other" }}
+{% for item in group.items %}
+ - [{{ item.title }} ({{ item.type }})]({{ site.url }}{{ item.url }})
+
+{% endfor %}
 {% endfor %}

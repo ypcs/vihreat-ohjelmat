@@ -1,2 +1,6 @@
 ---
-url: https://ypcs.fi/vihreat-ohjelmat/
+url: https://ypcs.fi/vihreat-ohjelmat
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
