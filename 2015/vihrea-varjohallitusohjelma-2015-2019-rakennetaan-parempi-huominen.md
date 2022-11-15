@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:03:58.667439
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:23.046131
 title: "Vihre\xE4 varjohallitusohjelma 2015-2019 - Rakennetaan parempi huominen"
 type: erityisohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1151
@@ -21,130 +21,64 @@ year: 2015
 ## VISIO 2025
 
 
-Suomea on rakennettu maana, jossa jokaisen ihmisen on hyvä olla. Edessämme on
-nyt arvovalinta. Toiset uskovat, että edessä on vain leikkausten ja
-kurjistumisen tie, koska eivät näe vaihtoehtoja taloutemme korjaamiseksi. Me
-emme usko siihen. Me haluamme tarjota vaihtoehdon. Me haluamme uudistaa
-hyvinvointivaltiota sellaiseksi, että se nostaa ihmisiä työelämään, kasvattaa
-nuoria saamaan tulevaisuuden taitoja ja auttaa kaikkia pärjäämään elämässään.
-**Me haluamme rakentaa paremman huomisen.**
+Suomea on rakennettu maana, jossa jokaisen ihmisen on hyvä olla. Edessämme on nyt arvovalinta. Toiset uskovat, että edessä on vain leikkausten ja kurjistumisen tie, koska eivät näe vaihtoehtoja taloutemme korjaamiseksi. Me emme usko siihen. Me haluamme tarjota vaihtoehdon. Me haluamme uudistaa hyvinvointivaltiota sellaiseksi, että se nostaa ihmisiä työelämään, kasvattaa nuoria saamaan tulevaisuuden taitoja ja auttaa kaikkia pärjäämään elämässään. **Me haluamme rakentaa paremman huomisen.**
 
 
-Nyt ei ole aika antaa periksi. Kysymys kuuluu: onko Suomella malttia uudistaa
-hyvinvointia niin, että kaikki ihmiset pysyvät mukana? Me uskomme siihen, että
-suomalaiset haluavat valita tämän reitin. Reitin, jossa pidetään huolta jokaisen
-kyvystä ja mahdollisuuksista kulkea polulla, joka ei johda umpikujaan.
+Nyt ei ole aika antaa periksi. Kysymys kuuluu: onko Suomella malttia uudistaa hyvinvointia niin, että kaikki ihmiset pysyvät mukana? Me uskomme siihen, että suomalaiset haluavat valita tämän reitin. Reitin, jossa pidetään huolta jokaisen kyvystä ja mahdollisuuksista kulkea polulla, joka ei johda umpikujaan. 
 
 
-Suomi tavoittelee asemaa kansainvälisenä talouden, osaamisen ja hyvinvoinnin
-edelläkävijänä. Me haluamme luoda uutta työtä, jolla Suomi menestyy ja joka tuo
-turvaa ihmisille työelämän murroksessa. Pitämällä huolta ympäristöstämme luomme
-hyvää tulevaisuutta. Köyhyyden torjuminen on välttämätöntä, jotta ihmiset
-pysyvät samassa veneessä. Hyvällä koulutuksella luomme jokaiselle nuorelle
-mahdollisuuden hyvään elämään.
+Suomi tavoittelee asemaa kansainvälisenä talouden, osaamisen ja hyvinvoinnin edelläkävijänä. Me haluamme luoda uutta työtä, jolla Suomi menestyy ja joka tuo turvaa ihmisille työelämän murroksessa. Pitämällä huolta ympäristöstämme luomme hyvää tulevaisuutta. Köyhyyden torjuminen on välttämätöntä, jotta ihmiset pysyvät samassa veneessä. Hyvällä koulutuksella luomme jokaiselle nuorelle mahdollisuuden hyvään elämään.
 
 
-Talouden uudistamisessa olemme valintatilanteessa. Me uskomme, että tätä maata
-voidaan uudistaa paremmaksi meille kaikille. Sosiaaliturva on uudistettava
-perustuloksi, jotta ihmiset pääsevät työhön ja sosiaaliturva nostaa ihmistä
-köyhyydestä. Eriarvoisuuden ja köyhyyden torjuminen on tärkeää, jotta pidämme
-huolta jokaisen oikeudesta hyvään tulevaisuuteen. Suomi on maa, joka kantaa
-globaalia vastuuta äärimmäisen köyhyyden poistamiseksi maailmasta ja
-rauhanomaisen kansainvälisen järjestyksen ylläpitämiseksi.
+Talouden uudistamisessa olemme valintatilanteessa. Me uskomme, että tätä maata voidaan uudistaa paremmaksi meille kaikille. Sosiaaliturva on uudistettava perustuloksi, jotta ihmiset pääsevät työhön ja sosiaaliturva nostaa ihmistä köyhyydestä. Eriarvoisuuden ja köyhyyden torjuminen on tärkeää, jotta pidämme huolta jokaisen oikeudesta hyvään tulevaisuuteen. Suomi on maa, joka kantaa globaalia vastuuta äärimmäisen köyhyyden poistamiseksi maailmasta ja rauhanomaisen kansainvälisen järjestyksen ylläpitämiseksi.
 
 
-Julkinen talous korjataan nostamalla työllisyyttä, uudistamalla rakenteita ja
-investoimalla kestävään kasvuun. Palvelujen leikkaukset johtaisivat vain
-kurjistumisen kierteeseen. Me haluamme uudistaa Suomen julkista sektoria,
-työelämää ja taloutta. Emme nojaudu vanhakantaisiin keskitettyihin
-energiaratkaisuihin tai ihmisiä holhoavaan hallintoon. Etsimme uusia, parempia
-ratkaisuja niin ihmiselle, ympäristölle kuin taloudellekin. Samalla ratkomme
-aikamme suuria ympäristökriisejä. Ilmastonmuutos on aikamme suurin ongelma ja
-käsillä on viimeiset hetket sen hillitsemiseen.
+Julkinen talous korjataan nostamalla työllisyyttä, uudistamalla rakenteita ja investoimalla kestävään kasvuun. Palvelujen leikkaukset johtaisivat vain kurjistumisen kierteeseen. Me haluamme uudistaa Suomen julkista sektoria, työelämää ja taloutta. Emme nojaudu vanhakantaisiin keskitettyihin energiaratkaisuihin tai ihmisiä holhoavaan hallintoon. Etsimme uusia, parempia ratkaisuja niin ihmiselle, ympäristölle kuin taloudellekin. Samalla ratkomme aikamme suuria ympäristökriisejä. Ilmastonmuutos on aikamme suurin ongelma ja käsillä on viimeiset hetket sen hillitsemiseen.
 
 
-Suomi on maa, jossa kaikkien hyvinvoinnista ja tasa-arvosta pidetään huolta.
-Vaalimme Suomen asemaa kansainvälisenä, monikulttuurisena maana, jonka
-työmarkkinoille on helppo tulla tekemään työtä ja rakentamaan Suomea. Vaalimme
-Suomea, jossa ketään ei syrjitä ja kiusata. Sukupuolten tasa-arvoa toteutetaan
-kaikissa päätöksissä ja rasismi torjutaan. Kaikille taataan tasa-arvoisesti hyvä
-koulutus ja edellytykset hyvään elämään.
+Suomi on maa, jossa kaikkien hyvinvoinnista ja tasa-arvosta pidetään huolta. Vaalimme Suomen asemaa kansainvälisenä, monikulttuurisena maana, jonka työmarkkinoille on helppo tulla tekemään työtä ja rakentamaan Suomea. Vaalimme Suomea, jossa ketään ei syrjitä ja kiusata. Sukupuolten tasa-arvoa toteutetaan kaikissa päätöksissä ja rasismi torjutaan. Kaikille taataan tasa-arvoisesti hyvä koulutus ja edellytykset hyvään elämään.
 
 
-Utelias ja rohkea yhteiskunta ottaa käyttöön älykkäitä ja kestäviä
-energiaratkaisuja uusien työpaikkojen luomiseksi. Se puolustaa myös Suomen
-arvoja, kansainvälistä oikeutta ja ihmisoikeuksia ulkopolitiikassaan. Se
-uudistaa työmarkkinoitamme ja sosiaaliturvaamme vastaamaan tämän päivän
-suomalaisten tarpeisiin ja huomisen työpaikkojen luomiseen. Se takaa jokaisen
-ihmisen yhdenvertaisuuden ja tasa-arvon.
+Utelias ja rohkea yhteiskunta ottaa käyttöön älykkäitä ja kestäviä energiaratkaisuja uusien työpaikkojen luomiseksi. Se puolustaa myös Suomen arvoja, kansainvälistä oikeutta ja ihmisoikeuksia ulkopolitiikassaan. Se uudistaa työmarkkinoitamme ja sosiaaliturvaamme vastaamaan tämän päivän suomalaisten tarpeisiin ja huomisen työpaikkojen luomiseen. Se takaa jokaisen ihmisen yhdenvertaisuuden ja tasa-arvon. 
 
 
-Silloin me pärjäämme, kun kaikilla on tilaa olla omanlaisiaan. Sellaista Suomea
-rakennamme - yhdessä.
+Silloin me pärjäämme, kun kaikilla on tilaa olla omanlaisiaan. Sellaista Suomea rakennamme - yhdessä.
 
 
 ## TALOUSPOLITIIKAN LINJA
 
 
-Talouspolitiikan lähtökohtana on tulevaisuuden pärjäämistä vahvistavat
-uudistukset, jotka modernisoivat hyvinvointivaltion ja tukevat kasvua ja
-työllisyyttä. Tällöin taloutta voidaan sopeuttaa maltillisemmin. Tavoitteena on
-**saavuttaa julkisen talouden tasapaino** ja **kuroa umpeen kestävyysvajetta**.
+Talouspolitiikan lähtökohtana on tulevaisuuden pärjäämistä vahvistavat uudistukset, jotka modernisoivat hyvinvointivaltion ja tukevat kasvua ja työllisyyttä. Tällöin taloutta voidaan sopeuttaa maltillisemmin. Tavoitteena on **saavuttaa julkisen talouden tasapaino** ja **kuroa umpeen kestävyysvajetta**.
 
 
-Kestävyysvajeen kuromiseen menee useampi vaalikausi, mutta sovitut mm. eläkeikää
-ja sosiaali- ja terveyspalveluita koskevat rakenneuudistukset toteutetaan
-nopealla aikataululla.
+Kestävyysvajeen kuromiseen menee useampi vaalikausi, mutta sovitut mm. eläkeikää ja sosiaali- ja terveyspalveluita koskevat rakenneuudistukset toteutetaan nopealla aikataululla. 
 
 
-Aikaa julkisen talouden tasapainottamiseen varataan kaksi vaalikautta.
-Aikalisällä pienennetään yhden vaalikauden aikana toteutettavia sopeutustoimia.
-Näin vähennetään riskiä, että finanssipolitiikan kiristäminen syö talouskasvua
-ja vaikeuttaa sitä kautta tasapainon saavuttamista. (Hallitus: 4-6 vuotta)
+Aikaa julkisen talouden tasapainottamiseen varataan kaksi vaalikautta. Aikalisällä pienennetään yhden vaalikauden aikana toteutettavia sopeutustoimia. Näin vähennetään riskiä, että finanssipolitiikan kiristäminen syö talouskasvua ja vaikeuttaa sitä kautta tasapainon saavuttamista. (Hallitus: 4-6 vuotta)
 
 
-Työllisyyden kehitys määrittää pitkälle sen, kuinka paljon julkinen talous
-kaipaa sopeutusta. Kunnianhimoisena tavoitteena on saavuttaa 74 % työllisyysaste
-(200 000 uutta työpaikkaa), mikä toteutuessaan puolittaa VM:n arvion mukaisen
-leikkaustarpeen.(Hallitus 72%)
+Työllisyyden kehitys määrittää pitkälle sen, kuinka paljon julkinen talous kaipaa sopeutusta. Kunnianhimoisena tavoitteena on saavuttaa 74 % työllisyysaste (200 000 uutta työpaikkaa), mikä toteutuessaan puolittaa VM:n arvion mukaisen leikkaustarpeen.(Hallitus 72%)
 
 
-Työllisyyspolitiikan kulmakivet ovat perustulo, energiavallankumous ja
-yrittäjyyden vahvistaminen. Lisäksi työikäisen väestön määrää kasvatetaan
-helpottamalla työperäistä maahanmuuttoa.
+Työllisyyspolitiikan kulmakivet ovat perustulo, energiavallankumous ja yrittäjyyden vahvistaminen. Lisäksi työikäisen väestön määrää kasvatetaan helpottamalla työperäistä maahanmuuttoa. 
 
 
-Kokonaissopeutus vaalikauden aikana on korkeintaan kaksi miljardia euroa.
-(Hallitus: 4 miljardia + mahdolliset lisätoimet)
+Kokonaissopeutus vaalikauden aikana on korkeintaan kaksi miljardia euroa. (Hallitus: 4 miljardia + mahdolliset lisätoimet)
 
 
-Toimia kohdennetaan kolmeen "koriin": (1) välittömät verot, (2) ympäristölle
-haitalliset tuet ja (3) menoleikkaukset/maksujen korotukset. Puolet
-sopeutuksesta saadaan kokoon kahdesta ensimmäisestä eli kiristämällä välittömiä
-veroja ja karsimalla ympäristölle haitallisia tukia ja toinen puoli kolmannesta
-eli leikkaamalla menoja tai korottamalla maksuja.
+Toimia kohdennetaan kolmeen "koriin": (1) välittömät verot, (2) ympäristölle haitalliset tuet ja (3) menoleikkaukset/maksujen korotukset. Puolet sopeutuksesta saadaan kokoon kahdesta ensimmäisestä eli kiristämällä välittömiä veroja ja karsimalla ympäristölle haitallisia tukia ja toinen puoli kolmannesta eli leikkaamalla menoja tai korottamalla maksuja.
 
 
-Tavoitteena on kokonaisuus, joka kaventaa tuloeroja ja vähentää köyhyyttä sekä
-vahvistaa sukupuolten välistä tasa-arvoa.
+Tavoitteena on kokonaisuus, joka kaventaa tuloeroja ja vähentää köyhyyttä sekä vahvistaa sukupuolten välistä tasa-arvoa.
 
 
-Verolinjauksilla tuetaan yrittäjyyttä ja työllisyyttä ja vauhditetaan kasvua.
-Samalla vahvistetaan taloudellista tasa-arvoa. Pienituloisten verotusta
-kevennetään merkittävästi ja kevennykset ulotetaan myös etuuksiin. Sopeutukset
-ulotetaan verotuksen kautta myös hyvätuloisiin palkansaajiin ja kohdennetusti
-vauraimpaan väestönosaan.
+Verolinjauksilla tuetaan yrittäjyyttä ja työllisyyttä ja vauhditetaan kasvua. Samalla vahvistetaan taloudellista tasa-arvoa. Pienituloisten verotusta kevennetään merkittävästi ja kevennykset ulotetaan myös etuuksiin. Sopeutukset ulotetaan verotuksen kautta myös hyvätuloisiin palkansaajiin ja kohdennetusti vauraimpaan väestönosaan.
 
 
-Hallitus kannustaa työmarkkinajärjestöjä yhteiskuntasopimukseen, jossa viennin
-kilpailukyvyn rinnalla vahvistetaan kotimaista yrittäjyyttä ja työmarkkinoiden
-tasa-arvoa.
+Hallitus kannustaa työmarkkinajärjestöjä yhteiskuntasopimukseen, jossa viennin kilpailukyvyn rinnalla vahvistetaan kotimaista yrittäjyyttä ja työmarkkinoiden tasa-arvoa. 
 
 
-Hallitus laatii kasvupaketin, jolla luodaan pohjaa tulevaisuuden kasvulle ja
-pehmennetään leikkauksia. Tavoitteena on 3 miljardin kokonaisuus, jossa on kaksi
-miljardia julkista rahaa ja miljardin verran yksityistä rahaa. (Hallitus: 1,6
-mrd)
+Hallitus laatii kasvupaketin, jolla luodaan pohjaa tulevaisuuden kasvulle ja pehmennetään leikkauksia. Tavoitteena on 3 miljardin kokonaisuus, jossa on kaksi miljardia julkista rahaa ja miljardin verran yksityistä rahaa. (Hallitus: 1,6 mrd)
 
 
 ## STRATEGISET PAINOPISTEET
@@ -156,12 +90,7 @@ mrd)
 #### TILANNEKUVA
 
 
-Työ muuttuu ja epävarmuus työelämässä lisääntyy. Vanhat perinteiset alat
-hiipuvat ja huoli oman työn tulevaisuudesta koskettaa monia. Työelämän sääntely
-ei vastaa tämän päivän todellisuutta eikä työn tarjoaminen ja vastaanottaminen
-aina kannata. Digitalisaatio on maailmantaloudelle suurin muutos sitten
-teollistumisen. Sen ennakoidaan korvaavan lähivuosina jopa kolmanneksen
-suomalaisten ammateista.
+Työ muuttuu ja epävarmuus työelämässä lisääntyy. Vanhat perinteiset alat hiipuvat ja huoli oman työn tulevaisuudesta koskettaa monia. Työelämän sääntely ei vastaa tämän päivän todellisuutta eikä työn tarjoaminen ja vastaanottaminen aina kannata. Digitalisaatio on maailmantaloudelle suurin muutos sitten teollistumisen. Sen ennakoidaan korvaavan lähivuosina jopa kolmanneksen suomalaisten ammateista. 
 
 
 #### STRATEGISET TAVOITTEET
@@ -177,9 +106,7 @@ suomalaisten ammateista.
 #### HALLITUSKAUDEN KÄRKIHANKKEET
 
 
-Työllisyysasteen nousua tavoitellaan ennen kaikkea perustuloon nojaavalla ja
-työnteon kannattavuutta parantavalla sosiaaliturvalla sekä energiaremontilla,
-joista on omat lukunsa.
+Työllisyysasteen nousua tavoitellaan ennen kaikkea perustuloon nojaavalla ja työnteon kannattavuutta parantavalla sosiaaliturvalla sekä energiaremontilla, joista on omat lukunsa.
 
 
 * Vanhemmuuden kustannukset tasataan ja otetaan askeleita kohti 6+6+6 -mallia.
@@ -200,10 +127,7 @@ joista on omat lukunsa.
 #### TILANNEKUVA
 
 
-Sosiaaliturva on vaikeasti hahmottuva tilkkutäkki, joka ei suojaa köyhyydeltä
-eikä jousta muuttuvien elämäntilanteiden mukaan. Tie ulos köyhyydestä on vaikea,
-koska työn vastaanottaminen ja lisäansioiden hankkiminen ei useinkaan ole
-kannattavaa sosiaaliturvan kannustinloukkujen takia.
+Sosiaaliturva on vaikeasti hahmottuva tilkkutäkki, joka ei suojaa köyhyydeltä eikä jousta muuttuvien elämäntilanteiden mukaan. Tie ulos köyhyydestä on vaikea, koska työn vastaanottaminen ja lisäansioiden hankkiminen ei useinkaan ole kannattavaa sosiaaliturvan kannustinloukkujen takia.
 
 
 #### STRATEGISET TAVOITTEET
@@ -234,13 +158,7 @@ kannattavaa sosiaaliturvan kannustinloukkujen takia.
 #### TILANNEKUVA
 
 
-Ilmastonmuutoksen hillitsemiseksi maailman päästöt on muutamassa vuosikymmenessä
-leikattava murto-osaan nykyisestä. Globaalit ympäristöongelmat vaativat korkeaan
-osaamiseen nojaavia ratkaisuja. Näiden seurauksena globaali kysyntä suuntautuu
-puhtaaseen teknologiaan, palveluihin ja tuotantoon. Samaan aikaan automaation ja
-robotiikan kehitys muuttaa tuotannon ja tuotteiden olemusta. Vanhoja ammatteja
-katoaa, mutta tilalle syntyy uusia. Nämä muutokset sisältävät valtavia
-kaupallisia ja taloudellisia mahdollisuuksia, joihin Suomen kannattaa tarttua.
+Ilmastonmuutoksen hillitsemiseksi maailman päästöt on muutamassa vuosikymmenessä leikattava murto-osaan nykyisestä. Globaalit ympäristöongelmat vaativat korkeaan osaamiseen nojaavia ratkaisuja. Näiden seurauksena globaali kysyntä suuntautuu puhtaaseen teknologiaan, palveluihin ja tuotantoon. Samaan aikaan automaation ja robotiikan kehitys muuttaa tuotannon ja tuotteiden olemusta. Vanhoja ammatteja katoaa, mutta tilalle syntyy uusia. Nämä muutokset sisältävät valtavia kaupallisia ja taloudellisia mahdollisuuksia, joihin Suomen kannattaa tarttua.
 
 
 #### STRATEGISET TAVOITTEET
@@ -274,11 +192,7 @@ kaupallisia ja taloudellisia mahdollisuuksia, joihin Suomen kannattaa tarttua.
 #### TILANNEKUVA
 
 
-Julkisissa palveluissa on liikaa jäykkyyttä ja turhaa byrokratiaa. Sosiaali- ja
-terveydenhuollon rakenteet vaativat perusteellisen uudistuksen, jotta pystymme
-takaamaan palvelut ja vastaamaan tulevaisuuden haasteisiin. Digitalisaation
-mahdollistamilla uusilla toimintatavoilla voidaan meillä siis parantaa
-samanaikaisesti sekä palvelutuotannon tuottavuutta että palvelun laatua.
+Julkisissa palveluissa on liikaa jäykkyyttä ja turhaa byrokratiaa. Sosiaali- ja terveydenhuollon rakenteet vaativat perusteellisen uudistuksen, jotta pystymme takaamaan palvelut ja vastaamaan tulevaisuuden haasteisiin. Digitalisaation mahdollistamilla uusilla toimintatavoilla voidaan meillä siis parantaa samanaikaisesti sekä palvelutuotannon tuottavuutta että palvelun laatua. 
 
 
 #### STRATEGISET TAVOITTEET
@@ -308,12 +222,8 @@ samanaikaisesti sekä palvelutuotannon tuottavuutta että palvelun laatua.
 #### TILANNEKUVA
 
 
-Suomen luonnon monimuotoisuuden köyhtymistä ei ole saatu pysäytettyä, vaikka
-olemme sitoutuneet siihen vuoteen 2020 mennessä. Samoin tavoitteet vesien hyvän
-tilan saavuttamisesta ovat etääntyneet.   Ympäristön, luonnon ja
-ekosysteemipalveluiden turvaaminen on välttämätöntä, jotta ihmisen elämän
-edellytykset säilyvät maapallolla. Ihmisen ja ympäristön hyvinvointi kulkevat
-käsi kädessä.
+Suomen luonnon monimuotoisuuden köyhtymistä ei ole saatu pysäytettyä, vaikka olemme sitoutuneet siihen vuoteen 2020 mennessä. Samoin tavoitteet vesien hyvän tilan saavuttamisesta ovat etääntyneet. 
+Ympäristön, luonnon ja ekosysteemipalveluiden turvaaminen on välttämätöntä, jotta ihmisen elämän edellytykset säilyvät maapallolla. Ihmisen ja ympäristön hyvinvointi kulkevat käsi kädessä.
 
 
 #### STRATEGISET TAVOITTEET
@@ -347,11 +257,7 @@ käsi kädessä.
 #### TILANNEKUVA
 
 
-Suomalainen koulutus varhaiskasvatuksesta korkea-asteelle on haasteiden edessä:
-valtion ja kuntien säästökuurit ovat kiristäneet resurssit äärimmilleen niin,
-että laatu kärsii. Samalla maailman muuttuminen edellyttää koulutuksen
-perustavanlaatuista uudistumista. Koulutuksen tasa-arvo on vaarassa koulujen
-välisten erojen kasvaessa ja koulutuksen periytyvyyden lisääntyessä.
+Suomalainen koulutus varhaiskasvatuksesta korkea-asteelle on haasteiden edessä: valtion ja kuntien säästökuurit ovat kiristäneet resurssit äärimmilleen niin, että laatu kärsii. Samalla maailman muuttuminen edellyttää koulutuksen perustavanlaatuista uudistumista. Koulutuksen tasa-arvo on vaarassa koulujen välisten erojen kasvaessa ja koulutuksen periytyvyyden lisääntyessä.
 
 
 #### STRATEGISET TAVOITTEET
@@ -387,14 +293,10 @@ välisten erojen kasvaessa ja koulutuksen periytyvyyden lisääntyessä.
 #### TILANNEKUVA
 
 
-Yhteiskunta on jakautunut entistä voimakkaammin. Köyhyys on syventynyt ja
-periytyy sukupolvelta toiselle. Kaikki eivät enää näe mahdollisuuksia parempaan
-elämään. Eriarvoisuus näkyy selvästi myös terveyseroissa ja elinajanodotteessa.
+Yhteiskunta on jakautunut entistä voimakkaammin. Köyhyys on syventynyt ja periytyy sukupolvelta toiselle. Kaikki eivät enää näe mahdollisuuksia parempaan elämään. Eriarvoisuus näkyy selvästi myös terveyseroissa ja elinajanodotteessa. 
 
 
-Sukupuolten välinen tasa-arvo ei vieläkään ole toteutunut eikä kaikkia ihmisiä
-kohdella yhdenvertaisesti. Maahanmuuttajat kohtaavat avointa rasismia eikä
-kotouttaminen toimi riittävällä tavalla.
+Sukupuolten välinen tasa-arvo ei vieläkään ole toteutunut eikä kaikkia ihmisiä kohdella yhdenvertaisesti. Maahanmuuttajat kohtaavat avointa rasismia eikä kotouttaminen toimi riittävällä tavalla. 
 
 
 #### STRATEGISET TAVOITTEET
@@ -426,13 +328,7 @@ kotouttaminen toimi riittävällä tavalla.
 ## EU-LINJAUKSET
 
 
-Suomen kansainvälisen yhteistyön tärkein vaikutuspaikka on Euroopan unioni. EU:n
-tulee **edistää ihmisoikeuksia, rauhaa ja köyhyyden sekä eriarvoisuuden
-vähentämistä koko maailmassa.** EU:n on **edistettävä kunnianhimoista ympäristö-
-ja ilmastopolitiikkaa niin jäsenmaissa kuin kansainvälisissä neuvotteluissa.**
-EU:n talouspolitiikan tulee perustua **ihmisten ja ympäristön hyvinvoinnille.**
-Talouspolitiikan kansanvaltaista kontrollia on vahvistettava ja verovälttelyä
-ehkäistävä.
+Suomen kansainvälisen yhteistyön tärkein vaikutuspaikka on Euroopan unioni. EU:n tulee **edistää ihmisoikeuksia, rauhaa ja köyhyyden sekä eriarvoisuuden vähentämistä koko maailmassa.** EU:n on **edistettävä kunnianhimoista ympäristö- ja ilmastopolitiikkaa niin jäsenmaissa kuin kansainvälisissä neuvotteluissa.** EU:n talouspolitiikan tulee perustua **ihmisten ja ympäristön hyvinvoinnille.** Talouspolitiikan kansanvaltaista kontrollia on vahvistettava ja verovälttelyä ehkäistävä.
 
 
 * Suomi ja EU toimii aktiivisesti sen eteen, että kansainvälisissä ilmastoneuvotteluissa saadaan aikaan sitova sopimus, jossa on kunnianhimoiset päästövähennykset kaikille maille ja jolla lämpeneminen voidaan rajoittaa enintään kahteen asteeseen.
@@ -457,82 +353,43 @@ ehkäistävä.
 ### ULKOPOLITIIKKA
 
 
-Suomi toimii aktiivisesti YK:n vahvistamiseksi, ja tukee alueellisten
-organisaatioiden, kuten ETYJ:n käyttöä konfliktien ratkaisemisessa. Suomi
-edistää rauhavälitystä, rauhanturva- toimintaa ja siviilikriisinhallintaa osana
-konfliktien ratkaisua.
+Suomi toimii aktiivisesti YK:n vahvistamiseksi, ja tukee alueellisten organisaatioiden, kuten ETYJ:n käyttöä konfliktien ratkaisemisessa. Suomi edistää rauhavälitystä, rauhanturva- toimintaa ja siviilikriisinhallintaa osana konfliktien ratkaisua.
 
 
-Suomi pitää tärkeänä periaatteena kansainvälisten sopimusten kunnioittamista ja
-maiden suvereniteetin tunnustamista. Suomi pyrkii konfliktien ratkaisuun
-rauhanomaisin keinoin eikä hyväksy voimapolitiikan käyttöä. Tämän vuoksi Suomi
-osallistuu Ukrainan kriisin ratkaisemiseksi myös EU:n yhteisiin
-talouspakotteisiin Venäjään vaikuttamiseksi.
+Suomi pitää tärkeänä periaatteena kansainvälisten sopimusten kunnioittamista ja maiden suvereniteetin tunnustamista. Suomi pyrkii konfliktien ratkaisuun rauhanomaisin keinoin eikä hyväksy voimapolitiikan käyttöä. Tämän vuoksi Suomi osallistuu Ukrainan kriisin ratkaisemiseksi myös EU:n yhteisiin talouspakotteisiin Venäjään vaikuttamiseksi.
 
 
-Toimivat Venäjä-suhteet sekä Itämeren alueen vakaus ovat Suomelle tärkeitä.
-Näitä toteutetaan osana kansainvälistä yhteistyötä, EU:n kautta ja
-kahdenvälisesti.
+Toimivat Venäjä-suhteet sekä Itämeren alueen vakaus ovat Suomelle tärkeitä. Näitä toteutetaan osana kansainvälistä yhteistyötä, EU:n kautta ja kahdenvälisesti.
 
 
-Kansainvälisen jännityksen lisääntyessä huoltovarmuus nousee yhä tärkeämmäksi.
-Sen vuoksi Suomi tukee ratkaisuja, joilla huoltovarmuutta ja
-energiaturvallisuutta parannetaan sekä kansallisella että EU-tasolla.
+Kansainvälisen jännityksen lisääntyessä huoltovarmuus nousee yhä tärkeämmäksi. Sen vuoksi Suomi tukee ratkaisuja, joilla huoltovarmuutta ja energiaturvallisuutta parannetaan sekä kansallisella että EU-tasolla.
 
 
-Suomi pitää tärkeänä demokratian ja ihmisoikeuksien kunnioittamista, ja on
-valmis tukemaan demokratia- ja ihmisoikeusliikkeitä sekä ihmisoikeuspuolustajia
-kaikkialla maailmassa. Suomi toimii aktiivisesti arktisten alueiden
-luonnonsuojeluverkoston kehittämiseksi. Arktisen yhteistyön kehittäminen on
-tärkeää, mutta Suomi ei kannata pohjoisten fossiilivarantojen hyödyntämistä.
-Saamelaisten oikeuksia vahvistetaan ratifioimalla ILO 169 -sopimus.
+Suomi pitää tärkeänä demokratian ja ihmisoikeuksien kunnioittamista, ja on valmis tukemaan demokratia- ja ihmisoikeusliikkeitä sekä ihmisoikeuspuolustajia kaikkialla maailmassa. Suomi toimii aktiivisesti arktisten alueiden luonnonsuojeluverkoston kehittämiseksi. Arktisen yhteistyön kehittäminen on tärkeää, mutta Suomi ei kannata pohjoisten fossiilivarantojen hyödyntämistä. Saamelaisten oikeuksia vahvistetaan ratifioimalla ILO 169 -sopimus.
 
 
-Suomi tavoittelee YK:n asettamaa 0,7 %:n tavoitetta eikä leikkaa
-kehitysyhteistyöstä. Päästöhuutokauppatulot ohjataan edelleen kehitys- ja
-ilmastorahoitukseen. Suomi sitoutuu YK:n Post-15 tavoitteisiin ja niiden
-toimeenpanoon myös kotimaassa.
+Suomi tavoittelee YK:n asettamaa 0,7 %:n tavoitetta eikä leikkaa kehitysyhteistyöstä. Päästöhuutokauppatulot ohjataan edelleen kehitys- ja ilmastorahoitukseen. Suomi sitoutuu YK:n Post-15 tavoitteisiin ja niiden toimeenpanoon myös kotimaassa. 
 
 
-Suomi painottaa kehityspolitiikassaan ihmisoikeuksien ja demokratiakehityksen
-tukemista, köyhyyden poistamista, kestävää kehitystä, ilmastomuutoksen
-hillintää, kehitysmaiden omien verojärjestelmien kehittämistä ja koulutusta.
-Myös seksuaali- ja lisääntymisterveys sekä naisten, vammaisten ja
-seksuaalivähemmistöjen oikeudet ovat Suomen toiminnassa tärkeitä. Suomen
-kehityspolitiikka on johdonmukaista, avointa ja tuloksellista.
-Kauppapolitiikalla tuetaan kehityspolitiikan tavoitteita.
+Suomi painottaa kehityspolitiikassaan ihmisoikeuksien ja demokratiakehityksen tukemista, köyhyyden poistamista, kestävää kehitystä, ilmastomuutoksen hillintää, kehitysmaiden omien verojärjestelmien kehittämistä ja koulutusta. Myös seksuaali- ja lisääntymisterveys sekä naisten, vammaisten ja seksuaalivähemmistöjen oikeudet ovat Suomen toiminnassa tärkeitä. Suomen kehityspolitiikka on johdonmukaista, avointa ja tuloksellista. Kauppapolitiikalla tuetaan kehityspolitiikan tavoitteita.
 
 
 ### TURVALLISUUS- JA PUOLUSTUSPOLITIIKKA
 
 
-Suomi säilyy nykytilanteessa sotilaallisesti liittoutumattomana maana.
-Turvallisuuspolitiikasta tehdään hallituskaudella kokonaisvaltainen selvitys,
-jonka osana selvitetään myös mahdollisen NATO-jäsenyyden edut ja haitat. Suomen
-sotilaallista yhteistyötä Ruotsin kanssa lisätään muun muassa
-materiaalihankinnoissa.
+Suomi säilyy nykytilanteessa sotilaallisesti liittoutumattomana maana. Turvallisuuspolitiikasta tehdään hallituskaudella kokonaisvaltainen selvitys, jonka osana selvitetään myös mahdollisen NATO-jäsenyyden edut ja haitat. Suomen sotilaallista yhteistyötä Ruotsin kanssa lisätään muun muassa materiaalihankinnoissa.
 
 
-Suomi pyrkii syventämään EU:n yhteistä ulko-, turvallisuus- ja
-puolustuspolitiikkaa. Vaikutetaan siihen, että EU:n kyky toimia
-kriisinhallintatehtävissä ja kriisien pysäyttämiseksi vahvistuu. EU:n nopean
-toiminnan joukot sekä pooling & sharing -periaate ovat tässä avainasemassa.
+Suomi pyrkii syventämään EU:n yhteistä ulko-, turvallisuus- ja puolustuspolitiikkaa. Vaikutetaan siihen, että EU:n kyky toimia kriisinhallintatehtävissä ja kriisien pysäyttämiseksi vahvistuu. EU:n nopean toiminnan joukot sekä pooling & sharing -periaate ovat tässä avainasemassa.
 
 
-Asepalveluksen sisältöä kehitetään ja siinä otetaan entistä paremmin huomioon
-uudet turvallisuusuhat, kuten hybridi- ja kyberuhat. Turvataan uskottavan
-puolustuksen kannalta välttämättömät puolustusvoimien materiaalihankinnat.
+Asepalveluksen sisältöä kehitetään ja siinä otetaan entistä paremmin huomioon uudet turvallisuusuhat, kuten hybridi- ja kyberuhat. Turvataan uskottavan puolustuksen kannalta välttämättömät puolustusvoimien materiaalihankinnat.
 
 
-Kehitetään osallistumista kansainväliseen kriisinhallintaan. Lisätään Suomen
-osallistumista YK-johtoisiin rauhanturvaoperaatioihin siten, että YK-johtoisten
-rauhanturvaoperaatioiden osuus säilyy merkittävänä. Mikäli Ukrainan kriisin
-ratkaisemiseksi alueelle tarvitaan kansainvälistä rauhanturvaoperaatiota,
-Suomella tulee olla valmius siihen osallistumiseksi.
+Kehitetään osallistumista kansainväliseen kriisinhallintaan. Lisätään Suomen osallistumista YK-johtoisiin rauhanturvaoperaatioihin siten, että YK-johtoisten rauhanturvaoperaatioiden osuus säilyy merkittävänä. Mikäli Ukrainan kriisin ratkaisemiseksi alueelle tarvitaan kansainvälistä rauhanturvaoperaatiota, Suomella tulee olla valmius siihen osallistumiseksi.
 
 
-Suomi varautuu uusien uhkien torjumiseen ja käsittelyyn, kuten
-ympäristökatastrofien aiheuttamiin kriiseihin.
+Suomi varautuu uusien uhkien torjumiseen ja käsittelyyn, kuten ympäristökatastrofien aiheuttamiin kriiseihin.
 
 
 

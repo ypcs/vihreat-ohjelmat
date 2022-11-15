@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:03:42.093992
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:07.973411
 title: "Mets\xE4poliittinen ohjelma"
 type: erityisohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1393
@@ -15,113 +15,61 @@ year: 2020
 # Metsäpoliittinen ohjelma
 
 
-*Hyväksytty puoluevaltuuskunnan kokouksessa 29.11.2020. Tämä ohjelma korvaa
-ohjelmapaperin "Vihreät timantit – metsäsektorin kestävä uudistaminen (2008)"*
+*Hyväksytty puoluevaltuuskunnan kokouksessa 29.11.2020. Tämä ohjelma korvaa ohjelmapaperin "Vihreät timantit – metsäsektorin kestävä uudistaminen (2008)"*  
 Lisenssi: CC0
 
 
 **Sisällys**
 
 
-Esipuhe     Ilmastonmuutos ja metsätalous     Teollisuus ja työllisyys
-Metsien monimuotoisuus     Metsien monikäyttö
+Esipuhe  
+
+Ilmastonmuutos ja metsätalous  
+
+Teollisuus ja työllisyys  
+
+Metsien monimuotoisuus  
+
+Metsien monikäyttö
 
 
 ## Esipuhe
 
 
-Suomen metsäluonnolla on itseisarvo osana elonkirjoa. Samalla metsät ovat meille
-tärkeä luonnonvara. Metsät ovat vuosien varrella tarjonneet suojaa, ravintoa,
-työtä ja toimeentuloa sekä toimineet yhtenä maaseudun elinkeinoista. Metsillä on
-tärkeä rooli myös kaupungeissa, joissa ne ovat erityisen tärkeä osa
-biodiversiteettiä ja ilmastonmuutokseen sopeutumista sekä virkistyksen lähde. Me
-arvostamme metsäluontoa ja metsiin liittyvää kulttuuriperintöä sekä liikumme
-mielellään luonnossa. Viime aikoina metsien yhteiskunnallinen merkitys on
-korostunut entisestään, kun etsimme ratkaisuja kahden aikamme vakavimpiin
-kuuluvien kriisien, ilmastonmuutoksen ja luonnon monimuotoisuuskadon,
-torjumiseksi. Metsät ovat osa Suomen ratkaisua molempiin ongelmiin.
+Suomen metsäluonnolla on itseisarvo osana elonkirjoa. Samalla metsät ovat meille tärkeä luonnonvara. Metsät ovat vuosien varrella tarjonneet suojaa, ravintoa, työtä ja toimeentuloa sekä toimineet yhtenä maaseudun elinkeinoista. Metsillä on tärkeä rooli myös kaupungeissa, joissa ne ovat erityisen tärkeä osa biodiversiteettiä ja ilmastonmuutokseen sopeutumista sekä virkistyksen lähde. Me arvostamme metsäluontoa ja metsiin liittyvää kulttuuriperintöä sekä liikumme mielellään luonnossa. Viime aikoina metsien yhteiskunnallinen merkitys on korostunut entisestään, kun etsimme ratkaisuja kahden aikamme vakavimpiin kuuluvien kriisien, ilmastonmuutoksen ja luonnon monimuotoisuuskadon, torjumiseksi. Metsät ovat osa Suomen ratkaisua molempiin ongelmiin.
 
 
-Vihreiden metsäpoliittisen ohjelman tavoitteena on luoda perusta
-metsäpolitiikalle, joka vastaa nykyisiin ja tulevaisuuden haasteisiin. Tällä
-hetkellä metsien käyttö ei ole sosiaalisesti eikä ekologisesti kestävällä
-pohjalla, ja paikoin hakkuumäärissä on ylitetty myös puuntuotannollinen
-kestävyys. Tämän metsäpoliittisen ohjelman lähtökohtana on metsäluonnon
-monimuotoisuuden vahvistaminen ja ilmastonmuutoksen torjuminen, metsätalouden
-haitallisten vesistövaikutusten vähentäminen, metsien hyvinvointivaikutusten
-parempi hyödyntäminen sekä metsiin ja puuntuotantoon perustuvan
-elinkeinotoiminnan kestävyys.
+Vihreiden metsäpoliittisen ohjelman tavoitteena on luoda perusta metsäpolitiikalle, joka vastaa nykyisiin ja tulevaisuuden haasteisiin. Tällä hetkellä metsien käyttö ei ole sosiaalisesti eikä ekologisesti kestävällä pohjalla, ja paikoin hakkuumäärissä on ylitetty myös puuntuotannollinen kestävyys. Tämän metsäpoliittisen ohjelman lähtökohtana on metsäluonnon monimuotoisuuden vahvistaminen ja ilmastonmuutoksen torjuminen, metsätalouden haitallisten vesistövaikutusten vähentäminen, metsien hyvinvointivaikutusten parempi hyödyntäminen sekä metsiin ja puuntuotantoon perustuvan elinkeinotoiminnan kestävyys.
 
 
-Suomi on asettanut tavoitteekseen olla hiilineutraali vuoteen 2035 mennessä.
-Ilmastopäästöjen vähentämisen rinnalla myös metsiin varastoituvalla hiilellä on
-keskeinen rooli ilmastotavoitteiden saavuttamisessa. Metsänkäytön
-ilmastovaikutuksiin voidaan vaikuttaa metsänhoidon valinnoilla sekä
-metsätalouden lopputuotteilla.
+Suomi on asettanut tavoitteekseen olla hiilineutraali vuoteen 2035 mennessä. Ilmastopäästöjen vähentämisen rinnalla myös metsiin varastoituvalla hiilellä on keskeinen rooli ilmastotavoitteiden saavuttamisessa. Metsänkäytön ilmastovaikutuksiin voidaan vaikuttaa metsänhoidon valinnoilla sekä metsätalouden lopputuotteilla.
 
 
-Metsät ovat yksi tärkeimmistä elinympäristöistä uhanalaisille lajeille, ja
-tärkeimmät syyt metsälajien uhanalaistumiseen ovat metsäelinympäristöjen
-muutoksissa, jotka ovat seurausta voimallisesta metsienkäsittelystä. Lisäksi
-metsätalouden vesistövaikutukset ovat osoittautuneet aikaisemmin arvioitua
-huomattavasti suuremmiksi. Samalla metsien virkistyskäyttö on kasvanut
-voimakkaasti viime vuosina, ja luonnon hyvinvointivaikutukset tunnistetaan
-entistä paremmin.
+Metsät ovat yksi tärkeimmistä elinympäristöistä uhanalaisille lajeille, ja tärkeimmät syyt metsälajien uhanalaistumiseen ovat metsäelinympäristöjen muutoksissa, jotka ovat seurausta voimallisesta metsienkäsittelystä. Lisäksi metsätalouden vesistövaikutukset ovat osoittautuneet aikaisemmin arvioitua huomattavasti suuremmiksi. Samalla metsien virkistyskäyttö on kasvanut voimakkaasti viime vuosina, ja luonnon hyvinvointivaikutukset tunnistetaan entistä paremmin.
 
 
-Vihreän metsäpoliittisen ohjelman tavoitteena on, että metsien käyttö on
-tulevaisuudessa ekologisesti, sosiaalisesti ja taloudellisesti kestävää. Tähän
-tavoitteeseen pääseminen vaatii puuntuotantoon perustuvan metsätalouden
-toimintatapojen uudistamista puupohjaisten tuotteiden arvonlisää ja
-pitkäikäisyyttä parantamalla. Haluamme uudistaa metsien käyttöä reilulla
-tavalla, joka parantaa ihmisten ja ympäristön hyvinvointia Suomessa ja
-maailmalla.
+Vihreän metsäpoliittisen ohjelman tavoitteena on, että metsien käyttö on tulevaisuudessa ekologisesti, sosiaalisesti ja taloudellisesti kestävää. Tähän tavoitteeseen pääseminen vaatii puuntuotantoon perustuvan metsätalouden toimintatapojen uudistamista puupohjaisten tuotteiden arvonlisää ja pitkäikäisyyttä parantamalla. Haluamme uudistaa metsien käyttöä reilulla tavalla, joka parantaa ihmisten ja ympäristön hyvinvointia Suomessa ja maailmalla.
 
 
 ## Ilmastonmuutos ja metsätalous
 
 
-Metsäpolitiikalla vaikutetaan Suomen ilmastotavoitteiden toteutumiseen.
-Tavoitteiden saavuttamisen kannalta merkittäviä tekijöitä ovat metsiin
-sitoutuneen hiilidioksidin määrä, hakkuumäärät ja -tavat, metsätalouden
-lopputuotteet sekä aikajänne, jolla toimien vaikuttavuutta tavoitellaan.
+Metsäpolitiikalla vaikutetaan Suomen ilmastotavoitteiden toteutumiseen. Tavoitteiden saavuttamisen kannalta merkittäviä tekijöitä ovat metsiin sitoutuneen hiilidioksidin määrä, hakkuumäärät ja -tavat, metsätalouden lopputuotteet sekä aikajänne, jolla toimien vaikuttavuutta tavoitellaan.
 
 
-Tällä hetkellä puubiomassa on yksinkertaisin ja toimivin tapa poistaa hiiltä
-ilmakehästä. Tämän takia metsien hiilivarastoja tulee vahvistaa hakkuita
-vähentämällä ja metsien kiertoaikaa pidentämällä. Suomen metsät ovat
-keski-iältään nuoria, ja metsien hiilensidonta jatkuu vanhoissakin metsissä.
-Suomen metsiin sitoutunutta hiiltä voidaan siis lisätä vielä pitkään.
+Tällä hetkellä puubiomassa on yksinkertaisin ja toimivin tapa poistaa hiiltä ilmakehästä. Tämän takia metsien hiilivarastoja tulee vahvistaa hakkuita vähentämällä ja metsien kiertoaikaa pidentämällä. Suomen metsät ovat keski-iältään nuoria, ja metsien hiilensidonta jatkuu vanhoissakin metsissä. Suomen metsiin sitoutunutta hiiltä voidaan siis lisätä vielä pitkään.
 
 
-Metsätalouden näkökulmasta suositaan usein yhden tai kahden puulajin metsiä.
-Hiilensidonnan kannalta olisi kuitenkin hyödyllisempää suosia usean puulajin
-sekametsiä, jotka sitovat hiiltä tehokkaammin ja ovat vähemmän herkkiä
-ilmastonmuutokselle.
+Metsätalouden näkökulmasta suositaan usein yhden tai kahden puulajin metsiä. Hiilensidonnan kannalta olisi kuitenkin hyödyllisempää suosia usean puulajin sekametsiä, jotka sitovat hiiltä tehokkaammin ja ovat vähemmän herkkiä ilmastonmuutokselle.
 
 
-Siirtymällä metsänhoidossa entistä laajemmin jatkuvaan kasvatukseen saadaan
-monenlaisia hyötyjä. Jatkuvalla kasvatuksella voidaan vähentää eritoten
-turvemaiden kasvihuonekaasupäästöjä. Jatkuvaa kasvatusta suosimalla voidaan myös
-lisätä pitkäikäisten puutuotteiden suhteellista osuutta metsäteollisuuden
-lopputuotteissa. Vain noin viidesosa metsistä hakatusta puusta päätyy
-sahatavaraksi. Pitkäikäiseksikin miellettyjen tuotteiden käyttöikä on lopulta
-verrattain lyhyt verrattuna hiilen varastointiin metsiin. Tuotteiden pidempään
-elinkaareen on siis panostettava rakennuskantaa myöten.
+Siirtymällä metsänhoidossa entistä laajemmin jatkuvaan kasvatukseen saadaan monenlaisia hyötyjä. Jatkuvalla kasvatuksella voidaan vähentää eritoten turvemaiden kasvihuonekaasupäästöjä. Jatkuvaa kasvatusta suosimalla voidaan myös lisätä pitkäikäisten puutuotteiden suhteellista osuutta metsäteollisuuden lopputuotteissa. Vain noin viidesosa metsistä hakatusta puusta päätyy sahatavaraksi. Pitkäikäiseksikin miellettyjen tuotteiden käyttöikä on lopulta verrattain lyhyt verrattuna hiilen varastointiin metsiin. Tuotteiden pidempään elinkaareen on siis panostettava rakennuskantaa myöten.
 
 
-Kuitupuusta tehtävistä lyhytikäisistä sellupohjaisista tuotteista, joihin Suomen
-metsäteollisuus pitkälti perustuu, hiili siirtyy hyvin nopeasti ilmakehään, eikä
-monen tuotteen kyky korvata ilmastolle haitallisia tuotteita ole riittävän hyvä
-sillä aikajänteellä, jolla ilmastovaikutuksia tavoitellaan. Suomen metsistä
-korjatusta puusta myös yli puolet poltetaan joko suoraan polttolaitoksissa tai
-osana selluntuotantoprosessia. Tämä ei ole ilmaston kannalta kestävää.
+Kuitupuusta tehtävistä lyhytikäisistä sellupohjaisista tuotteista, joihin Suomen metsäteollisuus pitkälti perustuu, hiili siirtyy hyvin nopeasti ilmakehään, eikä monen tuotteen kyky korvata ilmastolle haitallisia tuotteita ole riittävän hyvä sillä aikajänteellä, jolla ilmastovaikutuksia tavoitellaan. Suomen metsistä korjatusta puusta myös yli puolet poltetaan joko suoraan polttolaitoksissa tai osana selluntuotantoprosessia. Tämä ei ole ilmaston kannalta kestävää.
 
 
-Metsillä on lisäksi tärkeä rooli myös ilmastonmuutokseen sopeutumisessa etenkin
-kaupungeissa, joissa metsät tasoittavat sään ääri-ilmiöiden vaikutuksia muun
-muassa viilentämällä ympäristöään helteellä ja vaikuttamalla tuuliolosuhteisiin.
-Toisaalta pienetkin metsät ovat tehokkaita hule- ja tulvavesien imeytysalueita.
+Metsillä on lisäksi tärkeä rooli myös ilmastonmuutokseen sopeutumisessa etenkin kaupungeissa, joissa metsät tasoittavat sään ääri-ilmiöiden vaikutuksia muun muassa viilentämällä ympäristöään helteellä ja vaikuttamalla tuuliolosuhteisiin. Toisaalta pienetkin metsät ovat tehokkaita hule- ja tulvavesien imeytysalueita.
 
 
 ### TAVOITE 1: PIENENNETÄÄN HAKKUUMÄÄRIÄ JA PIDENNETÄÄN HIILEN KIERTOAIKAA METSISSÄ
@@ -146,52 +94,22 @@ Toisaalta pienetkin metsät ovat tehokkaita hule- ja tulvavesien imeytysalueita.
 ## Teollisuus ja työllisyys
 
 
-Suomella on mahdollisuus näyttää maailmalle esimerkkiä metsien aidosti
-kestävästä käytöstä. Metsien hakkuuintensiteettiä on pienennettävä
-monimuotoisuus- ja ilmastotavoitteiden turvaamiseksi ja teollisuuden arvonlisää
-on nostettava, jotta metsien tuoma kansantaloudellinen hyöty paranee. Suomen
-metsistä suurin osa on yksityisten metsänomistajien omistuksessa ja puun
-myyntitulot ovat tulonlähde sadoilletuhansille suomalaisille. Perinteisen
-metsätalouden rinnalla on vahvistettava metsien monikäyttöön perustuvia
-elinkeinoja, kuten kestävää luontomatkailua ja luonnontuotteiden keräilyä ja
-viljelyä. Tavoitteena on metsätalous, joka työllistää samalla, kun resursseja
-käytetään viisaasti.
+Suomella on mahdollisuus näyttää maailmalle esimerkkiä metsien aidosti kestävästä käytöstä. Metsien hakkuuintensiteettiä on pienennettävä monimuotoisuus- ja ilmastotavoitteiden turvaamiseksi ja teollisuuden arvonlisää on nostettava, jotta metsien tuoma kansantaloudellinen hyöty paranee. Suomen metsistä suurin osa on yksityisten metsänomistajien omistuksessa ja puun myyntitulot ovat tulonlähde sadoilletuhansille suomalaisille. Perinteisen metsätalouden rinnalla on vahvistettava metsien monikäyttöön perustuvia elinkeinoja, kuten kestävää luontomatkailua ja luonnontuotteiden keräilyä ja viljelyä. Tavoitteena on metsätalous, joka työllistää samalla, kun resursseja käytetään viisaasti.
 
 
-Laatupuuta vaativa puurakentaminen on nosteessa. Suomalaisen puuarkkitehtuurin
-ja teollisen muotoiluperinteen yhdistäminen voi tuoda lisää miellyttäviä,
-terveitä rakennuksia ja vientituloja. Meillä on hyvät edellytykset lisätä
-puurakentamisen määrää nykyistä nopeammin esimerkiksi kerrostaloissa, liike- ja
-toimistorakennuksissa, julkisessa rakentamisessa sekä rakennusten ja
-rakennusosien viennissä.
+Laatupuuta vaativa puurakentaminen on nosteessa. Suomalaisen puuarkkitehtuurin ja teollisen muotoiluperinteen yhdistäminen voi tuoda lisää miellyttäviä, terveitä rakennuksia ja vientituloja. Meillä on hyvät edellytykset lisätä puurakentamisen määrää nykyistä nopeammin esimerkiksi kerrostaloissa, liike- ja toimistorakennuksissa, julkisessa rakentamisessa sekä rakennusten ja rakennusosien viennissä.
 
 
-Jatkuva kasvatus ja metsien kiertoajan pidentäminen edistävät sahateollisuuden
-toimintaympäristöä. Sahateollisuus on kärsinyt jo useiden vuosien ajan sellu- ja
-paperiteollisuutta sekä puun energiakäyttöä tukevista tuista ja
-markkinamekanismeista.
+Jatkuva kasvatus ja metsien kiertoajan pidentäminen edistävät sahateollisuuden toimintaympäristöä. Sahateollisuus on kärsinyt jo useiden vuosien ajan sellu- ja paperiteollisuutta sekä puun energiakäyttöä tukevista tuista ja markkinamekanismeista.
 
 
-Tulevaisuudessa sellulla ja muilla kemiallisen puunjalostuksen tuotteilla on
-edelleen roolinsa osana puupohjaisten tuotteiden kokonaisuutta. Kehitysvaiheessa
-oleville jalosteille, kuten kuiduille ja nanosellulle, on mahdollista löytää
-käyttökohteita esimerkiksi tekstiili- ja lääketeollisuudessa sekä komposiittien
-ja elektroniikan tuotannossa.
+Tulevaisuudessa sellulla ja muilla kemiallisen puunjalostuksen tuotteilla on edelleen roolinsa osana puupohjaisten tuotteiden kokonaisuutta. Kehitysvaiheessa oleville jalosteille, kuten kuiduille ja nanosellulle, on mahdollista löytää käyttökohteita esimerkiksi tekstiili- ja lääketeollisuudessa sekä komposiittien ja elektroniikan tuotannossa.
 
 
-Metsät työllistävät myös teollisuuden ulkopuolella. Pelkästään Lapissa matkailu
-työllistää kaksikymmenkertaisesti metsätalouteen nähden. Luontomatkailun sekä
-metsänsuojelun sosiaalinen ja taloudellinen merkitys näkyy myös
-kansallispuistojemme kävijäluvuissa, jotka ovat yli nelinkertaistuneet kahdessa
-vuosikymmenessä.
+Metsät työllistävät myös teollisuuden ulkopuolella. Pelkästään Lapissa matkailu työllistää kaksikymmenkertaisesti metsätalouteen nähden. Luontomatkailun sekä metsänsuojelun sosiaalinen ja taloudellinen merkitys näkyy myös kansallispuistojemme kävijäluvuissa, jotka ovat yli nelinkertaistuneet kahdessa vuosikymmenessä.
 
 
-Matkailualan lisäksi metsätalous kilpailee tilasta esimerkiksi porotalouden ja
-muiden saamelaisten perinteisten elinkeinojen kanssa, joilla on merkittävä rooli
-pohjoisten alueiden elinvoimasta ja työllisyydestä huolehtimisessa.
-Saamelaisalueella poronhoidon sekä muiden perinteisten elinkeinojen erityisasema
-alkuperäiskansan elinkeinoina vaikuttavat merkittävällä tavalla metsätalouden
-asemaan. Metsätalous ei saa olla uhka saamelaiskulttuurille.
+Matkailualan lisäksi metsätalous kilpailee tilasta esimerkiksi porotalouden ja muiden saamelaisten perinteisten elinkeinojen kanssa, joilla on merkittävä rooli pohjoisten alueiden elinvoimasta ja työllisyydestä huolehtimisessa. Saamelaisalueella poronhoidon sekä muiden perinteisten elinkeinojen erityisasema alkuperäiskansan elinkeinoina vaikuttavat merkittävällä tavalla metsätalouden asemaan. Metsätalous ei saa olla uhka saamelaiskulttuurille.
 
 
 ### TAVOITE 3: JALOSTUSASTE NOUSUUN
@@ -222,45 +140,16 @@ asemaan. Metsätalous ei saa olla uhka saamelaiskulttuurille.
 ## Metsien monimuotoisuus
 
 
-Monimuotoinen luonto, elonkirjo, on arvokas ja ihmisen hyvinvoinnin kannalta
-välttämätön. Tällä hetkellä lähes 80 prosenttia metsäluontotyypeistä on arvioitu
-uhanalaisiksi. Moni aiemmin yleinen metsälaji on taantunut voimakkaasti viime
-vuosikymmeninä. Uhanalaisia, ensisijaisesti metsissä eläviä lajeja on yli 800.
-Määrä on kasvanut ja kielteistä kehitystä on myönteistä enemmän. Lajit kärsivät
-metsäalueiden pirstoutumisesta, vanhojen metsien ja lahopuun häviämisestä sekä
-voimakkaista metsänkäsittelytoimista. Erityistä huomiota on kiinnitettävä
-lehtometsien suojeluun ja luonnonhoitoon. Lehtometsiä on metsätalousmaasta noin
-yksi prosentti, mutta niissä elää noin puolet uhanalaisista metsälajeista.
-Metsien uhanalaisin lajisto sopeutuu heikosti elinympäristöjen voimakkaisiin
-muutoksiin.
+Monimuotoinen luonto, elonkirjo, on arvokas ja ihmisen hyvinvoinnin kannalta välttämätön. Tällä hetkellä lähes 80 prosenttia metsäluontotyypeistä on arvioitu uhanalaisiksi. Moni aiemmin yleinen metsälaji on taantunut voimakkaasti viime vuosikymmeninä. Uhanalaisia, ensisijaisesti metsissä eläviä lajeja on yli 800. Määrä on kasvanut ja kielteistä kehitystä on myönteistä enemmän. Lajit kärsivät metsäalueiden pirstoutumisesta, vanhojen metsien ja lahopuun häviämisestä sekä voimakkaista metsänkäsittelytoimista. Erityistä huomiota on kiinnitettävä lehtometsien suojeluun ja luonnonhoitoon. Lehtometsiä on metsätalousmaasta noin yksi prosentti, mutta niissä elää noin puolet uhanalaisista metsälajeista. Metsien uhanalaisin lajisto sopeutuu heikosti elinympäristöjen voimakkaisiin muutoksiin.
 
 
-Suomen metsistä on metsäohjelman laatimisen aikaan suojeltu 13 % (metsä- ja
-kitumaata). Metsistä 6 % on pysyvän suojelun piirissä. Loput ovat rajoitetun
-metsänhoidon tai maankäytön alueita tai väliaikaisesti suojeltuja metsiä, joilla
-uhanalaista metsäluontoa turvataan vain rajallisesti. Metsäluonnon
-monimuotoisuuden vahvistaminen vaatii suojelupinta-alan merkittävää
-kasvattamista, arvokkaimpien metsäalueiden jättämistä käsittelyn ulkopuolelle,
-luonnonhoitoa ja metsätalouden toimintamallien uudistamista. Tarvitsemme
-pikaisesti olemassa olevien säädösten tehokkaampaa toimeenpanoa, uusien
-säätelykeinojen käyttöönottoa ja ympäristölle haitallisten säädösten ja tukien
-poistamista.
+Suomen metsistä on metsäohjelman laatimisen aikaan suojeltu 13 % (metsä- ja kitumaata). Metsistä 6 % on pysyvän suojelun piirissä. Loput ovat rajoitetun metsänhoidon tai maankäytön alueita tai väliaikaisesti suojeltuja metsiä, joilla uhanalaista metsäluontoa turvataan vain rajallisesti. Metsäluonnon monimuotoisuuden vahvistaminen vaatii suojelupinta-alan merkittävää kasvattamista, arvokkaimpien metsäalueiden jättämistä käsittelyn ulkopuolelle, luonnonhoitoa ja metsätalouden toimintamallien uudistamista. Tarvitsemme pikaisesti olemassa olevien säädösten tehokkaampaa toimeenpanoa, uusien säätelykeinojen käyttöönottoa ja ympäristölle haitallisten säädösten ja tukien poistamista.
 
 
-Ihmisen toiminnan seurauksena heikentyneitä luontoarvoja voidaan palauttaa
-metsien luonnonhoidolla ja ennallistamisella. Näiden toimien määrää on lisättävä
-sekä suojelualueilla että talousmetsissä. Lisäksi vesiensuojelun asemaa on
-vahvistettava metsien käsittelyssä saattamalla metsiä koskeva lainsäädäntö
-tasolle, jolla turvataan EU:n vesipuitedirektiivin toteutuminen eli vesien hyvä
-ekologinen tila.
+Ihmisen toiminnan seurauksena heikentyneitä luontoarvoja voidaan palauttaa metsien luonnonhoidolla ja ennallistamisella. Näiden toimien määrää on lisättävä sekä suojelualueilla että talousmetsissä. Lisäksi vesiensuojelun asemaa on vahvistettava metsien käsittelyssä saattamalla metsiä koskeva lainsäädäntö tasolle, jolla turvataan EU:n vesipuitedirektiivin toteutuminen eli vesien hyvä ekologinen tila.
 
 
-Metsien monimuotoisuuteen tulisi kiinnittää jatkossa huomiota myös kaupungeissa,
-joissa pienelläkin metsällä on iso merkitys alueen lajiston kannalta.
-Kaavoituksella tulee huolehtia, että kaupunkimetsät palvelevat laajempaa
-alue-ekologista kokonaisuutta: metsien tulee olla pinta-alallisesti tarpeeksi
-suuria, jotta ne voivat säilyä, sekä tarpeeksi lähellä toisiaan toimiakseen
-tehokkaasti osana viherverkostoa.
+Metsien monimuotoisuuteen tulisi kiinnittää jatkossa huomiota myös kaupungeissa, joissa pienelläkin metsällä on iso merkitys alueen lajiston kannalta. Kaavoituksella tulee huolehtia, että kaupunkimetsät palvelevat laajempaa alue-ekologista kokonaisuutta: metsien tulee olla pinta-alallisesti tarpeeksi suuria, jotta ne voivat säilyä, sekä tarpeeksi lähellä toisiaan toimiakseen tehokkaasti osana viherverkostoa.
 
 
 ### TAVOITE 6: KASVATETAAN SUOMEN METSIEN SUOJELUPINTA-ALAA JA PARANNETAAN SUOJELTUJEN ALUEIDEN LAATUA JA MONIPUOLISUUTTA
@@ -301,36 +190,16 @@ tehokkaasti osana viherverkostoa.
 ## Metsien monikäyttö
 
 
-Metsillä on erityinen merkitys suomalaisessa kulttuurissa, elämäntavassa ja
-luontosuhteessa. Metsien käytön hyväksyttävyyden näkökulmasta on välttämätöntä,
-että käyttö on sosiaalisesti ja kulttuurisesti kestävää. Luonnossa liikkuminen
-edistää tutkitusti henkistä ja fyysistä terveyttä ja ennaltaehkäisee sosiaali-
-ja terveysmenojen kasvua. Juuri tästä syystä metsäympäristöjen saavutettavuuteen
-ja esteettömyyteen on panostettava, jotta yhä useammalla on mahdollisuus niiden
-virkistyskäyttöön. Kansallispuistojen lisäksi tarvitaan myös
-lähiretkeilykohteita taajamien ja kaupunkien läheisyyteen.
+Metsillä on erityinen merkitys suomalaisessa kulttuurissa, elämäntavassa ja luontosuhteessa. Metsien käytön hyväksyttävyyden näkökulmasta on välttämätöntä, että käyttö on sosiaalisesti ja kulttuurisesti kestävää. Luonnossa liikkuminen edistää tutkitusti henkistä ja fyysistä terveyttä ja ennaltaehkäisee sosiaali- ja terveysmenojen kasvua. Juuri tästä syystä metsäympäristöjen saavutettavuuteen ja esteettömyyteen on panostettava, jotta yhä useammalla on mahdollisuus niiden virkistyskäyttöön. Kansallispuistojen lisäksi tarvitaan myös lähiretkeilykohteita taajamien ja kaupunkien läheisyyteen.
 
 
-Talouskäytössä olevien metsien käsittelyssä on otettava aiempaa paremmin
-huomioon virkistyskäyttö ja maisema-arvot, sillä kaikki suomalaiset metsät ovat
-jokamiehenoikeuksien nojalla virkistyskäytössä. Tehometsätalous, taimikot ja
-avohakatut alueet heikentävät metsien virkistysarvoa.
+Talouskäytössä olevien metsien käsittelyssä on otettava aiempaa paremmin huomioon virkistyskäyttö ja maisema-arvot, sillä kaikki suomalaiset metsät ovat jokamiehenoikeuksien nojalla virkistyskäytössä. Tehometsätalous, taimikot ja avohakatut alueet heikentävät metsien virkistysarvoa.
 
 
-Saamelaisten perinteisiin elinkeinoihin kuten poronhoidon, kalastuksen ja
-metsästyksen harjoittamiseen sekä luonnontuotteiden keräilyyn ja käsitöiden
-tekemiseen perustuva elämäntapa on riippuvainen laajojen perinnealueiden
-käyttämisestä kestävällä tavalla. Arktisen alueen hauraan luontoympäristön
-turvaaminen on saamelaisalueella erityisen tärkeää, jotta luontoon sidottu
-kulttuuri säilyy elinvoimaisena. Saamelaisia on kohdeltava tasa-arvoisina
-toimijoina saamelaisalueen metsien päätöksenteossa ja alkuperäiskansojen
-oikeuksia perinteisiin maihin on noudatettava.
+Saamelaisten perinteisiin elinkeinoihin kuten poronhoidon, kalastuksen ja metsästyksen harjoittamiseen sekä luonnontuotteiden keräilyyn ja käsitöiden tekemiseen perustuva elämäntapa on riippuvainen laajojen perinnealueiden käyttämisestä kestävällä tavalla. Arktisen alueen hauraan luontoympäristön turvaaminen on saamelaisalueella erityisen tärkeää, jotta luontoon sidottu kulttuuri säilyy elinvoimaisena. Saamelaisia on kohdeltava tasa-arvoisina toimijoina saamelaisalueen metsien päätöksenteossa ja alkuperäiskansojen oikeuksia perinteisiin maihin on noudatettava.
 
 
-Haluamme lisätä kestävän metsätalouden taloudelliseen, ekologiseen ja
-sosiaaliseen näkökulmaan myös metsien kulttuurisen kestävyyden
-näkökulman. Erilaisten metsäsuhteiden näkyväksi tekeminen ja ymmärtäminen
-edistävät vuorovaikutusta ja metsiin liittyvien tavoitteiden yhteensovittamista.
+Haluamme lisätä kestävän metsätalouden taloudelliseen, ekologiseen ja sosiaaliseen näkökulmaan myös metsien kulttuurisen kestävyyden näkökulman. Erilaisten metsäsuhteiden näkyväksi tekeminen ja ymmärtäminen edistävät vuorovaikutusta ja metsiin liittyvien tavoitteiden yhteensovittamista.
 
 
 ### TAVOITE 10: TURVATAAN JOKAMIEHENOIKEUDET JA VIRKISTYSKÄYTTÖ METSISSÄ

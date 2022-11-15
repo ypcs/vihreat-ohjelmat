@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:05:49.090966
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:12.411660
 title: "Meille kaikille hyv\xE4 el\xE4m\xE4: Vihre\xE4 sosiaali- ja terveyspoliittinen\
   \ ohjelma"
 type: erityisohjelma
@@ -13,76 +13,39 @@ year: 2018
 ---
 
 
-Vihreät De Gröna     *Hyväksytty puoluevaltuuskunnan kokouksessa 27.5.2018*
+Vihreät De Gröna   
+
+*Hyväksytty puoluevaltuuskunnan kokouksessa 27.5.2018*
 
 
 # Meille kaikille hyvä elämä: Vihreä sosiaali- ja terveyspoliittinen ohjelma
 
 
-Tämä ohjelma korvaa 11.5.2010 hyväksytyn sosiaali ja terveyspoliittisen
-ohjelman.
+Tämä ohjelma korvaa 11.5.2010 hyväksytyn sosiaali ja terveyspoliittisen ohjelman.
 
 
 ## 1 Johdanto
 
 
-Vihreä sosiaali- ja terveyspolitiikka tähtää ihmisten hyvään elämään. Haluamme
-kaventaa terveys- ja hyvinvointieroja niin alueellisesti kuin eri ihmisryhmien
-välillä.
+Vihreä sosiaali- ja terveyspolitiikka tähtää ihmisten hyvään elämään. Haluamme kaventaa terveys- ja hyvinvointieroja niin alueellisesti kuin eri ihmisryhmien välillä. 
 
 
-Merkittävin osa terveyteen ja hyvinvointiin vaikuttavista päätöksistä,
-ratkaisuista ja valinnoista tehdään sote-järjestelmien ulkopuolella. Tämä
-ohjelma keskittyy pääosin sosiaali- ja terveyspalvelujen tuottamisen ja
-järjestämisen tavoitteiden ja linjausten asettamiseen. Terveyttä ja hyvinvointia
-edistävät kuitenkin myös monet muut vihreät tavoitteet, muun muassa
-korkeatasoinen varhaiskasvatus, jalankulkua, pyöräilyä ja julkista liikennettä
-sekä esteettömyyttä edistävä yhdyskuntasuunnittelu, tiukka saasteita vähentävä
-ympäristöpolitiikka tai kasvisten käytön lisääminen ruokailussa. Kaikessa
-päätöksenteossa tulee nähdä niiden seuraukset ihmisten terveyteen ja
-hyvinvointiin. Ennaltaehkäisevä työ hyvinvoinnin ja terveyden edistämiseksi on
-olennainen osa sosiaali- ja terveydenhuoltoa. Sosiaali- ja terveyspalveluilla
-voidaan korjata vain osa muilla toimenpiteillä aiheutetuista terveyden- ja
-hyvinvoinnin menetyksistä.
+Merkittävin osa terveyteen ja hyvinvointiin vaikuttavista päätöksistä, ratkaisuista ja valinnoista tehdään sote-järjestelmien ulkopuolella. Tämä ohjelma keskittyy pääosin sosiaali- ja terveyspalvelujen tuottamisen ja järjestämisen tavoitteiden ja linjausten asettamiseen. Terveyttä ja hyvinvointia edistävät kuitenkin myös monet muut vihreät tavoitteet, muun muassa korkeatasoinen varhaiskasvatus, jalankulkua, pyöräilyä ja julkista liikennettä sekä esteettömyyttä edistävä yhdyskuntasuunnittelu, tiukka saasteita vähentävä ympäristöpolitiikka tai kasvisten käytön lisääminen ruokailussa. Kaikessa päätöksenteossa tulee nähdä niiden seuraukset ihmisten terveyteen ja hyvinvointiin. Ennaltaehkäisevä työ hyvinvoinnin ja terveyden edistämiseksi on olennainen osa sosiaali- ja terveydenhuoltoa. Sosiaali- ja terveyspalveluilla voidaan korjata vain osa muilla toimenpiteillä aiheutetuista terveyden- ja hyvinvoinnin menetyksistä. 
 
 
-Sosiaali- ja terveyspalvelujen sisällä terveyttä ja hyvinvointia edistää
-parhaiten se, että peruspalveluihin pääsee nopeasti. Sairaus tai sosiaalinen
-ongelma on helpointa hoitaa sen varhaisessa vaiheessa. Kaikki hyötyvät: Asiakas
-saa hoidon tai avun nopeasti, eikä ongelma pääse kasvamaan. Julkinen valta
-säästää kustannuksissa.
+Sosiaali- ja terveyspalvelujen sisällä terveyttä ja hyvinvointia edistää parhaiten se, että peruspalveluihin pääsee nopeasti. Sairaus tai sosiaalinen ongelma on helpointa hoitaa sen varhaisessa vaiheessa. Kaikki hyötyvät: Asiakas saa hoidon tai avun nopeasti, eikä ongelma pääse kasvamaan. Julkinen valta säästää kustannuksissa.
 
 
-Peruspalveluja tulee vahvistaa. Ne on tuotava kaikkien niitä tarvitsevien
-saataville nopeasti, tasa- arvoisesti ja hyvälaatuisina. Hoitoon tai muuhun
-palveluun pääsyä on nopeutettava ja palveluketjuista on tehtävä sujuvia ja
-katkeamattomia. Jokaista on hoidettava kokonaisvaltaisesti.
+Peruspalveluja tulee vahvistaa. Ne on tuotava kaikkien niitä tarvitsevien saataville nopeasti, tasa- arvoisesti ja hyvälaatuisina. Hoitoon tai muuhun palveluun pääsyä on nopeutettava ja palveluketjuista on tehtävä sujuvia ja katkeamattomia. Jokaista on hoidettava kokonaisvaltaisesti.
 
 
-Ammattilaiset tietävät usein parhaiten, miten palvelut saadaan vaikuttaviksi eli
-millä toimenpiteillä saadaan tehokkaimmin edistettyä terveyttä ja hyvinvointia.
-Palveluiden käyttäjät ja potilaat on otettava nykyistä enemmän aktiivisiksi
-palvelujen kehittäjäksi ja heitä on kuultava koko ajan. Vain siten voidaan
-varmistaa palveluista saatava hyvä kokemus, joka voi olla merkittävä osa
-asiakkaan hyvinvointia.
+Ammattilaiset tietävät usein parhaiten, miten palvelut saadaan vaikuttaviksi eli millä toimenpiteillä saadaan tehokkaimmin edistettyä terveyttä ja hyvinvointia. Palveluiden käyttäjät ja potilaat on otettava nykyistä enemmän aktiivisiksi palvelujen kehittäjäksi ja heitä on kuultava koko ajan. Vain siten voidaan varmistaa palveluista saatava hyvä kokemus, joka voi olla merkittävä osa asiakkaan hyvinvointia.
 
 
-Kaikille on taattava mahdollisuus saada neuvontaa, ohjausta ja tietoa tarjolla
-olevista palveluista; myös niiden, jotka eivät ole kykeneviä tai halukkaita
-tekemään aktiivisia valintoja palveluja tarvitessaan. Myös kielellisten
-oikeuksien on toteuduttava palvelujen käyttämisessä ja ihmisten kuulemisessa,
-vaikka se vaatisi joskus erityisratkaisuja. Varmistetaan kansallis- tai
-hallintokieliä taitamattomille pääsy palveluihin esimerkiksi takaamalla
-laadukkaat tulkkipalvelut. Huolehditaan myös palveluiden saatavuudesta ruotsiksi
-ja muilla tarvittavilla kielillä.
+Kaikille on taattava mahdollisuus saada neuvontaa, ohjausta ja tietoa tarjolla olevista palveluista; myös niiden, jotka eivät ole kykeneviä tai halukkaita tekemään aktiivisia valintoja palveluja tarvitessaan. Myös kielellisten oikeuksien on toteuduttava palvelujen käyttämisessä ja ihmisten kuulemisessa, vaikka se vaatisi joskus erityisratkaisuja. Varmistetaan kansallis- tai hallintokieliä taitamattomille pääsy palveluihin esimerkiksi takaamalla laadukkaat tulkkipalvelut. Huolehditaan myös palveluiden saatavuudesta ruotsiksi ja muilla tarvittavilla kielillä. 
 
 
-Ammattitaitoinen sosiaali- ja terveyspalvelujen henkilökunta on keskeisin osa
-näiden palvelujen tuottamista. Valtiovallan on huolehdittava siitä, että osaavaa
-ja pätevää henkilökuntaa koulutetaan riittävästi, he saavat työstään riittävän
-korvauksen ja nykyiset ammattilaiset viihtyvät työssään. Ammattitaidon
-ylläpitoon, työhyvinvointiin ja työntekijöiden mahdollisuuteen kehittää työtään
-on panostettava.
+Ammattitaitoinen sosiaali- ja terveyspalvelujen henkilökunta on keskeisin osa näiden palvelujen tuottamista. Valtiovallan on huolehdittava siitä, että osaavaa ja pätevää henkilökuntaa koulutetaan riittävästi, he saavat työstään riittävän korvauksen ja nykyiset ammattilaiset viihtyvät työssään. Ammattitaidon ylläpitoon, työhyvinvointiin ja työntekijöiden mahdollisuuteen kehittää työtään on panostettava.
 
 
 ## 2 Vihreän sosiaali- ja terveyspoliittisen ohjelman periaatteet
@@ -91,27 +54,16 @@ on panostettava.
 ### 2.1 Ennaltaehkäisy, oikea apu oikeaan aikaan, terveyden edistäminen ja toimintakyvyn ylläpito
 
 
-Hyvinvoinnin ja terveyden edistäminen on kaikkien yhteiskunnallisten toimijoiden
-vastuulla. Niin sosiaali- ja terveydenhuollossa kuin muuallakin on ajateltava
-laajasti ihmisten hyvinvointia: psykofyysistä ja sosiaalista toimintakykyä,
-terveyttä, kokemusta turvallisuudesta, vaikutusmahdollisuuksia ja onnellisuutta.
+Hyvinvoinnin ja terveyden edistäminen on kaikkien yhteiskunnallisten toimijoiden vastuulla. Niin sosiaali- ja terveydenhuollossa kuin muuallakin on ajateltava laajasti ihmisten hyvinvointia: psykofyysistä ja sosiaalista toimintakykyä, terveyttä, kokemusta turvallisuudesta, vaikutusmahdollisuuksia ja onnellisuutta. 
 
 
-Elintavat vaikuttavat monien sairauksien syntyyn ja vaikeutumiseen. Useimmiten
-ihmiset voivat vaikuttaa terveyteensä ja hyvinvointiinsa elintavoillaan ja
-hakemalla ajoissa apua sairauksiinsa ja elämänhallinnan vaikeuksiin.
-Palvelujärjestelmän tulee kannustaa ja tukea tähän.
+Elintavat vaikuttavat monien sairauksien syntyyn ja vaikeutumiseen. Useimmiten ihmiset voivat vaikuttaa terveyteensä ja hyvinvointiinsa elintavoillaan ja hakemalla ajoissa apua sairauksiinsa ja elämänhallinnan vaikeuksiin. Palvelujärjestelmän tulee kannustaa ja tukea tähän. 
 
 
-Terveysongelmiin tai sosiaalisiin ongelmiin on tärkeä puuttua heti vaikeuksien
-tai oireiden ilmettyä. Ihmisiä tulee myös kannustaa ja neuvoa hakeutumaan avun
-pariin ajoissa.
+Terveysongelmiin tai sosiaalisiin ongelmiin on tärkeä puuttua heti vaikeuksien tai oireiden ilmettyä. Ihmisiä tulee myös kannustaa ja neuvoa hakeutumaan avun pariin ajoissa. 
 
 
-Vaikeavammaisuuden, pitkäaikaisten terveys- tai mielenterveys- ja
-päihdeongelmien kohdalla on tärkeää tukea pitkäjänteisesti toimintakykyä,
-järjestää tarvittavia tukipalveluja ja kuntoutusta asiakkaiden omia toiveita ja
-tarpeita kuunnellen.
+Vaikeavammaisuuden, pitkäaikaisten terveys- tai mielenterveys- ja päihdeongelmien kohdalla on tärkeää tukea pitkäjänteisesti toimintakykyä, järjestää tarvittavia tukipalveluja ja kuntoutusta asiakkaiden omia toiveita ja tarpeita kuunnellen.
 
 
 * Tehdään monipuolista yhteistyötä eri sektoreiden, kuten koulutuksen ja kasvatuksen sekä liikenteen ja rakentamisen kanssa, jotta ihmisten hyvinvointi ja terveys huomioidaan kaikilla aloilla.
@@ -127,19 +79,10 @@ tarpeita kuunnellen.
 ### 2.2 Saavutettavat ja esteettömät palvelut
 
 
-Esteettömyyden tulee olla itsestäänselvyys kaikissa yhteiskunnan palveluissa,
-niin sosiaali- ja terveyspalveluiden puolella kuin liikenteessä ja
-rakentamisessa. Palveluiden saavutettavuutta voidaan edistää muun muassa
-liikkuvilla ja jalkautuvilla yksiköillä. Tällaisia ovat esimerkiksi liikkuva
-suun hoidon yksikkö ja neuvolatoiminnan jalkautuminen päiväkoteihin. Myös
-etähoito ja digitaaliset palvelut voivat lisätä saavutettavuutta helpottamalla
-yhteydenottoja ja seurantaa.
+Esteettömyyden tulee olla itsestäänselvyys kaikissa yhteiskunnan palveluissa, niin sosiaali- ja terveyspalveluiden puolella kuin liikenteessä ja rakentamisessa. Palveluiden saavutettavuutta voidaan edistää muun muassa liikkuvilla ja jalkautuvilla yksiköillä. Tällaisia ovat esimerkiksi liikkuva suun hoidon yksikkö ja neuvolatoiminnan jalkautuminen päiväkoteihin. Myös etähoito ja digitaaliset palvelut voivat lisätä saavutettavuutta helpottamalla yhteydenottoja ja seurantaa.
 
 
-Liikkumista tukevia palveluita, kuten liikennevälineiden käytön ohjausta,
-saattajapalveluja ja ryhmäkuljetuksia on tärkeä taata henkilöille, joille
-itsenäinen liikkuminen ja asiointi julkisilla liikennevälineillä ei onnistu
-sairauden tai vamman takia.
+Liikkumista tukevia palveluita, kuten liikennevälineiden käytön ohjausta, saattajapalveluja ja ryhmäkuljetuksia on tärkeä taata henkilöille, joille itsenäinen liikkuminen ja asiointi julkisilla liikennevälineillä ei onnistu sairauden tai vamman takia.
 
 
 * Huolehditaan palveluiden yhdenvertaisesta saatavuudesta alueellisesti.
@@ -153,10 +96,7 @@ sairauden tai vamman takia.
 ### 2.3 Terveys- ja hyvinvointierojen kaventaminen
 
 
-Vihreät näkevät hyvinvointierojen kaventamisen yhdeksi keskeisimmäksi
-tavoitteekseen. Tasa-arvoinen yhteiskunta on stabiilimpi ja turvallisempi
-kaikille. Hyvinvoinnin ja terveyden tasainen jakautuminen tukee talouskasvua ja
-auttaa hillitsemään sosiaali- ja terveydenhuollon kulujen kasvua.
+Vihreät näkevät hyvinvointierojen kaventamisen yhdeksi keskeisimmäksi tavoitteekseen. Tasa-arvoinen yhteiskunta on stabiilimpi ja turvallisempi kaikille. Hyvinvoinnin ja terveyden tasainen jakautuminen tukee talouskasvua ja auttaa hillitsemään sosiaali- ja terveydenhuollon kulujen kasvua. 
 
 
 * Kavennetaan terveys- ja hyvinvointieroja johdonmukaisesti koko maassa.
@@ -170,42 +110,19 @@ auttaa hillitsemään sosiaali- ja terveydenhuollon kulujen kasvua.
 ### 3.1 Edistetään hyvinvointia ja terveyttä
 
 
-Fyysisen, psyykkisen ja sosiaalisen hyvinvoinnin saavuttaminen vaatii kykyä
-tunnistaa ja toteuttaa omia toiveita, tyydyttää tarpeet, muuttaa ympäristöä sekä
-kykyä tulla toimeen olemassa olevan ympäristön kanssa. Kun asiat toteutuvat
-yksilöiden kohdalla, lopputuloksena on tyytyväinen ja hyvinvoiva yhteisö.
+Fyysisen, psyykkisen ja sosiaalisen hyvinvoinnin saavuttaminen vaatii kykyä tunnistaa ja toteuttaa omia toiveita, tyydyttää tarpeet, muuttaa ympäristöä sekä kykyä tulla toimeen olemassa olevan ympäristön kanssa. Kun asiat toteutuvat yksilöiden kohdalla, lopputuloksena on tyytyväinen ja hyvinvoiva yhteisö.
 
 
-Henkilökohtaisempia palveluita tarvitsevat ne ihmiset ja ryhmät, jotka ovat työ-
-ja opiskelijaterveydenhuollon ja sähköisten työpöytien tai liikunta- ja
-kulttuuriseteleiden ulkopuolella. Näille ihmisryhmille kasautuu usein myös muita
-sosiaalisia ongelmia kuten työttömyyttä, mielenterveys- ja päihdeongelmia, muita
-terveysongelmia sekä tulottomuutta tai pienituloisuutta.
+Henkilökohtaisempia palveluita tarvitsevat ne ihmiset ja ryhmät, jotka ovat työ- ja opiskelijaterveydenhuollon ja sähköisten työpöytien tai liikunta- ja kulttuuriseteleiden ulkopuolella. Näille ihmisryhmille kasautuu usein myös muita sosiaalisia ongelmia kuten työttömyyttä, mielenterveys- ja päihdeongelmia, muita terveysongelmia sekä tulottomuutta tai pienituloisuutta.
 
 
-On tärkeää tunnistaa erityisessä riskissä olevat ihmiset ja ryhmät ja suunnata
-ohjausta ja neuvontaa erityisesti heille. Neuvonnasta tulee huolehtia jo ennen
-kuin ongelmat tuovat heidät sosiaali- tai terveyspalvelujen piiriin. Puututaan
-peliriippuvuuteen varhaisessa vaiheessa. Tavoitteena on vaikuttava ja asiallinen
-neuvonta tupakan, nuuskan sekä huumeiden ja päihteiden käytön riskeistä,
-liikunnan ja ravinnon merkityksestä hyvinvoinnille sekä unettomuuden
-lääkkeettömistä hoidoista.
+On tärkeää tunnistaa erityisessä riskissä olevat ihmiset ja ryhmät ja suunnata ohjausta ja neuvontaa erityisesti heille. Neuvonnasta tulee huolehtia jo ennen kuin ongelmat tuovat heidät sosiaali- tai terveyspalvelujen piiriin. Puututaan peliriippuvuuteen varhaisessa vaiheessa. Tavoitteena on vaikuttava ja asiallinen neuvonta tupakan, nuuskan sekä huumeiden ja päihteiden käytön riskeistä, liikunnan ja ravinnon merkityksestä hyvinvoinnille sekä unettomuuden lääkkeettömistä hoidoista.
 
 
-Sote-uudistuksessa hyvinvoinnin ja terveyden edistäminen on osoitettu kuntien ja
-maakuntien tehtäväksi. Riippumatta tulevasta organisaatiomallista tulee
-terveyden ja hyvinvoinnin edistämisestä huolehtia sekä erityistasolla että
-peruspalveluissa ja tälle on osoitettava riittävä rahoitus. Myös kolmannen
-sektorin toimijoilla on merkittävä rooli terveyden edistämisessä. Matalan
-kynnyksen toiminta, vertaistuki ja kulttuuri-ja liikuntatoiminta ehkäisevät
-ongelmien kasaantumista ja tuovat helpotusta muun muassa yksinäisyyteen.
+Sote-uudistuksessa hyvinvoinnin ja terveyden edistäminen on osoitettu kuntien ja maakuntien tehtäväksi. Riippumatta tulevasta organisaatiomallista tulee terveyden ja hyvinvoinnin edistämisestä huolehtia sekä erityistasolla että peruspalveluissa ja tälle on osoitettava riittävä rahoitus. Myös kolmannen sektorin toimijoilla on merkittävä rooli terveyden edistämisessä. Matalan kynnyksen toiminta, vertaistuki ja kulttuuri-ja liikuntatoiminta ehkäisevät ongelmien kasaantumista ja tuovat helpotusta muun muassa yksinäisyyteen.
 
 
-Vihreät katsovat, että vaikuttava terveyden ja hyvinvoinnin edistäminen tulee
-järjestää siten, että riskiryhmät tavoitetaan mahdollisimman tehokkaasti.
-Menetelmien tulee olla näyttöön perustuvia. Kokeilujen avulla tulee selvittää
-parhaat tavat ja keinot käytännön toteutukselle ja näihin on saatava riittävä
-rahoitus.
+Vihreät katsovat, että vaikuttava terveyden ja hyvinvoinnin edistäminen tulee järjestää siten, että riskiryhmät tavoitetaan mahdollisimman tehokkaasti. Menetelmien tulee olla näyttöön perustuvia. Kokeilujen avulla tulee selvittää parhaat tavat ja keinot käytännön toteutukselle ja näihin on saatava riittävä rahoitus.
 
 
 * Harjoitetaan ns. läsnäolon politiikkaa. Läsnäolon politiikalla tarkoitetaan mm. sitä, että ihmisryhmät, jotka uhkaavat jäädä marginaaliin, ovat itse edustettuina.
@@ -218,10 +135,7 @@ rahoitus.
 ### 3.2 Varmistetaan etteivät asiakasmaksut lisää eriarvoisuutta
 
 
-Terveydenhuollon asiakasmaksut lisäävät eriarvoisuutta. Asiakasmaksujen osuus
-sosiaali- ja terveydenhuollon rahoituksesta on Suomessa Pohjoismaiden korkein ja
-terveydenhuollon julkinen rahoitus on selvästi Tanskaa, Ruotsia ja Norjaa
-alhaisemmalla tasolla.
+Terveydenhuollon asiakasmaksut lisäävät eriarvoisuutta. Asiakasmaksujen osuus sosiaali- ja terveydenhuollon rahoituksesta on Suomessa Pohjoismaiden korkein ja terveydenhuollon julkinen rahoitus on selvästi Tanskaa, Ruotsia ja Norjaa alhaisemmalla tasolla.
 
 
 * Pienennetään lääkkeiden ja suun terveydenhuollon omavastuuosuuksia pienituloisille.
@@ -233,46 +147,22 @@ alhaisemmalla tasolla.
 ### 3.3 Tukemalla lapsiperheitä satsaamme tulevaisuuteen
 
 
-Lapsuudessa kehittyvä syrjäytyminen ja mielenterveysongelmat ovat myöhemmin
-vaikeasti korjattavissa ja aiheuttavat inhimillistä kärsimystä ja hukkaan
-menneitä mahdollisuuksia. Näiden korjaaminen myöhemmin on sekä vaikeaa että
-kallista.
+Lapsuudessa kehittyvä syrjäytyminen ja mielenterveysongelmat ovat myöhemmin vaikeasti korjattavissa ja aiheuttavat inhimillistä kärsimystä ja hukkaan menneitä mahdollisuuksia. Näiden korjaaminen myöhemmin on sekä vaikeaa että kallista.
 
 
-Äitiys- ja lastenneuvolat sekä koulu- ja opiskelijaterveydenhuolto ovat
-lapsiperhepalveluiden ydin. Siksi niiden toimivuudesta huolehtiminen on tärkeää.
-Lasten, nuorten ja lapsiperheiden palvelut on hyvä keskittää perhekeskuksiin,
-joissa toteutetaan moniammatillista ja integroitua työtapaa yhdessä
-varhaiskasvatuksen ja kotien kanssa. Tämä edellyttää riittäviä resursseja ja
-ammattitaitoa monialaiseen työskentelyyn. Erityisesti neuvolapsykologien määrää
-tulee lisätä nykyisestä ja kannustaa myös isiä käyttämään neuvolan palveluita.
-Laaja-alainen yhteistyö eri tahojen välillä on erityisen tärkeää
-lastensuojelussa.
+Äitiys- ja lastenneuvolat sekä koulu- ja opiskelijaterveydenhuolto ovat lapsiperhepalveluiden ydin. Siksi niiden toimivuudesta huolehtiminen on tärkeää. Lasten, nuorten ja lapsiperheiden palvelut on hyvä keskittää perhekeskuksiin, joissa toteutetaan moniammatillista ja integroitua työtapaa yhdessä varhaiskasvatuksen ja kotien kanssa. Tämä edellyttää riittäviä resursseja ja ammattitaitoa monialaiseen työskentelyyn. Erityisesti neuvolapsykologien määrää tulee lisätä nykyisestä ja kannustaa myös isiä käyttämään neuvolan palveluita. Laaja-alainen yhteistyö eri tahojen välillä on erityisen tärkeää lastensuojelussa. 
 
 
-Niille alueille, joissa on paljon vähävaraisuutta, suuria määriä muita kuin
-suomea tai ruotsia äidinkielenään puhuvia tai esimerkiksi koulupudokkaita, on
-syytä suunnata lisäresursseja. Näiden resurssien käytöstä voidaan päättää
-mahdollisimman lähellä toimintaa.
+Niille alueille, joissa on paljon vähävaraisuutta, suuria määriä muita kuin suomea tai ruotsia äidinkielenään puhuvia tai esimerkiksi koulupudokkaita, on syytä suunnata lisäresursseja. Näiden resurssien käytöstä voidaan päättää mahdollisimman lähellä toimintaa.
 
 
-Kun palveluja keskitetään isompiin yksiköihin, on tärkeää turvata myös
-lähipalveluita. Esimerkiksi alle 1-vuotiaiden neuvolatarkastukset on hyvä
-järjestää mahdollisimman lähellä kotia, ja isommille lapsille tämä voi toteutua
-päiväkodissa. Kuntoutusta ja psykologipalveluita tulee myös jalkauttaa
-päiväkoteihin. Varhaiskasvatuspsykologien palvelut on kirjattava lakiin, kuten
-perusopetuksen ja toisen asteen koulutuksen opiskeluhuollon psykologin palvelut.
+Kun palveluja keskitetään isompiin yksiköihin, on tärkeää turvata myös lähipalveluita. Esimerkiksi alle 1-vuotiaiden neuvolatarkastukset on hyvä järjestää mahdollisimman lähellä kotia, ja isommille lapsille tämä voi toteutua päiväkodissa. Kuntoutusta ja psykologipalveluita tulee myös jalkauttaa päiväkoteihin. Varhaiskasvatuspsykologien palvelut on kirjattava lakiin, kuten perusopetuksen ja toisen asteen koulutuksen opiskeluhuollon psykologin palvelut.
 
 
-Lasten ja nuorten psykiatristen palvelujen nykyistä rajaa pitää purkaa ja
-huolehtia nykyistä paremmin hoidon jatkuvuudesta nuoren hankalassa
-nivelvaiheessa johon liittyy lisäksi murrosiän alkaminen ja siirtyminen
-yläkouluun. Nuorten kohdalla mielenterveys- ja päihdepalvelujen sekä -neuvonnan
-saavutettavuus on tärkeää.
+Lasten ja nuorten psykiatristen palvelujen nykyistä rajaa pitää purkaa ja huolehtia nykyistä paremmin hoidon jatkuvuudesta nuoren hankalassa nivelvaiheessa johon liittyy lisäksi murrosiän alkaminen ja siirtyminen yläkouluun. Nuorten kohdalla mielenterveys- ja päihdepalvelujen sekä -neuvonnan saavutettavuus on tärkeää. 
 
 
-Etsivää nuorisotyötä tulee olla kaikilla paikkakunnilla, jotta syrjäytyneet tai
-syrjäytymisvaarassa olevat nuoret saadaan mukaan yhteiskuntaan.
+Etsivää nuorisotyötä tulee olla kaikilla paikkakunnilla, jotta syrjäytyneet tai syrjäytymisvaarassa olevat nuoret saadaan mukaan yhteiskuntaan.
 
 
 * Yhtenä neuvoloiden toiminnan tavoitteena on rokotekattavuuden pitäminen korkealla.
@@ -304,24 +194,13 @@ syrjäytymisvaarassa olevat nuoret saadaan mukaan yhteiskuntaan.
 ### 3.4 Opiskelijat tarvitsevat riittävästi tukea
 
 
-Opiskelijoiden mielenterveysongelmat ovat lisääntyneet 2000 -luvulla. He kokevat
-enemmän uupumista, kuormitusta ja riittämättömyyttä kuin koskaan aikaisemmin.
-Niukka ja epävarma toimeentulo lisää psyykkistä oireilua.
+Opiskelijoiden mielenterveysongelmat ovat lisääntyneet 2000 -luvulla. He kokevat enemmän uupumista, kuormitusta ja riittämättömyyttä kuin koskaan aikaisemmin. Niukka ja epävarma toimeentulo lisää psyykkistä oireilua.
 
 
-Valtakunnallisen Ylioppilaiden terveydenhoitosäätiön (YTHS) tulee tuottaa
-kaikkien korkeakouluopiskelijoiden opiskeluterveydenhuollon palvelut. YTHS:n
-tuottama opiskeluterveydenhuolto on kokonaisuus, johon kuuluu opiskeluyhteisön
-terveellisyyden ja turvallisuuden edistäminen, ongelmien ennaltaehkäisy ja
-terveyden edistäminen sekä sairauksien hoito. YTHS tarjoaa yleisterveyden,
-suunterveyden, mielenterveyden ja seksuaaliterveyden palveluita.
+Valtakunnallisen Ylioppilaiden terveydenhoitosäätiön (YTHS) tulee tuottaa kaikkien korkeakouluopiskelijoiden opiskeluterveydenhuollon palvelut. YTHS:n tuottama opiskeluterveydenhuolto on kokonaisuus, johon kuuluu opiskeluyhteisön terveellisyyden ja turvallisuuden edistäminen, ongelmien ennaltaehkäisy ja terveyden edistäminen sekä sairauksien hoito. YTHS tarjoaa yleisterveyden, suunterveyden, mielenterveyden ja seksuaaliterveyden palveluita. 
 
 
-Oppilaitoksen sekä sosiaali- ja terveydenhuollon yhteistoiminnan on oltava
-helppoa ja joustavaa. Joiltain osin koulu- ja opiskeluterveydenhuollon pitää
-toimia myös perusterveydenhuoltoa toteuttavana tahona, jotta opiskelijoiden
-pompottelua voidaan välttää. Myös tietosuojakäytännöt on luotava sellaisiksi,
-että ne eivät estä yhteistyötä asiakkaan hyväksi.
+Oppilaitoksen sekä sosiaali- ja terveydenhuollon yhteistoiminnan on oltava helppoa ja joustavaa. Joiltain osin koulu- ja opiskeluterveydenhuollon pitää toimia myös perusterveydenhuoltoa toteuttavana tahona, jotta opiskelijoiden pompottelua voidaan välttää. Myös tietosuojakäytännöt on luotava sellaisiksi, että ne eivät estä yhteistyötä asiakkaan hyväksi.
 
 
 * Toisen asteen opiskelijoilla tulee olla säännölliset terveydenhoitajan, koulukuraattorin ja koulupsykologin palvelut omissa kouluissaan. Myös säännölliset haastattelut ovat tarpeen matalan kynnyksen takaamiseksi.
@@ -336,36 +215,19 @@ että ne eivät estä yhteistyötä asiakkaan hyväksi.
 ### 3.5 Työikäisten hyvinvoinnin ja terveyden turvaaminen.
 
 
-Lakisääteisen työterveyshuollon keskeisiä tehtäviä ovat työkyvyn ylläpitäminen,
-etenkin työperäisten terveyshaittojen ennaltaehkäisy ja terveyden seuranta.
-Toiminnassa on noudatettava työterveyshuoltolain ja asetuksen mukaista hyvää
-työterveyshuolto -käytäntöä. Työterveyshuoltoon voi kuulua myös työnantajan
-kustantama etenkin työperäisten sairauksien hoito, joka lisää työterveyshuollon
-mahdollisuuksia varhaiseen tukeen ja lyhentää työkyvyttömyysaikoja. Työnantajan,
-työsuojelun ja työterveyshuollon yhteistyötä lisätään. Työterveyshuollon
-osallistuminen työsuojelukokouksiin tehdään säännönmukaiseksi toiminnaksi.
+Lakisääteisen työterveyshuollon keskeisiä tehtäviä ovat työkyvyn ylläpitäminen, etenkin työperäisten terveyshaittojen ennaltaehkäisy ja terveyden seuranta. Toiminnassa on noudatettava työterveyshuoltolain ja asetuksen mukaista hyvää työterveyshuolto -käytäntöä. Työterveyshuoltoon voi kuulua myös työnantajan kustantama etenkin työperäisten sairauksien hoito, joka lisää työterveyshuollon mahdollisuuksia varhaiseen tukeen ja lyhentää työkyvyttömyysaikoja. Työnantajan, työsuojelun ja työterveyshuollon yhteistyötä lisätään. Työterveyshuollon osallistuminen työsuojelukokouksiin tehdään säännönmukaiseksi toiminnaksi.
 
 
-Niin lääkinnällisen kuin ammatillisen kuntoutuksen avulla mahdollistetaan
-osatyökykyisen henkilön pysymistä työelämässä, joko omassa tai uudessa työssä,
-osa-aikaisena tai kokopäiväisenä työkyvyn mukaan. KELAn ja työeläkelaitosten
-ammatillisen kuntoutuksen yhteen sovittamista ja käyttöä on lisättävä.
+Niin lääkinnällisen kuin ammatillisen kuntoutuksen avulla mahdollistetaan osatyökykyisen henkilön pysymistä työelämässä, joko omassa tai uudessa työssä, osa-aikaisena tai kokopäiväisenä työkyvyn mukaan. KELAn ja työeläkelaitosten ammatillisen kuntoutuksen yhteen sovittamista ja käyttöä on lisättävä.
 
 
-Työntekijän työkyvyn merkittävästi heikentyessä on työterveyshuollon
-käynnistettävä sosiaali-ja terveydenhuollon, lääkinnällisen sekä ammatillisen
-kuntoutuksen palveluihin ohjaaminen ja palvelukokonaisuuden koordinoiminen
-yhteistyössä työnantajan kanssa.
+Työntekijän työkyvyn merkittävästi heikentyessä on työterveyshuollon käynnistettävä sosiaali-ja terveydenhuollon, lääkinnällisen sekä ammatillisen kuntoutuksen palveluihin ohjaaminen ja palvelukokonaisuuden koordinoiminen yhteistyössä työnantajan kanssa.
 
 
-Työhyvinvoinnista huolehtiminen kuuluu työnantajille, ja esimiehet ovat
-avainasemassa.
+Työhyvinvoinnista huolehtiminen kuuluu työnantajille, ja esimiehet ovat avainasemassa. 
 
 
-Työhyvinvointia tukevaa esihenkilökoulutusta tulee toteuttaa
-työterveysyhteistyönä. Esihenkilöiden ja työntekijöiden välinen luottamus on
-sekä hyvän työilmapiirin että työhyvinvoinnin perusta. Lyhyisiin sairauslomiin
-riittää pääsääntöisesti työntekijän oma sairauspoissaoloilmoitus.
+Työhyvinvointia tukevaa esihenkilökoulutusta tulee toteuttaa työterveysyhteistyönä. Esihenkilöiden ja työntekijöiden välinen luottamus on sekä hyvän työilmapiirin että työhyvinvoinnin perusta. Lyhyisiin sairauslomiin riittää pääsääntöisesti työntekijän oma sairauspoissaoloilmoitus.
 
 
 * Kansalaisilla on oltava tarjolla kattavat sosiaali- ja terveyspalvelut riippumatta työllisyystilanteesta.
@@ -385,15 +247,10 @@ riittää pääsääntöisesti työntekijän oma sairauspoissaoloilmoitus.
 ### 3.6 Suun terveydestä tulee huolehtia koko elämän ajan
 
 
-Suun terveys ja yleinen terveydentila ovat kytköksissä toisiinsa. Tästä syystä
-suun terveydestä tulee huolehtia koko elämän ajan.
+Suun terveys ja yleinen terveydentila ovat kytköksissä toisiinsa. Tästä syystä suun terveydestä tulee huolehtia koko elämän ajan.
 
 
-Palvelusetelien tulisi kattaa hammastoimenpiteet niin, että hoito tehdään
-hinnasta huolimatta suun terveyden kannalta parhaalla tavalla. Esimerkiksi
-hammasta ei taloudellisista syistä poisteta sen takia, että potilaalla ei ole
-varaa itse maksaa juurihoidosta aiheutuvia kustannuksia, kun hoitositoumus ei
-kata kaikkia kustannuksia.
+Palvelusetelien tulisi kattaa hammastoimenpiteet niin, että hoito tehdään hinnasta huolimatta suun terveyden kannalta parhaalla tavalla. Esimerkiksi hammasta ei taloudellisista syistä poisteta sen takia, että potilaalla ei ole varaa itse maksaa juurihoidosta aiheutuvia kustannuksia, kun hoitositoumus ei kata kaikkia kustannuksia.
 
 
 * Suun terveydenhuoltopalvelut voidaan toteuttaa kunnan omana palveluna, kuntayhtymän palveluna, palvelusetelillä tai ostamalla palvelun esim. yksityiseltä palveluntuottajalta.
@@ -407,37 +264,19 @@ kata kaikkia kustannuksia.
 ### 3.7 Päihde-ja mielenterveysongelmien varhainen tunnistaminen ja puuttuminen varmistettava
 
 
-Mielenterveyden ongelmien ilmaantuessa on ensisijaista varmistaa helppo ja nopea
-hoitoonpääsy.
+Mielenterveyden ongelmien ilmaantuessa on ensisijaista varmistaa helppo ja nopea hoitoonpääsy. 
 
 
-Perustason mielenterveys- ja päihdetyö tulee valtavirtaistaa osaksi muita
-perustason palveluja. Tämä edistää palveluiden nopeaa saatavuutta, mahdollistaa
-ihmisen kokonaisvaltaisen auttamisen ja vähentää mielenterveyden ongelmiin
-liittyvää häpeää.
+Perustason mielenterveys- ja päihdetyö tulee valtavirtaistaa osaksi muita perustason palveluja. Tämä edistää palveluiden nopeaa saatavuutta, mahdollistaa ihmisen kokonaisvaltaisen auttamisen ja vähentää mielenterveyden ongelmiin liittyvää häpeää.
 
 
-Päihdepolitiikan tavoitteena on terveydellisten ja sosiaalisten haittojen
-vähentäminen. Päihdeiden riskikäyttö on tunnistettava ennen päihdeongelman
-muodostumista. Terveyden- ja sosiaalihuollon kontakteissa tulisi aina ottaa
-puheeksi ja selvittää päihteiden käyttöä esim. AUDIT-kyselyllä. Päihdeongelmista
-kärsivien oikea-aikaiseen ja vaikuttavaan hoitoon tulee kohdistaa riittäviä
-resursseja, erityisesti odottavien, päihteitä käyttävien, äitien osalta tulevien
-lasten terveyden takaamiseksi. Moniammatillista yhteistyötä tulee lisätä
-julkisen sektorin, yritysten sekä kolmannen sektorin toimijoiden kanssa.
+Päihdepolitiikan tavoitteena on terveydellisten ja sosiaalisten haittojen vähentäminen. Päihdeiden riskikäyttö on tunnistettava ennen päihdeongelman muodostumista. Terveyden- ja sosiaalihuollon kontakteissa tulisi aina ottaa puheeksi ja selvittää päihteiden käyttöä esim. AUDIT-kyselyllä. Päihdeongelmista kärsivien oikea-aikaiseen ja vaikuttavaan hoitoon tulee kohdistaa riittäviä resursseja, erityisesti odottavien, päihteitä käyttävien, äitien osalta tulevien lasten terveyden takaamiseksi. Moniammatillista yhteistyötä tulee lisätä julkisen sektorin, yritysten sekä kolmannen sektorin toimijoiden kanssa.
 
 
-Sekä päihde- että mielenterveyspalveluissa tulee huolehtia hoitoketjun
-sujuvuudesta ja jatkuvuudesta. Erityistä huomiota tulee kiinnittää
-nivelvaiheisiin, kuten sairaalasta tai katkaisuhoidosta kotiutumiseen. Ei riitä
-että kotiutuvalle määrätään lääkitys, vaan kotiuttavan tahon tulee huolehtia
-myös hoidon jatkuvuudesta. Lisäksi tulee selvittää millaiset olosuhteet kotona
-vallitsevat ja tarvitsevatko muut perheenjäsenet tukea.
+Sekä päihde- että mielenterveyspalveluissa tulee huolehtia hoitoketjun sujuvuudesta ja jatkuvuudesta. Erityistä huomiota tulee kiinnittää nivelvaiheisiin, kuten sairaalasta tai katkaisuhoidosta kotiutumiseen. Ei riitä että kotiutuvalle määrätään lääkitys, vaan kotiuttavan tahon tulee huolehtia myös hoidon jatkuvuudesta. Lisäksi tulee selvittää millaiset olosuhteet kotona vallitsevat ja tarvitsevatko muut perheenjäsenet tukea.
 
 
-Vaikka itsemurhien lukumäärä on viime vuosina laskenut, ovat luvut edelleen
-kansainvälisesti vertailtuna suuria. Itsemurha on merkittävä työikäisen väestön
-ja nuorten aikuisten kuolinsyy.
+Vaikka itsemurhien lukumäärä on viime vuosina laskenut, ovat luvut edelleen kansainvälisesti vertailtuna suuria. Itsemurha on merkittävä työikäisen väestön ja nuorten aikuisten kuolinsyy.
 
 
 * Panostetaan ennaltaehkäisevään mielenterveystyöhön
@@ -453,11 +292,7 @@ ja nuorten aikuisten kuolinsyy.
 ### 3.8 Ikäihmiset elävät omannäköistä ja rikasta elämää itsenäisesti ja tuetusti
 
 
-Ikäihmisten palveluja voidaan keskittää monipuolisiin palvelukeskuksiin, jotka
-tarjoavat sekä varsinaisia sosiaali- ja terveydenhuollon palveluja (mm.
-asumispalveluita ja päiväkeskustoimintaa) että harrastus- ja liikuntapalveluita
-sekä kolmannen sektorin toimintaa. Myös muissa palveluissa kuten liikunta- ja
-kulttuuripalveluissa on huomioitava esteettömyys ja muut ikäihmisten tarpeet.
+Ikäihmisten palveluja voidaan keskittää monipuolisiin palvelukeskuksiin, jotka tarjoavat sekä varsinaisia sosiaali- ja terveydenhuollon palveluja (mm. asumispalveluita ja päiväkeskustoimintaa) että harrastus- ja liikuntapalveluita sekä kolmannen sektorin toimintaa. Myös muissa palveluissa kuten liikunta- ja kulttuuripalveluissa on huomioitava esteettömyys ja muut ikäihmisten tarpeet.
 
 
 * Palveluissa on varmistettava itsemääräämisoikeuden toteutuminen ja oman toimijuuden tukeminen. Mikäli ihminen ei itse kykene tahtoaan ilmaisemaan, on hänen läheistään tai nimeämäänsä henkilöä kuultava.
@@ -475,39 +310,16 @@ kulttuuripalveluissa on huomioitava esteettömyys ja muut ikäihmisten tarpeet.
 ### 3.9 Vammaisille ja erityisryhmille tasa-arvoista palvelua ja lisää osallisuutta päätöksentekoon
 
 
-Suomi on ratifioinut YK:n yleissopimuksen vammaisten henkilöiden oikeuksista.
-Yksi sen keskeinen tavoite ja toteutumisen edellytys on vammaisten oma
-osallisuus kaikilla päätöksenteon tasoilla. Vammaisneuvostot ovat joka kunnassa
-virallisia neuvoa-antavia elimiä. Ne vaikuttavat uuden kuntalain mukaisesti
-kunnan eri toimialojen suunnitteluun, valmisteluun ja seurantaan asioissa,
-joilla on merkitystä vammaisten henkilöiden hyvinvoinnin, terveyden,
-osallisuuden, elinympäristön, asumisen, liikkumisen tai päivittäisistä
-toiminnoista suoriutumisen tai heidän tarvitsemiensa palvelujen kannalta.
+Suomi on ratifioinut YK:n yleissopimuksen vammaisten henkilöiden oikeuksista. Yksi sen keskeinen tavoite ja toteutumisen edellytys on vammaisten oma osallisuus kaikilla päätöksenteon tasoilla. Vammaisneuvostot ovat joka kunnassa virallisia neuvoa-antavia elimiä. Ne vaikuttavat uuden kuntalain mukaisesti kunnan eri toimialojen suunnitteluun, valmisteluun ja seurantaan asioissa, joilla on merkitystä vammaisten henkilöiden hyvinvoinnin, terveyden, osallisuuden, elinympäristön, asumisen, liikkumisen tai päivittäisistä toiminnoista suoriutumisen tai heidän tarvitsemiensa palvelujen kannalta. 
 
 
-Suomessa on viime vuosina päästy lähes kokonaan eroon pitkäaikaisesta
-laitosasumisesta, mutta monet asumispalvelu- ja ryhmäasumisen muodot ovat
-käytännöiltään hyvin laitosmaisia ja suljettuja. Yhteisasuminen on hyvä ratkaisu
-silloin, kun ihminen voi itse valita kenen kanssa asuu - eikä valinta katso
-esimerkiksi diagnoosia.
+Suomessa on viime vuosina päästy lähes kokonaan eroon pitkäaikaisesta laitosasumisesta, mutta monet asumispalvelu- ja ryhmäasumisen muodot ovat käytännöiltään hyvin laitosmaisia ja suljettuja. Yhteisasuminen on hyvä ratkaisu silloin, kun ihminen voi itse valita kenen kanssa asuu - eikä valinta katso esimerkiksi diagnoosia.
 
 
-Palvelunhakuprosesseja tulee selkeyttää ja yksinkertaistaa niin, että ne ovat
-paremmin saavutettavia. Henkilökohtainen apu turvaa monien vammaisten
-henkilöiden itsemääräämisoikeuden ja itsenäisen elämän. Niiden, jotka toimivat
-itse avustajiensa työnantajina, on saatava työnantajuuteensa koulutusta ja
-tukea. Muiden järjestämistapojen valitseminen ei saa johtaa siihen, että
-itsemääräämisoikeus ei toteudu.
+Palvelunhakuprosesseja tulee selkeyttää ja yksinkertaistaa niin, että ne ovat paremmin saavutettavia. Henkilökohtainen apu turvaa monien vammaisten henkilöiden itsemääräämisoikeuden ja itsenäisen elämän. Niiden, jotka toimivat itse avustajiensa työnantajina, on saatava työnantajuuteensa koulutusta ja tukea. Muiden järjestämistapojen valitseminen ei saa johtaa siihen, että itsemääräämisoikeus ei toteudu.
 
 
-Mikäli vammaisella on vaikeuksia ilmaista itseään vastavuoroisesti, tulee
-käyttää erilaisia vaihtoehtoisia kommunikaation tapoja ja tuettua
-päätöksentekoa. Vammaista edustavien ihmisen (omaiset tai viranomaiset)
-valinnassa on huolehdittava ihmisen oman tahdon toteutumisesta, ja edustajien
-tulee tehdä sellaisia valintoja, joita vammainen itsekin olisi valinnut.
-Toisaalta pitää pystyä puuttumaan siihen, jos vammainen henkilö palveluvalintoja
-tehdessään ei tunnista avun tarvettaan tai esim. ylivelkaantuu omien
-valintojensa vuoksi tai kieltäytyy avusta jota hän ilmiselvästi tarvitsee.
+Mikäli vammaisella on vaikeuksia ilmaista itseään vastavuoroisesti, tulee käyttää erilaisia vaihtoehtoisia kommunikaation tapoja ja tuettua päätöksentekoa. Vammaista edustavien ihmisen (omaiset tai viranomaiset) valinnassa on huolehdittava ihmisen oman tahdon toteutumisesta, ja edustajien tulee tehdä sellaisia valintoja, joita vammainen itsekin olisi valinnut. Toisaalta pitää pystyä puuttumaan siihen, jos vammainen henkilö palveluvalintoja tehdessään ei tunnista avun tarvettaan tai esim. ylivelkaantuu omien valintojensa vuoksi tai kieltäytyy avusta jota hän ilmiselvästi tarvitsee.
 
 
 * Parasta vammaispolitiikkaa on laaja-alainen esteettömyys ja yhdenvertaisuus.
@@ -527,14 +339,10 @@ valintojensa vuoksi tai kieltäytyy avusta jota hän ilmiselvästi tarvitsee.
 ### 3.10 Sukupuoli- ja seksuaalivähemmistöille tasa-arvoiset oikeudet ja kohtelu
 
 
-Sukupuoli- ja seksuaalivähemmistöihin kuuluvat kohtaavat edelleen paljon
-ennakkoluuloja ja syrjintää sosiaali- ja terveydenhuollossa. Siksi on tärkeää
-lisätä henkilökunnan tietoisuutta ja koulutusta sateenkaari-ihmisten
-kohtaamisessa.
+Sukupuoli- ja seksuaalivähemmistöihin kuuluvat kohtaavat edelleen paljon ennakkoluuloja ja syrjintää sosiaali- ja terveydenhuollossa. Siksi on tärkeää lisätä henkilökunnan tietoisuutta ja koulutusta sateenkaari-ihmisten kohtaamisessa.
 
 
-Suomen lainsäädäntö rikkoo edelleen selvästi ihmisoikeuksia edellyttämällä
-lisääntymiskyvyttömyyttä juridisen sukupuolenkorjauksen ehtona.
+Suomen lainsäädäntö rikkoo edelleen selvästi ihmisoikeuksia edellyttämällä lisääntymiskyvyttömyyttä juridisen sukupuolenkorjauksen ehtona.
 
 
 * Suomeen tarvitaan valtion toimintaohjelma seksuaali- ja sukupuolivähemmistöjen yhdenvertaisuuden ja hyvinvoinnin edistämiseksi.
@@ -549,21 +357,10 @@ lisääntymiskyvyttömyyttä juridisen sukupuolenkorjauksen ehtona.
 ### 3.11 Omaishoidon tuessa huomioitava myös psyykkinen tuki ja valvonta
 
 
-Omaishoidon tuki on yksi keino, jolla yhteiskunta tukee vammaisten ja apua
-tarvitsevien vanhusten asumista ja hoitoa kotona. Omaishoidon tukeen kuuluu
-taloudellinen tuki ja muita palveluita, ja omaishoitajille taataan myös
-vapaapäiviä. Moni omainen huolehtii läheistään myös ilman omaishoidon tukea.
-Myös omaishoidon tuen ulkopuolella olevien hyvinvoinnista ja jaksamisesta tulee
-huolehtia. Eniten omaishoitoa saavat ikääntyneet, yleensä muistisairaat
-vanhukset, mutta tämä on tärkeä tukimuoto myös vammaisten lasten perheissä.
+Omaishoidon tuki on yksi keino, jolla yhteiskunta tukee vammaisten ja apua tarvitsevien vanhusten asumista ja hoitoa kotona. Omaishoidon tukeen kuuluu taloudellinen tuki ja muita palveluita, ja omaishoitajille taataan myös vapaapäiviä. Moni omainen huolehtii läheistään myös ilman omaishoidon tukea. Myös omaishoidon tuen ulkopuolella olevien hyvinvoinnista ja jaksamisesta tulee huolehtia. Eniten omaishoitoa saavat ikääntyneet, yleensä muistisairaat vanhukset, mutta tämä on tärkeä tukimuoto myös vammaisten lasten perheissä.
 
 
-Erityisesti vammaisten lasten kohdalla on merkittävänä ongelmana se, ettei tuki
-riitä kattamaan omaishoitajan työstä poisjäännistä aiheutuvaa ansionmenetystä.
-Tuen myöntämisen kriteerit eivät myöskään ota riittävästi huomioon hoidon
-psyykkistä sitovuutta vaan keskittyy enemmän fyysisen hoivan tarpeeseen. Näin
-erityisesti neuropsykiatrisia oireista tai mielenterveyden häiriöistä kärsivät
-lapset ja nuoret jäävät tuen ulkopuolelle tai sen matalimmalle tasolle.
+Erityisesti vammaisten lasten kohdalla on merkittävänä ongelmana se, ettei tuki riitä kattamaan omaishoitajan työstä poisjäännistä aiheutuvaa ansionmenetystä. Tuen myöntämisen kriteerit eivät myöskään ota riittävästi huomioon hoidon psyykkistä sitovuutta vaan keskittyy enemmän fyysisen hoivan tarpeeseen. Näin erityisesti neuropsykiatrisia oireista tai mielenterveyden häiriöistä kärsivät lapset ja nuoret jäävät tuen ulkopuolelle tai sen matalimmalle tasolle.
 
 
 * Omaishoitoa on kehitettävä yhdenvertaisesti varmistamalla riittävät resurssit ja tukemalla joustavasti omaishoitajien jaksamista. Siirretään omaishoidon tuen maksaminen maakunnille tai Kelalle.
@@ -574,34 +371,19 @@ lapset ja nuoret jäävät tuen ulkopuolelle tai sen matalimmalle tasolle.
 ### 3.12 Monitasoiseen perhe- ja lähisuhdeväkivaltaan sekä seksuaaliseen häirintään puuttuminen kuuluu kaikille
 
 
-Monitasoiseen perhe- ja lähisuhdeväkivaltaan sekä seksuaaliseen häirintään
-puuttuminen kuuluu kaikille
+Monitasoiseen perhe- ja lähisuhdeväkivaltaan sekä seksuaaliseen häirintään puuttuminen kuuluu kaikille
 
 
-Opetuksen, kasvatuksen ja valistuksen avulla ja laaja-alaisella eri toimialojen
-yhteistyöllä parannetaan seksuaalisen häirinnän, fyysisen ja henkisen väkivallan
-ja väkivallan uhan tunnistamista, ehkäisemistä ja torjumista kodeissa ja
-muualla.
+Opetuksen, kasvatuksen ja valistuksen avulla ja laaja-alaisella eri toimialojen yhteistyöllä parannetaan seksuaalisen häirinnän, fyysisen ja henkisen väkivallan ja väkivallan uhan tunnistamista, ehkäisemistä ja torjumista kodeissa ja muualla. 
 
 
-Lasten kanssa työskentelevien koulutusta on lisättävä niin, että heillä on
-paremmat valmiudet tunnistaa ja puuttua lapseen kohdistuvaan kaltoinkohteluun,
-väkivaltaan ja seksuaaliseen hyväksikäyttöön. Lisäksi lasten kanssa
-työskenteleviltä tulee aina vaatia rikostaustaote.
+Lasten kanssa työskentelevien koulutusta on lisättävä niin, että heillä on paremmat valmiudet tunnistaa ja puuttua lapseen kohdistuvaan kaltoinkohteluun, väkivaltaan ja seksuaaliseen hyväksikäyttöön. Lisäksi lasten kanssa työskenteleviltä tulee aina vaatia rikostaustaote.
 
 
-Työpaikoilla on puututtava aina kaikenlaiseen häirintään. Väkivallasta on
-uskallettava puhua, siihen on puututtava ja tiedon pitää kulkea sujuvasti ja
-katkeamatta eri toimijoiden välillä. Väkivallan kierteeseen on päästävä
-puuttumaan mahdollisimman varhaisessa vaiheessa.
+Työpaikoilla on puututtava aina kaikenlaiseen häirintään. Väkivallasta on uskallettava puhua, siihen on puututtava ja tiedon pitää kulkea sujuvasti ja katkeamatta eri toimijoiden välillä. Väkivallan kierteeseen on päästävä puuttumaan mahdollisimman varhaisessa vaiheessa.
 
 
-Istanbulin sopimuksen 8 artiklan mukaisesti on valtion annettava käyttöön
-riittävät rahoitus- ja henkilövoimavarat, jotta yhtenäiset toimintaperiaatteet,
-toimet ja ohjelmat kaikkien Istanbulin yleissopimuksen soveltamisalaan kuuluvien
-väkivallan muotojen ehkäisemiseksi ja torjumiseksi, mukaan lukien
-kansalaisjärjestöjen ja kansalaisyhteiskunnan periaatteet, toimet ja ohjelmat,
-voidaan toteuttaa.
+Istanbulin sopimuksen 8 artiklan mukaisesti on valtion annettava käyttöön riittävät rahoitus- ja henkilövoimavarat, jotta yhtenäiset toimintaperiaatteet, toimet ja ohjelmat kaikkien Istanbulin yleissopimuksen soveltamisalaan kuuluvien väkivallan muotojen ehkäisemiseksi ja torjumiseksi, mukaan lukien kansalaisjärjestöjen ja kansalaisyhteiskunnan periaatteet, toimet ja ohjelmat, voidaan toteuttaa.
 
 
 * Väkivaltaa kokeneille on tarvittaessa pystyttävä tarjoamaan myös anonyymejä asuntoja, jotta väkivaltaa käyttävä osapuoli ei pysty löytämään uhriaan.
@@ -614,42 +396,19 @@ voidaan toteuttaa.
 ### 3.13 Monikulttuuriset sosiaali- ja terveyspalvelut auttavat eri kulttuuritaustoista tulevia ihmisiä sopeutumaan uuteen kotimaahansa ja edistämään terveyttään
 
 
-Suomessa yhä useampi sosiaali- ja terveydenhuollon asiakas tulee toisesta
-kulttuuriympäristöstä. Maahanmuuttajat ovat monimuotoinen ryhmä eikä ole
-olemassa kaikille yhtenäistä toimintamallia.
+Suomessa yhä useampi sosiaali- ja terveydenhuollon asiakas tulee toisesta kulttuuriympäristöstä. Maahanmuuttajat ovat monimuotoinen ryhmä eikä ole olemassa kaikille yhtenäistä toimintamallia.
 
 
-On tärkeää huolehtia asianmukaisesta tulkkauksesta sosiaali- ja
-terveyspalveluissa. Tulkkia käytettäessä on varmistettava, että käytetty kieli
-ja kulttuuri ovat oikeita ja tulkkauksen hoitavat ammattilaiset. Etukäteen
-tilattavan tulkin lisäksi tarvitaan toisinaan nopeaa tulkkausapua kuten ns.
-tulkkihelplinea, "kuumaa linjaa", joka auttaa sote-ammattilaisia epäselvissä
-tilanteissa.
+On tärkeää huolehtia asianmukaisesta tulkkauksesta sosiaali- ja terveyspalveluissa. Tulkkia käytettäessä on varmistettava, että käytetty kieli ja kulttuuri ovat oikeita ja tulkkauksen hoitavat ammattilaiset. Etukäteen tilattavan tulkin lisäksi tarvitaan toisinaan nopeaa tulkkausapua kuten ns. tulkkihelplinea, "kuumaa linjaa", joka auttaa sote-ammattilaisia epäselvissä tilanteissa. 
 
 
-On huolehdittava siitä, että sosiaali- ja terveyspalveluissa on riittävästi eri
-kielisiä ja eri kulttuuritaustoista tulevia ammattilaisia. Tulkkien
-koulutuksessa on huolehdittava tulkkien erikoistumisesta johonkin tiettyyn
-ammattialan sanastoon ja myös käytänteisiin.
+On huolehdittava siitä, että sosiaali- ja terveyspalveluissa on riittävästi eri kielisiä ja eri kulttuuritaustoista tulevia ammattilaisia. Tulkkien koulutuksessa on huolehdittava tulkkien erikoistumisesta johonkin tiettyyn ammattialan sanastoon ja myös käytänteisiin.
 
 
-On tärkeää kiinnittää huomiota terveydenhuoltohenkilöstön kulttuurituntemukseen
-ja siihen, että yhdenvertaisuus ja oikeudenmukaisuus toteutuvat kaikkien
-terveydenhuollon asiakkaiden keskuudessa riippumatta kulttuuritaustasta.
-Panostetaan henkilökunnan koulutukseen eri kulttuureista ja uskonnoista ja
-niiden vaikutuksesta maahanmuuttajien terveys- ja sairauskäsityksiin ja
-käyttäytymiseen. Terveydenhuollon henkilöstön tulee ottaa puheeksi tyttöjen
-sukuelinten silpominen ennaltaehkäisevästi niiden asiakkaiden kanssa, jotka ovat
-lähtöisin alueilta, joissa tyttöjä perinteisesti silvotaan. Äitiys- ja
-lastenneuvoloissa kerrotaan toimenpiteen terveysvaikutuksista sekä
-rangaistavuudesta. Myös kouluterveydenhoitajat ovat mukana ennaltaehkäisyssä.
+On tärkeää kiinnittää huomiota terveydenhuoltohenkilöstön kulttuurituntemukseen ja siihen, että yhdenvertaisuus ja oikeudenmukaisuus toteutuvat kaikkien terveydenhuollon asiakkaiden keskuudessa riippumatta kulttuuritaustasta. Panostetaan henkilökunnan koulutukseen eri kulttuureista ja uskonnoista ja niiden vaikutuksesta maahanmuuttajien terveys- ja sairauskäsityksiin ja käyttäytymiseen. Terveydenhuollon henkilöstön tulee ottaa puheeksi tyttöjen sukuelinten silpominen ennaltaehkäisevästi niiden asiakkaiden kanssa, jotka ovat lähtöisin alueilta, joissa tyttöjä perinteisesti silvotaan. Äitiys- ja lastenneuvoloissa kerrotaan toimenpiteen terveysvaikutuksista sekä rangaistavuudesta. Myös kouluterveydenhoitajat ovat mukana ennaltaehkäisyssä.
 
 
-Mielenterveyden häiriöihin liittyvät erilaiset uskomukset, tabut ja niiden
-käyttöön liittyvä stigma estävät joitakin maahanmuuttajia hakeutumasta
-mielenterveyspalveluihin. Sotaa ja vainoa paenneiden maahanmuuttajien
-traumaperäisiin mielenterveydenhäiriöihin tulee osata kiinnittää riittävästi
-huomiota jo perusterveydenhuollossa.
+Mielenterveyden häiriöihin liittyvät erilaiset uskomukset, tabut ja niiden käyttöön liittyvä stigma estävät joitakin maahanmuuttajia hakeutumasta mielenterveyspalveluihin. Sotaa ja vainoa paenneiden maahanmuuttajien traumaperäisiin mielenterveydenhäiriöihin tulee osata kiinnittää riittävästi huomiota jo perusterveydenhuollossa.
 
 
 * Tulkkauspalveluja on kehitettävä. Kieliongelmat ja tiedonpuute eivät saa johtaa siihen, että maahanmuuttaja-asiakkaiden hoitokäytännöt ovat vaihtelevia. Maksetaan kielilisää työntekijöille, jotka käyttävät työssään eri kieliä.
@@ -667,27 +426,16 @@ huomiota jo perusterveydenhuollossa.
 ### 3.14 Toimiva kuntoutus edellyttää useiden toimijoiden oikea-aikaisia, saumattomia ja integroituja palveluja ja etuuksia
 
 
-Kuntoutus on kuntoutujan tarpeista ja tavoitteista lähtevä, suunnitelmallinen
-prosessi, jossa kuntoutuja ylläpitää ja edistää omaa toiminta- ja työkykyään
-sekä toimintaympäristöä ammattilaisten tuella. Kuntoutus tukee kuntoutujan ja
-hänen lähipiirinsä voimavaroja, itsenäistä elämää, työllistyvyyttä ja
-sosiaalista osallisuutta.
+Kuntoutus on kuntoutujan tarpeista ja tavoitteista lähtevä, suunnitelmallinen prosessi, jossa kuntoutuja ylläpitää ja edistää omaa toiminta- ja työkykyään sekä toimintaympäristöä ammattilaisten tuella. Kuntoutus tukee kuntoutujan ja hänen lähipiirinsä voimavaroja, itsenäistä elämää, työllistyvyyttä ja sosiaalista osallisuutta.
 
 
-Kuntoutusjärjestelmän haasteita ovat hajanaisuus, rahoituksen monikanavaisuus ja
-kuntoutuskäsitteen vaikeaselkoisuus. Yhdenvertaisuus ei toteudu, koska
-järjestelmät ovat erilaisia ja kriteerit kuntoutukseen pääsylle ovat erilaisia.
-Kaikki eivät saa tarpeensa mukaista kuntoutusta ollenkaan tai oikea-aikaisesti.
+Kuntoutusjärjestelmän haasteita ovat hajanaisuus, rahoituksen monikanavaisuus ja kuntoutuskäsitteen vaikeaselkoisuus. Yhdenvertaisuus ei toteudu, koska järjestelmät ovat erilaisia ja kriteerit kuntoutukseen pääsylle ovat erilaisia. Kaikki eivät saa tarpeensa mukaista kuntoutusta ollenkaan tai oikea-aikaisesti.
 
 
-Ongelmia on myös palvelujen integraatiossa ja yhteensovittamisessa.
-Kuntoutustarpeen tunnistaminen on puutteellista johtuen tiedon, osaamisen, eri
-ryhmille kohdennettujen kuntoutuspalvelujen ja vaikuttavuuden puutteesta.
+Ongelmia on myös palvelujen integraatiossa ja yhteensovittamisessa. Kuntoutustarpeen tunnistaminen on puutteellista johtuen tiedon, osaamisen, eri ryhmille kohdennettujen kuntoutuspalvelujen ja vaikuttavuuden puutteesta.
 
 
-Nykyinen kuntoutusjärjestelmä vaatii uudistamista. Tavoitteena on, että
-kuntoutuja saa tarvitsemansa tuen ja palvelut oikea-aikaisesti eli riittävän
-ajoissa ja riittävän pitkään
+Nykyinen kuntoutusjärjestelmä vaatii uudistamista. Tavoitteena on, että kuntoutuja saa tarvitsemansa tuen ja palvelut oikea-aikaisesti eli riittävän ajoissa ja riittävän pitkään
 
 
 * Kuntoutukseen valtakunnalliset saatavuuskriteerit ja hyvät yhtenäiset käytännöt eri sairaus- ja vammaisuusryhmille.
@@ -702,34 +450,16 @@ ajoissa ja riittävän pitkään
 ### 3.15 Säädetään laki saattohoidosta tukemaan elämän loppuvaiheen hoitoa
 
 
-Jokaisella on oikeus hyvään kuolemaan. Kun ihmisen kuolema lähestyy
-väistämättömästi, hänen elämänlaatuaan voidaan useimmiten yhä ylläpitää ja jopa
-parantaa. Palliatiivisen hoidon tavoitteena on vähentää tuskaa ja hakea kivulle
-ja muille oireille lievitystä. Elämän hyvän loppumisen luominen edellyttää
-lainsäädännön lisäksi henkilökunnan koulutusta arvokkaan kuoleman ymmärtämiseen,
-hyvien käytäntöjen levittämistä, asennekasvatusta sekä resurssien lisäämistä
-erityisesti kotihoitoon ja ympärivuorokautiseen hoivaan.
+Jokaisella on oikeus hyvään kuolemaan. Kun ihmisen kuolema lähestyy väistämättömästi, hänen elämänlaatuaan voidaan useimmiten yhä ylläpitää ja jopa parantaa. Palliatiivisen hoidon tavoitteena on vähentää tuskaa ja hakea kivulle ja muille oireille lievitystä. Elämän hyvän loppumisen luominen edellyttää lainsäädännön lisäksi henkilökunnan koulutusta arvokkaan kuoleman ymmärtämiseen, hyvien käytäntöjen levittämistä, asennekasvatusta sekä resurssien lisäämistä erityisesti kotihoitoon ja ympärivuorokautiseen hoivaan.
 
 
-Saattohoito on osa palliatiivista hoitoa kuoleman lähestyessä. Kuolevaa ihmistä
-ja hänen läheisiään tuetaan ja hoidetaan yksilöllisesti parhaalla mahdollisella
-tavalla inhimillisiä arvoja kunnioittaen. Asiantuntevan saattohoidon avulla
-kyetään lähes kaikki potilaat hoitamaan kivuttomiksi.
+Saattohoito on osa palliatiivista hoitoa kuoleman lähestyessä. Kuolevaa ihmistä ja hänen läheisiään tuetaan ja hoidetaan yksilöllisesti parhaalla mahdollisella tavalla inhimillisiä arvoja kunnioittaen. Asiantuntevan saattohoidon avulla kyetään lähes kaikki potilaat hoitamaan kivuttomiksi.
 
 
-Kun kuolema on lähellä ja kärsimykset ovat sietämättömiä, tulee täysi-ikäisellä
-ja -valtaisella, asiasta riittävän itsenäisen ymmärryksen omaavalla ihmisellä
-olla oikeus päättää itse elämänsä lopettamisesta ja saada siihen ammattilaisen
-apua. On kuitenkin tärkeää varmistaa, että kyse on ihmisen omasta tahdosta ja
-näkemyksestä.
+Kun kuolema on lähellä ja kärsimykset ovat sietämättömiä, tulee täysi-ikäisellä ja -valtaisella, asiasta riittävän itsenäisen ymmärryksen omaavalla ihmisellä olla oikeus päättää itse elämänsä lopettamisesta ja saada siihen ammattilaisen apua. On kuitenkin tärkeää varmistaa, että kyse on ihmisen omasta tahdosta ja näkemyksestä.
 
 
-Eutanasiaan liittyvät ongelmat ovat useimmiten puutteellisen saattohoidon ja
-kehittymättömien palliatiivisten hoitoketjujen ja käytäntöjen ongelmia. Suomeen
-tarvitaan saattohoitolaki. Lain tulee antaa käytännölliset ohjeet ja toimivalta
-lääkäreille kivun lievitykseen, arvokkaan kuoleman luomiseen, tarpeettomien ja
-haitallisten hoitojen lopettamiseen sekä siirtymiseen kuntouttavasta hoidosta
-saattohoitoon.
+Eutanasiaan liittyvät ongelmat ovat useimmiten puutteellisen saattohoidon ja kehittymättömien palliatiivisten hoitoketjujen ja käytäntöjen ongelmia. Suomeen tarvitaan saattohoitolaki. Lain tulee antaa käytännölliset ohjeet ja toimivalta lääkäreille kivun lievitykseen, arvokkaan kuoleman luomiseen, tarpeettomien ja haitallisten hoitojen lopettamiseen sekä siirtymiseen kuntouttavasta hoidosta saattohoitoon.
 
 
 * Jokaisen ainutkertaisen kuoleman hyvä laatu on turvattava tarvittaessa hyvän saattohoidon turvin tai potilaan niin halutessa viime kädessä myös avustettuna.
@@ -743,26 +473,13 @@ saattohoitoon.
 ### 4.1 Maakunnat sosiaali- ja terveydehuollon järjestäjiksi
 
 
-Suomessa tarvitaan sote-uudistus palvelujen tehokkuuden ja yhdenvertaisuuden
-varmistamiseksi sekä kustannusten hillitsemiseksi. Perusterveydenhuollon,
-erikoissairaanhoidon sekä sosiaalitoimen järjestämisvastuun tulee olla yhdellä
-alueellisella taholla. Näin hoitoketju eri palvelujen välillä saadaan sujuvaksi
-ja voidaan panostaa ennaltaehkäisyyn, kun nykyisenlainen osaoptimointi kunnan ja
-sairaanhoitopiirin välillä loppuu.
+Suomessa tarvitaan sote-uudistus palvelujen tehokkuuden ja yhdenvertaisuuden varmistamiseksi sekä kustannusten hillitsemiseksi. Perusterveydenhuollon, erikoissairaanhoidon sekä sosiaalitoimen järjestämisvastuun tulee olla yhdellä alueellisella taholla. Näin hoitoketju eri palvelujen välillä saadaan sujuvaksi ja voidaan panostaa ennaltaehkäisyyn, kun nykyisenlainen osaoptimointi kunnan ja sairaanhoitopiirin välillä loppuu.
 
 
-Sote-palveluiden järjestäjän tulee olla riittävän iso rahoittamaan laajat
-palvelut ja kestämään kustannusheilahtelut. Vahvat järjestäjät takaavat
-yhdenvertaiset palvelut koko maassa.
+Sote-palveluiden järjestäjän tulee olla riittävän iso rahoittamaan laajat palvelut ja kestämään kustannusheilahtelut. Vahvat järjestäjät takaavat yhdenvertaiset palvelut koko maassa. 
 
 
-Vihreät kannattavat 9-12 itsehallinnollisen maakunnan mallia sote-palveluiden
-järjestäjiksi, mutta 18 maakunnan mallilla voidaan aloittaa. Uudistuksessa on
-edettävä vaiheittain. Ensin on luotava rakenteet ja niiden rahoitus sekä
-demokraattinen ohjaus. Sote-palvelut siirretään nykyisiltä toimijoilta
-hallitusti maakunnille. Maakunnille voidaan myöhemmin vaiheittain siirtää muita
-niiden kokoisille tahoille luontaisesti sopivia tehtäviä valtiolta, kunnilta ja
-kuntien yhteenliittymiltä.
+Vihreät kannattavat 9-12 itsehallinnollisen maakunnan mallia sote-palveluiden järjestäjiksi, mutta 18 maakunnan mallilla voidaan aloittaa. Uudistuksessa on edettävä vaiheittain. Ensin on luotava rakenteet ja niiden rahoitus sekä demokraattinen ohjaus. Sote-palvelut siirretään nykyisiltä toimijoilta hallitusti maakunnille. Maakunnille voidaan myöhemmin vaiheittain siirtää muita niiden kokoisille tahoille luontaisesti sopivia tehtäviä valtiolta, kunnilta ja kuntien yhteenliittymiltä.
 
 
 * Muodostetaan 9-12 maakuntaa, jotka vastaavat sote-palveluiden järjestämisestä, mutta 18 maakunnan mallilla voidaan aloittaa. Ensin luodaan hallinto ja maakuntavaltuusto.
@@ -815,42 +532,19 @@ kuntien yhteenliittymiltä.
 ### 5 Terveysteknologia sekä informaatio- ja viestintäteknologia helpottavat asiakkaiden hoitoa ja ammattilaisten työtä
 
 
-Digipalvelut vähentävät byrokratiaa ja paperityötä kaikkialla sosiaali- ja
-terveydenhuollossa. Ne helpottavat ja nopeuttavat asiointia ja vievät
-palveluohjauksen ja neuvonnan lähemmäs asiakasta ja potilasta.
+Digipalvelut vähentävät byrokratiaa ja paperityötä kaikkialla sosiaali- ja terveydenhuollossa. Ne helpottavat ja nopeuttavat asiointia ja vievät palveluohjauksen ja neuvonnan lähemmäs asiakasta ja potilasta. 
 
 
-Digitaaliset palvelut, kuten Terveyskylä sekä erilaiset oirekyselyt helpottavat
-ihmisten hakeutumista oikeisiin palveluihin oikeaan aikaan. Digitaalisia
-palveluja voidaan käyttää myös mielenterveyspalveluissa, kotihoidossa ja
-kotikuntoutuksessa.
+Digitaaliset palvelut, kuten Terveyskylä sekä erilaiset oirekyselyt helpottavat ihmisten hakeutumista oikeisiin palveluihin oikeaan aikaan. Digitaalisia palveluja voidaan käyttää myös mielenterveyspalveluissa, kotihoidossa ja kotikuntoutuksessa. 
 
 
-Terveysteknologia ja erityisesti informaatioteknologia tulevat tulevaisuudessa
-muuttamaan sosiaali- ja terveydenhuoltoa merkittävästi. Monet uudistuksista
-tuovat hyvää niin asiakkaiden hoitoon ja palveluun kuin ammattilaisten työhön.
-Mobiilitekniikka ja helppo etäyhteys hoitaviin tahoihin nopeuttavat asioiden
-hoitoa. Julkisen sosiaali- ja terveydenhuollon on otettava uudet käytännöt ja
-tekniikat ennakkoluulottomasti haltuun. Esimerkiksi älyvaatteet ja älykäs koti
-lisäävät turvallisuutta kotihoidossa, ja mahdollistavat itsenäisen elämän.
+Terveysteknologia ja erityisesti informaatioteknologia tulevat tulevaisuudessa muuttamaan sosiaali- ja terveydenhuoltoa merkittävästi. Monet uudistuksista tuovat hyvää niin asiakkaiden hoitoon ja palveluun kuin ammattilaisten työhön. Mobiilitekniikka ja helppo etäyhteys hoitaviin tahoihin nopeuttavat asioiden hoitoa. Julkisen sosiaali- ja terveydenhuollon on otettava uudet käytännöt ja tekniikat ennakkoluulottomasti haltuun. Esimerkiksi älyvaatteet ja älykäs koti lisäävät turvallisuutta kotihoidossa, ja mahdollistavat itsenäisen elämän.
 
 
-Uudet asiakas- ja potilastietojärjestelmät parantavat tiedon kulkua eri
-ammattilaisten välillä ja tuovat helpotusta lomakkeiden täyttöön ja muuhun
-rutiinityöhön. Ne myös varoittavat ja muistuttavat erilaisista riskitekijöitä,
-kuten lääkitysten yhteensopivuudesta. Näin ne vapauttavat ammattilaisten aikaa
-asiakas- ja potilastyöhön. Näiden järjestelmien käyttöönottoa tulee ohjata ja
-valmistella sellaisten ammattilaisten voimin, joilla on sekä vahva osaaminen
-sotesta että ymmärrystä teknologian hyödynnettävyydestä.
+Uudet asiakas- ja potilastietojärjestelmät parantavat tiedon kulkua eri ammattilaisten välillä ja tuovat helpotusta lomakkeiden täyttöön ja muuhun rutiinityöhön. Ne myös varoittavat ja muistuttavat erilaisista riskitekijöitä, kuten lääkitysten yhteensopivuudesta. Näin ne vapauttavat ammattilaisten aikaa asiakas- ja potilastyöhön. Näiden järjestelmien käyttöönottoa tulee ohjata ja valmistella sellaisten ammattilaisten voimin, joilla on sekä vahva osaaminen sotesta että ymmärrystä teknologian hyödynnettävyydestä.
 
 
-Uusien teknologioiden ja lääkkeiden käyttöönotossa on kuitenkin pidettävä huoli
-siitä, että ne hyödyttävät ensisijaisesti potilaiden ja muiden asiakkaiden
-elämää, parantavat hoidon tai ohjauksen laatua sekä tuottavat tosiasiallisia
-hyötyjä terveydelle ja/tai elämänlaadulle. On varmistettava julkisen tarjonnan
-avulla, että saatavilla on aina puolueetonta ja riippumatonta tietoa päätösten
-ja ratkaisujen tueksi niin yksittäisille sote-työntekijöille kuin laajempien
-päätösten tekijöillekin.
+Uusien teknologioiden ja lääkkeiden käyttöönotossa on kuitenkin pidettävä huoli siitä, että ne hyödyttävät ensisijaisesti potilaiden ja muiden asiakkaiden elämää, parantavat hoidon tai ohjauksen laatua sekä tuottavat tosiasiallisia hyötyjä terveydelle ja/tai elämänlaadulle. On varmistettava julkisen tarjonnan avulla, että saatavilla on aina puolueetonta ja riippumatonta tietoa päätösten ja ratkaisujen tueksi niin yksittäisille sote-työntekijöille kuin laajempien päätösten tekijöillekin. 
 
 
 * Tekoälyn ja robotiikan tuomia mahdollisuuksia sairauksien hoidossa on tuettava niin, että vähävaraiset eivät jää niitä ilman.
@@ -876,10 +570,7 @@ Tämä malli on Vihreiden esitys sote-uudistuksen toteuttamistavaksi.
 ### Tavoitteet
 
 
-Korostamme, että uudistus tulee valmistella huolellisesti, riittävästi aikaa
-toteutukseen varaten ja perustuslain reunaehdot tunnollisesti huomioiden. Olemme
-valmiit neuvottelemaan parlamentaarisesti kaikista ratkaisuista, jotka parhaiten
-toteuttavat tässä kuvatut uudistuksen tavoitteet.
+Korostamme, että uudistus tulee valmistella huolellisesti, riittävästi aikaa toteutukseen varaten ja perustuslain reunaehdot tunnollisesti huomioiden. Olemme valmiit neuvottelemaan parlamentaarisesti kaikista ratkaisuista, jotka parhaiten toteuttavat tässä kuvatut uudistuksen tavoitteet.
 
 
 * **Terveys- ja hyvinvointierojen** kaventaminen

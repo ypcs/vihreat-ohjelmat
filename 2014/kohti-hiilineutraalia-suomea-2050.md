@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:04:00.453593
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:24.715491
 title: Kohti hiilineutraalia Suomea 2050
 type: erityisohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1105
@@ -18,24 +18,13 @@ year: 2014
 *Hyväksytty valtuuskunnan kokouksessa 2.3.2014*
 
 
-Vihreiden tavoitteena on, että vuonna 2050 Suomi on hiilineutraali.
-Tavoitteeseen pääsemiseksi määritellään sitovat välitavoitteet. Ilmastonmuutos
-on yksi aikamme suurimmista kriiseistä, jonka vaikutukset ulottuvat Kainuun
-perukoilta Suurelle Valliriutalle. Siksi ilmastonmuutoksen torjunta pitää nostaa
-kaiken politiikanteon keskiöön. Tietoisuutta ilmastonmuutoksen vaikutuksista
-tulee lisätä ja ilmastokysymykset tulee huomioida kaikessa toiminnassa.
-Ilmastonmuutoksen torjuntaan tarvitaan kaikkia: valtio, kunnat, kuntien
-asukkaat, järjestöt ja yritykset.
+Vihreiden tavoitteena on, että vuonna 2050 Suomi on hiilineutraali. Tavoitteeseen pääsemiseksi määritellään sitovat välitavoitteet. Ilmastonmuutos on yksi aikamme suurimmista kriiseistä, jonka vaikutukset ulottuvat Kainuun perukoilta Suurelle Valliriutalle. Siksi ilmastonmuutoksen torjunta pitää nostaa kaiken politiikanteon keskiöön. Tietoisuutta ilmastonmuutoksen vaikutuksista tulee lisätä ja ilmastokysymykset tulee huomioida kaikessa toiminnassa. Ilmastonmuutoksen torjuntaan tarvitaan kaikkia: valtio, kunnat, kuntien asukkaat, järjestöt ja yritykset.
 
 
-Hiilineutraali tulevaisuus on välttämätön. Kahdenkin asteen globaali
-lämpötilannousu tarkoittaa suuria muutoksia siihen, miltä maailma tulee
-näyttämään. Voimme vielä helpottaa muutosta, tavoite on saavutettavissa ja
-työkalut ovat olemassa. Meillä ei ole aikaa hukattavaksi, on aika aloittaa nyt.
+Hiilineutraali tulevaisuus on välttämätön. Kahdenkin asteen globaali lämpötilannousu tarkoittaa suuria muutoksia siihen, miltä maailma tulee näyttämään. Voimme vielä helpottaa muutosta, tavoite on saavutettavissa ja työkalut ovat olemassa. Meillä ei ole aikaa hukattavaksi, on aika aloittaa nyt.
 
 
-Seuraavassa esitellään Vihreiden keinot, joilla on mahdollista pyrkiä kohti
-hiilineutraalia Suomea.
+Seuraavassa esitellään Vihreiden keinot, joilla on mahdollista pyrkiä kohti hiilineutraalia Suomea.
 
 
 ## 1. Johdonmukaista poliittista ohjausta

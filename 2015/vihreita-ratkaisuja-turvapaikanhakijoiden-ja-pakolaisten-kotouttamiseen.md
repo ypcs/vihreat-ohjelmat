@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:03:59.902741
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:24.163871
 title: "Vihreit\xE4 ratkaisuja turvapaikanhakijoiden ja pakolaisten kotouttamiseen"
 type: erityisohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1132
@@ -21,31 +21,19 @@ year: 2015
 ## Vihreät ratkaisut kotiutumiseen
 
 
-Maailmassa on tällä hetkellä noin 60 miljoonaa ihmistä, jotka ovat joutuneet
-pakenemaan kodistaan turvattomuuden, vainon, sodan tai luonnonkatastrofien
-vuoksi. Nämä ihmiset hakevat turvaa, ja kansainvälisen oikeuden mukaan muilla
-mailla on velvollisuus auttaa. Maailman pakolaistilanteen takia
-turvapaikanhakijoita saapuu myös Eurooppaan ja Suomeen entistä enemmän. Näille
-tosiasioille emme voi mitään. Emme myöskään voi sulkea silmiämme tai rajojamme
-maailman ihmisten hädältä.
+Maailmassa on tällä hetkellä noin 60 miljoonaa ihmistä, jotka ovat joutuneet pakenemaan kodistaan turvattomuuden, vainon, sodan tai luonnonkatastrofien vuoksi. Nämä ihmiset hakevat turvaa, ja kansainvälisen oikeuden mukaan muilla mailla on velvollisuus auttaa. Maailman pakolaistilanteen takia turvapaikanhakijoita saapuu myös Eurooppaan ja Suomeen entistä enemmän. Näille tosiasioille emme voi mitään. Emme myöskään voi sulkea silmiämme tai rajojamme maailman ihmisten hädältä.
 
 
-Olennainen kysymys onkin, miten hoidamme tilanteen kunnialla Suomessa, jotta
-vainoa pakenevat saavat turvaa ja pääsevät täysipainoisesti osallistumaan
-yhteiskuntamme toimintaan.
+Olennainen kysymys onkin, miten hoidamme tilanteen kunnialla Suomessa, jotta vainoa pakenevat saavat turvaa ja pääsevät täysipainoisesti osallistumaan yhteiskuntamme toimintaan.
 
 
-Ihminen tarvitsee viisi perusasiaa, jotta hän voi asettua uuteen maahan: kodin,
-kielen, koulutuksen, työtä ja yhteyden paikallisiin ihmisiin. Vihreät esittävät
-keinoja, joiden avulla voimme tarjota nämä viisi asiaa kaikille tänne tuleville.
+Ihminen tarvitsee viisi perusasiaa, jotta hän voi asettua uuteen maahan: kodin, kielen, koulutuksen, työtä ja yhteyden paikallisiin ihmisiin. Vihreät esittävät keinoja, joiden avulla voimme tarjota nämä viisi asiaa kaikille tänne tuleville.
 
 
 ##  1. Koti
 
 
-Asunnottomuus on maahanmuuttajilla yleisempää kuin muilla suomalaisilla. Koti on
-kuitenkin pohja, jolle koko elämä rakentuu. Jokainen tulija ansaitsee kodin -
-paikan johon asettua ja alkaa rakentaa uutta elämää.
+Asunnottomuus on maahanmuuttajilla yleisempää kuin muilla suomalaisilla. Koti on kuitenkin pohja, jolle koko elämä rakentuu. Jokainen tulija ansaitsee kodin - paikan johon asettua ja alkaa rakentaa uutta elämää.
 
 
 * Käynnistetään kotoutuminen vauhdikkaammin asuttamalla turvapaikanhakijoita tavallisiin vuokra-asuntoihin vastaanottokeskusten sijaan.
@@ -58,10 +46,7 @@ paikan johon asettua ja alkaa rakentaa uutta elämää.
 ## 2. Kieli
 
 
-Kotimaisten kielten oppiminen on avain arjen sujumiseen, työskentelyyn ja
-ihmissuhteiden luomiseen. Riittävän suomen tai ruotsin kielen taidon tarjoaminen
-kaikille maahanmuuttajille on sekä heidän että koko suomalaisen yhteiskunnan
-etu.
+Kotimaisten kielten oppiminen on avain arjen sujumiseen, työskentelyyn ja ihmissuhteiden luomiseen. Riittävän suomen tai ruotsin kielen taidon tarjoaminen kaikille maahanmuuttajille on sekä heidän että koko suomalaisen yhteiskunnan etu.
 
 
 * Tehdään kielikoulutuksesta subjektiivinen oikeus. Jokaisella maahanmuuttajalla tulee olla oikeus opiskella suomea tai ruotsia niin pitkään, että hän saavuttaa ns. keskitason osaamisen, joka on riittävä valtaosaan työtehtävistä.
@@ -78,8 +63,7 @@ etu.
 ## 3. Koulutus
 
 
-Suomessa ei pärjää ilman koulutusta. Koulutus mahdollistaa työllistymisen,
-auttaa kotoutumisessa ja ehkäisee syrjäytymistä.
+Suomessa ei pärjää ilman koulutusta. Koulutus mahdollistaa työllistymisen, auttaa kotoutumisessa ja ehkäisee syrjäytymistä.
 
 
 * Oikeus peruskouluun tulee taata myös ei-oppivelvollisuusikäisille. Samoin vailla oleskelulupaa olevilla lapsilla tulee olla oikeus käydä koulua. Varmistetaan lasten pääsy kouluun nopeasti esimerkiksi sitovalla aikarajalla ja tarjotaan kunnille rahoitus tämän toteuttamiseen.
@@ -93,10 +77,7 @@ auttaa kotoutumisessa ja ehkäisee syrjäytymistä.
 ## 4. Työ
 
 
-Maahanmuuttajien työllisyysaste on koko väestöä matalampi mutta mitä pitempään
-maassa oleilee, sitä korkeammaksi se nousee. Positiivista työllistymiskehitystä
-on tuettava ja työllistyminen on saatava käyntiin heti maahan saapumisen
-jälkeen. Sekä yksittäinen maahanmuuttaja että koko Suomi tarvitsevat työtä.
+Maahanmuuttajien työllisyysaste on koko väestöä matalampi mutta mitä pitempään maassa oleilee, sitä korkeammaksi se nousee. Positiivista työllistymiskehitystä on tuettava ja työllistyminen on saatava käyntiin heti maahan saapumisen jälkeen. Sekä yksittäinen maahanmuuttaja että koko Suomi tarvitsevat työtä.
 
 
 * Turvapaikanhakijoille tulee antaa oikeus työskennellä heti heidän saavuttuaan Suomeen. Poistetaan kolmen ja kuuden kuukauden karenssiajat turvapaikanhakijoiden työskentelyoikeudesta.
@@ -115,8 +96,7 @@ jälkeen. Sekä yksittäinen maahanmuuttaja että koko Suomi tarvitsevat työtä
 ## 5. Yhteys paikallisiin ihmisiin
 
 
-Yhteisö rakentaa kodin. Satunnaiset kohtaamiset, ystävyyssuhteet ja yhdessä
-tekeminen tukevat Suomeen asettumisessa.
+Yhteisö rakentaa kodin. Satunnaiset kohtaamiset, ystävyyssuhteet ja yhdessä tekeminen tukevat Suomeen asettumisessa.
 
 
 * Tehdään kotoutumissuunnitelma kaikille maahanmuuttajille työmarkkina-asemasta riippumatta.

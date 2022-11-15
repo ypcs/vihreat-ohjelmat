@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:05:49.699851
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:13.012827
 title: Pelastetaan maailman paras koulutus
 type: erityisohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1324
@@ -21,23 +21,13 @@ Vihreät De Gröna
 ### VIHREIDEN KOULUTUSPOLIITTINEN OHJELMA
 
 
-*Hyväksytty puoluevaltuuskunnan kokouksessa 17.11.2018. Tämä ohjelma korvaa
-23.11.2014 hyväksytyn koulutuspoliittisen ohjelman.*
+*Hyväksytty puoluevaltuuskunnan kokouksessa 17.11.2018. Tämä ohjelma korvaa 23.11.2014 hyväksytyn koulutuspoliittisen ohjelman.*
 
 
 ## Johdanto
 
 
-Laadukas koulutus ja yhdenvertaiset mahdollisuudet itsensä kehittämiseen ovat
-toimivan yhteiskunnan tulevaisuuden turva. Monipuolisesti osaavat ja sivistyneet
-ihmiset kykenevät hallitsemaan elämäänsä, tekemään siitä mielekästä ja
-kehittämään ratkaisuja havaitsemiinsa ongelmiin. Koulutettu kansa kykenee
-ratkomaan myös yhteiskunnallisia ongelmia ja pitämään huolen demokratian
-säilymisestä. Työelämän muuttuessa ja kansainvälistyessä korkea osaaminen on
-Suomelle tärkein pääoma ja kilpailuetu. Siksi koulutuksesta ei saa muodostua
-vain hyvistä lähtökohdista tulevien etuoikeus, vaan koulutuspolun täytyy pitää
-kaikki mukana. Suomalaisen koulutusjärjestelmän ja sivistyksen rapauttaminen on
-lopetettava välittömästi ja koulutuksesta on tehtävä taas maailman parasta.
+Laadukas koulutus ja yhdenvertaiset mahdollisuudet itsensä kehittämiseen ovat toimivan yhteiskunnan tulevaisuuden turva. Monipuolisesti osaavat ja sivistyneet ihmiset kykenevät hallitsemaan elämäänsä, tekemään siitä mielekästä ja kehittämään ratkaisuja havaitsemiinsa ongelmiin. Koulutettu kansa kykenee ratkomaan myös yhteiskunnallisia ongelmia ja pitämään huolen demokratian säilymisestä. Työelämän muuttuessa ja kansainvälistyessä korkea osaaminen on Suomelle tärkein pääoma ja kilpailuetu. Siksi koulutuksesta ei saa muodostua vain hyvistä lähtökohdista tulevien etuoikeus, vaan koulutuspolun täytyy pitää kaikki mukana. Suomalaisen koulutusjärjestelmän ja sivistyksen rapauttaminen on lopetettava välittömästi ja koulutuksesta on tehtävä taas maailman parasta.
 
 
 ### Vihreille maailman paras koulutus on
@@ -46,112 +36,52 @@ lopetettava välittömästi ja koulutuksesta on tehtävä taas maailman parasta.
 #### ...tasa-arvoista ja yhdenvertaista
 
 
-Koulutus sellaisenaan luo tasa-arvoa ja ihmisten yhdenvertaisuutta.
-Koulutuspolitiikalla on pystytty kaventamaan luokkaeroja ja vähentämään
-sosiaalisen taustan merkitystä ihmisen elämänpolun määrittymisessä, mutta enää
-koulutusjärjestelmä ei pysty takaamaan kaikille tasa-arvoisia lähtökohtia tai
-pitämään kaikkia mukana koko koulutuspolun ajan. Koulutusratkaisujen tulee
-purkaa syrjäyttäviä rakenteita.
+Koulutus sellaisenaan luo tasa-arvoa ja ihmisten yhdenvertaisuutta. Koulutuspolitiikalla on pystytty kaventamaan luokkaeroja ja vähentämään sosiaalisen taustan merkitystä ihmisen elämänpolun määrittymisessä, mutta enää koulutusjärjestelmä ei pysty takaamaan kaikille tasa-arvoisia lähtökohtia tai pitämään kaikkia mukana koko koulutuspolun ajan. Koulutusratkaisujen tulee purkaa syrjäyttäviä rakenteita.
 
 
-Vihreille tasa-arvo ja yhdenvertaisuus koulutuksessa tarkoittaa paitsi
-koulutuksen tasa-arvoa lisäävää vaikutusta sellaisenaan, myös yhdenvertaisia
-oppimismahdollisuuksia sekä kasvattamista moniarvoisessa maailmassa toimimiseen.
-Siksi tarvitaan myös vapaata sivistystyötä ja vahvaa kirjastolaitosta
-omaehtoisen opiskelun ja oppimisen tukemiseen.
+Vihreille tasa-arvo ja yhdenvertaisuus koulutuksessa tarkoittaa paitsi koulutuksen tasa-arvoa lisäävää vaikutusta sellaisenaan, myös yhdenvertaisia oppimismahdollisuuksia sekä kasvattamista moniarvoisessa maailmassa toimimiseen. Siksi tarvitaan myös vapaata sivistystyötä ja vahvaa kirjastolaitosta omaehtoisen opiskelun ja oppimisen tukemiseen.
 
 
 #### ...saavutettavaa
 
 
-Jokaisella lapsella pitää olla asuinpaikasta riippumatta mahdollisuus käydä
-koulua ja saada varhaiskasvatusta lähellä kotia. Perusopetuksen, ammatillisen ja
-lukiokoulutuksen yksiköiden on oltava sen kokoisia, että lakisääteinen opetus
-voidaan tarjota laadukkaasti ja lapsi saa mistä tahansa koulusta hyvät
-lähtökohdat oman tulevaisuuden rakentamiseen. Oikeuden erityisopetukseen on
-toteuduttava jokaisessa koulussa, eivätkä koulumatkat saa muodostua liian
-pitkiksi. Koulutusta on kaikilla asteilla oltava tarjolla riittävästi siellä,
-missä on koulutusta tarvitsevia ihmisiä ja missä osaamista tarvitaan.
+Jokaisella lapsella pitää olla asuinpaikasta riippumatta mahdollisuus käydä koulua ja saada varhaiskasvatusta lähellä kotia. Perusopetuksen, ammatillisen ja lukiokoulutuksen yksiköiden on oltava sen kokoisia, että lakisääteinen opetus voidaan tarjota laadukkaasti ja lapsi saa mistä tahansa koulusta hyvät lähtökohdat oman tulevaisuuden rakentamiseen. Oikeuden erityisopetukseen on toteuduttava jokaisessa koulussa, eivätkä koulumatkat saa muodostua liian pitkiksi. Koulutusta on kaikilla asteilla oltava tarjolla riittävästi siellä, missä on koulutusta tarvitsevia ihmisiä ja missä osaamista tarvitaan.
 
 
 #### ...pedagogisesti laadukasta
 
 
-Suomalainen koulutusjärjestelmä on tunnettu erityisesti laadukkaasta ja
-korkeasta opettajien koulutuksesta. Varmistamalla opettajien riittävät
-koulutusmäärät ja asianmukaiset mahdollisuudet osaamisen kehittämiseen pidetään
-huolta siitä, että myös tulevaisuudessa lapset ja nuoret saavat maailman parasta
-opetusta. Pedagogisia valmiuksia on edellytettävä opetuksessa aina
-korkea-asteelle saakka. Koulun tärkein tehtävä on tukea oppilaiden kasvua
-tasapainoiseksi ja eettisesti vastuulliseksi ihmiseksi, jotka toimivat omaa ja
-toisten hyvinvointia edistävällä tavalla. Koulun toimintakulttuurin tulee
-edistää moninaisuutta.
+Suomalainen koulutusjärjestelmä on tunnettu erityisesti laadukkaasta ja korkeasta opettajien koulutuksesta. Varmistamalla opettajien riittävät koulutusmäärät ja asianmukaiset mahdollisuudet osaamisen kehittämiseen pidetään huolta siitä, että myös tulevaisuudessa lapset ja nuoret saavat maailman parasta opetusta. Pedagogisia valmiuksia on edellytettävä opetuksessa aina korkea-asteelle saakka. Koulun tärkein tehtävä on tukea oppilaiden kasvua tasapainoiseksi ja eettisesti vastuulliseksi ihmiseksi, jotka toimivat omaa ja toisten hyvinvointia edistävällä tavalla. Koulun toimintakulttuurin tulee edistää moninaisuutta.
 
 
 #### ...asianmukaisesti rahoitettua ja oppijalle maksutonta
 
 
-Koulutukseen panostaminen tulee nähdä investointina yhteiskunnan tulevaisuuteen,
-eikä koulutuksen rahoituksen tai laadun tule olla riippuvainen
-markkinamekanismista tai yksityisen sektorin intresseistä. Koulutuksen on oltava
-aina maksutonta oppilaille ja opiskelijoille, jotta se on tasa-arvoisesti
-kaikkien saatavissa.
+Koulutukseen panostaminen tulee nähdä investointina yhteiskunnan tulevaisuuteen, eikä koulutuksen rahoituksen tai laadun tule olla riippuvainen markkinamekanismista tai yksityisen sektorin intresseistä. Koulutuksen on oltava aina maksutonta oppilaille ja opiskelijoille, jotta se on tasa-arvoisesti kaikkien saatavissa.
 
 
 #### ...aktiiviseen kansalaisuuteen kasvattavaa
 
 
-Koulutuksen tulee antaa jokaiselle riittävät mahdollisuudet ja valmiudet
-osallistua yhteiskunnan toimintaan. Opetuksen sisällöissä on painotettava
-oppimisen taitoja, kriittistä ajattelua ja itsenäisen elämän edellytyksiä.
-Osallisuuden kokemusten ja vaikuttavan osallistumisen tulee olla osa arkea
-peruskoulutuksesta korkea-asteelle asti oppilas- ja opiskelijakunta sekä
-nuorisovaltuustotoiminnan sekä muiden osallistumismuotojen kehittämisen myötä.
-Oman mielipiteen muodostamiseen ja ilmaisuun tulee kannustaa kaikilla
-koulutusasteilla.
+Koulutuksen tulee antaa jokaiselle riittävät mahdollisuudet ja valmiudet osallistua yhteiskunnan toimintaan. Opetuksen sisällöissä on painotettava oppimisen taitoja, kriittistä ajattelua ja itsenäisen elämän edellytyksiä. Osallisuuden kokemusten ja vaikuttavan osallistumisen tulee olla osa arkea peruskoulutuksesta korkea-asteelle asti oppilas- ja opiskelijakunta sekä nuorisovaltuustotoiminnan sekä muiden osallistumismuotojen kehittämisen myötä. Oman mielipiteen muodostamiseen ja ilmaisuun tulee kannustaa kaikilla koulutusasteilla.
 
 
 #### … kestävää tulevaisuutta rakentavaa
 
 
-Tieto ja osaaminen kestävämmistä valinnoista on yksi keskeisimmistä sisällöistä,
-joita tulevaisuuden yhteiskunta tarvitsee. Koulutuksen tulee tähdätä
-ekososiaalisen sivistyksen vahvistamiseen. Ekososiaalinen sivistys edellyttää
-tiedon ja osaamisen lisäksi myös rohkeutta muuttaa omia elämäntapoja kestävän
-kehityksen periaatteiden mukaisiksi sekä kykyä huomioida tulevien sukupolvien
-hyvän elämän edellytykset. Siksi eri koulutusasteiden on tuettava
-ympäristöystävälliseen elämään kasvamista jatkuvalla ja tehokkaalla
-kasvatuksella ja opetuksella yli oppiainerajojen.
+Tieto ja osaaminen kestävämmistä valinnoista on yksi keskeisimmistä sisällöistä, joita tulevaisuuden yhteiskunta tarvitsee. Koulutuksen tulee tähdätä ekososiaalisen sivistyksen vahvistamiseen. Ekososiaalinen sivistys edellyttää tiedon ja osaamisen lisäksi myös rohkeutta muuttaa omia elämäntapoja kestävän kehityksen periaatteiden mukaisiksi sekä kykyä huomioida tulevien sukupolvien hyvän elämän edellytykset. Siksi eri koulutusasteiden on tuettava ympäristöystävälliseen elämään kasvamista jatkuvalla ja tehokkaalla kasvatuksella ja opetuksella yli oppiainerajojen.
 
 
 #### ...työelämään valmistavaa
 
 
-Yksi koulutuksen mielekkyyden perusta on se, millaiset valmiudet se antaa
-työskennellä koulutuksen jälkeen tehtävissä, jotka vastaavat opiskelijan
-valmiuksia ja kiinnostuksen kohteita. Epäonnistunut koulutuksen kohdentaminen
-paitsi antaa katteettomia lupauksia työmarkkinoiden odotuksista opiskelijalle,
-heikentää yhteiskuntamme kilpailukykyä ja hyvinvointia. Koulutuksen ennakoinnin
-tulisi tapahtua tiiviissä vuoropuhelussa työelämän kanssa. Samalla koulutuksen
-vahva yleissivistävä ote tulee säilyttää ja vahvistaa mahdollisuuksia
-muuntokoulutuksiin ja alan vaihtoon. Koulutus on paras työllistymisen tae.
-Korkeampi koulutus ennustaa parempaa työmarkkina-asemaa ja työllisyyttä sekä
-vähentää köyhyysriskiä.
+Yksi koulutuksen mielekkyyden perusta on se, millaiset valmiudet se antaa työskennellä koulutuksen jälkeen tehtävissä, jotka vastaavat opiskelijan valmiuksia ja kiinnostuksen kohteita. Epäonnistunut koulutuksen kohdentaminen paitsi antaa katteettomia lupauksia työmarkkinoiden odotuksista opiskelijalle, heikentää yhteiskuntamme kilpailukykyä ja hyvinvointia. Koulutuksen ennakoinnin tulisi tapahtua tiiviissä vuoropuhelussa työelämän kanssa. Samalla koulutuksen vahva yleissivistävä ote tulee säilyttää ja vahvistaa mahdollisuuksia muuntokoulutuksiin ja alan vaihtoon. Koulutus on paras työllistymisen tae. Korkeampi koulutus ennustaa parempaa työmarkkina-asemaa ja työllisyyttä sekä vähentää köyhyysriskiä.
 
 
 #### ...tulevaisuuteen katsovaa
 
 
-Opetuksen sisältöjä tulee päivittää säännöllisesti vastaamaan yhteiskunnan
-muuttuvia vaatimuksia. Koulun tulee kehittää oppilaiden kykyä analyyttisesti
-arvioida eri lähteistä saamaansa tietoa ja vahvistaa monilukutaitoa sen
-käsittelemiseksi. Koulun tulee kasvattaa ympäristötietoisuuteen, globaaliin
-vastuuseen, moninaisuuden kohtaamiseen, kielelliseen ja kulttuuriseen
-monimuotoisuuteen, ja tukea tunne- ja vuorovaikutustaitojen kehittymistä. Sen on
-lisäksi tarjottava valmiuksia toimia digitaalisissa ympäristöissä,
-kansainvälisesti sekä vastata muihin työelämän muuttuviin vaatimuksiin.
-Koulutusta on kehitettävä pitkäjänteisesti vastaten niin yksilöiden sivistys- ja
-osaamistarpeisiin kuin yhteiskunnan ja työelämän muuttuviin tarpeisiin.
+Opetuksen sisältöjä tulee päivittää säännöllisesti vastaamaan yhteiskunnan muuttuvia vaatimuksia. Koulun tulee kehittää oppilaiden kykyä analyyttisesti arvioida eri lähteistä saamaansa tietoa ja vahvistaa monilukutaitoa sen käsittelemiseksi. Koulun tulee kasvattaa ympäristötietoisuuteen, globaaliin vastuuseen, moninaisuuden kohtaamiseen, kielelliseen ja kulttuuriseen monimuotoisuuteen, ja tukea tunne- ja vuorovaikutustaitojen kehittymistä. Sen on lisäksi tarjottava valmiuksia toimia digitaalisissa ympäristöissä, kansainvälisesti sekä vastata muihin työelämän muuttuviin vaatimuksiin. Koulutusta on kehitettävä pitkäjänteisesti vastaten niin yksilöiden sivistys- ja osaamistarpeisiin kuin yhteiskunnan ja työelämän muuttuviin tarpeisiin. 
 
 
 ## 1. Koulutusjärjestelmän tulevaisuus
@@ -160,32 +90,16 @@ osaamistarpeisiin kuin yhteiskunnan ja työelämän muuttuviin tarpeisiin.
 ### 1.1. Vahvistetaan koulutusjärjestelmän laatua
 
 
-Koulutuksen kehittämistä on viime vuosina leimannut lyhytnäköisyys ja
-sirpaleisuus. Koulutuksen laatua ja koulutusjärjestelmää tulisi sen sijaan
-kehittää pitkäjänteisesti ja strategisesti. Suomeen on perustettava
-valtakunnallinen koulutuksen tulevaisuusfoorumi, jossa koulutusjärjestelmää
-kehitetään kokonaisuutena ja pitkällä aikajänteellä.
+Koulutuksen kehittämistä on viime vuosina leimannut lyhytnäköisyys ja sirpaleisuus. Koulutuksen laatua ja koulutusjärjestelmää tulisi sen sijaan kehittää pitkäjänteisesti ja strategisesti. Suomeen on perustettava valtakunnallinen koulutuksen tulevaisuusfoorumi, jossa koulutusjärjestelmää kehitetään kokonaisuutena ja pitkällä aikajänteellä.
 
 
-Koulutuksen rahoitus tulee laittaa kuntoon viipymättä ja koulutuksen
-järjestäjien toimintaedellytykset varmistaa ennakoitavalla ja pitkällä
-aikavälille suunnitellulla rahoituksella. Koulutuksen tulee säilyä jatkossakin
-maksuttomana oppilaalle ja opiskelijalle, ja kaikki piilokulut ja -maksut tulee
-karsia systemaattisesti. Näin huolehditaan, että jokaisella on tosiasiallinen
-mahdollisuus osallistua koulutukseen taustastaan riippumatta.
+Koulutuksen rahoitus tulee laittaa kuntoon viipymättä ja koulutuksen järjestäjien toimintaedellytykset varmistaa ennakoitavalla ja pitkällä aikavälille suunnitellulla rahoituksella. Koulutuksen tulee säilyä jatkossakin maksuttomana oppilaalle ja opiskelijalle, ja kaikki piilokulut ja -maksut tulee karsia systemaattisesti. Näin huolehditaan, että jokaisella on tosiasiallinen mahdollisuus osallistua koulutukseen taustastaan riippumatta.
 
 
-Paikallista ja alueellista kasvatuksen, koulutuksen ja tutkimuksen
-kehittämistyötä on tuettava pitkäkestoisella kehittämisrahoituksella
-sirpaleisten, toimintaa kuormittavien hankkeiden sijaan. Koulutusta on
-kehitettävä pohjautuen tutkittuun tietoon. Koulutuksen eriarvoistumista on
-ehkäistävä turvaamalla koulutuksen laatu normiperustaa vahvistamalla.
+Paikallista ja alueellista kasvatuksen, koulutuksen ja tutkimuksen kehittämistyötä on tuettava pitkäkestoisella kehittämisrahoituksella sirpaleisten, toimintaa kuormittavien hankkeiden sijaan. Koulutusta on kehitettävä pohjautuen tutkittuun tietoon. Koulutuksen eriarvoistumista on ehkäistävä turvaamalla koulutuksen laatu normiperustaa vahvistamalla.
 
 
-Koulutuksen saavutettavuuden turvaaminen edellyttää yhteistyön vahvistamista yli
-kuntarajojen sekä mahdollisesti myös kuntarakenteen tarkastelua niillä alueilla,
-joilla lapsimäärät ovat pieniä. Toisen asteen koulutuksen saavutettavuuden
-turvaaminen kaipaa tuekseen kuntarajat ylittävää koordinaatiota.
+Koulutuksen saavutettavuuden turvaaminen edellyttää yhteistyön vahvistamista yli kuntarajojen sekä mahdollisesti myös kuntarakenteen tarkastelua niillä alueilla, joilla lapsimäärät ovat pieniä. Toisen asteen koulutuksen saavutettavuuden turvaaminen kaipaa tuekseen kuntarajat ylittävää koordinaatiota.
 
 
 **Toimenpiteet**
@@ -201,26 +115,13 @@ turvaaminen kaipaa tuekseen kuntarajat ylittävää koordinaatiota.
 ### 1.2. Maailman parhaat opettajat myös tulevaisuudessa
 
 
-Suomessa on maailman parhaat opettajat, mikä näkyy maamme erinomaisissa
-oppimistuloksissa. Opettajankoulutus on edelleen yksi Suomen vetovoima-aloista,
-ja halukkaista voidaan opiskelijaksi valita vain murto-osa. On kuitenkin
-huomioitava että vaatimukset opettajia kohtaan ovat kasvaneet koko ajan, mutta
-resursseja opettajien koulutukseen ja palkkaukseen ei ole lisätty samassa
-mitassa kuin odotuksia on lisätty. Opettajan työn vetovoimasta on pidettävä
-kiinni, ja opettajien osaamisen kehittämiseen läpi uran panostettava aiempaa
-enemmän, jotta heillä on parhaat välineet opastaa lapsia ja nuoria kohti
-tulevaisuutta. Myös varhaiskasvatuksen henkilöstön koulutus- ja osaamistasoa
-pitää edelleen nostaa.
+Suomessa on maailman parhaat opettajat, mikä näkyy maamme erinomaisissa oppimistuloksissa. Opettajankoulutus on edelleen yksi Suomen vetovoima-aloista, ja halukkaista voidaan opiskelijaksi valita vain murto-osa. On kuitenkin huomioitava että vaatimukset opettajia kohtaan ovat kasvaneet koko ajan, mutta resursseja opettajien koulutukseen ja palkkaukseen ei ole lisätty samassa mitassa kuin odotuksia on lisätty. Opettajan työn vetovoimasta on pidettävä kiinni, ja opettajien osaamisen kehittämiseen läpi uran panostettava aiempaa enemmän, jotta heillä on parhaat välineet opastaa lapsia ja nuoria kohti tulevaisuutta. Myös varhaiskasvatuksen henkilöstön koulutus- ja osaamistasoa pitää edelleen nostaa.
 
 
-Monikulttuurisuuden ja moninaisuuden kohtaaminen on yhä merkittävämpi osa
-opettajan työtä ja ammattitaitoa. Varmistetaan opettajien riittävä osaaminen
-tähän opettajien perus-, perehdytys- ja täydennyskoulutuksilla.
+Monikulttuurisuuden ja moninaisuuden kohtaaminen on yhä merkittävämpi osa opettajan työtä ja ammattitaitoa. Varmistetaan opettajien riittävä osaaminen tähän opettajien perus-, perehdytys- ja täydennyskoulutuksilla.
 
 
-Yhteisöllinen toimintakulttuuri alkaa henkilökunnan esimerkistä. Kouluissa pitää
-tukea opettajien yhteistä suunnittelua, ainerajat ylittävää opetusta,
-samanaikaisopettajuutta, kehittämistyötä ja osaamisen jakamista.
+Yhteisöllinen toimintakulttuuri alkaa henkilökunnan esimerkistä. Kouluissa pitää tukea opettajien yhteistä suunnittelua, ainerajat ylittävää opetusta, samanaikaisopettajuutta, kehittämistyötä ja osaamisen jakamista.
 
 
 **Toimenpiteet**
@@ -242,18 +143,10 @@ samanaikaisopettajuutta, kehittämistyötä ja osaamisen jakamista.
 ### 1.3 Ympäristö- ja ilmastokasvatus poikkileikkaavaksi kaikille koulutusasteille
 
 
-Ympäristö- ja ilmastokasvatus luovat pohjan kestävälle elämäntavalle. Perusarvot
-muodostuvat lapsuudessa ja siksi varhain saadut luontokokemukset ja silloin
-opittu luonnon kunnioittaminen kantavat läpi elämän.
+Ympäristö- ja ilmastokasvatus luovat pohjan kestävälle elämäntavalle. Perusarvot muodostuvat lapsuudessa ja siksi varhain saadut luontokokemukset ja silloin opittu luonnon kunnioittaminen kantavat läpi elämän.
 
 
-Kaiken ikäiset tarvitsevat tietoja ja taitoja ilmastonmuutoksen ymmärtämiseen ja
-oman käyttäytymisen ja toiminnan muuttamiseen. Kestävän tulevaisuuden
-rakentamiseen tarvitaan myös yhteiskunnallisen vaikuttamisen taitojen
-harjoittelua ja osallistumisen vahvistamista. Ilmasto- ja ympäristökasvatus
-tulee ulottaa yhteiskunnassa laajasti koskemaan myös instituutioita.
-Ilmastonmuutosta käsittelevää tutkimusta tulee lisätä ja tutkimustietoa tulee
-olla tarjolla helposti.
+Kaiken ikäiset tarvitsevat tietoja ja taitoja ilmastonmuutoksen ymmärtämiseen ja oman käyttäytymisen ja toiminnan muuttamiseen. Kestävän tulevaisuuden rakentamiseen tarvitaan myös yhteiskunnallisen vaikuttamisen taitojen harjoittelua ja osallistumisen vahvistamista. Ilmasto- ja ympäristökasvatus tulee ulottaa yhteiskunnassa laajasti koskemaan myös instituutioita. Ilmastonmuutosta käsittelevää tutkimusta tulee lisätä ja tutkimustietoa tulee olla tarjolla helposti.
 
 
 **Toimenpiteet:**
@@ -271,17 +164,10 @@ olla tarjolla helposti.
 ### 1.4. Terveelliset, turvalliset ja monipuoliset oppimisympäristöt
 
 
-Koulun täytyy tarjota jokaiselle terveellinen ja turvallinen paikka kasvaa,
-oppia ja tehdä työnsä. Sisäilmaongelmaiset rakennukset on korjattava kuntoon tai
-rakennettava uutta - uhkapeli lasten, nuorten ja henkilökunnan terveydellä ei
-voi jatkua. Huolehditaan, että kenenkään ei tarvitse opiskella terveydelle
-haitallisessa ympäristössä.
+Koulun täytyy tarjota jokaiselle terveellinen ja turvallinen paikka kasvaa, oppia ja tehdä työnsä. Sisäilmaongelmaiset rakennukset on korjattava kuntoon tai rakennettava uutta - uhkapeli lasten, nuorten ja henkilökunnan terveydellä ei voi jatkua. Huolehditaan, että kenenkään ei tarvitse opiskella terveydelle haitallisessa ympäristössä. 
 
 
-Jokaiselle on varmistettava turvallinen ja virikkeellinen oppimisympäristö. On
-myös tärkeää huolehtia siitä, että koulurakennukset mahdollistavat ajantasaisen
-ja motivoivan pedagogiikan käytön, kuten yhteisöllisen oppimisen ja kirjaston
-käytön osana opiskelua.
+Jokaiselle on varmistettava turvallinen ja virikkeellinen oppimisympäristö. On myös tärkeää huolehtia siitä, että koulurakennukset mahdollistavat ajantasaisen ja motivoivan pedagogiikan käytön, kuten yhteisöllisen oppimisen ja kirjaston käytön osana opiskelua.
 
 
 **Toimenpiteet**
@@ -298,33 +184,19 @@ käytön osana opiskelua.
 ## 2. Varhaiskasvatus
 
 
-**Varhaiskasvatus luo perustan koko myöhemmälle koulutuspolulle.** Laadukkaalla
-varhaiskasvatuksella on huomattu olevan merkittäviä vaikutuksia lapsen
-myöhemmälle oppimiselle, sosiaalisten taitojen kehittymiselle ja jopa työuraan
-ja tulotasoon. **Varhaiskasvatuksen roolia osana julkista koulutusjärjestelmää
-pitää vahvistaa, jotta se voi palvella tasa-arvoisesti kaikkia perheitä.**
+**Varhaiskasvatus luo perustan koko myöhemmälle koulutuspolulle.** Laadukkaalla varhaiskasvatuksella on huomattu olevan merkittäviä vaikutuksia lapsen myöhemmälle oppimiselle, sosiaalisten taitojen kehittymiselle ja jopa työuraan ja tulotasoon. **Varhaiskasvatuksen roolia osana julkista koulutusjärjestelmää pitää vahvistaa, jotta se voi palvella tasa-arvoisesti kaikkia perheitä.** 
 
 
 ### 2.1. Vahvistetaan lapsen oikeutta varhaiskasvatukseen
 
 
-Varhaiskasvatuksen asemaa lapsen oikeutena tulee vahvistaa. Muita useammin
-varhaiskasvatuksen ulkopuolelle jäävien perheiden pääsyä sen piiriin tulee
-tukea. Varhaiskasvatus on myös erinomainen keino tukea maahanmuuttajataustaisten
-perheiden integroitumista suomalaiseen yhteiskuntaan. Jokaisella perheellä on
-oltava mahdollisuus valita lähinnä omaa asuinaluettaan sijaitseva turvallinen ja
-luotettava päiväkoti.
+Varhaiskasvatuksen asemaa lapsen oikeutena tulee vahvistaa. Muita useammin varhaiskasvatuksen ulkopuolelle jäävien perheiden pääsyä sen piiriin tulee tukea. Varhaiskasvatus on myös erinomainen keino tukea maahanmuuttajataustaisten perheiden integroitumista suomalaiseen yhteiskuntaan. Jokaisella perheellä on oltava mahdollisuus valita lähinnä omaa asuinaluettaan sijaitseva turvallinen ja luotettava päiväkoti. 
 
 
-Lasten ja lapsiperheiden palvelut kannattaa tuoda sinne, missä lapset jo
-valmiiksi ovat.
+Lasten ja lapsiperheiden palvelut kannattaa tuoda sinne, missä lapset jo valmiiksi ovat. 
 
 
-Päiväkodin ympäristö voidaan nähdä laajempana perheiden toimintakeskuksena,
-jossa on tarjolla esimerkiksi työelämäpalveluita, kielikoulutusta,
-perhetoimintaa, harrastekerhoja, taiteen perusopetusta ja leikkipuistotoimintaa.
-Myös leikki- ja asukaspuistoihin sekä avoimen varhaiskasvatuksen palveluihin
-kannattaa panostaa.
+Päiväkodin ympäristö voidaan nähdä laajempana perheiden toimintakeskuksena, jossa on tarjolla esimerkiksi työelämäpalveluita, kielikoulutusta, perhetoimintaa, harrastekerhoja, taiteen perusopetusta ja leikkipuistotoimintaa. Myös leikki- ja asukaspuistoihin sekä avoimen varhaiskasvatuksen palveluihin kannattaa panostaa.
 
 
 **Toimenpiteet**
@@ -340,20 +212,10 @@ kannattaa panostaa.
 ### 2.2. Kehitetään varhaiskasvatuksen laatua
 
 
-Moni lapsi viettää suurimman osan valveillaoloajastaan arkena
-varhaiskasvatuksessa. Perheiden on voitava luottaa varhaiskasvatuksen laatuun,
-virikkeellisyyteen ja henkilöstön osaamiseen. Riittävä opetus- ja
-kasvatushenkilökunnan määrä lapsimäärää kohden tulee taata ja ryhmien pysyvyys
-varmistaa. Päiväkoti-ikäisen kasvun, oppimisen ja käyttäytymisen ongelmat on
-pystyttävä tunnistamaan varhaisessa vaiheessa ja tarjoamaan lapselle ja
-perheelle tukea nopeasti.
+Moni lapsi viettää suurimman osan valveillaoloajastaan arkena varhaiskasvatuksessa. Perheiden on voitava luottaa varhaiskasvatuksen laatuun, virikkeellisyyteen ja henkilöstön osaamiseen. Riittävä opetus- ja kasvatushenkilökunnan määrä lapsimäärää kohden tulee taata ja ryhmien pysyvyys varmistaa. Päiväkoti-ikäisen kasvun, oppimisen ja käyttäytymisen ongelmat on pystyttävä tunnistamaan varhaisessa vaiheessa ja tarjoamaan lapselle ja perheelle tukea nopeasti.
 
 
-Varhaiskasvatus luo perustan myöhemmälle oppimiselle. Siinä korostuu lapsen
-yksilöllisen ja sosiaalisen kasvun tukeminen ja oppimisen edellytysten
-vahvistaminen. Siksi varhaiskasvatuksessa tarvitaan eri ammattiryhmien
-osaamista. Luonnollinen osa varhaiskasvatuksen arkea ovat myös hoiva ja
-huolenpito sekä perheiden tukeminen.
+Varhaiskasvatus luo perustan myöhemmälle oppimiselle. Siinä korostuu lapsen yksilöllisen ja sosiaalisen kasvun tukeminen ja oppimisen edellytysten vahvistaminen. Siksi varhaiskasvatuksessa tarvitaan eri ammattiryhmien osaamista. Luonnollinen osa varhaiskasvatuksen arkea ovat myös hoiva ja huolenpito sekä perheiden tukeminen. 
 
 
 **Toimenpiteet**
@@ -373,13 +235,7 @@ huolenpito sekä perheiden tukeminen.
 ### 2.3. Rajat ja suuntaviivat yksityiselle varhaiskasvatukselle
 
 
-Kasvatusta ja opetusta ei pidä järjestää ensisijaisesti taloudellisen voiton
-tavoittelemiseksi, vaan paremman lapsuuden ja yhteiskunnan saavuttamiseksi.
-Tällä hetkellä yksityiset päiväkodit voivat periä kunnallisia korkeampia
-asiakasmaksuja ja valikoida asiakkaansa. Tämä asettaa lapset keskenään
-eriarvoiseen asemaan. Yksityisten päiväkotien tulisi toimia kunnallisten kanssa
-samoilla pelisäännöillä niin lapsivalinnoissa, erityisen tuen tarjoamisessa kuin
-varhaiskasvatuksen sisällöllisissä tavoitteissakin.
+Kasvatusta ja opetusta ei pidä järjestää ensisijaisesti taloudellisen voiton tavoittelemiseksi, vaan paremman lapsuuden ja yhteiskunnan saavuttamiseksi. Tällä hetkellä yksityiset päiväkodit voivat periä kunnallisia korkeampia asiakasmaksuja ja valikoida asiakkaansa. Tämä asettaa lapset keskenään eriarvoiseen asemaan. Yksityisten päiväkotien tulisi toimia kunnallisten kanssa samoilla pelisäännöillä niin lapsivalinnoissa, erityisen tuen tarjoamisessa kuin varhaiskasvatuksen sisällöllisissä tavoitteissakin.
 
 
 * Taataan kunnille mahdollisuus ylläpitää julkista päiväkotitarjontaa.
@@ -392,30 +248,16 @@ varhaiskasvatuksen sisällöllisissä tavoitteissakin.
 ## 3. Perusopetus
 
 
-Perusopetusta on pidetty pitkään suomalaisen koulutusjärjestelmän
-kruununjalokivenä. Sillä on pystytty tuottamaan hyviä oppimistuloksia ja
-edistämään tasa-arvoa verrattain pienin panostuksin. Tällä hetkellä
-oppimistulokset ovat kääntyneet laskuun ja tutkimustulokset osoittavat
-tasa-arvon heikkenemistä. Tarvitaan peruskoulua vahvistava uudistus, jolla
-päivitetään 50 vuotta vanhat rakenteet tuleville vuosikymmenille.
+Perusopetusta on pidetty pitkään suomalaisen koulutusjärjestelmän kruununjalokivenä. Sillä on pystytty tuottamaan hyviä oppimistuloksia ja edistämään tasa-arvoa verrattain pienin panostuksin. Tällä hetkellä oppimistulokset ovat kääntyneet laskuun ja tutkimustulokset osoittavat tasa-arvon heikkenemistä. Tarvitaan peruskoulua vahvistava uudistus, jolla päivitetään 50 vuotta vanhat rakenteet tuleville vuosikymmenille.
 
 
 ### 3.1. Reitti varhaiskasvatuksesta koululaiseksi
 
 
-Lapset kasvavat koululaisiksi hyvin eri tahtisesti. Vaikka leikki ei lopu koulun
-alettua, on monia erilaisia taitoja, joita lapsen on hyvä osata koululaisena.
-Toisilla herkkyys lukemaan tai laskemaan oppimiseen syntyy myöhäisemmässä
-vaiheessa tai esimerkiksi tunteiden ja tahdon sääntelyn opetteluun kannattaa
-varata enemmän aikaa. Erot esimerkiksi alku- ja loppuvuodesta syntyneiden
-välillä voivat olla esiopetus- ja kouluikäisinä hyvinkin suuria.
+Lapset kasvavat koululaisiksi hyvin eri tahtisesti. Vaikka leikki ei lopu koulun alettua, on monia erilaisia taitoja, joita lapsen on hyvä osata koululaisena. Toisilla herkkyys lukemaan tai laskemaan oppimiseen syntyy myöhäisemmässä vaiheessa tai esimerkiksi tunteiden ja tahdon sääntelyn opetteluun kannattaa varata enemmän aikaa. Erot esimerkiksi alku- ja loppuvuodesta syntyneiden välillä voivat olla esiopetus- ja kouluikäisinä hyvinkin suuria.
 
 
-Koulun aloitusta tulisi joustavoittaa niin, että lapsi voisi siirtyä
-alkuopetukseen ja siitä 3. luokalle, kun se hänen kehitysvaihettaan parhaiten
-tukee. Joustavan ryhmittelyn avulla voidaan varmistaa, että nopeampi tai
-hitaampi eteneminen ei näyttäydy leimaavana, ja samat kaverit säilyvät
-seuraavanakin vuonna. Tämä tulee huomioida myös opettajankoulutuksessa.
+Koulun aloitusta tulisi joustavoittaa niin, että lapsi voisi siirtyä alkuopetukseen ja siitä 3. luokalle, kun se hänen kehitysvaihettaan parhaiten tukee. Joustavan ryhmittelyn avulla voidaan varmistaa, että nopeampi tai hitaampi eteneminen ei näyttäydy leimaavana, ja samat kaverit säilyvät seuraavanakin vuonna. Tämä tulee huomioida myös opettajankoulutuksessa.
 
 
 **Toimenpiteet**
@@ -428,17 +270,10 @@ seuraavanakin vuonna. Tämä tulee huomioida myös opettajankoulutuksessa.
 ### 3.2. Koulupäivän rakenteeseen aikaa kohtaamiselle
 
 
-Vuorovaikutus ja kohtaaminen ovat kaiken inhimillisen toiminnan, myös oppimisen
-ja kasvun perusta. Koulussa on oltava aikaa kiireettömään, turvalliseen
-kohtaamiseen, jossa lapsi tai nuori tulee nähdyksi yksilönä. Opettajan on
-voitava tukea niin hitaammin etenevien oppijoiden kuin nopeampienkin oppimista
-ja ymmärrettävä erilaisia oppimisen tapoja.
+Vuorovaikutus ja kohtaaminen ovat kaiken inhimillisen toiminnan, myös oppimisen ja kasvun perusta. Koulussa on oltava aikaa kiireettömään, turvalliseen kohtaamiseen, jossa lapsi tai nuori tulee nähdyksi yksilönä. Opettajan on voitava tukea niin hitaammin etenevien oppijoiden kuin nopeampienkin oppimista ja ymmärrettävä erilaisia oppimisen tapoja. 
 
 
-Tällä hetkellä lapsilla Suomessa on verrokkimaita huomattavasti lyhyemmät
-koulupäivät, ja koulujen harrastustoiminta on pudotettu minimiin. Oppilaiden
-yksilölliseen huomiointiin ei ole riittävästi aikaa ja usein aikaa kuluu
-kohtuuttomasti työrauhan ylläpitämiseen.
+Tällä hetkellä lapsilla Suomessa on verrokkimaita huomattavasti lyhyemmät koulupäivät, ja koulujen harrastustoiminta on pudotettu minimiin. Oppilaiden yksilölliseen huomiointiin ei ole riittävästi aikaa ja usein aikaa kuluu kohtuuttomasti työrauhan ylläpitämiseen.
 
 
 **Toimenpiteet**
@@ -453,16 +288,10 @@ kohtuuttomasti työrauhan ylläpitämiseen.
 ### 3.3. Jokaiselle perusopetuksesta hyvät eväät eteenpäin
 
 
-Oppilaanohjaus on yksi koulun tärkeimmistä toiminnoista. Sen tavoitteena on
-auttaa oppilaita löytämään toimivia opiskelutapoja sekä informoida ja ohjata
-opiskelijoita. Koulutuksella on tärkeä rooli myös sosiaalisen liikkuvuuden
-vahvistamisessa.
+Oppilaanohjaus on yksi koulun tärkeimmistä toiminnoista. Sen tavoitteena on auttaa oppilaita löytämään toimivia opiskelutapoja sekä informoida ja ohjata opiskelijoita. Koulutuksella on tärkeä rooli myös sosiaalisen liikkuvuuden vahvistamisessa.
 
 
-Jokaisen on saatava perusasteelta riittävät valmiudet toisen asteen
-suorittamiseen. Erityistä huomiota tulee kiinnittää poikien suurempaan riskiin
-pudota koulutuksen ulkopuolelle sekä tyttöjen jaksamiseen sekä alavalintojen
-sukupuolittumiseen ja segregaatioon.
+Jokaisen on saatava perusasteelta riittävät valmiudet toisen asteen suorittamiseen. Erityistä huomiota tulee kiinnittää poikien suurempaan riskiin pudota koulutuksen ulkopuolelle sekä tyttöjen jaksamiseen sekä alavalintojen sukupuolittumiseen ja segregaatioon.
 
 
 **Toimenpiteet**
@@ -479,13 +308,7 @@ sukupuolittumiseen ja segregaatioon.
 ### 3.4. Taataan jokaisen oikeus oppia
 
 
-Lasten koulunkäynnin ja oppimisen tuen tarve on ollut kasvussa viime vuosina,
-mutta tukea on tarjolla aiempaa vähemmän. Erityinen tuki mahdollistaa monille
-oppimisen yhdessä muiden lasten kanssa. Kaikkialla tuen resursseja ei ole
-lisätty kasvavaan tarpeeseen nähden riittävästi. Tämä näkyy heikentyneinä
-oppimistuloksina sekä ongelmina koulujen työrauhassa ja opettajien jaksamisessa.
-Tarvittavan tuen aloittaminen on liian byrokraattista ja tukitoimet
-riittämättömästi resursoituja.
+Lasten koulunkäynnin ja oppimisen tuen tarve on ollut kasvussa viime vuosina, mutta tukea on tarjolla aiempaa vähemmän. Erityinen tuki mahdollistaa monille oppimisen yhdessä muiden lasten kanssa. Kaikkialla tuen resursseja ei ole lisätty kasvavaan tarpeeseen nähden riittävästi. Tämä näkyy heikentyneinä oppimistuloksina sekä ongelmina koulujen työrauhassa ja opettajien jaksamisessa. Tarvittavan tuen aloittaminen on liian byrokraattista ja tukitoimet riittämättömästi resursoituja.
 
 
 **Toimenpiteet:**
@@ -502,18 +325,10 @@ riittämättömästi resursoituja.
 ### 3.5. Ehkäistään koulutuksen eriytymistä
 
 
-Peruskoululla on äärimmäisen tärkeä tehtävä laadukkaan ja maksuttoman
-koulutuksen tarjoamisessa kaikille, riippumatta sosioekonomisesta asemasta. On
-tärkeää, että kaikki saavat aloittaa koulun samoista lähtökohdista, sillä tämä
-vähentää eriarvoisuutta yhteiskunnassa.
+Peruskoululla on äärimmäisen tärkeä tehtävä laadukkaan ja maksuttoman koulutuksen tarjoamisessa kaikille, riippumatta sosioekonomisesta asemasta. On tärkeää, että kaikki saavat aloittaa koulun samoista lähtökohdista, sillä tämä vähentää eriarvoisuutta yhteiskunnassa.
 
 
-Kaikessa koulutuksessa ja kasvatuksessa tasa-arvo, laatu ja tulokset ovat
-paljolti kiinni siitä, miten opetus paikallisesti pystytään järjestämään.
-Valitettavasti kuntien edellytykset järjestää esimerkiksi perusopetusta ovat
-hyvin erilaisia. Laatuerot ovat kasvaneet kuntien ja koulujen välillä sekä
-koulujen sisällä. Näitä eroja on korjattava rahoituksen keinoin ja kannustamalla
-kuntia alueiden segregaation ehkäisemiseen.
+Kaikessa koulutuksessa ja kasvatuksessa tasa-arvo, laatu ja tulokset ovat paljolti kiinni siitä, miten opetus paikallisesti pystytään järjestämään. Valitettavasti kuntien edellytykset järjestää esimerkiksi perusopetusta ovat hyvin erilaisia. Laatuerot ovat kasvaneet kuntien ja koulujen välillä sekä koulujen sisällä. Näitä eroja on korjattava rahoituksen keinoin ja kannustamalla kuntia alueiden segregaation ehkäisemiseen.
 
 
 **Toimenpiteet**
@@ -528,17 +343,10 @@ kuntia alueiden segregaation ehkäisemiseen.
 ### 3.6. Perusopetus luo tulevaisuuden osaamista
 
 
-Peruskoulun tehtävänä on herättää oppilaissa uteliaisuutta ja kiinnostusta
-oppimiseen. Pääpainopisteen tulee olla laaja-alaisen osaamisen ja sivistyksen
-edistäminen tulevaisuutta ja jatko-opintoja varten. Oppiainekohtaisten
-sisältöjen tehtävänä on tukea tätä tavoitetta.
+Peruskoulun tehtävänä on herättää oppilaissa uteliaisuutta ja kiinnostusta oppimiseen. Pääpainopisteen tulee olla laaja-alaisen osaamisen ja sivistyksen edistäminen tulevaisuutta ja jatko-opintoja varten. Oppiainekohtaisten sisältöjen tehtävänä on tukea tätä tavoitetta.
 
 
-Koulu on pienoismalli yhteiskunnasta, jossa toistuvat yhteiskunnalliset arvot ja
-toimenpiteet. Koulun tulisi olla myös olla edelläkävijä, joka kasvattaa
-vastaamaan tulevaisuuden haasteisiin. Koulun tulee tukea oppilaan henkistä
-kasvua, itsetunnon vahvistumista, ekososiaalisen sivistyksen kehittymistä ja
-kehittää laaja-alaisia sekä oppiainekohtaisia tietoja ja taitoja.
+Koulu on pienoismalli yhteiskunnasta, jossa toistuvat yhteiskunnalliset arvot ja toimenpiteet. Koulun tulisi olla myös olla edelläkävijä, joka kasvattaa vastaamaan tulevaisuuden haasteisiin. Koulun tulee tukea oppilaan henkistä kasvua, itsetunnon vahvistumista, ekososiaalisen sivistyksen kehittymistä ja kehittää laaja-alaisia sekä oppiainekohtaisia tietoja ja taitoja.
 
 
 **Toimenpiteet**
@@ -563,23 +371,13 @@ kehittää laaja-alaisia sekä oppiainekohtaisia tietoja ja taitoja.
 ### 4.1. Toisen asteen koulutus kuuluu kaikille
 
 
-Toisen asteen koulutus on tehokas keino pitää nuori aktiivisena yhteiskunnan
-jäsenenä. Kaikille nuorille on turvattava toisen asteen koulutus, eikä
-koulutuspolku saa olla riippuvainen perheen taloudellisesta asemasta. Toisen
-asteen koulutuksesta on tehtävä aidosti maksutonta. Kehitetään koko toisen
-asteen koulutusta kokonaisuutena, rinnakkain, ei erillisinä saarekkeina.
+Toisen asteen koulutus on tehokas keino pitää nuori aktiivisena yhteiskunnan jäsenenä. Kaikille nuorille on turvattava toisen asteen koulutus, eikä koulutuspolku saa olla riippuvainen perheen taloudellisesta asemasta. Toisen asteen koulutuksesta on tehtävä aidosti maksutonta. Kehitetään koko toisen asteen koulutusta kokonaisuutena, rinnakkain, ei erillisinä saarekkeina.
 
 
-Kaikki eivät ole välttämättä valmiita siirtymään toiselle asteelle
-ikätovereidensa kanssa samaan aikaan. Nuorelle on oltava tarjolla erilaisia
-reittejä ja valmentavia koulutuksia, joiden avulla siirtymistä voidaan tukea.
-Koulutuksen järjestäjillä on oltava velvoite pitää huoli riittävästä
-tarjonnasta, ja nuorelle tarjonnan on näyttäydyttävä selkeänä.
+Kaikki eivät ole välttämättä valmiita siirtymään toiselle asteelle ikätovereidensa kanssa samaan aikaan. Nuorelle on oltava tarjolla erilaisia reittejä ja valmentavia koulutuksia, joiden avulla siirtymistä voidaan tukea. Koulutuksen järjestäjillä on oltava velvoite pitää huoli riittävästä tarjonnasta, ja nuorelle tarjonnan on näyttäydyttävä selkeänä. 
 
 
-Toisella asteella on tarjottava moniammatillisena yhteistyönä opiskelua tukevia
-tukitoimia, mm. opinto-ohjausta, erityisopetusta, kuraattorin ja psykologin
-palveluja.
+Toisella asteella on tarjottava moniammatillisena yhteistyönä opiskelua tukevia tukitoimia, mm. opinto-ohjausta, erityisopetusta, kuraattorin ja psykologin palveluja.
 
 
 **Toimenpiteet**
@@ -607,18 +405,10 @@ palveluja.
 ### 4.2. Laadukas opetus, monipuolinen opiskelu
 
 
-Opetuksen laatua on seurattava kaikissa toisen asteen oppilaitoksissa.
-Koulutuksen kehittäminen on kouluyhteisön yhteinen, jatkuva prosessi. Hyvät
-edellytykset laadukkaalle koulutukselle antavat tehtäviinsä koulutetut
-opettajat, monipuolinen kurssitarjonta sekä vahva osallisuuskulttuuri
-oppilaitoksessa.
+Opetuksen laatua on seurattava kaikissa toisen asteen oppilaitoksissa. Koulutuksen kehittäminen on kouluyhteisön yhteinen, jatkuva prosessi. Hyvät edellytykset laadukkaalle koulutukselle antavat tehtäviinsä koulutetut opettajat, monipuolinen kurssitarjonta sekä vahva osallisuuskulttuuri oppilaitoksessa.
 
 
-Vahvistetaan koulutuksen kansainvälisyyttä. Tehdään kielten opiskelusta nykyistä
-monipuolisempaa tukemalla englannin sijaan vähemmän opiskeltujen kielten, kuten
-ranskan, saksan, espanjan, venäjän, arabian ja kiinan, opetusta. Tuetaan muuta
-kuin suomea tai ruotsia äidinkielenään puhuvien mahdollisuus osallistua toisen
-asteen koulutukseen ja suorittaa tutkinto.
+Vahvistetaan koulutuksen kansainvälisyyttä. Tehdään kielten opiskelusta nykyistä monipuolisempaa tukemalla englannin sijaan vähemmän opiskeltujen kielten, kuten ranskan, saksan, espanjan, venäjän, arabian ja kiinan, opetusta. Tuetaan muuta kuin suomea tai ruotsia äidinkielenään puhuvien mahdollisuus osallistua toisen asteen koulutukseen ja suorittaa tutkinto.
 
 
 **Toimenpiteet**
@@ -644,18 +434,10 @@ asteen koulutukseen ja suorittaa tutkinto.
 ### 4.3. Sujuva siirtyminen korkeakouluopintoihin
 
 
-Toisen asteen ja korkeakoulujen välistä rajaa on madallettava tekemällä toisen
-asteen opintojen aikana suoritettavista opinnoista varteenotettava väylä
-korkeakouluihin.
+Toisen asteen ja korkeakoulujen välistä rajaa on madallettava tekemällä toisen asteen opintojen aikana suoritettavista opinnoista varteenotettava väylä korkeakouluihin. 
 
 
-On tärkeää turvata kaikkien toisen asteen opinnot suorittaneiden
-jatko-opintokykyisyys - ei vain -kelpoisuus - huolehtimalla opintojen
-laadukkuudesta ja erityisesti yleissivistävien opintojen asianmukaisesta
-opetuksesta. Kaikkia toisen asteen tutkinnon suorittaneita on kohdeltava
-tasapuolisesti korkeakouluihin haettaessa. Ylioppilastutkinnon ei pidä antaa
-viedä liikaa tilaa korkeakouluhauissa eikä hakuvaatimusten vaikuttaa sen
-yleissivistävyyteen, vaan säilytetään useampia väyliä kohti korkeakouluja.
+On tärkeää turvata kaikkien toisen asteen opinnot suorittaneiden jatko-opintokykyisyys - ei vain -kelpoisuus - huolehtimalla opintojen laadukkuudesta ja erityisesti yleissivistävien opintojen asianmukaisesta opetuksesta. Kaikkia toisen asteen tutkinnon suorittaneita on kohdeltava tasapuolisesti korkeakouluihin haettaessa. Ylioppilastutkinnon ei pidä antaa viedä liikaa tilaa korkeakouluhauissa eikä hakuvaatimusten vaikuttaa sen yleissivistävyyteen, vaan säilytetään useampia väyliä kohti korkeakouluja.
 
 
 **Toimenpiteet**
@@ -672,89 +454,31 @@ yleissivistävyyteen, vaan säilytetään useampia väyliä kohti korkeakouluja.
 ## 5. Korkeakoulutus
 
 
-Korkeakoulutus luo yhteiskuntaan uutta osaamista, sivistystä ja rakentaa sen
-uudistumiskykyä, mikä on välttämätöntä tilanteessa, jossa maailma muuttuu
-nopeammin kuin koskaan ennen. Siksi korkeakoulujen toiminnan tulee perustua
-vahvaan autonomiaan, itsehallintoon ja tieteelliseen vapauteen: Liian ohjauksen
-sijaan korkeakouluille tulee antaa vapaus vaikuttaa tulevaisuuteen. Ministeriön
-ohjausta tulee vähentää autonomian piiriin kuuluvissa asioissa, kuten opetuksen
-sisällöissä ja opiskelijavalinnassa.
+Korkeakoulutus luo yhteiskuntaan uutta osaamista, sivistystä ja rakentaa sen uudistumiskykyä, mikä on välttämätöntä tilanteessa, jossa maailma muuttuu nopeammin kuin koskaan ennen. Siksi korkeakoulujen toiminnan tulee perustua vahvaan autonomiaan, itsehallintoon ja tieteelliseen vapauteen: Liian ohjauksen sijaan korkeakouluille tulee antaa vapaus vaikuttaa tulevaisuuteen. Ministeriön ohjausta tulee vähentää autonomian piiriin kuuluvissa asioissa, kuten opetuksen sisällöissä ja opiskelijavalinnassa.
 
 
-Tulevina vuosina yliopistojen ja ammattikorkeakoulujen tulee ottaa nykyistä
-laajemmin vastuuta jatkuvasta oppimisesta sekä korkeakoulutettujen
-työntekijöiden tutkintojen ajantasaistamisesta ja täydentämisestä. Nämä tehtävät
-tulee ottaa huomioon rahoituksessa ja tulosten seurannassa. Täydennyskoulutuksen
-merkitys tulee kasvamaan tulevina vuosina, ja sille pitää suunnitella selkeät
-rahoitusmekanismit, jotta oman osaamisen täydentäminen on kaikille aito,
-tasa-arvoinen mahdollisuus.
+Tulevina vuosina yliopistojen ja ammattikorkeakoulujen tulee ottaa nykyistä laajemmin vastuuta jatkuvasta oppimisesta sekä korkeakoulutettujen työntekijöiden tutkintojen ajantasaistamisesta ja täydentämisestä. Nämä tehtävät tulee ottaa huomioon rahoituksessa ja tulosten seurannassa. Täydennyskoulutuksen merkitys tulee kasvamaan tulevina vuosina, ja sille pitää suunnitella selkeät rahoitusmekanismit, jotta oman osaamisen täydentäminen on kaikille aito, tasa-arvoinen mahdollisuus.
 
 
-Yliopistojen ja ammattikorkeakoulujen yhteydet työelämään ovat olennaiset
-kaikilla tasoilla: tutkintoalojen mitoituksessa, opintojen sisällöissä,
-tutkimuksen kaupallistamisessa. Samalla tulee muistaa, että opintoja ei voi
-suunnitella vain näköpiirissä olevia ammattikuvia varten vaan opiskelulla on
-maailmaa muuttava ja sivistystä rakentava rooli. Tätä varten tutkintojen on
-oltava joustavia, ja niiden on mahdollistettava sekä jatkuva kehittyminen että
-kriittinen ajattelu, jota tarvitaan yhä moniulotteisempien eettisten kysymysten
-käsittelyyn niin teknologisten uudennosten kehittämisessä kuin
-ympäristökysymysten ja ihmisyhteisöjen toiminnassa. Ihmiskunnan suurten
-kysymysten ratkaisemisessa kulttuurien, käyttäytymisen ja ajattelutapojen
-tutkimus ja tuntemus korostuvat entisestään.
+Yliopistojen ja ammattikorkeakoulujen yhteydet työelämään ovat olennaiset kaikilla tasoilla: tutkintoalojen mitoituksessa, opintojen sisällöissä, tutkimuksen kaupallistamisessa. Samalla tulee muistaa, että opintoja ei voi suunnitella vain näköpiirissä olevia ammattikuvia varten vaan opiskelulla on maailmaa muuttava ja sivistystä rakentava rooli. Tätä varten tutkintojen on oltava joustavia, ja niiden on mahdollistettava sekä jatkuva kehittyminen että kriittinen ajattelu, jota tarvitaan yhä moniulotteisempien eettisten kysymysten käsittelyyn niin teknologisten uudennosten kehittämisessä kuin ympäristökysymysten ja ihmisyhteisöjen toiminnassa. Ihmiskunnan suurten kysymysten ratkaisemisessa kulttuurien, käyttäytymisen ja ajattelutapojen tutkimus ja tuntemus korostuvat entisestään.
 
 
 ### 5.1. Ovet auki korkeakoulutukseen
 
 
-Suomalaisnuorten koulutustaso on käännettävä taas nousuun ja kymmenien tuhansien
-opiskelemaan haluavien seisottaminen korkeakoulun jonotuslistalla saatava
-loppumaan. Koulutustason nostaminen ei toteudu valintakriteerejä
-hienosäätämällä, alanvaihtajia syyllistämällä tai maksullisuuden lisäämisellä,
-vaan vaatii nykyisten koulutusmäärien kriittistä tarkastelua ja useamman
-sisäänpääsyväylän luomista.
+Suomalaisnuorten koulutustaso on käännettävä taas nousuun ja kymmenien tuhansien opiskelemaan haluavien seisottaminen korkeakoulun jonotuslistalla saatava loppumaan. Koulutustason nostaminen ei toteudu valintakriteerejä hienosäätämällä, alanvaihtajia syyllistämällä tai maksullisuuden lisäämisellä, vaan vaatii nykyisten koulutusmäärien kriittistä tarkastelua ja useamman sisäänpääsyväylän luomista.
 
 
-Korkeakoulujen opiskelijavalinnan tarkoituksena on ohjata kullekin alalle
-tarkoituksenmukainen määrä soveltuvimpia ja motivoituneimpia opiskelijoita.
-Aloituspaikkamäärien tulee vastata yhteiskunnan tarpeita ja perustua
-laadukkaisiin ennusteisiin alan työllisyydestä, mutta huomioida kuitenkin
-korkeakoulutuksen uutta työtä luova luonne. Koulutuksen järjestämisestä
-aiheutuvien kustannusten tai alan sisäisen palkkakehityksen ei tule olla
-määräävä tekijä aloituspaikoista päätettäessä. Korkeakouluille tulee tarjota
-nykyistä joustavammat mahdollisuudet tehdä muutoksia aloituspaikkojen määrään
-itse.
+Korkeakoulujen opiskelijavalinnan tarkoituksena on ohjata kullekin alalle tarkoituksenmukainen määrä soveltuvimpia ja motivoituneimpia opiskelijoita. Aloituspaikkamäärien tulee vastata yhteiskunnan tarpeita ja perustua laadukkaisiin ennusteisiin alan työllisyydestä, mutta huomioida kuitenkin korkeakoulutuksen uutta työtä luova luonne. Koulutuksen järjestämisestä aiheutuvien kustannusten tai alan sisäisen palkkakehityksen ei tule olla määräävä tekijä aloituspaikoista päätettäessä. Korkeakouluille tulee tarjota nykyistä joustavammat mahdollisuudet tehdä muutoksia aloituspaikkojen määrään itse.
 
 
-Opiskelijavalintajärjestelmä ei saa aiheuttaa ylimääräistä kitkaa opintojen
-nivelvaiheisiin tai estää opiskelijoiden uudelleensuuntautumista. Pääsykokeen
-tulee edelleen säilyä aidosti mahdollisena väylänä korkeakouluopintoihin, mutta
-soveltuville aloille voidaan opiskelijoita valita myös toisen asteen menestyksen
-perusteella. Tuplatestausta tulee välttää ja pääsykokeen tulee perustua
-ulkoluvun sijaan aineiston soveltamiseen sekä alalle soveltuvuuden
-varmistamiseen. Pääsykokeita kehitetään suuntaan, joka vähentää kaupallisen
-pääsykoevalmennuksen merkitystä. Opiskelijavalinnan ei tule suosia ensi kertaa
-hakevia eikä ylioppilastutkinnon suorittaneita, ja keinotekoisesta
-korkeakouluhausta työttömyysturvan saamisen ehtona tulee luopua.
+Opiskelijavalintajärjestelmä ei saa aiheuttaa ylimääräistä kitkaa opintojen nivelvaiheisiin tai estää opiskelijoiden uudelleensuuntautumista. Pääsykokeen tulee edelleen säilyä aidosti mahdollisena väylänä korkeakouluopintoihin, mutta soveltuville aloille voidaan opiskelijoita valita myös toisen asteen menestyksen perusteella. Tuplatestausta tulee välttää ja pääsykokeen tulee perustua ulkoluvun sijaan aineiston soveltamiseen sekä alalle soveltuvuuden varmistamiseen. Pääsykokeita kehitetään suuntaan, joka vähentää kaupallisen pääsykoevalmennuksen merkitystä. Opiskelijavalinnan ei tule suosia ensi kertaa hakevia eikä ylioppilastutkinnon suorittaneita, ja keinotekoisesta korkeakouluhausta työttömyysturvan saamisen ehtona tulee luopua. 
 
 
-Erillisvalinnan tulee olla korkeakouluille aidosti mahdollinen väylä ottaa
-sisään alaa vaihtavia tai muutoin jo aiemmin opiskelleita hakijoita, eikä sen
-tule vähentää päävalinnassa hyväksyttävien hakijoiden määrää. Kannustetaan
-korkeakouluja kehittämään muualla hankitun osaamisen tunnistamista sekä muutoin
-helpottamaan siirtymiä korkeakoulujen sisällä ja niiden välillä. Erityisesti
-alemman ja ylemmän korkeakoulututkinnon välillä tulee pystyä siirtymään
-joustavasti koulutusohjelmasta toiseen. Opinto-oikeus tulee kuitenkin
-yliopistoissa myöntää edelleen suoraan maisterintutkintoon asti.
+Erillisvalinnan tulee olla korkeakouluille aidosti mahdollinen väylä ottaa sisään alaa vaihtavia tai muutoin jo aiemmin opiskelleita hakijoita, eikä sen tule vähentää päävalinnassa hyväksyttävien hakijoiden määrää. Kannustetaan korkeakouluja kehittämään muualla hankitun osaamisen tunnistamista sekä muutoin helpottamaan siirtymiä korkeakoulujen sisällä ja niiden välillä. Erityisesti alemman ja ylemmän korkeakoulututkinnon välillä tulee pystyä siirtymään joustavasti koulutusohjelmasta toiseen. Opinto-oikeus tulee kuitenkin yliopistoissa myöntää edelleen suoraan maisterintutkintoon asti.
 
 
-Ylioppilaskuntien ja ammattikorkeakoulujen opiskelijakuntien asema osana
-demokraattista korkeakouluyhteisöä ja niiden mahdollisuus edustaa kaikkia
-opiskelijoita tulee säilyttää. Niiden rahoitusta ei pidä sitoa yliopistolta tai
-ammattikorkeakoululta saatavaan rahoitukseen eikä muuttuvaan valtion
-budjettirahoitukseen, vaan myös ammattikorkeakoulupuolella tulee tarjota
-mahdollisuus kerätä automaatiojäsenyyteen perustuvaa jäsenmaksua. Jäsenmaksujen
-tulee kuitenkin olla maltillisen suuruiset ja niihin on voitava hakea
-maksuhelpotusta.
+Ylioppilaskuntien ja ammattikorkeakoulujen opiskelijakuntien asema osana demokraattista korkeakouluyhteisöä ja niiden mahdollisuus edustaa kaikkia opiskelijoita tulee säilyttää. Niiden rahoitusta ei pidä sitoa yliopistolta tai ammattikorkeakoululta saatavaan rahoitukseen eikä muuttuvaan valtion budjettirahoitukseen, vaan myös ammattikorkeakoulupuolella tulee tarjota mahdollisuus kerätä automaatiojäsenyyteen perustuvaa jäsenmaksua. Jäsenmaksujen tulee kuitenkin olla maltillisen suuruiset ja niihin on voitava hakea maksuhelpotusta.
 
 
 **Toimenpiteet**
@@ -771,44 +495,16 @@ maksuhelpotusta.
 ### 5.2. Ennakoitava ja joustava rahoitus
 
 
-Korkeakoulujen rahoitus tulee pitää vakaana siten, että yliopistot ja
-ammattikorkeakoulut voivat suunnitella toimintansa pitkäjänteisesti. Äkilliset
-budjettileikkaukset, muuttuvat vaatimukset ja hankepohjaiseksi pirstottu
-rahoitus aiheuttavat turhaa lisätyötä eivätkä kunnioita korkeakoulujen
-autonomiaa. Rahoituksen taso tulee viipymättä korjata viimeisiä leikkauksia
-edeltäneelle tasolle ja sen side indeksiin palautta. Pidemmällä aikavälillä
-rahoituksen tasoa on tasaisesti nostettava ja käytettyjen rahoitusmallien
-selkeyttä on lisättävä merkittävästi. Tutkintojen määrään korkeakoulujen
-rahoitusta määrittävänä tekijänä on suhtauduttava maltillisesti.
+Korkeakoulujen rahoitus tulee pitää vakaana siten, että yliopistot ja ammattikorkeakoulut voivat suunnitella toimintansa pitkäjänteisesti. Äkilliset budjettileikkaukset, muuttuvat vaatimukset ja hankepohjaiseksi pirstottu rahoitus aiheuttavat turhaa lisätyötä eivätkä kunnioita korkeakoulujen autonomiaa. Rahoituksen taso tulee viipymättä korjata viimeisiä leikkauksia edeltäneelle tasolle ja sen side indeksiin palautta. Pidemmällä aikavälillä rahoituksen tasoa on tasaisesti nostettava ja käytettyjen rahoitusmallien selkeyttä on lisättävä merkittävästi. Tutkintojen määrään korkeakoulujen rahoitusta määrittävänä tekijänä on suhtauduttava maltillisesti.
 
 
-Luodaan Suomen korkeakouluista yhtenäinen alustamainen verkosto, jossa
-opiskelija voi valita opintojaksoja vapaasti riippumatta kotikorkeakoulustaan.
-Uudistetaan rahoitusmallia niin, että se perustuu pysyvään perusrahoitukseen ja
-palkitsee tutkintojen sijaan tuotetuista opintojaksoista. Näin korkeakouluille
-luodaan kannuste tarjota opetusta myös muiden korkeakoulujen opiskelijoille sekä
-osa-aikaisesti opiskeleville. Korkeakoulujen rahoituksen ei tule ohjata niitä
-kilpailemaan keskenään resursseista ja aloituspaikkamääristä vaan kannustaa
-saavuttamaan omalla alallaan paras mahdollinen koulutuksen ja tutkimuksen taso
-ja tekemään yhteistyötä. Yhteistyön avulla päällekkäisyyttä voidaan tarvittaessa
-purkaa hallitusti ja tarkoituksenmukaisesti, eikä tehtävistä luopuminen tarkoita
-suoraan rahoituksen vähenemistä.
+Luodaan Suomen korkeakouluista yhtenäinen alustamainen verkosto, jossa opiskelija voi valita opintojaksoja vapaasti riippumatta kotikorkeakoulustaan. Uudistetaan rahoitusmallia niin, että se perustuu pysyvään perusrahoitukseen ja palkitsee tutkintojen sijaan tuotetuista opintojaksoista. Näin korkeakouluille luodaan kannuste tarjota opetusta myös muiden korkeakoulujen opiskelijoille sekä osa-aikaisesti opiskeleville. Korkeakoulujen rahoituksen ei tule ohjata niitä kilpailemaan keskenään resursseista ja aloituspaikkamääristä vaan kannustaa saavuttamaan omalla alallaan paras mahdollinen koulutuksen ja tutkimuksen taso ja tekemään yhteistyötä. Yhteistyön avulla päällekkäisyyttä voidaan tarvittaessa purkaa hallitusti ja tarkoituksenmukaisesti, eikä tehtävistä luopuminen tarkoita suoraan rahoituksen vähenemistä.
 
 
-Yliopistoilla ja ammattikorkeakouluilla on toisistaan poikkeava tehtäväkenttä ja
-oma paikkansa yhteiskunnan kehittämisessä, ja niistä tulee jatkossakin säädellä
-erillisillä lainsäädännöillä. Vahvistetaan näitä erilaisia profiileja
-entisestään, mutta mahdollistetaan yhteistyön lisääminen ja tutkinnon
-rakentaminen kummankin korkeakoulutyypin tarjoamista sisällöistä. Tutkinnon
-pakolliset osuudet on kuitenkin pystyttävä suorittamaan siinä korkeakoulussa ja
-tutkinto-ohjelmassa, johon opiskelija on hakenut. Opiskelijan tulee voida
-liikkua vapaasti korkeakoulun sisällä ja niiden välillä ja rakentaa tutkintonsa
-haluamallaan tavalla ilman ylimääräistä lupabyrokratiaa tai maksuja.
+Yliopistoilla ja ammattikorkeakouluilla on toisistaan poikkeava tehtäväkenttä ja oma paikkansa yhteiskunnan kehittämisessä, ja niistä tulee jatkossakin säädellä erillisillä lainsäädännöillä. Vahvistetaan näitä erilaisia profiileja entisestään, mutta mahdollistetaan yhteistyön lisääminen ja tutkinnon rakentaminen kummankin korkeakoulutyypin tarjoamista sisällöistä. Tutkinnon pakolliset osuudet on kuitenkin pystyttävä suorittamaan siinä korkeakoulussa ja tutkinto-ohjelmassa, johon opiskelija on hakenut. Opiskelijan tulee voida liikkua vapaasti korkeakoulun sisällä ja niiden välillä ja rakentaa tutkintonsa haluamallaan tavalla ilman ylimääräistä lupabyrokratiaa tai maksuja. 
 
 
-Korkeakouluverkon laajuuden, alatarjonnan ja yksiköiden sijaintien tulee seurata
-opiskelijoiden kysyntää, väestön keskittymistä ja soveltuvin osin vastata alueen
-työvoimatarpeeseen ja kehitysnäkymiin.
+Korkeakouluverkon laajuuden, alatarjonnan ja yksiköiden sijaintien tulee seurata opiskelijoiden kysyntää, väestön keskittymistä ja soveltuvin osin vastata alueen työvoimatarpeeseen ja kehitysnäkymiin.
 
 
 **Toimenpiteet**
@@ -824,37 +520,16 @@ työvoimatarpeeseen ja kehitysnäkymiin.
 ### 5.3. Kansainvälisyys on mahdollisuus, ei kustannus
 
 
-Korkeakoulumaailman globalisoituessa kansainväliset yhteydet muuttuvat yhä
-tärkeämmiksi niin opiskelijoiden, opetushenkilökunnan kuin tutkijoiden
-näkökulmasta. Luontevaa ja omalla alalla kehittymistä tukevaa
-kansainvälistymistä on tuettava ja se on voitava sisällyttää tutkintoon ja
-työtehtäviin. Kansainvälistä yhteistyötä voidaan tehdä myös kotikampuksella
-avaamalla ovet Suomen ulkopuolelta tuleville osaajille. Siksi englannin kielen
-on soveltuvin osin oltava yhtä luonteva käyttökieli opiskelussa ja tieteessä
-kuin suomen tai ruotsin, samalla kuitenkin huolehtien siitä, että kotikielemme
-pysyvät käytössä tieteen kielinä.
+Korkeakoulumaailman globalisoituessa kansainväliset yhteydet muuttuvat yhä tärkeämmiksi niin opiskelijoiden, opetushenkilökunnan kuin tutkijoiden näkökulmasta. Luontevaa ja omalla alalla kehittymistä tukevaa kansainvälistymistä on tuettava ja se on voitava sisällyttää tutkintoon ja työtehtäviin. Kansainvälistä yhteistyötä voidaan tehdä myös kotikampuksella avaamalla ovet Suomen ulkopuolelta tuleville osaajille. Siksi englannin kielen on soveltuvin osin oltava yhtä luonteva käyttökieli opiskelussa ja tieteessä kuin suomen tai ruotsin, samalla kuitenkin huolehtien siitä, että kotikielemme pysyvät käytössä tieteen kielinä.
 
 
-Opiskelijoiden liikkuvuutta on parannettava esimerkiksi kehittämällä ja
-tukemalla sekä Suomeen että maailmalle suuntautuvaa opiskelijavaihtoa,
-sisällyttämällä kaikkiin korkeakoulututkintoihin kansainvälistymisjakso ja
-helpottamalla muualla suoritettujen opintojen sisällyttämistä tutkintoihin.
-Ulkomailla opiskelun ja harjoittelun tulee aina olla mahdollista opintojen
-edistämisen kannalta, ja harjoittelusta tulee saada asianmukainen korvaus.
+Opiskelijoiden liikkuvuutta on parannettava esimerkiksi kehittämällä ja tukemalla sekä Suomeen että maailmalle suuntautuvaa opiskelijavaihtoa, sisällyttämällä kaikkiin korkeakoulututkintoihin kansainvälistymisjakso ja helpottamalla muualla suoritettujen opintojen sisällyttämistä tutkintoihin. Ulkomailla opiskelun ja harjoittelun tulee aina olla mahdollista opintojen edistämisen kannalta, ja harjoittelusta tulee saada asianmukainen korvaus.
 
 
-EU- ja ETA-maiden ulkopuolisille opiskelijoille säädetyt lukukausimaksut
-edustavat politiikkaa, joka asettaa opiskelijat keskenään epätasa-arvoiseen
-asemaan ja vähentää kansainvälisten huippuosaajien kiinnostusta Suomessa
-opiskeluun. Maksut eivät toistaiseksi ole tuottaneet korkeakouluille niiden
-käyttöönotossa haettua lisäarvoa, vaan lähinnä lisänneet hallinto- ja
-markkinointikuluja. Lukukausimaksuista on toteutettava riippumaton vaikutusten
-arviointi. Vihreät kannattaa maksutonta korkeakoulutusta kaikille
-opiskelijoille.
+EU- ja ETA-maiden ulkopuolisille opiskelijoille säädetyt lukukausimaksut edustavat politiikkaa, joka asettaa opiskelijat keskenään epätasa-arvoiseen asemaan ja vähentää kansainvälisten huippuosaajien kiinnostusta Suomessa opiskeluun. Maksut eivät toistaiseksi ole tuottaneet korkeakouluille niiden käyttöönotossa haettua lisäarvoa, vaan lähinnä lisänneet hallinto- ja markkinointikuluja. Lukukausimaksuista on toteutettava riippumaton vaikutusten arviointi. Vihreät kannattaa maksutonta korkeakoulutusta kaikille opiskelijoille.
 
 
-Kansainvälisten osaajien potentiaali on huomioitava myös maahanmuuttajien
-koulutusmahdollisuuksissa, ja heidän osaamisensa tunnistamista on helpotettava.
+Kansainvälisten osaajien potentiaali on huomioitava myös maahanmuuttajien koulutusmahdollisuuksissa, ja heidän osaamisensa tunnistamista on helpotettava. 
 
 
 **Toimenpiteet**
@@ -869,36 +544,13 @@ koulutusmahdollisuuksissa, ja heidän osaamisensa tunnistamista on helpotettava.
 ### 5.4. Opiskelukyky ja toimeentulo turvattava kaikissa tilanteissa
 
 
-Korkeakouluopiskelijoihin kohdistuu jatkuvasti kasvava paine niin koulutuksen
-järjestäjän, toimeentulon hankkimisen kuin tulevan työelämän taholta.
-Opiskelijoiden kokema stressi ja stressiperäiset mielenterveysongelmat ovat
-tutkimusten mukaan lisääntyneet huolestuttavasti erityisesti viime vuosina.
-Turvaamalla riittävän toimeentulon ja laadukkaat terveyspalvelut varmistamme,
-että opiskelijat eivät pala loppuun opintojen aikana, vaan siirtyvät työelämään
-työkykyisinä.
+Korkeakouluopiskelijoihin kohdistuu jatkuvasti kasvava paine niin koulutuksen järjestäjän, toimeentulon hankkimisen kuin tulevan työelämän taholta. Opiskelijoiden kokema stressi ja stressiperäiset mielenterveysongelmat ovat tutkimusten mukaan lisääntyneet huolestuttavasti erityisesti viime vuosina. Turvaamalla riittävän toimeentulon ja laadukkaat terveyspalvelut varmistamme, että opiskelijat eivät pala loppuun opintojen aikana, vaan siirtyvät työelämään työkykyisinä.
 
 
-Opintojen aikaisen toimeentulon tukijärjestelmän tarkoitus on mahdollistaa
-täysipäiväinen opiskelu. Tuen tulee riittää elämisen kustannusten kattamiseen,
-sillä mitään ihmisryhmää ei tule pakottaa elämään lainarahalla. Tuen
-myöntämisperusteiden tulee olla yksinkertaiset, ennustettavat ja sellaiset, että
-ne kannustavat ja tukevat opintojen jatkamiseen kaikissa tilanteissa. Jatkuva
-uhka toimeentulon menettämisestä lisää korkeakouluopiskelijoiden kokemaa
-stressiä tarpeettomasti, kohtelee terveysongelmista kärsiviä epätasa-arvoisesti
-eikä ole oikea keino nopeuttaa opintoja. Perustulo ilman sidettä opintojen
-etenemiseen on ideaali tapa mahdollistaa opintojen aikainen toimeentulo missä
-tahansa elämänvaiheessa.
+Opintojen aikaisen toimeentulon tukijärjestelmän tarkoitus on mahdollistaa täysipäiväinen opiskelu. Tuen tulee riittää elämisen kustannusten kattamiseen, sillä mitään ihmisryhmää ei tule pakottaa elämään lainarahalla. Tuen myöntämisperusteiden tulee olla yksinkertaiset, ennustettavat ja sellaiset, että ne kannustavat ja tukevat opintojen jatkamiseen kaikissa tilanteissa. Jatkuva uhka toimeentulon menettämisestä lisää korkeakouluopiskelijoiden kokemaa stressiä tarpeettomasti, kohtelee terveysongelmista kärsiviä epätasa-arvoisesti eikä ole oikea keino nopeuttaa opintoja. Perustulo ilman sidettä opintojen etenemiseen on ideaali tapa mahdollistaa opintojen aikainen toimeentulo missä tahansa elämänvaiheessa.
 
 
-Opiskelijaterveydenhuollon tehtävä on edistää opiskelukykyä ja ennaltaehkäistä
-terveydestä johtuvia oppimisen esteitä yhdessä korkeakoulun kanssa.
-Ylioppilaiden terveydenhoitosäätiö YTHS:n toimintaedellytykset on turvattava
-kaikissa tilanteissa. Opiskelijalla on opiskelupaikkakunnasta, koulutusasteesta
-tai korkeakoulujärjestelmästä riippumatta oltava oikeus riittävään ja
-asiantuntevaan opiskelijaterveydenhuoltoon. Myös mielenterveyspalveluja on
-oltava riittävästi saatavilla. Jokaisessa korkeakoulussa tulee olla vähintään
-yksi opiskelijoiden oppimisen tukemiseen erikoistunut opintopsykologi.
-Korkeakoulukiusaamiseen tulee puuttua matalalla kynnyksellä.
+Opiskelijaterveydenhuollon tehtävä on edistää opiskelukykyä ja ennaltaehkäistä terveydestä johtuvia oppimisen esteitä yhdessä korkeakoulun kanssa. Ylioppilaiden terveydenhoitosäätiö YTHS:n toimintaedellytykset on turvattava kaikissa tilanteissa. Opiskelijalla on opiskelupaikkakunnasta, koulutusasteesta tai korkeakoulujärjestelmästä riippumatta oltava oikeus riittävään ja asiantuntevaan opiskelijaterveydenhuoltoon. Myös mielenterveyspalveluja on oltava riittävästi saatavilla. Jokaisessa korkeakoulussa tulee olla vähintään yksi opiskelijoiden oppimisen tukemiseen erikoistunut opintopsykologi. Korkeakoulukiusaamiseen tulee puuttua matalalla kynnyksellä. 
 
 
 **Toimenpiteet**
@@ -919,68 +571,28 @@ Korkeakoulukiusaamiseen tulee puuttua matalalla kynnyksellä.
 ## 6. Jatkuva oppiminen
 
 
-Nopeasti muuttuvassa yhteiskunnassa jatkuva oppiminen ja itsensä kehittäminen ei
-voi olla vain hyvin toimeentulevien oikeus, vaan osaamisen täydentäminen elämän
-varrella tulee olla mahdollista ja kannattavaa jokaisessa tilanteessa. Siksi
-yhteiskunnan tulee tukea täydentävien koulutuskokonaisuuksien tarjontaa, tehdä
-jatkuvasta oppimisesta kannattavaa myös koulutuksen järjestäjälle ja luoda
-elinikäiseen oppimiseen kannustavat toimeentulon turvan elementit sekä nykyisen
-että perustuloon perustuvan sosiaaliturvajärjestelmän osaksi.
+Nopeasti muuttuvassa yhteiskunnassa jatkuva oppiminen ja itsensä kehittäminen ei voi olla vain hyvin toimeentulevien oikeus, vaan osaamisen täydentäminen elämän varrella tulee olla mahdollista ja kannattavaa jokaisessa tilanteessa. Siksi yhteiskunnan tulee tukea täydentävien koulutuskokonaisuuksien tarjontaa, tehdä jatkuvasta oppimisesta kannattavaa myös koulutuksen järjestäjälle ja luoda elinikäiseen oppimiseen kannustavat toimeentulon turvan elementit sekä nykyisen että perustuloon perustuvan sosiaaliturvajärjestelmän osaksi.
 
 
-Jatkuva oppiminen ei saa perustua pelkästään uusien ammattialaan kytkeytyvien
-asioiden opettelulle, vaan sen tehtävänä on samalla myös päivittää valmiuksia
-pärjätä muuttuvassa yhteiskunnassa. Tämä tarkoittaa niin digitaitojen opettelua,
-monikulttuurisuuden ja moninaisuuden ymmärtämistä kuin kestävän kehityksen
-kysymysten opiskelua.
+Jatkuva oppiminen ei saa perustua pelkästään uusien ammattialaan kytkeytyvien asioiden opettelulle, vaan sen tehtävänä on samalla myös päivittää valmiuksia pärjätä muuttuvassa yhteiskunnassa. Tämä tarkoittaa niin digitaitojen opettelua, monikulttuurisuuden ja moninaisuuden ymmärtämistä kuin kestävän kehityksen kysymysten opiskelua.
 
 
 ### 6.1. Vahvistetaan aikuisten perustaitoja ja mahdollisuuksia työllistyä
 
 
-Suomessa on yli 600 000 työikäistä aikuista, joilla on puutteista
-perustaidoissa. Teknologia ja digitalisaatio muuttavat työn luonnetta nopeasti
-ja samalla kun ne luovat uusia työtehtäviä, perinteisempiä työtehtäviä poistuu.
-Riittävät perustaidot ovat avain työllistymiseen ja työssä pysymiseen työelämän
-muutoksessa. Tukea tarvitaan ammatillisten valmiuksien lisäksi omien
-oppimistaitojen kehittymiseen.
+Suomessa on yli 600 000 työikäistä aikuista, joilla on puutteista perustaidoissa. Teknologia ja digitalisaatio muuttavat työn luonnetta nopeasti ja samalla kun ne luovat uusia työtehtäviä, perinteisempiä työtehtäviä poistuu. Riittävät perustaidot ovat avain työllistymiseen ja työssä pysymiseen työelämän muutoksessa. Tukea tarvitaan ammatillisten valmiuksien lisäksi omien oppimistaitojen kehittymiseen.
 
 
-Matalan kynnyksen reittejä kouluttautumiseen ja jopa uuden tutkinnon
-suorittamiseen on tarjottava nykyistä laajemmin, jotta saamme vastattua
-työmarkkinoiden osaajapulaan ja vaikutettua nopeasti jo työelämässä olevien
-osaamisen uudistamiseen. Rakenteellista työttömyyttä voidaan ennaltaehkäistä ja
-korjata erityisesti erilaisilla muuntokoulutuksilla, joita voidaan tarjota sekä
-ammatillisissa oppilaitoksissa että korkeakouluissa. Näiden koulutusten
-tarjontaa tulee lisätä merkittävästi ja työnantajien tulee osallistua niiden
-rahoittamiseen. Myös ammattittutkinnoilla ja erikoisammattitutkinnoilla on
-jatkossakin tärkeä rooli osaamisen kehittämisen kokonaisuudessa.
-Oppisopimuskoulutusta on kehitettävä kokonaisuutena, jotta se palvelisi nykyistä
-paremmin ilman toisen asteen tutkintoa olevien aikuisten sijoittumista
-työelämään sekä uuden oppimista.
+Matalan kynnyksen reittejä kouluttautumiseen ja jopa uuden tutkinnon suorittamiseen on tarjottava nykyistä laajemmin, jotta saamme vastattua työmarkkinoiden osaajapulaan ja vaikutettua nopeasti jo työelämässä olevien osaamisen uudistamiseen. Rakenteellista työttömyyttä voidaan ennaltaehkäistä ja korjata erityisesti erilaisilla muuntokoulutuksilla, joita voidaan tarjota sekä ammatillisissa oppilaitoksissa että korkeakouluissa. Näiden koulutusten tarjontaa tulee lisätä merkittävästi ja työnantajien tulee osallistua niiden rahoittamiseen. Myös ammattittutkinnoilla ja erikoisammattitutkinnoilla on jatkossakin tärkeä rooli osaamisen kehittämisen kokonaisuudessa. Oppisopimuskoulutusta on kehitettävä kokonaisuutena, jotta se palvelisi nykyistä paremmin ilman toisen asteen tutkintoa olevien aikuisten sijoittumista työelämään sekä uuden oppimista.
 
 
-Vapaalla sivistystyöllä tarkoitetaan yleisivistäviä ja hyvinvointia lisääviä
-koulutuspalveluita, joiden tulee olla saatavana jokaiselle suomalaiselle. Vapaa
-sivistystyö on tärkeä osa suomalaista kulttuuria ja se täydentää ja vahvistaa
-formaalia koulutustarjontaa. Tätä potentiaalia tulee entisestään vahvistaa
-lisäämällä yhteistyötä lukioiden ja ammatillisen koulutuksen kanssa. Näiden
-väylien avulla voidaan lisätä myös työttömien mahdollisuuksia päivittää omaa
-osaamistaan ja vahvistaa perustaitoja.
+Vapaalla sivistystyöllä tarkoitetaan yleisivistäviä ja hyvinvointia lisääviä koulutuspalveluita, joiden tulee olla saatavana jokaiselle suomalaiselle. Vapaa sivistystyö on tärkeä osa suomalaista kulttuuria ja se täydentää ja vahvistaa formaalia koulutustarjontaa. Tätä potentiaalia tulee entisestään vahvistaa lisäämällä yhteistyötä lukioiden ja ammatillisen koulutuksen kanssa. Näiden väylien avulla voidaan lisätä myös työttömien mahdollisuuksia päivittää omaa osaamistaan ja vahvistaa perustaitoja.
 
 
-Tuetaan erityisesti maahanmuuttajien osaamista ja osaamisen tunnistamista.
-Tarvitaan erilaisia aiemmin hankitun osaamisen tunnistamisen menetelmiä sekä
-räätälöityjä mahdollisuuksia täydentää osaamista suomalaisen työelämän
-standardeja vastaavalle tasolle. Erityisesti kielen oppimiseen tulee tarjota
-riittävästi mahdollisuuksia myös perustason saavuttamisen jälkeen. Toisaalta
-työnantajia voidaan kannustaa laskemaan kielitaitovaatimuksia rekrytoinneissa
-soveltuvilla aloilla.
+Tuetaan erityisesti maahanmuuttajien osaamista ja osaamisen tunnistamista. Tarvitaan erilaisia aiemmin hankitun osaamisen tunnistamisen menetelmiä sekä räätälöityjä mahdollisuuksia täydentää osaamista suomalaisen työelämän standardeja vastaavalle tasolle. Erityisesti kielen oppimiseen tulee tarjota riittävästi mahdollisuuksia myös perustason saavuttamisen jälkeen. Toisaalta työnantajia voidaan kannustaa laskemaan kielitaitovaatimuksia rekrytoinneissa soveltuvilla aloilla. 
 
 
-Vapaa sivistystyö on saanut suuren roolin myös maahanmuuttajien suomen ja
-ruotsin kielen opetuksessa sekä kotouttamisen tukena ja sen toteuttamiseen tulee
-turvata riittävät resurssit.
+Vapaa sivistystyö on saanut suuren roolin myös maahanmuuttajien suomen ja ruotsin kielen opetuksessa sekä kotouttamisen tukena ja sen toteuttamiseen tulee turvata riittävät resurssit.
 
 
 **Toimenpiteet**
@@ -997,48 +609,16 @@ turvata riittävät resurssit.
 ### 6.2. Jatkuvasta oppimisesta kaikkien oikeus
 
 
-Koulutustarjontaa on kehitettävä vastaamaan myös työuran aikaista osaamisen
-kehittämistä. Täydentävän koulutuksen tarjoaminen ei kuitenkaan voi olla vain
-koulutuksen järjestäjien omalla vastuulla, vaan sen mahdollistamiseksi on
-luotava uudenlainen osaamisseteli- tai osaamisturvamalli. Tämän mallin
-rahoitusvastuu tulee jakaa kolmikantaisesti ja sen tulee auttaa työntekijöitä ja
-työnantajia reagoimaan nopeammin tuleviin osaamistarpeisiin.
-Täydennyskoulutustarpeita tulee tarkastella säännöllisesti kokonaisuutena
-yhteistyössä oppilaitosten, elinkeinoelämän ja TE-palvelujen kanssa.
-Osallistuvat rahoittajatahot voivat halutessaan tukea täsmälliseen tarpeeseen
-vastaavan koulutuksen saatavuutta mallin kautta.
+Koulutustarjontaa on kehitettävä vastaamaan myös työuran aikaista osaamisen kehittämistä. Täydentävän koulutuksen tarjoaminen ei kuitenkaan voi olla vain koulutuksen järjestäjien omalla vastuulla, vaan sen mahdollistamiseksi on luotava uudenlainen osaamisseteli- tai osaamisturvamalli. Tämän mallin rahoitusvastuu tulee jakaa kolmikantaisesti ja sen tulee auttaa työntekijöitä ja työnantajia reagoimaan nopeammin tuleviin osaamistarpeisiin. Täydennyskoulutustarpeita tulee tarkastella säännöllisesti kokonaisuutena yhteistyössä oppilaitosten, elinkeinoelämän ja TE-palvelujen kanssa. Osallistuvat rahoittajatahot voivat halutessaan tukea täsmälliseen tarpeeseen vastaavan koulutuksen saatavuutta mallin kautta.
 
 
-Täydennyskoulutuksen tarjoamisen tulee tulevaisuudessa olla yksi korkeakoulujen
-ja toisen asteen ammatillisten oppilaitosten perustehtävistä. Rahoitusmallien
-tulee kannustaa oppilaitoksia tarjoamaan osaamisen täydentämiseen sopivia
-kokonaisuuksia joko osana tutkintoon kuuluvaa opetusta tai erikseen luotavina
-sisältöinä. Tämä voi toteutua joko erikseen rahoitetun osaamissetelimallin tai
-opintopisteisiin perustuvan rahoitusmallin avulla. Kannustetaan oppilaitoksia
-seuraamaan valmistuneiden työllistymistä ja pitämään heihin tiivistä yhteyttä,
-jotta opintoihin palaamisesta tehdään mahdollisimman luontevaa.
+Täydennyskoulutuksen tarjoamisen tulee tulevaisuudessa olla yksi korkeakoulujen ja toisen asteen ammatillisten oppilaitosten perustehtävistä. Rahoitusmallien tulee kannustaa oppilaitoksia tarjoamaan osaamisen täydentämiseen sopivia kokonaisuuksia joko osana tutkintoon kuuluvaa opetusta tai erikseen luotavina sisältöinä. Tämä voi toteutua joko erikseen rahoitetun osaamissetelimallin tai opintopisteisiin perustuvan rahoitusmallin avulla. Kannustetaan oppilaitoksia seuraamaan valmistuneiden työllistymistä ja pitämään heihin tiivistä yhteyttä, jotta opintoihin palaamisesta tehdään mahdollisimman luontevaa.
 
 
-Täydentävän oppimisen tulee olla kannattavaa jokaisessa elämäntilanteessa.
-Osaamisseteliä tai osaamisturvaa tulee voida käyttää sekä työn ohessa,
-työttömänä että eläkeikäisenä. Aikuiskoulutustukijärjestelmä voidaan yhdistää
-tähän tukimalliin siten, että myös keskeneräisen tutkinnon täydentäminen
-kokopäiväisellä tai osa-aikaisella opintovapaalla on mahdollista. Muuta
-toimeentuloa voidaan täydentää osaamisturvajärjestelmästä niin, että
-kouluttautuminen on aina sekä taloudellisesti mahdollista että kannattavaa.
-Soveltuvin osin myös työnantajaa voidaan tukea opintovapaan
-sijaisjärjestelyissä.
+Täydentävän oppimisen tulee olla kannattavaa jokaisessa elämäntilanteessa. Osaamisseteliä tai osaamisturvaa tulee voida käyttää sekä työn ohessa, työttömänä että eläkeikäisenä. Aikuiskoulutustukijärjestelmä voidaan yhdistää tähän tukimalliin siten, että myös keskeneräisen tutkinnon täydentäminen kokopäiväisellä tai osa-aikaisella opintovapaalla on mahdollista. Muuta toimeentuloa voidaan täydentää osaamisturvajärjestelmästä niin, että kouluttautuminen on aina sekä taloudellisesti mahdollista että kannattavaa. Soveltuvin osin myös työnantajaa voidaan tukea opintovapaan sijaisjärjestelyissä. 
 
 
-Osaamisen täydentämisen tulee olla maksutonta työttömälle, eikä opiskelun tule
-katkaista oikeutta työttömyysturvaan. Työsuhteen aikaisesta osaamisen
-täydentämisestä voidaan periä maksua työnantajalta, mikäli koulutus vastaa
-työnantajan tarvetta. Tilauskoulutusta voidaan käyttää välineenä vastata
-spesifiin osaamistarpeeseen, mutta sen tulee keskittyä kokonaisten tutkintojen
-sijaan rajattuihin ja tarpeeseen vastaaviin opintokokonaisuuksiin tutkinnon
-sisällä. Tutkintoon johtavan koulutuksen tulee olla jatkossakin maksutonta
-kaikille ja päätösvalta opetuksen sisällöistä tulee säilyttää koulutuksen
-järjestäjällä.
+Osaamisen täydentämisen tulee olla maksutonta työttömälle, eikä opiskelun tule katkaista oikeutta työttömyysturvaan. Työsuhteen aikaisesta osaamisen täydentämisestä voidaan periä maksua työnantajalta, mikäli koulutus vastaa työnantajan tarvetta. Tilauskoulutusta voidaan käyttää välineenä vastata spesifiin osaamistarpeeseen, mutta sen tulee keskittyä kokonaisten tutkintojen sijaan rajattuihin ja tarpeeseen vastaaviin opintokokonaisuuksiin tutkinnon sisällä. Tutkintoon johtavan koulutuksen tulee olla jatkossakin maksutonta kaikille ja päätösvalta opetuksen sisällöistä tulee säilyttää koulutuksen järjestäjällä.
 
 
 * Luodaan elinikäiseen oppimiseen kannustava täydennyskoulutuksen ja osaamisturvan malli yhteistyönä korkeakoulujen, elinkeinoelämän, työmarkkinajärjestöjen ja valtionhallinnon kanssa.
@@ -1051,64 +631,22 @@ järjestäjällä.
 ## 7. Tiede- ja tutkimuspolitiikka
 
 
-Jos Suomi haluaa olla koulutuksen ja osaamisen edelläkävijä, tulee sillä olla
-myös uskottava tiedepoliittinen linja. Tiedepolitiikasta on laadittava pitkän
-aikavälin strategia, jolla tuetaan sekä perustutkimusta että kansainvälisen
-tason huippututkimuksen kehittymistä. Tieteen rahoitus ei voi enää perustua
-julkaisujen määrään ja lyhyisiin hankkeisiin. Vihreän tiede- ja
-tutkimuspolitiikan keskeiset periaatteet ovat tieteen yhteiskunnallisen roolin
-vahvistaminen, tieteellisen tutkimuksen tason nostaminen edelleen sekä
-tutkimuksen riippumattomuus ja avoimuus. On tunnistettava, että aitoa pitkän
-aikavälin kehitystä yhteiskuntaan syntyy juuri tieteeseen ja tutkimukseen
-panostamisen kautta.
+Jos Suomi haluaa olla koulutuksen ja osaamisen edelläkävijä, tulee sillä olla myös uskottava tiedepoliittinen linja. Tiedepolitiikasta on laadittava pitkän aikavälin strategia, jolla tuetaan sekä perustutkimusta että kansainvälisen tason huippututkimuksen kehittymistä. Tieteen rahoitus ei voi enää perustua julkaisujen määrään ja lyhyisiin hankkeisiin. Vihreän tiede- ja tutkimuspolitiikan keskeiset periaatteet ovat tieteen yhteiskunnallisen roolin vahvistaminen, tieteellisen tutkimuksen tason nostaminen edelleen sekä tutkimuksen riippumattomuus ja avoimuus. On tunnistettava, että aitoa pitkän aikavälin kehitystä yhteiskuntaan syntyy juuri tieteeseen ja tutkimukseen panostamisen kautta.
 
 
 ### 7.1. Tutkimusrahoituksesta riittävää ja vakaata
 
 
-Tutkimusrahoituksen tavoitteena tulee olla korkeatasoinen tieteellinen tutkimus.
-Yliopistojen tulosrahoitus pääsääntöisesti tutkintojen ja julkaisujen määrien
-perusteella ei edistä kansainvälisen huipputason saavuttamista.
-Tohtoritutkintojen painoarvo rahanjaossa kannustaa yliopistoja tuottamaan
-tohtoritutkintoja välittämättä tutkintojen laadusta tai tohtoroituneiden
-uramahdollisuuksista. Rahoituksen jaossa on priorisoitava laadullisia
-kriteereitä, ja rahoitusta tulee pystyä jakamaan myös ilman erillisiä
-hankehakukierroksia. Riittävä perusrahoitus ja selkeät kriteerit tukevat työajan
-käyttöä tieteen tekemiseen hankehakemusten sijaan. Myös vastikkeettoman
-perusrahoitusosuuden lisääminen osaksi yliopistojen rahoitusta tukee tutkimuksen
-pitkäjänteisyyttä ja laatua.
+Tutkimusrahoituksen tavoitteena tulee olla korkeatasoinen tieteellinen tutkimus. Yliopistojen tulosrahoitus pääsääntöisesti tutkintojen ja julkaisujen määrien perusteella ei edistä kansainvälisen huipputason saavuttamista. Tohtoritutkintojen painoarvo rahanjaossa kannustaa yliopistoja tuottamaan tohtoritutkintoja välittämättä tutkintojen laadusta tai tohtoroituneiden uramahdollisuuksista. Rahoituksen jaossa on priorisoitava laadullisia kriteereitä, ja rahoitusta tulee pystyä jakamaan myös ilman erillisiä hankehakukierroksia. Riittävä perusrahoitus ja selkeät kriteerit tukevat työajan käyttöä tieteen tekemiseen hankehakemusten sijaan. Myös vastikkeettoman perusrahoitusosuuden lisääminen osaksi yliopistojen rahoitusta tukee tutkimuksen pitkäjänteisyyttä ja laatua.
 
 
-Suomen Akatemian rahoitus tutkimusryhmille on muodostanut perustan tieteen
-tekemiselle Suomessa. Suomen Akatemian rahoitus on myös tieteellisen autonomian
-kannalta myönteinen rahoitustapa. Sen myöntövaltuuksien taso on kuitenkin jäänyt
-jälkeen kilpailijamaiden vastaavista kansallisista rahoitusinstrumenteistä,
-jolloin kansallisen tutkimuksen laatu ei useinkaan voi nousta vastaamaan
-kansainvälisen rahoituksen vaatimuksia. Suomen Akatemian kokonaiskustannusmalli
-on uudistettava siten, että rahoituksesta suurempi osa voidaan käyttää
-varsinaiseen tutkimukseen. Yliopistoja tulee kannustaa rahoittamaan erityisen
-korkeatasoista tutkimusta omissa yksiköissään.
+Suomen Akatemian rahoitus tutkimusryhmille on muodostanut perustan tieteen tekemiselle Suomessa. Suomen Akatemian rahoitus on myös tieteellisen autonomian kannalta myönteinen rahoitustapa. Sen myöntövaltuuksien taso on kuitenkin jäänyt jälkeen kilpailijamaiden vastaavista kansallisista rahoitusinstrumenteistä, jolloin kansallisen tutkimuksen laatu ei useinkaan voi nousta vastaamaan kansainvälisen rahoituksen vaatimuksia. Suomen Akatemian kokonaiskustannusmalli on uudistettava siten, että rahoituksesta suurempi osa voidaan käyttää varsinaiseen tutkimukseen. Yliopistoja tulee kannustaa rahoittamaan erityisen korkeatasoista tutkimusta omissa yksiköissään.
 
 
-Soveltavan tutkimuksen rahoituksen määrää on viime vuosina leikattu ja
-rahoituksen painopiste on siirtynyt erittäin lyhytkestoisiin hankkeisiin, mikä
-on merkittävästi heikentänyt mahdollisuuksia kaupallistamisekelpoisten
-tutkimustulosten saavuttamiseen. Business Finlandin (ent. TEKES) rahoitus on
-olennainen soveltavan tutkimuksen rahoituslähde. Soveltavn tutkimuksen rahoitus
-on palautettava tasolle, joka turvaa kunnianhimoisen ja tuloksellisen
-tutkimustyön.
+Soveltavan tutkimuksen rahoituksen määrää on viime vuosina leikattu ja rahoituksen painopiste on siirtynyt erittäin lyhytkestoisiin hankkeisiin, mikä on merkittävästi heikentänyt mahdollisuuksia kaupallistamisekelpoisten tutkimustulosten saavuttamiseen. Business Finlandin (ent. TEKES) rahoitus on olennainen soveltavan tutkimuksen rahoituslähde. Soveltavn tutkimuksen rahoitus on palautettava tasolle, joka turvaa kunnianhimoisen ja tuloksellisen tutkimustyön.
 
 
-Nuorten tutkijoiden ja apurahatutkijoiden asemaa tulee parantaa osana
-yliopistoyhteistyötä. Tutkijanuran tulee olla varteenotettava vaihtoehto yhä
-useammalle opiskelijalle. Vahvistetaan erityisesti vähemmistöihin kuuluvien ja
-muiden marginalisoitujen tutkijoiden etenemismahdollisuuksia ja
-yhdenvertaisuuden toteutumista. Kehitetään yliopistojen ja ammattikorkeakoulujen
-välistä yhteistyötä akateemiselle opintopolulle siirtymisen helpottamiseksi sekä
-luodaan mahdollisuuksia jatkaa uraa väitöstutkimuksen jälkeen esimerkiksi
-vahvistamalla Tenure Track -järjestelmiä. Yliopistojen yhteistyötä
-tutkimuslaitosten kanssa tulee tukea ja mahdollistaa luonteva yhteisen
-infrastruktuurin kehittäminen ja ylläpito.
+Nuorten tutkijoiden ja apurahatutkijoiden asemaa tulee parantaa osana yliopistoyhteistyötä. Tutkijanuran tulee olla varteenotettava vaihtoehto yhä useammalle opiskelijalle. Vahvistetaan erityisesti vähemmistöihin kuuluvien ja muiden marginalisoitujen tutkijoiden etenemismahdollisuuksia ja yhdenvertaisuuden toteutumista. Kehitetään yliopistojen ja ammattikorkeakoulujen välistä yhteistyötä akateemiselle opintopolulle siirtymisen helpottamiseksi sekä luodaan mahdollisuuksia jatkaa uraa väitöstutkimuksen jälkeen esimerkiksi vahvistamalla Tenure Track -järjestelmiä. Yliopistojen yhteistyötä tutkimuslaitosten kanssa tulee tukea ja mahdollistaa luonteva yhteisen infrastruktuurin kehittäminen ja ylläpito.
 
 
 **Toimenpiteet**
@@ -1125,19 +663,10 @@ infrastruktuurin kehittäminen ja ylläpito.
 ### 7.2. Tutkimustiedon hyödyntäminen päätöksenteossa
 
 
-Tieteellisen tiedon hyödyntäminen yhteiskunnallisessa päätöksenteossa on
-Suomessa vajavaista. Yhteiskunnan kehittäminen tietopohjaisesti edellyttää
-uusimman tiedon ja päätöksentekoelinten yhteyden parantamista. Ministeriöiden,
-lainsäädännön arviointineuvoston ja muiden päätöksentekoa tukevien toimielimien
-yhteyttä tutkimusyhteisöihin on vahvistettava.
+Tieteellisen tiedon hyödyntäminen yhteiskunnallisessa päätöksenteossa on Suomessa vajavaista. Yhteiskunnan kehittäminen tietopohjaisesti edellyttää uusimman tiedon ja päätöksentekoelinten yhteyden parantamista. Ministeriöiden, lainsäädännön arviointineuvoston ja muiden päätöksentekoa tukevien toimielimien yhteyttä tutkimusyhteisöihin on vahvistettava. 
 
 
-Tieteellisen tiedon aseman parantaminen edellyttää myös institutionaalisia
-muutoksia. Opetus- ja kulttuuriministeriön tiedepoliittista resursointia on
-vahvistettava ja tiedepolitiikka nostettava nykyistä keskeisempään rooliin
-ministeriön sisäisessä työnjaossa ja ministeriöiden välisessä yhteistyössä.
-Tiedeministerin viran perustaminen osoittaa, että Suomi on aidosti kiinnostunut
-tieteen ja tutkimuksen kehittämisestä.
+Tieteellisen tiedon aseman parantaminen edellyttää myös institutionaalisia muutoksia. Opetus- ja kulttuuriministeriön tiedepoliittista resursointia on vahvistettava ja tiedepolitiikka nostettava nykyistä keskeisempään rooliin ministeriön sisäisessä työnjaossa ja ministeriöiden välisessä yhteistyössä. Tiedeministerin viran perustaminen osoittaa, että Suomi on aidosti kiinnostunut tieteen ja tutkimuksen kehittämisestä.
 
 
 **Toimenpiteet**
@@ -1157,22 +686,10 @@ tieteen ja tutkimuksen kehittämisestä.
 ### 8.1 Koulutussektorin kehitysyhteistyö
 
 
-YK:n Vuosituhattavoitteilla pyrittiin saamaan mahdollisimman suuri osa maailman
-lapsista kouluun. Kohtuullisen hyvistä tuloksista huolimatta maailmalla on
-havahduttu koulutuksen kriisiin, opetuksen laatu ei ole kehittynyt ja kouluissa
-ei opita. Kestävän kehityksen tavoite 4 keskittyykin koulutuksen laadun
-parantamiseen. Suomella on paljon osaamista ja annettavaa koulutuksen laadun
-kehittämisessä.
+YK:n Vuosituhattavoitteilla pyrittiin saamaan mahdollisimman suuri osa maailman lapsista kouluun. Kohtuullisen hyvistä tuloksista huolimatta maailmalla on havahduttu koulutuksen kriisiin, opetuksen laatu ei ole kehittynyt ja kouluissa ei opita. Kestävän kehityksen tavoite 4 keskittyykin koulutuksen laadun parantamiseen. Suomella on paljon osaamista ja annettavaa koulutuksen laadun kehittämisessä. 
 
 
-Suomen kannattaa osallistua aiempaa aktiivisimmin kansainväliseen
-koulutuskeskusteluun ja ottaa paikkansa asiantuntijana ja johtavana toimijana
-maailman koulutuskriisin ratkaisemisessa. Maailmalla on tarve humanitaarisen
-avun ja koulutuksen yhdistävälle kehitysyhteistyölle, erityisesti
-kriisialueilla. Suomen tulee toimia edelläkävijänä Education in Emergencies
--toiminnassa. Tätä potentiaalia voidaan vahvistaa esimerkiksi luomalla ja
-kasvattamalla nykyisiä kansainvälisen toiminnan koulutusohjelmia ja
-suuntautumisvaihtoehtoja korkeakoulutuksessa.
+Suomen kannattaa osallistua aiempaa aktiivisimmin kansainväliseen koulutuskeskusteluun ja ottaa paikkansa asiantuntijana ja johtavana toimijana maailman koulutuskriisin ratkaisemisessa. Maailmalla on tarve humanitaarisen avun ja koulutuksen yhdistävälle kehitysyhteistyölle, erityisesti kriisialueilla. Suomen tulee toimia edelläkävijänä Education in Emergencies -toiminnassa. Tätä potentiaalia voidaan vahvistaa esimerkiksi luomalla ja kasvattamalla nykyisiä kansainvälisen toiminnan koulutusohjelmia ja suuntautumisvaihtoehtoja korkeakoulutuksessa. 
 
 
 **Toimenpiteet:**
@@ -1187,13 +704,10 @@ suuntautumisvaihtoehtoja korkeakoulutuksessa.
 ### 8.2 Koulutusvienti
 
 
-Koulutusvientiä määrittävät suomalaisen koulutusjärjestelmän vahvuudet:
-yhdenvertaisuus, maksuttomuus ja laatu. Painopisteen tulee olla niissä
-sisällöissä, joissa suomalainen koulutus on huippuluokkaa, kuten pedagogiikka.
+Koulutusvientiä määrittävät suomalaisen koulutusjärjestelmän vahvuudet: yhdenvertaisuus, maksuttomuus ja laatu. Painopisteen tulee olla niissä sisällöissä, joissa suomalainen koulutus on huippuluokkaa, kuten pedagogiikka. 
 
 
-Eettisellä koulutusviennillä voidaan myös edistää koulutukseen pääsyä ja
-tutkinnon saantia jokaiselle sosioekonomisesta taustasta riippumatta.
+Eettisellä koulutusviennillä voidaan myös edistää koulutukseen pääsyä ja tutkinnon saantia jokaiselle sosioekonomisesta taustasta riippumatta. 
 
 
 **Toimenpiteet:**
@@ -1209,21 +723,13 @@ tutkinnon saantia jokaiselle sosioekonomisesta taustasta riippumatta.
 ### 9.1. Taiteen perusopetus tekee osaajia
 
 
-Taidekasvatus antaa keinoja itsensä ilmaisuun ja kehittää luovuutta. Ympäri maan
-lapsilla ja nuorilla pitäisi olla tasa-arvoinen pääsy taiteen perusopetuksen
-piiriin. Taiteen perusopetuksen laatu tulee samalla kuitenkin säilyttää korkeana
-esimerkiksi turvaamalla riittävä opettajankoulutus ja opetuksen mahdollisuudet
-tarvittaessa myös yksilöopetukseen.
+Taidekasvatus antaa keinoja itsensä ilmaisuun ja kehittää luovuutta. Ympäri maan lapsilla ja nuorilla pitäisi olla tasa-arvoinen pääsy taiteen perusopetuksen piiriin. Taiteen perusopetuksen laatu tulee samalla kuitenkin säilyttää korkeana esimerkiksi turvaamalla riittävä opettajankoulutus ja opetuksen mahdollisuudet tarvittaessa myös yksilöopetukseen.
 
 
-Myös varhaiskasvatuspäivä voi sisältää taiteen perusopetusta. Molemmissa
-tapauksissa opetukseen osallistumisen tulee olla kaikille mahdollista ja
-vähävaraisia tai esimerkiksi vieraskielisiä perheitä tulee tukea tässä.
+Myös varhaiskasvatuspäivä voi sisältää taiteen perusopetusta. Molemmissa tapauksissa opetukseen osallistumisen tulee olla kaikille mahdollista ja vähävaraisia tai esimerkiksi vieraskielisiä perheitä tulee tukea tässä.
 
 
-Myös aikuisilla tulee olla mahdollisuus osallistua taiteen perusopetukseen ja
-kehittää itseään ja oppia uusia taitoja. Näin annetaan valmiuksia opintojen
-jatkamiseen ja taiteen alan tutkintojen suorittamiseen.
+Myös aikuisilla tulee olla mahdollisuus osallistua taiteen perusopetukseen ja kehittää itseään ja oppia uusia taitoja. Näin annetaan valmiuksia opintojen jatkamiseen ja taiteen alan tutkintojen suorittamiseen. 
 
 
 **Toimenpiteet**
@@ -1235,18 +741,10 @@ jatkamiseen ja taiteen alan tutkintojen suorittamiseen.
 ### 9.2. Kirjasto on kaikkien olohuone
 
 
-Mahdollisuus lukea on avain sivistykseen. Lukutaidon viime aikoina heikettyä on
-äärimmäisen arvokasta pitää kiinni kirjastotoiminnasta jokaisen asukkaan
-ulottuvilla. Kirjastot toimivat myös kuntalaisten kokoontumispaikkoina ja
-olohuoneina, kielten oppimisen tai läksykerhon pitopaikkoina. Näitä
-yhteisöllisyyden mahdollisuuksia tulee entisestään vahvistaa.
+Mahdollisuus lukea on avain sivistykseen. Lukutaidon viime aikoina heikettyä on äärimmäisen arvokasta pitää kiinni kirjastotoiminnasta jokaisen asukkaan ulottuvilla. Kirjastot toimivat myös kuntalaisten kokoontumispaikkoina ja olohuoneina, kielten oppimisen tai läksykerhon pitopaikkoina. Näitä yhteisöllisyyden mahdollisuuksia tulee entisestään vahvistaa.
 
 
-Kirjaston aukioloaikoja voidaan lisätä esimerkiksi itsepalvelukirjastoja tai
-kirjastoautoja lisäämällä. Lähikirjasto ja koulukirjasto ovat aarteita, joihin
-pitää satsata. Kirjaston pitää pysyä ajan hermolla aineistonsa puolesta, myös
-sähköisten aineistojen, eri kielisten ja selkokielisten materiaalien tarjontaa
-kehittämällä ja vahvistamalla.
+Kirjaston aukioloaikoja voidaan lisätä esimerkiksi itsepalvelukirjastoja tai kirjastoautoja lisäämällä. Lähikirjasto ja koulukirjasto ovat aarteita, joihin pitää satsata. Kirjaston pitää pysyä ajan hermolla aineistonsa puolesta, myös sähköisten aineistojen, eri kielisten ja selkokielisten materiaalien tarjontaa kehittämällä ja vahvistamalla.
 
 
 **Toimenpiteet**
@@ -1260,28 +758,13 @@ kehittämällä ja vahvistamalla.
 ### 9.3. Harrastus ehkäisee yksinäisyyttä ja syrjäytymistä ja kasvattaa taitoja
 
 
-Harrastukset ovat lapsille ja nuorille toimintaa, jossa he oppivat taitoja ja
-asenteita, jotka kantavat läpi elämän. Nonformaalin oppimisen tunnustamista
-tulee entisestään vahvistaa. Harrastusporukka, jossa kasvaa yhdessä toimien,
-ehkäisee syrjäytymistä vahvistamalla sosiaalisia taitoja ja tarjoamalla
-turvallisen ympäristön etsiä omia vahvuuksia. Jokaisen lapsen ja nuoren tulisi
-päästä mukaan itselleen mielekkääseen harrastustoimintaan. Nuorten omia
-harrastustoiveita pitää kuulla.
+Harrastukset ovat lapsille ja nuorille toimintaa, jossa he oppivat taitoja ja asenteita, jotka kantavat läpi elämän. Nonformaalin oppimisen tunnustamista tulee entisestään vahvistaa. Harrastusporukka, jossa kasvaa yhdessä toimien, ehkäisee syrjäytymistä vahvistamalla sosiaalisia taitoja ja tarjoamalla turvallisen ympäristön etsiä omia vahvuuksia. Jokaisen lapsen ja nuoren tulisi päästä mukaan itselleen mielekkääseen harrastustoimintaan. Nuorten omia harrastustoiveita pitää kuulla.
 
 
-Harrastusten jakaantuminen on yksi eriarvoistavimmista asioista lasten ja
-nuorten maailmassa. Harrastustakuu tulee toteuttaa niin, että perheen
-taloudellinen tilanne tai kyky etsiä sopivaa harrastustoimintaa ei rajaa lasta
-tai nuorta pois harrastuksista. Mahdollisuus taiteen perusopetukseen tulee
-kytkeä tiiviimmin koulupäivän yhteyteen. Lapsella ja nuorella tulee olla myös
-mahdollisuus vaihtaa harrastuksesta toiseen ja testata lajeja etsiessään
-itselleen sopivaa tapaa toimia.
+Harrastusten jakaantuminen on yksi eriarvoistavimmista asioista lasten ja nuorten maailmassa. Harrastustakuu tulee toteuttaa niin, että perheen taloudellinen tilanne tai kyky etsiä sopivaa harrastustoimintaa ei rajaa lasta tai nuorta pois harrastuksista. Mahdollisuus taiteen perusopetukseen tulee kytkeä tiiviimmin koulupäivän yhteyteen. Lapsella ja nuorella tulee olla myös mahdollisuus vaihtaa harrastuksesta toiseen ja testata lajeja etsiessään itselleen sopivaa tapaa toimia.
 
 
-Harrastustoiminta vahvistaa nuoren tunnetta osallisuudesta yhteiskuntaan.
-Nuorten vaikuttamismahdollisuuksia ja kuulemista tulee yhä kehittää niin
-nuorisovaltuustoissa, koulujen oppilas ja opiskelijakunnissa kuin kaikessa
-päätöksenteossa.
+Harrastustoiminta vahvistaa nuoren tunnetta osallisuudesta yhteiskuntaan. Nuorten vaikuttamismahdollisuuksia ja kuulemista tulee yhä kehittää niin nuorisovaltuustoissa, koulujen oppilas ja opiskelijakunnissa kuin kaikessa päätöksenteossa.
 
 
 **Toimenpiteet:**
@@ -1292,63 +775,40 @@ päätöksenteossa.
 * Luodaan ja tuetaan läpi eliniän kulkevia avoimia harrastusmahdollisuuksia, esimerkiksi liikunnan ja taidekasvatuksen saralla
 
 
-*Koulutuspoliittinen toimenpidepaketti, hyväksytty puoluevaltuuskunnan
-kokouksessa 18.11.2018*
+*Koulutuspoliittinen toimenpidepaketti, hyväksytty puoluevaltuuskunnan kokouksessa 18.11.2018*
 
 
 ## Koulutus ja tutkimus maailman huipulle
 
 
-Suomen tarina on koulutuksen tarina. Se on tarina siitä, miten köyhä, syrjäinen
-pohjoinen maa on kyennyt luomaan oikeudenmukaista vaurautta ja nousemaan
-aineellisesta niukkuudesta maailman menestyjien joukkoon.
+Suomen tarina on koulutuksen tarina. Se on tarina siitä, miten köyhä, syrjäinen pohjoinen maa on kyennyt luomaan oikeudenmukaista vaurautta ja nousemaan aineellisesta niukkuudesta maailman menestyjien joukkoon.
 
 
-Suomen menestys on aina nojannut tasa-arvoiseen koulutukseen - siihen että
-saamme kaikki mukaan. Pienellä kansakunnalla ei ole varaa hukata kenenkään
-osaamista. Koulutus on hyvinvointivaltion peruskivi, jonka kautta jokainen lapsi
-ja nuori on saanut tarvittavat välineet tavoitella unelmiaan yhdessä muiden
-kanssa.
+Suomen menestys on aina nojannut tasa-arvoiseen koulutukseen - siihen että saamme kaikki mukaan. Pienellä kansakunnalla ei ole varaa hukata kenenkään osaamista. Koulutus on hyvinvointivaltion peruskivi, jonka kautta jokainen lapsi ja nuori on saanut tarvittavat välineet tavoitella unelmiaan yhdessä muiden kanssa. 
 
 
-Kansakoulu, oppivelvollisuus, peruskoulu, maksuton korkeakoulutus ja
-subjektiivinen varhaiskasvatusoikeus ovat olleet tämän tarinan keskeisiä
-virstanpylväitä.
+Kansakoulu, oppivelvollisuus, peruskoulu, maksuton korkeakoulutus ja subjektiivinen varhaiskasvatusoikeus ovat olleet tämän tarinan keskeisiä virstanpylväitä.
 
 
-On kulunut 50 vuotta siitä kun eduskunta teki päätöksen
-peruskoulu-uudistuksesta. On aika kysyä: mitä seuraavaksi?
+On kulunut 50 vuotta siitä kun eduskunta teki päätöksen peruskoulu-uudistuksesta. On aika kysyä: mitä seuraavaksi?
 
 
-Sukupolvi toisensa jälkeen tätä maata on rakennettu lupauksella, että seuraava
-sukupolvi saa paremmat edellytykset elämälleen kuin edeltävä - että seuraava
-sukupolvi on entistä koulutetumpi ja varustettu yhä paremmin valmiuksin kohdata
-tulevaisuuden haasteet ja rakentaa Suomea ja maailmaa paremmaksi.
+Sukupolvi toisensa jälkeen tätä maata on rakennettu lupauksella, että seuraava sukupolvi saa paremmat edellytykset elämälleen kuin edeltävä - että seuraava sukupolvi on entistä koulutetumpi ja varustettu yhä paremmin valmiuksin kohdata tulevaisuuden haasteet ja rakentaa Suomea ja maailmaa paremmaksi.
 
 
-Viime vuosina tämä luottamus on kuitenkin horjunut. Massiiviset leikkaukset
-koulutuksesta ja tutkimuksesta ovat rikkoneet lupauksen jokaisen lapsen ja
-nuoren yhdenvertaisesta mahdollisuudesta hyvään koulutukseen. Ensimmäistä kertaa
-tämän maan historiassa koulutuspolitiikan suunta on käännetty taaksepäin:
-koulutuksen vahvistamisesta koulutuksen heikentämiseen.
+Viime vuosina tämä luottamus on kuitenkin horjunut. Massiiviset leikkaukset koulutuksesta ja tutkimuksesta ovat rikkoneet lupauksen jokaisen lapsen ja nuoren yhdenvertaisesta mahdollisuudesta hyvään koulutukseen. Ensimmäistä kertaa tämän maan historiassa koulutuspolitiikan suunta on käännetty taaksepäin: koulutuksen vahvistamisesta koulutuksen heikentämiseen.
 
 
-Luottamus koulutuslupaukseen on palautettava. Sipilän hallituksen leikkaukset
-koulutukseen ja tutkimukseen on peruttava.
+Luottamus koulutuslupaukseen on palautettava. Sipilän hallituksen leikkaukset koulutukseen ja tutkimukseen on peruttava.
 
 
-Leikkausten peruminen ei kuitenkaan riitä. Tarvitaan enemmän: tarvitaan
-suomalaisen koulutuksen seuraava harppaus eteenpäin, 2000-luvun vastine sille,
-mitä kansakouluuudistus oli 1800-luvulla ja peruskoulu-uudistus 1900-luvulla.
+Leikkausten peruminen ei kuitenkaan riitä. Tarvitaan enemmän: tarvitaan suomalaisen koulutuksen seuraava harppaus eteenpäin, 2000-luvun vastine sille, mitä kansakouluuudistus oli 1800-luvulla ja peruskoulu-uudistus 1900-luvulla.
 
 
-Tavoitteeksi on asetettava **suomalaisen koulutuksen ja tutkimuksen nostaminen
-maailman huipulle.**
+Tavoitteeksi on asetettava **suomalaisen koulutuksen ja tutkimuksen nostaminen maailman huipulle.**
 
 
-Vihreät esittävät tätä kansalliseksi projektiksi, Suomen seuraavaksi suureksi
-missioksi, johon kaikki puolueet sitoutuvat. Sen käynnistäminen on seuraavan
-hallituksen keskeinen tehtävä.
+Vihreät esittävät tätä kansalliseksi projektiksi, Suomen seuraavaksi suureksi missioksi, johon kaikki puolueet sitoutuvat. Sen käynnistäminen on seuraavan hallituksen keskeinen tehtävä.
 
 
 Kansallisen projektin kolmeksi päätavoitteeksi tulee asettaa
@@ -1361,318 +821,193 @@ Kansallisen projektin kolmeksi päätavoitteeksi tulee asettaa
 
 
 
-Näiden tavoitteiden toteuttamiseen tarvitaan merkittäviä rahallisia panostuksia.
-Vihreät esittävät, että ensi vaalikaudella perutaan Sipilän hallituksen tekemät
-noin miljardin leikkaukset koulutukseen ja tutkimukseen ja tehdään ensi
-vaiheessa siten miljardin euron satsaus tämän maan tulevaisuuteen - maailman
-parhaan koulutusjärjestelmän rakentamiseen.
+Näiden tavoitteiden toteuttamiseen tarvitaan merkittäviä rahallisia panostuksia. Vihreät esittävät, että ensi vaalikaudella perutaan Sipilän hallituksen tekemät noin miljardin leikkaukset koulutukseen ja tutkimukseen ja tehdään ensi vaiheessa siten miljardin euron satsaus tämän maan tulevaisuuteen - maailman parhaan koulutusjärjestelmän rakentamiseen.
 
 
 ## (I) Nostetaan suomalaisten koulutustasoa
 
 
-Olemme jääneet viimeisten vuosikymmenten aikana kansainvälisessä
-koulutusvertailussa jälkeen. 1990-luvun alussa suomalaisten koulutustaso oli
-maailman huippua. Ei ole enää. Siinä missä muut teollisuusmaat ovat
-määrätietoisesti nostaneet koulutustasoaan, Suomi on pysynyt paikoillaan.
-Maailman kärjestä olemme pudonneet OECD:n keskivaiheille. Pärjätäksemme tulevina
-aikoina meidän on nostettava merkittävästi osaamistamme.
+Olemme jääneet viimeisten vuosikymmenten aikana kansainvälisessä koulutusvertailussa jälkeen. 1990-luvun alussa suomalaisten koulutustaso oli maailman huippua. Ei ole enää. Siinä missä muut teollisuusmaat ovat määrätietoisesti nostaneet koulutustasoaan, Suomi on pysynyt paikoillaan. Maailman kärjestä olemme pudonneet OECD:n keskivaiheille. Pärjätäksemme tulevina aikoina meidän on nostettava merkittävästi osaamistamme.
 
 
 ### 1. Kaikille vähintään toisen asteen koulutus
 
 
-Pelkän peruskoulun varassa ei kukaan pärjää enää seuraavien vuosikymmenten
-työmarkkinoilla. Jokainen tarvitsee vähintään toisen asteen koulutuksen.
+Pelkän peruskoulun varassa ei kukaan pärjää enää seuraavien vuosikymmenten työmarkkinoilla. Jokainen tarvitsee vähintään toisen asteen koulutuksen.
 
 
-**Toisen asteen koulutus jokaiselle nuorelle.** Tehdään toisen asteen
-koulutuksesta maksutonta ja taataan kaikille toisen asteen koulutuspaikka.
-Pidennetään oppivelvollisuutta toiselle asteelle tai vähintään 18-vuotiaaksi.
+**Toisen asteen koulutus jokaiselle nuorelle.** Tehdään toisen asteen koulutuksesta maksutonta ja taataan kaikille toisen asteen koulutuspaikka. Pidennetään oppivelvollisuutta toiselle asteelle tai vähintään 18-vuotiaaksi.
 
 
-**Toisen asteen koulutus jokaiselle aikuiselle.** Sadattuhannet työikäiset ovat
-tällä hetkellä vain peruskoulun varassa. Perustetaan nuorten aikuisten
-osaamisohjelman pohjalta uusi kansallinen osaamisohjelma, jonka tavoitteena on
-että jokainen peruskoulupohjalla oleva nuori ja työikäinen aikuinen saisi
-vähintään toisen asteen tutkinnon, iästä riippumatta. Selvitetään kaikki
-mahdolliset työkalut, kuten henkilökohtainen koulutustili tai työttömyysjaksojen
-käyttäminen osaamisen päivittämiseen.
+**Toisen asteen koulutus jokaiselle aikuiselle.** Sadattuhannet työikäiset ovat tällä hetkellä vain peruskoulun varassa. Perustetaan nuorten aikuisten osaamisohjelman pohjalta uusi kansallinen osaamisohjelma, jonka tavoitteena on että jokainen peruskoulupohjalla oleva nuori ja työikäinen aikuinen saisi vähintään toisen asteen tutkinnon, iästä riippumatta. Selvitetään kaikki mahdolliset työkalut, kuten henkilökohtainen koulutustili tai työttömyysjaksojen käyttäminen osaamisen päivittämiseen.
 
 
 ### 2 Yli 50 %:lle korkea-asteen koulutus
 
 
-Samaan aikaan kun verrokkimaat ovat lisänneet korkeakoulutusta, Suomi on
-pudonnut nuorten ikäluokkien osalta OECD-keskitason alapuolelle. Korkea-asteen
-suorittaneiden määrä on itse asiassa kääntynyt Suomessa laskuun nuorissa
-ikäluokissa.
+Samaan aikaan kun verrokkimaat ovat lisänneet korkeakoulutusta, Suomi on pudonnut nuorten ikäluokkien osalta OECD-keskitason alapuolelle. Korkea-asteen suorittaneiden määrä on itse asiassa kääntynyt Suomessa laskuun nuorissa ikäluokissa.
 
 
-Tämä ei voi olla Suomen tie. Korkeakoulutuksen viimeinen merkittävä
-laajentaminen on tehty 1990-luvulla. On seuraavan askeleen aika.
-**Korkeakoulujen aloituspaikkamääriä on kasvatettava ja on asetettava tavoite
-nostaa korkeakoulutettujen osuus ikäluokasta selvästi yli 50 prosentin vuoteen
-2030 mennessä.**
+Tämä ei voi olla Suomen tie. Korkeakoulutuksen viimeinen merkittävä laajentaminen on tehty 1990-luvulla. On seuraavan askeleen aika. **Korkeakoulujen aloituspaikkamääriä on kasvatettava ja on asetettava tavoite nostaa korkeakoulutettujen osuus ikäluokasta selvästi yli 50 prosentin vuoteen 2030 mennessä.**
 
 
 ### 3 Jatkuva oppiminen uudelle tasolle
 
 
-Tulevaisuuden työelämässä voi olla varma, että lähes kaikki osaaminen vaatii
-päivittämistä. Vuonna 2018 opittu ei enää riitä vuonna 2038. Jokainen tulee
-tarvitsemaan tilaisuuksia kouluttautua lisää tarvittaessa kokonaan toiselle
-alalle.
+Tulevaisuuden työelämässä voi olla varma, että lähes kaikki osaaminen vaatii päivittämistä. Vuonna 2018 opittu ei enää riitä vuonna 2038. Jokainen tulee tarvitsemaan tilaisuuksia kouluttautua lisää tarvittaessa kokonaan toiselle alalle.
 
 
-Jatkuva oppiminen on nostettava uudelle tasolle, mikä vaatii merkittäviä
-taloudellisia panostuksia. Keskeistä on taata oppilaitoksille riittävät
-resurssit jatkuvan oppimisen edistämiseen. Jatkuvan oppimisen maksullisuutta on
-syytä purkaa. Tämän lisäksi on luotava uusi, pääosin julkisrahoitteinen
-osaamisturvan malli, jonka ytimessä voi olla esimerkiksi henkilökohtainen
-koulutustili.
+Jatkuva oppiminen on nostettava uudelle tasolle, mikä vaatii merkittäviä taloudellisia panostuksia. Keskeistä on taata oppilaitoksille riittävät resurssit jatkuvan oppimisen edistämiseen. Jatkuvan oppimisen maksullisuutta on syytä purkaa. Tämän lisäksi on luotava uusi, pääosin julkisrahoitteinen osaamisturvan malli, jonka ytimessä voi olla esimerkiksi henkilökohtainen koulutustili.
 
 
-Korkeakoulujen rahoitusjärjestelmää on uudistettava niin että se kannustaa
-tarjoamaan muutakin kuin kokonaisia tutkintoja - yksittäisistä kursseista
-räätälöityihin koulutuspaketteihin. Kaikki koulutus on arvokasta, ja siitä
-tulisi palkita.
+Korkeakoulujen rahoitusjärjestelmää on uudistettava niin että se kannustaa tarjoamaan muutakin kuin kokonaisia tutkintoja - yksittäisistä kursseista räätälöityihin koulutuspaketteihin. Kaikki koulutus on arvokasta, ja siitä tulisi palkita.
 
 
 ## (II) Oppimistulokset maailman parhaiksi, tavoitteena tasa-arvo
 
 
-2000-luvun alun juhlitun Pisa-menestyksen jälkeen on käynyt ilmeiseksi, että
-Suomen koulutusihme yskii. Niin kansallisessa kuin kansainvälisessä
-vertailuaineistossa näkyy oppimistulosten lasku.
+2000-luvun alun juhlitun Pisa-menestyksen jälkeen on käynyt ilmeiseksi, että Suomen koulutusihme yskii. Niin kansallisessa kuin kansainvälisessä vertailuaineistossa näkyy oppimistulosten lasku.
 
 
-Oppimistulosten lasku tarkoittaa ennen kaikkea oppimistulosten eriytymistä -
-myös koulujen välillä, mutta erityisesti koulujen sisällä. Hyvin pärjäävät
-pärjäävät yhtä hyvin kuin ennenkin. Huonosti pärjäävät, erityisesti pojat,
-pärjäävät sen sijaan yhä huonommin. Tasa-arvon lippulaivan, peruskoulun, sisälle
-on auennut ammottava eriarvoisuuden kuilu.
+Oppimistulosten lasku tarkoittaa ennen kaikkea oppimistulosten eriytymistä - myös koulujen välillä, mutta erityisesti koulujen sisällä. Hyvin pärjäävät pärjäävät yhtä hyvin kuin ennenkin. Huonosti pärjäävät, erityisesti pojat, pärjäävät sen sijaan yhä huonommin. Tasa-arvon lippulaivan, peruskoulun, sisälle on auennut ammottava eriarvoisuuden kuilu.
 
 
-Siksi oppimistulosten kääntäminen nousuun on samalla valtava tasa-arvoteko.
-Maailman parasta osaamista tuottava koulutus on myös maailman tasa-arvoisin
-koulutus, sillä vain saamalla kaikki mukaan voidaan tehtävässä onnistua.
+Siksi oppimistulosten kääntäminen nousuun on samalla valtava tasa-arvoteko. Maailman parasta osaamista tuottava koulutus on myös maailman tasa-arvoisin koulutus, sillä vain saamalla kaikki mukaan voidaan tehtävässä onnistua.
 
 
-Suomalaisen koulutuksen tasa-arvon takeena ovat olleet panostukset oppilaiden ja
-opiskelijoiden hyvinvointiin esimerkiksi kouluruokailun ja tukipalveluiden
-kautta. Näitä toimia tulee yhä vahvistaa ja kehittää.
+Suomalaisen koulutuksen tasa-arvon takeena ovat olleet panostukset oppilaiden ja opiskelijoiden hyvinvointiin esimerkiksi kouluruokailun ja tukipalveluiden kautta. Näitä toimia tulee yhä vahvistaa ja kehittää.
 
 
 ### 4. Vahva satsaus varhaiskasvatukseen
 
 
-Laadukas varhaiskasvatus on yksi parhaimpia sijoituksia tulevaisuuteen, sillä se
-kaventaa oppimiseroja jo varhaisessa vaiheessa ja ehkäisee syrjäytymistä.
+Laadukas varhaiskasvatus on yksi parhaimpia sijoituksia tulevaisuuteen, sillä se kaventaa oppimiseroja jo varhaisessa vaiheessa ja ehkäisee syrjäytymistä.
 
 
-**Tehdään varhaiskasvatuksesta maksutonta** 5-vuotiaista alkaen ikäluokka
-kerrallaan.
+**Tehdään varhaiskasvatuksesta maksutonta** 5-vuotiaista alkaen ikäluokka kerrallaan.
 
 
-Jokaisella lapsella tulee olla oikeus varhaiskasvatukseen riippumatta vanhempien
-työ- tai opiskelutilanteesta. **Subjektiivinen varhaiskasvatusoikeus on
-palautettava**.
+Jokaisella lapsella tulee olla oikeus varhaiskasvatukseen riippumatta vanhempien työ- tai opiskelutilanteesta. **Subjektiivinen varhaiskasvatusoikeus on palautettava**.
 
 
-**Pienennetään varhaiskasvatuksen ryhmäkokoja.** Palautetaan ryhmäkoot ja
-henkilöstömitoitus Sipilän hallituksen leikkauksia edeltävälle tasolle.
+**Pienennetään varhaiskasvatuksen ryhmäkokoja.** Palautetaan ryhmäkoot ja henkilöstömitoitus Sipilän hallituksen leikkauksia edeltävälle tasolle.
 
 
-**Tehdään esiopetuksesta kaksivuotista** alkaen 5-vuotiaista ja tavoitellaan
-täyttä osallisuutta esiopetukseen. Lisätään varhaiskasvatuksen ja peruskoulun
-välistä yhteistyötä luomalla nivelvaiheeseen **joustava esi- ja alkuopetus
-5-8-vuotiaille.**
+**Tehdään esiopetuksesta kaksivuotista** alkaen 5-vuotiaista ja tavoitellaan täyttä osallisuutta esiopetukseen. Lisätään varhaiskasvatuksen ja peruskoulun välistä yhteistyötä luomalla nivelvaiheeseen **joustava esi- ja alkuopetus 5-8-vuotiaille.**
 
 
 ### 5. Paluu peruskoulun ideaan
 
 
-Peruskoulun suuri tehtävä on ollut tasoittaa oppilaiden erilaisista taustoista
-ja lähtökohdista kumpuava eriarvoisuus. Oppimistulosten eriytyminen kertoo, että
-peruskoulu ei enää toteuta tätä tehtäväänsä kuten ennen. Osa oppilaista putoaa
-kelkasta - tai ei pääse mukaan alun perinkään. Siksi tarvitaan paluu peruskoulun
-tasa-arvotavoitteen äärelle.
+Peruskoulun suuri tehtävä on ollut tasoittaa oppilaiden erilaisista taustoista ja lähtökohdista kumpuava eriarvoisuus. Oppimistulosten eriytyminen kertoo, että peruskoulu ei enää toteuta tätä tehtäväänsä kuten ennen. Osa oppilaista putoaa kelkasta - tai ei pääse mukaan alun perinkään. Siksi tarvitaan paluu peruskoulun tasa-arvotavoitteen äärelle.
 
 
-**Puututaan koulujen sisäiseen eriytymiseen.**     Vahvistetaan selvästi
-koulujen resursseja tukea heikommin pärjääviä ja erityisen tuen tarpeessa olevia
-oppilaita.
+**Puututaan koulujen sisäiseen eriytymiseen.**  
+
+Vahvistetaan selvästi koulujen resursseja tukea heikommin pärjääviä ja erityisen tuen tarpeessa olevia oppilaita.
 
 
-Varmistetaan kouluterveydenhoitajien, -psykologien ja kuraattoreiden riittävä
-saatavuus ja saavutettavuus sekä riittävä opinto-ohjaus.
+Varmistetaan kouluterveydenhoitajien, -psykologien ja kuraattoreiden riittävä saatavuus ja saavutettavuus sekä riittävä opinto-ohjaus.
 
 
-Pienennetään ryhmäkokoja. Riittävän pienet ryhmäkoot takaavat sen, että
-opettajilla jää aikaa lasten ja nuorten kohtaamiseen.
+Pienennetään ryhmäkokoja. Riittävän pienet ryhmäkoot takaavat sen, että opettajilla jää aikaa lasten ja nuorten kohtaamiseen.
 
 
-Kohdataan erilaiset oppijat. Lisätään erityisopetusta ja useamman opettajan
-toteuttamaa samanaikaisopetusta. Monipuolistetaan erilaisille oppijoille
-sopivien oppimismenetelmien käyttöä.
+Kohdataan erilaiset oppijat. Lisätään erityisopetusta ja useamman opettajan toteuttamaa samanaikaisopetusta. Monipuolistetaan erilaisille oppijoille sopivien oppimismenetelmien käyttöä.
 
 
-Turvataan laadukas opetus kaikilla luokilla ja etsitään uusia tapoja yhä
-useammalle osallistua luokkarajat ylittävään painotettuun opetukseen.
+Turvataan laadukas opetus kaikilla luokilla ja etsitään uusia tapoja yhä useammalle osallistua luokkarajat ylittävään painotettuun opetukseen.
 
 
-Tuetaan opettajia. Turvataan opettajien täydennyskoulutus sen varmistamiseksi,
-että meillä on jatkossakin maailman parhaat opettajat.
+Tuetaan opettajia. Turvataan opettajien täydennyskoulutus sen varmistamiseksi, että meillä on jatkossakin maailman parhaat opettajat.
 
 
-**Puututaan koulujen väliseen eriytymiseen.**     Kurotaan alueiden välisiä
-eroja umpeen kohdentamalla enemmän rahaa niihin kouluihin, joissa kamppaillaan
-kasautuvien ongelmien kanssa. Levitetään parhaat käytännöt tästä nk.
-positiivisen erityiskohtelun rahasta koko maahan.
+**Puututaan koulujen väliseen eriytymiseen.**  
+
+Kurotaan alueiden välisiä eroja umpeen kohdentamalla enemmän rahaa niihin kouluihin, joissa kamppaillaan kasautuvien ongelmien kanssa. Levitetään parhaat käytännöt tästä nk. positiivisen erityiskohtelun rahasta koko maahan.
 
 
-**Lisätään osallisuuden kokemuksia ja mahdollisuuksia harrastaa.**     Koulujen
-aamu- ja iltapäivätoiminta tarjoaa mahdollisuuden tuoda maksuton tai
-kohtuuhintainen harrastusmahdollisuus jokaiselle. Velvoitetaan kaikki kunnat
-järjestämään kouluissaan aamu- ja iltapäivätoimintaa ja lisätään tässä
-yhteistyötä koulujen sekä liikunta- ja kulttuurijärjestöjen kesken. Alennetaan
-aamu- ja iltapäivätoiminnan maksuja ja selvitetään mahdollisuus
-nollamaksuluokkaan. Toteutetaan harrastustakuu.
+**Lisätään osallisuuden kokemuksia ja mahdollisuuksia harrastaa.**  
+
+Koulujen aamu- ja iltapäivätoiminta tarjoaa mahdollisuuden tuoda maksuton tai kohtuuhintainen harrastusmahdollisuus jokaiselle. Velvoitetaan kaikki kunnat järjestämään kouluissaan aamu- ja iltapäivätoimintaa ja lisätään tässä yhteistyötä koulujen sekä liikunta- ja kulttuurijärjestöjen kesken. Alennetaan aamu- ja iltapäivätoiminnan maksuja ja selvitetään mahdollisuus nollamaksuluokkaan. Toteutetaan harrastustakuu.
 
 
 ### 6. Toisella asteella pidetään kaikki mukana
 
 
-Toisen asteen koulutuksesta on tehtävä aidosti maksutonta. Koulutuksen hinta ei
-saa olla este toisen asteen opiskelupaikan valinnalle tai opintojen
-loppuunsaattamiselle. Tehdään toisen asteen koulutuksesta aidosti maksutonta
-siten, että maksuttomuus kattaa oppimateriaalit, tarvittavat työvälineet ja muut
-kulut
+Toisen asteen koulutuksesta on tehtävä aidosti maksutonta. Koulutuksen hinta ei saa olla este toisen asteen opiskelupaikan valinnalle tai opintojen loppuunsaattamiselle. Tehdään toisen asteen koulutuksesta aidosti maksutonta siten, että maksuttomuus kattaa oppimateriaalit, tarvittavat työvälineet ja muut kulut
 
 
-Sipilän hallituksen leikkaukset ovat osuneet erityisen kipeästi toisen asteen
-ammatilliseen koulutukseen. Palautetaan opettajat ammatillisiin oppilaitoksiin
-ja turvataan riittävät resurssit lähiopetukselle ja ohjaukselle.
+Sipilän hallituksen leikkaukset ovat osuneet erityisen kipeästi toisen asteen ammatilliseen koulutukseen. Palautetaan opettajat ammatillisiin oppilaitoksiin ja turvataan riittävät resurssit lähiopetukselle ja ohjaukselle.
 
 
-Tuodaan tukiopinto-ohjaus nivelvaiheen yli peruskoulusta toiselle asteelle.
-Lisätään opiskelijoiden henkilökohtaista ohjausta turvaamalla riittävät tuki- ja
-ohjausresurssit. Lisätään erityisopetusta, jonka vähyys näkyy arjessa. Jotta
-toisen asteen tutkinto voidaan taata aidosti kaikille, erityistä tukea on
-vahvistettava myös toisella asteella.
+Tuodaan tukiopinto-ohjaus nivelvaiheen yli peruskoulusta toiselle asteelle. Lisätään opiskelijoiden henkilökohtaista ohjausta turvaamalla riittävät tuki- ja ohjausresurssit. Lisätään erityisopetusta, jonka vähyys näkyy arjessa. Jotta toisen asteen tutkinto voidaan taata aidosti kaikille, erityistä tukea on vahvistettava myös toisella asteella.
 
 
 ## (III) Korkeakoulutuksen ja tutkimuksen edellytykset kansainväliseen kärkeen
 
 
-Korkeakouluja ja tiedettä on painettu viime vuosina alas monin tavoin.
-Leikkaukset tuntuvat yliopistojen ja ammattikorkeakoulujen arjessa
-irtisanomisina, epävarmuuden kasvuna ja töiden kasaantumisena jäljellä oleville.
+Korkeakouluja ja tiedettä on painettu viime vuosina alas monin tavoin. Leikkaukset tuntuvat yliopistojen ja ammattikorkeakoulujen arjessa irtisanomisina, epävarmuuden kasvuna ja töiden kasaantumisena jäljellä oleville.
 
 
-Nopeaa hyötyä ja lyhyen tähtäimen taloudellisia tai poliittisia intressejä
-painottava ohjaus sekä yhä koveneva lyhytjänteinen rahoituskilpailu ovat
-heikentäneet korkeakoulutuksen autonomiaa ja edellytyksiä keskittyä
-pitkäjänteiseen tieteelliseen työhön, erityisesti uutta luovaan
-perustutkimukseen.
+Nopeaa hyötyä ja lyhyen tähtäimen taloudellisia tai poliittisia intressejä painottava ohjaus sekä yhä koveneva lyhytjänteinen rahoituskilpailu ovat heikentäneet korkeakoulutuksen autonomiaa ja edellytyksiä keskittyä pitkäjänteiseen tieteelliseen työhön, erityisesti uutta luovaan perustutkimukseen.
 
 
-Maailmanluokan korkeakoulutusta ei rakenneta näin. On aika vapauttaa
-korkeakoulujen voimavarat. Asetetaan suomalaisen korkeakoulu- ja tiedepolitiikan
-ytimeen sivistys markkinaehtoisuuden sijaan. Tehdään se satsaamalla
-perusrahoitukseen, perustutkimukseen ja opetukseen. Annetaan tutkijoille,
-opettajille ja opiskelijoille vapaus ja resurssit tutkia, opettaa ja opiskella
-ilman jatkuvaa hiostusta. Luodaan korkeakoulutukselle ja tutkimukselle parhaat
-mahdolliset olosuhteet, mitä voimme maana tarjota.
+Maailmanluokan korkeakoulutusta ei rakenneta näin. On aika vapauttaa korkeakoulujen voimavarat. Asetetaan suomalaisen korkeakoulu- ja tiedepolitiikan ytimeen sivistys markkinaehtoisuuden sijaan. Tehdään se satsaamalla perusrahoitukseen, perustutkimukseen ja opetukseen. Annetaan tutkijoille, opettajille ja opiskelijoille vapaus ja resurssit tutkia, opettaa ja opiskella ilman jatkuvaa hiostusta. Luodaan korkeakoulutukselle ja tutkimukselle parhaat mahdolliset olosuhteet, mitä voimme maana tarjota.
 
 
 ### 7. TKI-panostukset ylös
 
 
-Suomen panostukset tutkimus-, kehitys- ja innovaatiotoimintaan ovat jääneet
-merkittävästi jälkeen tavoitteesta. TKI-toimintaan käytetään tällä hetkellä 2,7
-% bruttokansantuotteesta ja suunta on laskeva. Osuuden pitäisi olla yli 4 %, jos
-haluamme pärjätä tietoon ja osaamiseen nojaavana taloutena. Ulkopuolisen
-rahoituksen saaminen edellyttää aina, että valtio itse osoittaa uskovansa
-suomalaiseen tutkimukseen. **Laaditaan tiekartta tämän 4 % tavoitteen
-saavuttamiseksi seuraavien** kahden **vaalikauden sisällä.**
+Suomen panostukset tutkimus-, kehitys- ja innovaatiotoimintaan ovat jääneet merkittävästi jälkeen tavoitteesta. TKI-toimintaan käytetään tällä hetkellä 2,7 % bruttokansantuotteesta ja suunta on laskeva. Osuuden pitäisi olla yli 4 %, jos haluamme pärjätä tietoon ja osaamiseen nojaavana taloutena. Ulkopuolisen rahoituksen saaminen edellyttää aina, että valtio itse osoittaa uskovansa suomalaiseen tutkimukseen. **Laaditaan tiekartta tämän 4 % tavoitteen saavuttamiseksi seuraavien** kahden **vaalikauden sisällä.**
 
 
 ### 8. Korkeakoulujen toimintaedellytykset kuntoon
 
 
-**Vahvistetaan perusrahoitusta.** Korkeakoulut ovat olleet yksi tämän
-hallituskauden suurista häviäjistä. Perusrahoitusta turvaavan indeksin jäädytys
-yhdessä muiden leikkausten kanssa on tehnyt suuren loven perustehtävien,
-opetuksen ja tutkimuksen, toteuttamiseen. Seuraavan hallituksen velvollisuus on
-korjata asia ja vahvistaa merkittävästi yliopistojen ja ammattikorkeakoulujen
-perusrahoitusta tekemällä perusrahoitukseen tasokorotus ja sitomalla rahoitus
-taas indeksiin.
+**Vahvistetaan perusrahoitusta.** Korkeakoulut ovat olleet yksi tämän hallituskauden suurista häviäjistä. Perusrahoitusta turvaavan indeksin jäädytys yhdessä muiden leikkausten kanssa on tehnyt suuren loven perustehtävien, opetuksen ja tutkimuksen, toteuttamiseen. Seuraavan hallituksen velvollisuus on korjata asia ja vahvistaa merkittävästi yliopistojen ja ammattikorkeakoulujen perusrahoitusta tekemällä perusrahoitukseen tasokorotus ja sitomalla rahoitus taas indeksiin.
 
 
-**Vahvistetaan korkeakoulujen autonomiaa.** Suomessa korkeakoulujen rahoitus
-määräytyy lähes täysin valtion asettamien tulostavoitteiden kautta. Tämä on
-kansainvälisesti poikkeuksellista; maailmalla tyypillisesti tulosrahoitus kattaa
-enintään neljänneksen korkeakoulujen rahoituksesta. Lisätään korkeakoulujen
-rahoitusmalliin vakaan, ennustettavan vastikkeettoman perusrahoituksen
-elementti, joka kattaisi merkittävän osan rahoituksesta. Varmistetaan
-demokratian ja korkeakoulujen autonomian toteutuminen takaamalla, että
-opiskelijat ja henkilöstö ovat edustettuna kaikilla päätöksenteon tasoilla.
-Korkeakouluyhteisöillä tulee olla enemmistö hallituspaikoista kaikissa Suomen
-korkeakouluissa.
+**Vahvistetaan korkeakoulujen autonomiaa.** Suomessa korkeakoulujen rahoitus määräytyy lähes täysin valtion asettamien tulostavoitteiden kautta. Tämä on kansainvälisesti poikkeuksellista; maailmalla tyypillisesti tulosrahoitus kattaa enintään neljänneksen korkeakoulujen rahoituksesta. Lisätään korkeakoulujen rahoitusmalliin vakaan, ennustettavan vastikkeettoman perusrahoituksen elementti, joka kattaisi merkittävän osan rahoituksesta. Varmistetaan demokratian ja korkeakoulujen autonomian toteutuminen takaamalla, että opiskelijat ja henkilöstö ovat edustettuna kaikilla päätöksenteon tasoilla. Korkeakouluyhteisöillä tulee olla enemmistö hallituspaikoista kaikissa Suomen korkeakouluissa.
 
 
 ### 9. Pitkäjänteisempää tutkimusrahoitusta
 
 
-Siirretään tutkimusrahoituksen painopistettä erittäin kilpaillusta
-pätkärahoituksesta pitkäaikaisempaan rahoitukseen tohtoriohjelmille,
-väitöskirjantekijöille, post doc -tutkijoille pitkäaikaisempaan
-perusrahoitukseen ja tutkimusryhmille. Vapautetaan aikaa hankehallinnosta ja
-rahoitushakemusten oravanpyörästä itse tutkimukseen. Kasvatetaan Suomen
-Akatemian myöntövaltuutta ja tehdään valtion tutkimuslaitosten rahoitukseen
-tasokorotus.
+Siirretään tutkimusrahoituksen painopistettä erittäin kilpaillusta pätkärahoituksesta pitkäaikaisempaan rahoitukseen tohtoriohjelmille, väitöskirjantekijöille, post doc -tutkijoille pitkäaikaisempaan perusrahoitukseen ja tutkimusryhmille. Vapautetaan aikaa hankehallinnosta ja rahoitushakemusten oravanpyörästä itse tutkimukseen. Kasvatetaan Suomen Akatemian myöntövaltuutta ja tehdään valtion tutkimuslaitosten rahoitukseen tasokorotus.
 
 
 ### 10. Opiskelijoille mahdollisuus täysipäiväiseen opiskeluun
 
 
-Opintotuki on myllätty viime vuosina jatkuvasti uusiksi. Opintorahaa on leikattu
-neljänneksellä, tukikuukausia on vähennetty ja tuen saamisen ehtoja tiukennettu.
-On aika lopettaa opiskelijoiden kyykyttäminen ja antaa opiskelijoille rauha
-opiskeluun. **Korotetaan siksi kaikkien opiskelijoiden opintorahaa takaisin
-vuotta 2015 edeltävälle tasolle ja poistetaan tarpeettomia rajoitteita ja
-leikkureita.** Näin vähennetään lainapainotteisuutta, vahvistetaan koulutuksen
-tasa-arvoa ja mahdollistetaan keskittyminen opiskeluun.
+Opintotuki on myllätty viime vuosina jatkuvasti uusiksi. Opintorahaa on leikattu neljänneksellä, tukikuukausia on vähennetty ja tuen saamisen ehtoja tiukennettu. On aika lopettaa opiskelijoiden kyykyttäminen ja antaa opiskelijoille rauha opiskeluun. **Korotetaan siksi kaikkien opiskelijoiden opintorahaa takaisin vuotta 2015 edeltävälle tasolle ja poistetaan tarpeettomia rajoitteita ja leikkureita.** Näin vähennetään lainapainotteisuutta, vahvistetaan koulutuksen tasa-arvoa ja mahdollistetaan keskittyminen opiskeluun.
 
 
 ### Esitetyt koulutuspanostukset
 
 
-Tärkeimmät edellä esitetyt ensi vaalikauden koulutuspanostukset, joiden
-suuruusluokka on tässä vaiheessa ollut mahdollista arvioida, on koottu
-koulutusasteittain seuraavaan yhteenvetoon. Yhteensä näistä satsauksista
-muodostuu n. miljardin euron panostus koulutukseen ja tutkimukseen kattamaan
-Sipilän hallituksen vastaavan suuruiset leikkaukset. Näiden korjaavien
-toimenpiteiden jälkeen koulutuksen ja tutkimuksen rahoitusta on pidemmällä
-aikavälillä edelleen lisättävä.
+Tärkeimmät edellä esitetyt ensi vaalikauden koulutuspanostukset, joiden suuruusluokka on tässä vaiheessa ollut mahdollista arvioida, on koottu koulutusasteittain seuraavaan yhteenvetoon. Yhteensä näistä satsauksista muodostuu n. miljardin euron panostus koulutukseen ja tutkimukseen kattamaan Sipilän hallituksen vastaavan suuruiset leikkaukset. Näiden korjaavien toimenpiteiden jälkeen koulutuksen ja tutkimuksen rahoitusta on pidemmällä aikavälillä edelleen lisättävä.
 
 
-Varhaiskasvatus 155     Peruskoulu 177     Toinen aste 315     Korkea-aste ja
-tutkimus 300     Jatkuva oppiminen 65     Opintotuki 98    **Yht. 1 110
-miljoonaa euroa**
+Varhaiskasvatus 155  
+
+Peruskoulu 177  
+
+Toinen aste 315  
+
+Korkea-aste ja tutkimus 300  
+
+Jatkuva oppiminen 65  
+
+Opintotuki 98  
+
+**Yht. 1 110 miljoonaa euroa**
 
 
-Tämä koulutusmiljardi on rahoitettavissa ottamatta lisää velkaa. Vihreät ovat
-osoittaneet jokaisessa vaihtoehtobudjetissaan koulutuspanostuksia vastaavan
-rahoituksen budjetin sisältä.
+Tämä koulutusmiljardi on rahoitettavissa ottamatta lisää velkaa. Vihreät ovat osoittaneet jokaisessa vaihtoehtobudjetissaan koulutuspanostuksia vastaavan rahoituksen budjetin sisältä.
 
 
-Suomalaisen koulutuksen ja tutkimuksen nostamiseksi maailman huipulle tätä tietä
-on jatkettava ja sovittava rahoituspolusta myös yli seuraavan vaalikauden.
-Koulutukseen panostaminen maksaa, mutta se on samalla tärkein satsaus tämän maan
-tulevaisuuteen, jonka voimme tehdä.
+Suomalaisen koulutuksen ja tutkimuksen nostamiseksi maailman huipulle tätä tietä on jatkettava ja sovittava rahoituspolusta myös yli seuraavan vaalikauden. Koulutukseen panostaminen maksaa, mutta se on samalla tärkein satsaus tämän maan tulevaisuuteen, jonka voimme tehdä.
 
 
 

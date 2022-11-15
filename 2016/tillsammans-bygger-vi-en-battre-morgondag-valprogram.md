@@ -3,8 +3,8 @@ language: SV
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:05:54.407960
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:17.471968
 title: "Tillsammans bygger vi en b\xE4ttre morgondag -valprogram"
 type: vaaliohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/953
@@ -25,138 +25,103 @@ Kommunalvalet 2017
 Godkänt på partidelegationens möte 4.12.2016
 
 
-**I detta val avgörs vart Finland är på väg. De Gröna vill bygga en hållbar
-framtid tillsammans med andra. Vi väljer det mänskliga, humana alternativet.**
+**I detta val avgörs vart Finland är på väg. De Gröna vill bygga en hållbar framtid tillsammans med andra. Vi väljer det mänskliga, humana alternativet.**
 
 
-Vi tror att det nu gäller att inte ge upp löftet om välfärden – löftet som det
-här landet i generation efter generation har gett sina barn.
+Vi tror att det nu gäller att inte ge upp löftet om välfärden – löftet som det här landet i generation efter generation har gett sina barn.
 
 
-Framför oss har vi ett val: vi kan välja de mänskliga och hållbara reformernas
-väg eller så kan vi välja de hårda värdenas och orättvisa nedskärningarnas väg.
+Framför oss har vi ett val: vi kan välja de mänskliga och hållbara reformernas väg eller så kan vi välja de hårda värdenas och orättvisa nedskärningarnas väg.
 
 
-Landets regering skär i välfärden och i våra barns utbildning. Ansvaret för den
-gemensamma miljön och de kommande generationerna vänder regeringen ryggen.
+Landets regering skär i välfärden och i våra barns utbildning. Ansvaret för den gemensamma miljön och de kommande generationerna vänder regeringen ryggen.
 
 
-I kommunerna kan man göra ett annat val. Kommunerna i Finland har mycket makt. I
-kommunerna kan vi välja en annan väg och skapa hopp om en bättre morgondag för
-var och en. Genom hållbara reformer vill vi försvara det som är värdefullt.
-Tillsammans kan vi göra det.
+I kommunerna kan man göra ett annat val. Kommunerna i Finland har mycket makt. I kommunerna kan vi välja en annan väg och skapa hopp om en bättre morgondag för var och en. Genom hållbara reformer vill vi försvara det som är värdefullt. Tillsammans kan vi göra det.
 
 
-I detta valprogram för vi fram 12 gröna löften för Finlands kommuner. De utgör
-ett reformprogram med hjälp av vilket vi skyddar vår gemensamma miljö, ser till
-att utbildning igen blir nyckeln till landets framgångssaga, motarbetar
-fattigdom och skapar nya jobb och framgång överallt i Finland.
+I detta valprogram för vi fram 12 gröna löften för Finlands kommuner. De utgör ett reformprogram med hjälp av vilket vi skyddar vår gemensamma miljö, ser till att utbildning igen blir nyckeln till landets framgångssaga, motarbetar fattigdom och skapar nya jobb och framgång överallt i Finland.
 
 
 **"Det är kommunerna som bestämmer över omgivningen vi lever i.**
 
 
-Det är kommunerna som bestämmer över omgivningen vi lever i. De Gröna vill värna
-om närmiljön, göra det lätt att förflytta sig från ett ställe till ett annat,
-och bygga upp en trivsam livsmiljö så att vardagen fungerar. Vi kan tillsammans
-i kommunerna göra allt det som behövs för att stoppa klimatförändringen, vi kan
-utnyttja ren energi och göra det till en framgångsfaktor för Finland.
+Det är kommunerna som bestämmer över omgivningen vi lever i. De Gröna vill värna om närmiljön, göra det lätt att förflytta sig från ett ställe till ett annat, och bygga upp en trivsam livsmiljö så att vardagen fungerar. Vi kan tillsammans i kommunerna göra allt det som behövs för att stoppa klimatförändringen, vi kan utnyttja ren energi och göra det till en framgångsfaktor för Finland.
 
 
-Framtiden finns i våra barn. Därför tycker vi gröna att det är viktigt att hålla
-löftet om utbildning så att varje barn och ungdom får en bra utbildning och
-tidig fostran. Vi kan i kommunerna avstyra regeringens nedskärningar inom skola
-och dagvård. Tillsammans kan vi försvara de små gruppstorlekarna inom dagvården
-och i grundskolan och förbättra kvaliteten på utbildningen och jämlikheten för
-varje barn.
+Framtiden finns i våra barn. Därför tycker vi gröna att det är viktigt att hålla löftet om utbildning så att varje barn och ungdom får en bra utbildning och tidig fostran. Vi kan i kommunerna avstyra regeringens nedskärningar inom skola och dagvård. Tillsammans kan vi försvara de små gruppstorlekarna inom dagvården och i grundskolan och förbättra kvaliteten på utbildningen och jämlikheten för varje barn.
 
 
-Det är kommunerna som bestämmer om de tjänster med vilka vi förhindrar
-marginalisering och främjar jämlikhet. Kommunen bör vara den plats där olika
-slags människor kan bo, leva, lära sig och arbeta – allihop lika värdefulla och
-unika. Tillsammans kan vi preventivt åtgärda problem innan de uppstått och ta
-hand om var och en på ett likvärdigt sätt.
+Det är kommunerna som bestämmer om de tjänster med vilka vi förhindrar marginalisering och främjar jämlikhet. Kommunen bör vara den plats där olika slags människor kan bo, leva, lära sig och arbeta – allihop lika värdefulla och unika. Tillsammans kan vi preventivt åtgärda problem innan de uppstått och ta hand om var och en på ett likvärdigt sätt.
 
 
-Kommunerna har medlen att stöda skapandet av nya arbetsplatser och hjälpa folk
-att ta sig ur arbetslösheten och hitta ett jobb. Nya jobb skapas enklast genom
-att investera i nya lösningar: i kollektivtrafik, ren energi, hållbart byggande
-och varför inte även ekomat. Tillsammans kan vi bygga upp en rättvis och hållbar
-ekonomi och skapa rättvisa hållbara jobb i kommunerna.
+Kommunerna har medlen att stöda skapandet av nya arbetsplatser och hjälpa folk att ta sig ur arbetslösheten och hitta ett jobb. Nya jobb skapas enklast genom att investera i nya lösningar: i kollektivtrafik, ren energi, hållbart byggande och varför inte även ekomat. Tillsammans kan vi bygga upp en rättvis och hållbar ekonomi och skapa rättvisa hållbara jobb i kommunerna.
 
 
-I kommunalvalet väljer vi i vilken riktning vi vill ta Finland. Tillsammans kan
-vi bygga en bättre morgondag och visa att det här fina landets framtid är ljus
-och mänsklig. **Beslutet är ditt!**
+I kommunalvalet väljer vi i vilken riktning vi vill ta Finland. Tillsammans kan vi bygga en bättre morgondag och visa att det här fina landets framtid är ljus och mänsklig. **Beslutet är ditt!**
 
 
-LÅT OSS ÄNDRA RIKTNINGEN FÖR FINLAND:     12 GRÖNA LÖFTEN FÖR KOMMUNERNA
+LÅT OSS ÄNDRA RIKTNINGEN FÖR FINLAND:  
+
+12 GRÖNA LÖFTEN FÖR KOMMUNERNA
 
 
-**Vi lovar göra vårt bästa för att förverkliga följande 12 målsättningar under
-kommande mandatperiod.**
+**Vi lovar göra vårt bästa för att förverkliga följande 12 målsättningar under kommande mandatperiod.**
 
 
 VI BYGGER VÄRLDENS BÄSTA SKOLA TILL VÅRA BARN
 
 
-1 Vi återinför alla barns rätt till en kvalitativt högstående dagvård och tar de
-första stegen mot en avgiftsfri tidig fostran     2 Vi inhiberar nedskärningarna
-inom utbildningen i kommunerna och gör vår skola till världens bästa     3 Vi
-ser till att hela folket kan njuta av kultur och bildning
+1 Vi återinför alla barns rätt till en kvalitativt högstående dagvård och tar de första stegen mot en avgiftsfri tidig fostran  
+
+2 Vi inhiberar nedskärningarna inom utbildningen i kommunerna och gör vår skola till världens bästa  
+
+3 Vi ser till att hela folket kan njuta av kultur och bildning
 
 
 VI SKYDDAR VÅR GEMENSAMMA MILJÖ
 
 
-4 Klimatförändringen kan stoppas av kommunerna     5 Vi gör det smidigt att röra
-på sig och värnar om en trivsam livsmiljö     6 Vi skyddar vår oersättliga natur
+4 Klimatförändringen kan stoppas av kommunerna  
+
+5 Vi gör det smidigt att röra på sig och värnar om en trivsam livsmiljö  
+
+6 Vi skyddar vår oersättliga natur
 
 
-VI AVVÄRJER FATTIGDOM OCH OJÄMLIKHET, VI SKAPAR VÄLFÄRD NÄRA DEN ENSKILDA
-INDIVIDEN
+VI AVVÄRJER FATTIGDOM OCH OJÄMLIKHET, VI SKAPAR VÄLFÄRD NÄRA DEN ENSKILDA INDIVIDEN
 
 
-7 Social- och hälsovårdstjänsterna förnyas på människornas egna villkor och
-problemen åtgärdas preventivt     8 Vi kämpar mot fattigdom och marginalisering
+7 Social- och hälsovårdstjänsterna förnyas på människornas egna villkor och problemen åtgärdas preventivt  
+
+8 Vi kämpar mot fattigdom och marginalisering  
+
 9 Vi gör kommunerna jämlika och fria från marginalisering
 
 
 VI SKAPAR JOBB OCH TRYGGHET I HELA FINLAND
 
 
-10 Vi skapar jobb och livskraft i alla kommuner i hela landet     11 Vi hjälper
-människor ut ur arbetslösheten och ger dem jobb     12 Vi ser till att
-integrationen fungerar bra och inkluderar alla nya finländare
+10 Vi skapar jobb och livskraft i alla kommuner i hela landet  
+
+11 Vi hjälper människor ut ur arbetslösheten och ger dem jobb  
+
+12 Vi ser till att integrationen fungerar bra och inkluderar alla nya finländare
 
 
 ## VI BYGGER VÄRLDENS BÄSTA SKOLA TILL VÅRA BARN
 
 
-**Skolan är en byggnad med fyra väggar, därinne finns morgondagen. Det är där
-det framtida Finlands framgång skapas. Lika rätt till högkvalitativ utbildning
-åt alla – från dagis ända till högskolan – det har utgjort grunden för det
-finländska samhällets stora framgångssaga. Det är i kommunerna man bestämmer hur
-nästa kapitel i den här historien utformas. Att tillhandahålla utbildning och
-bildning blir i fratiden kommunernas viktigaste uppgift. Tillsammans kan vi göra
-utbildningen i Finland till världens bästa, om vi väljer att vi vill det.
-Beslutet är ditt.**
+**Skolan är en byggnad med fyra väggar, därinne finns morgondagen. Det är där det framtida Finlands framgång skapas. Lika rätt till högkvalitativ utbildning åt alla – från dagis ända till högskolan – det har utgjort grunden för det finländska samhällets stora framgångssaga. Det är i kommunerna man bestämmer hur nästa kapitel i den här historien utformas. Att tillhandahålla utbildning och bildning blir i fratiden kommunernas viktigaste uppgift. Tillsammans kan vi göra utbildningen i Finland till världens bästa, om vi väljer att vi vill det. Beslutet är ditt.**
 
 
 ### VI ÅTERINFÖR ALLA BARNS RÄTT TILL EN HÖGKVALITATIV DAGVÅRD OCH TAR DE FÖRSTA STEGEN MOT EN AVGIFTSFRI TIDIG FOSTRAN
 
 
-**Landets regering har försökt slopa alla barns lika rätt till dagvård och
-förstorat grupperna inom dagvården. I många kommuner har man redan protesterat
-mot detta och stakat ut linjen: Nej, inte så. Alla kommuner i Finland kan välja
-en annan väg.**
+**Landets regering har försökt slopa alla barns lika rätt till dagvård och förstorat grupperna inom dagvården. I många kommuner har man redan protesterat mot detta och stakat ut linjen: Nej, inte så. Alla kommuner i Finland kan välja en annan väg.**
 
 
-Man kan välja att inte göra en skillnad på barn till arbetslösa och barn till
-arbetande. Man kan välja att inte begränsa barnens rätt till tidig fostran på
-basis av föräldrarnas livssituation, och att inte förstora storleken på
-dagisgrupperna. Låt oss välja en framtid som är jämlik för barnen och en
-högkvalitativ tidig fostran.
+Man kan välja att inte göra en skillnad på barn till arbetslösa och barn till arbetande. Man kan välja att inte begränsa barnens rätt till tidig fostran på basis av föräldrarnas livssituation, och att inte förstora storleken på dagisgrupperna. Låt oss välja en framtid som är jämlik för barnen och en högkvalitativ tidig fostran.
 
 
 De Grönas målsättningar är:
@@ -170,10 +135,7 @@ De Grönas målsättningar är:
 ### VI DRAR TILLBAKA NEDSKÄRNINGARNA I UTBILDNINGEN I KOMMUNERNA OCH GÖR SKOLORNA TILL VÄRLDENS BÄSTA
 
 
-**Världens bästa skola skapas inte genom inbesparingar. Fastän regeringen skär i
-utbildningen på ett sätt som aldrig tidigare skådats kan man i kommunerna välja
-en annan väg. Att satsa på utbildning är den viktigaste investeringen som
-kommunerna kan göra för sina invånare och för det här landets framtid.**
+**Världens bästa skola skapas inte genom inbesparingar. Fastän regeringen skär i utbildningen på ett sätt som aldrig tidigare skådats kan man i kommunerna välja en annan väg. Att satsa på utbildning är den viktigaste investeringen som kommunerna kan göra för sina invånare och för det här landets framtid.**
 
 
 De Grönas målsättningar är:
@@ -192,12 +154,7 @@ De Grönas målsättningar är:
 ### VI VÄRNAR OM KULTUR OCH BILDNING FÖR HELA FOLKET
 
 
-**Bildning och kultur finns till för alla. Kommunens kulturtjänster och det fria
-bildningsarbetet står till var och ens förfogande och erbjuder en väg till
-upplevelser och självförverkligande. Museer, bibliotek och andra kulturinstanser
-är centra för inlärning som det är en ära att värna om. Framtidens bibliotek
-stöder läsningen, tar som mediacentra in världen så den är inom allas räckhåll,
-och utgör ett gemensamt vardagsrum för kommuninvånarna.**
+**Bildning och kultur finns till för alla. Kommunens kulturtjänster och det fria bildningsarbetet står till var och ens förfogande och erbjuder en väg till upplevelser och självförverkligande. Museer, bibliotek och andra kulturinstanser är centra för inlärning som det är en ära att värna om. Framtidens bibliotek stöder läsningen, tar som mediacentra in världen så den är inom allas räckhåll, och utgör ett gemensamt vardagsrum för kommuninvånarna.**
 
 
 De Grönas målsättningar är:
@@ -211,31 +168,16 @@ De Grönas målsättningar är:
 ## VI SKYDDAR VÅR GEMENSAMMA MILJÖ
 
 
-**Miljön vi lever i är inte vår. Vi har fått den i gåva av dem som levt före oss
-och vi lånar den av våra barn. Miljön är en produkt av både naturen och
-människan: skogarna och parkerna, vattendragen och byggnaderna, stigarna och
-gatorna. Det är vår plikt att värna om detta. När vi en gång levt färdigt våra
-liv är det vår uppgift att lämna ifrån oss alltihop i bättre skick än vi själva
-fått det. Det är i kommunerna det avgörs om vi ska lyckas med uppgiften.
-Tillsammans kan vi ta hand om vår livsmiljö och göra den bättre, om vi så
-väljer. Beslutet är ditt.**
+**Miljön vi lever i är inte vår. Vi har fått den i gåva av dem som levt före oss och vi lånar den av våra barn. Miljön är en produkt av både naturen och människan: skogarna och parkerna, vattendragen och byggnaderna, stigarna och gatorna. Det är vår plikt att värna om detta. När vi en gång levt färdigt våra liv är det vår uppgift att lämna ifrån oss alltihop i bättre skick än vi själva fått det. Det är i kommunerna det avgörs om vi ska lyckas med uppgiften. Tillsammans kan vi ta hand om vår livsmiljö och göra den bättre, om vi så väljer. Beslutet är ditt.**
 
 
 ### KLIMATFÖRÄNDRINGEN STOPPAS I KOMMUNERNA
 
 
-**Vi måste stoppa klimatförändringen nu för att vi ska kunna ge våra barn en
-livsduglig värld i arv. Om landets regering trappar ner på takten, kan
-kommunerna välja att agera kraftfullare. En stor del av utsläppen i Finland är i
-de kommunala beslutsfattarnas händer.**
+**Vi måste stoppa klimatförändringen nu för att vi ska kunna ge våra barn en livsduglig värld i arv. Om landets regering trappar ner på takten, kan kommunerna välja att agera kraftfullare. En stor del av utsläppen i Finland är i de kommunala beslutsfattarnas händer.**
 
 
-Det är de som avgör hur kommunens elektricitet och värme ska produceras, hur
-trafiken ska ordnas och om husen ska byggas som energislösande eller som
-energisnåla. De grönas målsättning är att alla kommuner är kolneutrala på
-2030-talet. Vi måste påbörja det jobbet genast för det finns ingen tid att
-slösa. Låt oss välja en hållbar framtid i våra kommuner, så länge det ännu är
-möjligt.
+Det är de som avgör hur kommunens elektricitet och värme ska produceras, hur trafiken ska ordnas och om husen ska byggas som energislösande eller som energisnåla. De grönas målsättning är att alla kommuner är kolneutrala på 2030-talet. Vi måste påbörja det jobbet genast för det finns ingen tid att slösa. Låt oss välja en hållbar framtid i våra kommuner, så länge det ännu är möjligt.
 
 
 De Grönas målsättningar är:
@@ -250,15 +192,10 @@ De Grönas målsättningar är:
 ### VI GÖR DET SMIDIGT ATT RÖRA PÅ SIG OCH SER TILL ATT LIVSMILJÖN ÄR TRIVSAM
 
 
-**Det ryms mycket av mångt i Finland: täta städer och fridfull natur. Låt oss
-bygga en livsmiljö som respekterar denna mångfald.**
+**Det ryms mycket av mångt i Finland: täta städer och fridfull natur. Låt oss bygga en livsmiljö som respekterar denna mångfald.**
 
 
-Låt oss utveckla städerna som städer: hela, trivsamma, färggranna. Staden är
-människans hem, inte en trafikled. Låt oss i gengäld bygga landsbygden på
-landsbygdens villkor: livskraftiga byar, tjänster som ligger inom räckhåll,
-natur och rymd. Låt oss skapa städer och byar i Finland där det är gott att bo,
-smidigt att röra på sig och lätt att leva.
+Låt oss utveckla städerna som städer: hela, trivsamma, färggranna. Staden är människans hem, inte en trafikled. Låt oss i gengäld bygga landsbygden på landsbygdens villkor: livskraftiga byar, tjänster som ligger inom räckhåll, natur och rymd. Låt oss skapa städer och byar i Finland där det är gott att bo, smidigt att röra på sig och lätt att leva.
 
 
 De Grönas målsättningar är:
@@ -274,15 +211,10 @@ De Grönas målsättningar är:
 ### LÅT OSS SKYDDA VÅR OERSÄTTLIGA NATUR
 
 
-**Det är i kommunerna den finländska naturen förstörs eller skyddas. Besluten om
-vi ska värna om varje kommuninvånares värdefulla närmiljö fattas i
-kommunfullmäktige och i nämnderna.**
+**Det är i kommunerna den finländska naturen förstörs eller skyddas. Besluten om vi ska värna om varje kommuninvånares värdefulla närmiljö fattas i kommunfullmäktige och i nämnderna.**
 
 
-De kommunägda skogarna, stränderna, ängarna, skogsdungarna utgör en källa till
-glädje och rekreation och har samtidigt ett egenvärde: ett stycke av naturens
-oersättliga mångfald. I varje kommun bör man förstå värdet av denna gemensamma
-egendom och värna den.
+De kommunägda skogarna, stränderna, ängarna, skogsdungarna utgör en källa till glädje och rekreation och har samtidigt ett egenvärde: ett stycke av naturens oersättliga mångfald. I varje kommun bör man förstå värdet av denna gemensamma egendom och värna den.
 
 
 De Grönas målsättningar är:
@@ -297,28 +229,16 @@ De Grönas målsättningar är:
 ## VI SKAPAR VÄLFÄRD NÄRA MÄNNISKORNA
 
 
-**Vi behöver ett Finland som tar hand om var och en – i synnerhet om dem som
-inte klarar av det själva. Det här är kommunernas centrala uppgift: låt oss
-främja hälsan och välfärden, försvara jämställdheten och likvärdigheten.
-Brödköernas Finland och de framgångrikas Finland har fjärmat sig från varandra.
-Det har blivit allt svårare att ta sig ur icke-delaktigheten. Denna utveckling
-måste stoppas. Det är i kommunerna vi tillsammans kan se till att alla hänger
-med, om vi vill det. Beslutet är ditt.**
+**Vi behöver ett Finland som tar hand om var och en – i synnerhet om dem som inte klarar av det själva. Det här är kommunernas centrala uppgift: låt oss främja hälsan och välfärden, försvara jämställdheten och likvärdigheten. Brödköernas Finland och de framgångrikas Finland har fjärmat sig från varandra. Det har blivit allt svårare att ta sig ur icke-delaktigheten. Denna utveckling måste stoppas. Det är i kommunerna vi tillsammans kan se till att alla hänger med, om vi vill det. Beslutet är ditt.**
 
 
 ### SOCIAL- OCH HÄLSOTJÄNSTERNA FÖRNYA PÅ MÄNNISKORNAS VILLKOR OCH PROBLEMEN ÅTGÄRDAS PREVENTIVT
 
 
-**Beslutanderätten över vilka social- och hälsotjänster folk har till sitt
-förfogande, var man får dem och till vilket pris kommer i framtiden att flyttas
-till landskommunerna. Människorna använder även i fortsättningen tjänsterna på
-den plats de bor och kommunerna har en betydande roll när det gäller att främja
-medborgarnas hälsa och välfärd.**
+**Beslutanderätten över vilka social- och hälsotjänster folk har till sitt förfogande, var man får dem och till vilket pris kommer i framtiden att flyttas till landskommunerna. Människorna använder även i fortsättningen tjänsterna på den plats de bor och kommunerna har en betydande roll när det gäller att främja medborgarnas hälsa och välfärd.**
 
 
-Även om administrationen flyttar längre bort bör tjänsterna hållas nära
-människorna. Hur än reformen av social-och hälsotjänsterna förverkligas är De
-Grönas målsättningar desamma:
+Även om administrationen flyttar längre bort bör tjänsterna hållas nära människorna. Hur än reformen av social-och hälsotjänsterna förverkligas är De Grönas målsättningar desamma:
 
 
 * **Låt oss minska på skillnaderna i hälsa och välfärd.** Reformen av social- och hälsotjänsterna bör minska på skillnaderna i hälsa och välfärd mellan landets olika delar och befolkningsgrupper.
@@ -331,14 +251,7 @@ Grönas målsättningar desamma:
 * **Låt oss genomföra reformen på ett vettigt sätt.** När reformen görs bör man först avveckla olika sorters administrativa gränshinder mellan tjänsterna. Därefter bör man försäkra sig om att ordnandet och finansieringen av tjänsterna är i samma händer. Allra sist kan man uppskatta om kundens så kallade valfrihet kan ökas utan att man prutar på reformens målsättningar.
 
 
-När ansvaret för social- och hälsotjänsterna överförs till landskapen sköter
-kommunerna inte längre människornas sjukdomar, men de kan hjälpa folk att hållas
-friska. Kultur och motion skapar välbefinnande och som kommunala tjänster blir
-de åtkomliga också för människor som dagligen måste tänka på varje euro de
-lägger ut. När vi satsar på kultur, motion, bibliotek, hobbyverksamhet, goda
-boendemiljöer och närnaturen lever människorna mer hälsosamt och längre. Det
-innebär också att det blir pengar över för att hjälpa dem som inte klarar sig så
-bra.
+När ansvaret för social- och hälsotjänsterna överförs till landskapen sköter kommunerna inte längre människornas sjukdomar, men de kan hjälpa folk att hållas friska. Kultur och motion skapar välbefinnande och som kommunala tjänster blir de åtkomliga också för människor som dagligen måste tänka på varje euro de lägger ut. När vi satsar på kultur, motion, bibliotek, hobbyverksamhet, goda boendemiljöer och närnaturen lever människorna mer hälsosamt och längre. Det innebär också att det blir pengar över för att hjälpa dem som inte klarar sig så bra.
 
 
 De Grönas målsättningar är:
@@ -354,13 +267,10 @@ De Grönas målsättningar är:
 ### LÅT OSS BEKÄMPA FATTIGDOM OCH MARGINALISERING
 
 
-**Fattigdom och ojämlikhet är en förlust för oss alla. I ett bra samhälle låter
-man inte en enda människa tappa fotfästet. I ett bra samhälle ser man till de
-svagare i allt beslutsfattande.**
+**Fattigdom och ojämlikhet är en förlust för oss alla. I ett bra samhälle låter man inte en enda människa tappa fotfästet. I ett bra samhälle ser man till de svagare i allt beslutsfattande.**
 
 
-Ensamhet, marginalisering och nöd måste bekämpas beslutsamt och strängt. I
-kommunerna gör man det beslut för beslut.
+Ensamhet, marginalisering och nöd måste bekämpas beslutsamt och strängt. I kommunerna gör man det beslut för beslut.
 
 
 De Grönas målsättningar är:
@@ -376,13 +286,10 @@ De Grönas målsättningar är:
 ### LÅT OSS GÖRA KOMMUNERNA JÄMLIKA OCH ICKEDISKRIMINERANDE
 
 
-**I kommunerna finns inte vi och de. Det finns bara jämställda invånare
-oberoende av förmögenhet, kön, hudfärg eller etniskt ursprung.**
+**I kommunerna finns inte vi och de. Det finns bara jämställda invånare oberoende av förmögenhet, kön, hudfärg eller etniskt ursprung.**
 
 
-Låt oss modigt bedriva feministisk politik som säger nej till all diskriminering
-och där man försvarar allas rätt att vara sig själva. Låt oss alla stå upp för
-varandra.
+Låt oss modigt bedriva feministisk politik som säger nej till all diskriminering och där man försvarar allas rätt att vara sig själva. Låt oss alla stå upp för varandra.
 
 
 De Grönas målsättningar är:
@@ -399,14 +306,7 @@ De Grönas målsättningar är:
 ## VI SKAPAR JOBB OCH TRYGGHET I HELA FINLAND
 
 
-**Det är i kommunerna arbetets framtid skapas. Sysselsättningen är inget som
-någon annan bestämmer över någon annanstans. Det är med lokala beslut vi skapar
-möjligheter för lokala företag att ha framgång och växa och ge upphov till nya
-arbetsplatser. Det är med lokala beslut vi avgör hurdan kommunen är som
-arbetsgivare och hur den som är arbetslös blir bemött. Tillsammans kan vi
-hjälpas åt att skapa nya jobb, stöda dem som är utan arbete och höja folks
-självkänsla istället för att krossa den. Om vi väljer att göra det så kan vi.
-Beslutet är ditt.**
+**Det är i kommunerna arbetets framtid skapas. Sysselsättningen är inget som någon annan bestämmer över någon annanstans. Det är med lokala beslut vi skapar möjligheter för lokala företag att ha framgång och växa och ge upphov till nya arbetsplatser. Det är med lokala beslut vi avgör hurdan kommunen är som arbetsgivare och hur den som är arbetslös blir bemött. Tillsammans kan vi hjälpas åt att skapa nya jobb, stöda dem som är utan arbete och höja folks självkänsla istället för att krossa den. Om vi väljer att göra det så kan vi. Beslutet är ditt.**
 
 
 ### VI SKAPAR ARBETSPLATSER OCH LIVSKRAFT I KOMMUNERNA I HELA LANDET
@@ -415,12 +315,7 @@ Beslutet är ditt.**
 **Finland behöver nya jobb. Förutsättningarna för det skapas i kommunerna.**
 
 
-De lokala företagens framgång, tillväxt och kapacitet att sysselsätta är saker
-som kommunen i allra högsta grad kan främja. Kommuner som vill det kan vara i
-nyckelställning som främjare av framtidsbranscher inom sina egna områden – det
-må sedan handla om ekomat eller återvinning, digitalisering eller ren teknologi.
-Genom att satsa på detta sparar vi in många euron och skapar en hållbar
-näringslivsstruktur.
+De lokala företagens framgång, tillväxt och kapacitet att sysselsätta är saker som kommunen i allra högsta grad kan främja. Kommuner som vill det kan vara i nyckelställning som främjare av framtidsbranscher inom sina egna områden – det må sedan handla om ekomat eller återvinning, digitalisering eller ren teknologi. Genom att satsa på detta sparar vi in många euron och skapar en hållbar näringslivsstruktur.
 
 
 De Grönas målsättningar är:
@@ -435,14 +330,10 @@ De Grönas målsättningar är:
 ### VI LYFTER UPP FOLK FRÅN ARBETSLÖSHET OCH GER DEM JOBB
 
 
-**Arbetslöshet är en enorm börda såväl för individen som för gemenskapen och
-hela samhället. Att minska på arbetslösheten bör vara prioritet nummer ett i
-varje kommun.**
+**Arbetslöshet är en enorm börda såväl för individen som för gemenskapen och hela samhället. Att minska på arbetslösheten bör vara prioritet nummer ett i varje kommun.**
 
 
-Det är alltid klokare att stöda utbildning eller sysselsättning av folk än att
-betala för arbetslöshet. Kommunerna är också betydande sysselsättare och kan som
-goda arbetsgivare öka produktiviteten och arbetssvälmågan.
+Det är alltid klokare att stöda utbildning eller sysselsättning av folk än att betala för arbetslöshet. Kommunerna är också betydande sysselsättare och kan som goda arbetsgivare öka produktiviteten och arbetssvälmågan.
 
 
 De Grönas målsättningar är:
@@ -458,14 +349,10 @@ De Grönas målsättningar är:
 ### VI SER TILL ATT INTEGRATIONEN FUNGERAR BRA OCH ATT NYFINLÄNDARNA KÄNNER SIG INKLUDERADE
 
 
-**Världen upplever den största flyktingkrisen sedan andra världskriget. I sådana
-här tider knackar det globala ansvaret på vår egen dörr. Människor som flyr
-lidande, krig och förföljelse till Finland ska kunna hitta ett nytt hem i någon
-av de finländska kommunerna.**
+**Världen upplever den största flyktingkrisen sedan andra världskriget. I sådana här tider knackar det globala ansvaret på vår egen dörr. Människor som flyr lidande, krig och förföljelse till Finland ska kunna hitta ett nytt hem i någon av de finländska kommunerna.**
 
 
-Det hänger på oss hur vi tar emot dem och hur de kommer igång med sitt nya liv i
-Finland som medlemmar i samhället. Låt oss sköta det här bra.
+Det hänger på oss hur vi tar emot dem och hur de kommer igång med sitt nya liv i Finland som medlemmar i samhället. Låt oss sköta det här bra.
 
 
 De Grönas målsättningar är:

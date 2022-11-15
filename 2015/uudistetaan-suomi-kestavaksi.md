@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:03:58.091686
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:22.484116
 title: "Uudistetaan Suomi kest\xE4v\xE4ksi"
 type: erityisohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1140
@@ -18,99 +18,56 @@ year: 2015
 ## Talouden ja työllisyyden tiekartta 2015-2020
 
 
-**Vihreiden Talouden ja työllisyyden tiekartta on esityksemme tarvittavista
-toimenpiteistä Suomen talouden kuntoon saattamiseksi vuoteen 2020 mennessä.
-Näillä vihreillä ratkaisuilla saadaan työllisyys ja julkisen talouden kestävyys
-kuntoon: lisää työpaikkoja, uudenlaista teollisuutta ja tuotantoa - vähemmän
-valtiontalouden alijäämää ja julkisen talouden kestävyysvajetta.**
+**Vihreiden Talouden ja työllisyyden tiekartta on esityksemme tarvittavista toimenpiteistä Suomen talouden kuntoon saattamiseksi vuoteen 2020 mennessä. Näillä vihreillä ratkaisuilla saadaan työllisyys ja julkisen talouden kestävyys kuntoon: lisää työpaikkoja, uudenlaista teollisuutta ja tuotantoa - vähemmän valtiontalouden alijäämää ja julkisen talouden kestävyysvajetta.**
 
 
-Suomen on valittava rohkea uudistusten tie. Maailma muuttuu nopeasti.
-Ilmastonsuojelu edellyttää syvälle käyvää tuotannon, talouden ja
-energiajärjestelmän muutosta. Luonnonvarojen liikakäyttö pakottaa
-kiertotalouteen ja säästäväisyyteen. Automaation ja robotiikan kehitys tulee
-muuttamaan työn, tuotannon ja palveluiden luonnetta ja rakennetta voimakkaasti
-lähivuosina ja -vuosikymmeninä. Muuttuva talous edellyttää uudenlaisia
-ratkaisuja. Suomen on oltava kehityksen etujoukoissa, kun erilaiset muutokset
-ravistelevat totuttuja rakenteita.
+Suomen on valittava rohkea uudistusten tie. Maailma muuttuu nopeasti. Ilmastonsuojelu edellyttää syvälle käyvää tuotannon, talouden ja energiajärjestelmän muutosta. Luonnonvarojen liikakäyttö pakottaa kiertotalouteen ja säästäväisyyteen. Automaation ja robotiikan kehitys tulee muuttamaan työn, tuotannon ja palveluiden luonnetta ja rakennetta voimakkaasti lähivuosina ja -vuosikymmeninä. Muuttuva talous edellyttää uudenlaisia ratkaisuja. Suomen on oltava kehityksen etujoukoissa, kun erilaiset muutokset ravistelevat totuttuja rakenteita.
 
 
-Toisin kuin eräät muut puolueet me emme usko, että nousuun päästään
-juustohöyläämällä menosäästöjä ja julkisen talouden kovakätisellä sopeutuksella.
-Sellaiset toimet näivettävät taloutta entisestään - ostovoima heikkenee,
-verotulot laskevat ja kansantulo supistuu.
+Toisin kuin eräät muut puolueet me emme usko, että nousuun päästään juustohöyläämällä menosäästöjä ja julkisen talouden kovakätisellä sopeutuksella. Sellaiset toimet näivettävät taloutta entisestään - ostovoima heikkenee, verotulot laskevat ja kansantulo supistuu.
 
 
-Toisaalta emme pidä tiukasti kiinni nykyisistä julkisen sektorin rakenteista.
-Valtion ja kuntien toimintatapoja on rohkeasti uudistettava niin, että pystymme
-vastaamaan muuttuvan maailman tarpeisiin. Yritysten toimintaedellytykset on
-pidettävä kunnossa ja niitä on kannustettava työllistämään. Erityisesti huomiota
-on kiinnitettävä pieniin ja keskisuuriin yrityksiin, sillä niiden
-työllistämispotentiaali on suuri.
+Toisaalta emme pidä tiukasti kiinni nykyisistä julkisen sektorin rakenteista. Valtion ja kuntien toimintatapoja on rohkeasti uudistettava niin, että pystymme vastaamaan muuttuvan maailman tarpeisiin. Yritysten toimintaedellytykset on pidettävä kunnossa ja niitä on kannustettava työllistämään. Erityisesti huomiota on kiinnitettävä pieniin ja keskisuuriin yrityksiin, sillä niiden työllistämispotentiaali on suuri.
 
 
-Suomen on panostettava uusiutuvaan energiaan, bio- ja kiertotalouteen, clean
-techiin sekä digitalisaatioon. Kestävää maailmantaloutta rakennettaessa nämä
-ovat varmoja kasvualoja, joilla on maailmanlaajuista kysyntää.
+Suomen on panostettava uusiutuvaan energiaan, bio- ja kiertotalouteen, clean techiin sekä digitalisaatioon. Kestävää maailmantaloutta rakennettaessa nämä ovat varmoja kasvualoja, joilla on maailmanlaajuista kysyntää.
 
 
-Työllisyyden kohentaminen on keskeisin tavoitteemme. Työttömyysasteen ollessa
-8,8 prosenttia kansantalouden potentiaalista huomattava osa jää hyödyntämättä.
-Työttömyyden hintalappu koostuu työttömyyskorvauksista ja menetetyistä
-verotuloista. Myös sen sosiaalinen hinta on kova.
+Työllisyyden kohentaminen on keskeisin tavoitteemme. Työttömyysasteen ollessa 8,8 prosenttia kansantalouden potentiaalista huomattava osa jää hyödyntämättä. Työttömyyden hintalappu koostuu työttömyyskorvauksista ja menetetyistä verotuloista. Myös sen sosiaalinen hinta on kova.
 
 
-Leikkaamalla julkisia palveluita ja perusturvaa Suomea ei ole mahdollista saada
-taloudellisesti kestävälle tielle. Leikkaukset kohdistuvat epäreilusti
-yhteiskunnan heikompiosaisiin, alentavat ostovoimaa ja lisäävät eriarvoisuutta.
-1990-luvun laman leikkausten jäljet ovat edelleen nähtävissä. Myös istuva
-hallitus on toimeenpannut leikkauksia.
+Leikkaamalla julkisia palveluita ja perusturvaa Suomea ei ole mahdollista saada taloudellisesti kestävälle tielle. Leikkaukset kohdistuvat epäreilusti yhteiskunnan heikompiosaisiin, alentavat ostovoimaa ja lisäävät eriarvoisuutta. 1990-luvun laman leikkausten jäljet ovat edelleen nähtävissä. Myös istuva hallitus on toimeenpannut leikkauksia.
 
 
-Haluamme muuttaa verotuksen painopistettä niin, että työntekoon kohdistuvaa
-verotusta alennetaan ja vastaavasti korotetaan ympäristö- ja haittaveroja.
-Verotuksen progressio on säilytettävä kompensoimalla kulutusverojen korotukset
-pienituloisille. Nykytilanteessa emme halua korottaa kokonaisveroastetta, mutta
-laadukkaiden julkisten palveluiden turvaaminen voi sitä edellyttää.
+Haluamme muuttaa verotuksen painopistettä niin, että työntekoon kohdistuvaa verotusta alennetaan ja vastaavasti korotetaan ympäristö- ja haittaveroja. Verotuksen progressio on säilytettävä kompensoimalla kulutusverojen korotukset pienituloisille. Nykytilanteessa emme halua korottaa kokonaisveroastetta, mutta laadukkaiden julkisten palveluiden turvaaminen voi sitä edellyttää.
 
 
-Julkista sektoria on päivitettävä. Meidän on opittava toimimaan tehokkaammin ja
-joustavammin; on opeteltava uudenlaisia palveluiden tuottamisen tapoja. Nopeasti
-etenevä digitalisaatio luo mahdollisuuksia. Yhteisöllinen, eri sektorit
-yhdistävä tehokkuus lisää tuottavuutta. Tarjoamalla osallisuutta tukevia ja
-niihin perustuvia palveluita ihmiset voivat monin tavoin olla mukana
-päätöksenteossa ja palvelutuotannossa.
+Julkista sektoria on päivitettävä. Meidän on opittava toimimaan tehokkaammin ja joustavammin; on opeteltava uudenlaisia palveluiden tuottamisen tapoja. Nopeasti etenevä digitalisaatio luo mahdollisuuksia. Yhteisöllinen, eri sektorit yhdistävä tehokkuus lisää tuottavuutta. Tarjoamalla osallisuutta tukevia ja niihin perustuvia palveluita ihmiset voivat monin tavoin olla mukana päätöksenteossa ja palvelutuotannossa.
 
 
-Julkinen sektori voi vauhdittaa uusien ratkaisujen syntymistä avaamalla
-tietovarantonsa yleiseen käyttöön. Näin yritykset pääsevät kehittämään
-uudenlaisia palvelukonsepteja.
+Julkinen sektori voi vauhdittaa uusien ratkaisujen syntymistä avaamalla tietovarantonsa yleiseen käyttöön. Näin yritykset pääsevät kehittämään uudenlaisia palvelukonsepteja.
 
 
-Suomesta on tehtävä kokeiluyhteiskunta, jossa uusia ideoita testataan
-ennakkoluulottomasti käytännössä. Suomella on hyvät edellytykset olla kehityksen
-kärkipaikoilla: meillä on koulutettu kansa, paljon digi- ja mobiiliosaamista,
-vakaat olot ja runsaat luonnonvarat.
+Suomesta on tehtävä kokeiluyhteiskunta, jossa uusia ideoita testataan ennakkoluulottomasti käytännössä. Suomella on hyvät edellytykset olla kehityksen kärkipaikoilla: meillä on koulutettu kansa, paljon digi- ja mobiiliosaamista, vakaat olot ja runsaat luonnonvarat.
 
 
 ## Toteutetaan vihreä työllisyyspaketti: luodaan uutta työtä ja elinkeinotoimintaa
 
 
-**Nostetaan työllisyysastetta luomalla 200 000 uutta työpaikkaa vuoteen 2020
-mennessä. Näin parannamme julkisen talouden tasapainoa 4,5 miljardilla eurolla.
-Lisätään työn tarjontaa ja kysyntää. Laaditaan samalla vihreä
-teollisuusstrategia, joka tekee Suomesta johtavan maan puhtaan teknologian ja
-energiantuotannon alalla sekä kierto- ja biotaloudessa.**
+**Nostetaan työllisyysastetta luomalla 200 000 uutta työpaikkaa vuoteen 2020 mennessä. Näin parannamme julkisen talouden tasapainoa 4,5 miljardilla eurolla. Lisätään työn tarjontaa ja kysyntää. Laaditaan samalla vihreä teollisuusstrategia, joka tekee Suomesta johtavan maan puhtaan teknologian ja energiantuotannon alalla sekä kierto- ja biotaloudessa.**
 
 
 ### Lisätään työn kysyntää ja työvoiman tarjontaa
 
 
 
-> **40 000** uutta työpaikkaa yhden hengen yrityksiin, jos joka neljäs palkkaa
-> yhden ulkopuolisen työntekijän.     Maahanmuuton lisääminen: **30 000** uutta
-> työpaikkaa     Osa-aikatyön lisääminen: **10 000** uutta työpaikkaa     Infra-
-> ja asuntorakentaminen ja homekorjaukset: **20 000** uutta työpaikkaa
+> **40 000** uutta työpaikkaa yhden hengen yrityksiin, jos joka neljäs palkkaa yhden ulkopuolisen työntekijän.  
+> 
+> Maahanmuuton lisääminen: **30 000** uutta työpaikkaa  
+> 
+> Osa-aikatyön lisääminen: **10 000** uutta työpaikkaa  
+> 
+> Infra- ja asuntorakentaminen ja homekorjaukset: **20 000** uutta työpaikkaa
 > 
 > 
 
@@ -167,15 +124,14 @@ energiantuotannon alalla sekä kierto- ja biotaloudessa.**
 
 
 
-> Uusiutuvan energian vallankumous:    **50 000** uutta työpaikkaa
+> Uusiutuvan energian vallankumous:  
+> 
+> **50 000** uutta työpaikkaa
 > 
 > 
 
 
-**Toteutetaan energiamurros: vauhditetaan siirtymistä kestävään energiatalouteen
-ja vähennetään tuontiriippuvuutta. Synnytetään vahvat kotimarkkinat, joilta
-yritykset saavat referenssejä vientiponnistusten tueksi. Energia- ja
-ympäristöteknologia on maailman nopeimmin kehittyvä toimiala.**
+**Toteutetaan energiamurros: vauhditetaan siirtymistä kestävään energiatalouteen ja vähennetään tuontiriippuvuutta. Synnytetään vahvat kotimarkkinat, joilta yritykset saavat referenssejä vientiponnistusten tueksi. Energia- ja ympäristöteknologia on maailman nopeimmin kehittyvä toimiala.**
 
 
 * Nostetaan uusiutuvan energian osuus vähintään 60 prosenttiin vuoteen 2030 mennessä. ? Panostetaan kotimaisiin uusiutuviin energianlähteisiin ja hajautettuun pientuotantoon.
@@ -197,8 +153,9 @@ ympäristöteknologia on maailman nopeimmin kehittyvä toimiala.**
 
 
 
-> Biotalous (pl. bioenergian työpaikat): **20 000** uutta työpaikkaa      Clean
-> tech (pl. energia-alan ja biotalouden työpaikat): **20 000** uutta työpaikkaa
+> Biotalous (pl. bioenergian työpaikat): **20 000** uutta työpaikkaa   
+> 
+> Clean tech (pl. energia-alan ja biotalouden työpaikat): **20 000** uutta työpaikkaa
 > 
 > 
 
@@ -238,19 +195,13 @@ ympäristöteknologia on maailman nopeimmin kehittyvä toimiala.**
 * Ollaan valmiita rohkeisiin kokeiluihin. Esimerkiksi palveluja ja ihmislähtöisiä innovaatioita kehitettäessä kokeiluja voidaan tehdä nopeasti ja kevyesti pian idean saamisen jälkeen.
 
 
-\*) Big Data =valtavien tietomassojen tallentamista, yhdistelemistä, siirtämistä
-ja analysointia. My Data = ihmisten oikeutta ja pääsyä heistä kerättyyn dataan,
-kuten julkishallinnon keräämiin tietoihin sekä eri palveluntarjoajien tapahtuma-
-ja tilastotietoihin, kuten ostotietoihin, liikennetietoihin ja teletietoihin.
+\*) Big Data =valtavien tietomassojen tallentamista, yhdistelemistä, siirtämistä ja analysointia. My Data = ihmisten oikeutta ja pääsyä heistä kerättyyn dataan, kuten julkishallinnon keräämiin tietoihin sekä eri palveluntarjoajien tapahtuma- ja tilastotietoihin, kuten ostotietoihin, liikennetietoihin ja teletietoihin.
 
 
 ### Uudistetaan julkista sektoria
 
 
-**Julkisella sektorilla tarvitaan rakenteellisia uudistuksia: uudenlainen
-julkinen sektori on aiempaa ketterämpi ja tehokkaampi ja tukee kansalaisia ja
-yrityksiä murroksissa. Investoidaan tulevaisuuteen toteuttamalla älykästä ja
-kestävää kasvua tukevia infrainvestointeja.**
+**Julkisella sektorilla tarvitaan rakenteellisia uudistuksia: uudenlainen julkinen sektori on aiempaa ketterämpi ja tehokkaampi ja tukee kansalaisia ja yrityksiä murroksissa. Investoidaan tulevaisuuteen toteuttamalla älykästä ja kestävää kasvua tukevia infrainvestointeja.**
 
 
 * Korjataan kestävysvaje jatkamalla rakenneuudistuksia
@@ -272,12 +223,7 @@ kestävää kasvua tukevia infrainvestointeja.**
 ### Lisää tuloja, vähemmän menoja
 
 
-**Valtion velkaantumistahti on nopea. Leikkauslistojen sijasta vihreät esittävät
-joukon toimia, joiden avulla valtion alijäämää voidaan pienentää 1,7 miljardilla
-eurolla tulevan hallituskauden aikana. Kokonaisveroastetta ei tule merkittävästi
-nostaa, mutta verotuksen painopistettä pitää muuttaa suosimaan työn tekemistä ja
-hillitsemään ympäristö- ja terveyshaittoja. Palveluista, perusturvasta ja
-koulutuksesta ei pidä leikata.**
+**Valtion velkaantumistahti on nopea. Leikkauslistojen sijasta vihreät esittävät joukon toimia, joiden avulla valtion alijäämää voidaan pienentää 1,7 miljardilla eurolla tulevan hallituskauden aikana. Kokonaisveroastetta ei tule merkittävästi nostaa, mutta verotuksen painopistettä pitää muuttaa suosimaan työn tekemistä ja hillitsemään ympäristö- ja terveyshaittoja. Palveluista, perusturvasta ja koulutuksesta ei pidä leikata.**
 
 
 #### Ympäristöhaittojen vähentäminen:

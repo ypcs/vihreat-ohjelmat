@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:03:39.786749
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:05.685691
 title: Kuntavaaliohjelma 2021
 type: vaaliohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1416
@@ -24,55 +24,30 @@ year: 2021
 Pystymme mihin vain, kun päätämme niin.
 
 
-Näissä kuntavaaleissa on kyse siitä, päätämmekö yhdessä rakentaa parempaa
-huomista. Vihreät pitää heikoimpien, pienten ja luonnon puolta silloinkin, kun
-ajat ovat vaikeat.
+Näissä kuntavaaleissa on kyse siitä, päätämmekö yhdessä rakentaa parempaa huomista. Vihreät pitää heikoimpien, pienten ja luonnon puolta silloinkin, kun ajat ovat vaikeat.
 
 
-Meillä on ratkaistavana ilmastokriisi, luontokato ja ihmisille tärkeiden arjen
-palveluiden tulevaisuus tilanteessa, jossa monen kunnan talous on tiukalla.
-Ratkaisut voidaan löytää, kunhan pidämme kiinni vahvuuksistamme –
-päättäväisyydestämme ja kyvystämme asettua toisen asemaan. Ne ovat kantaneet
-meitä suomalaisia ennen ja niitä tarvitaan matkalla eteenpäin.
+Meillä on ratkaistavana ilmastokriisi, luontokato ja ihmisille tärkeiden arjen palveluiden tulevaisuus tilanteessa, jossa monen kunnan talous on tiukalla. Ratkaisut voidaan löytää, kunhan pidämme kiinni vahvuuksistamme – päättäväisyydestämme ja kyvystämme asettua toisen asemaan. Ne ovat kantaneet meitä suomalaisia ennen ja niitä tarvitaan matkalla eteenpäin.
 
 
-Kunnilla on Suomessa paljon valtaa. Kunnissa voimme kääntää suunnan kohti
-kestävää tulevaisuutta: torjua ilmastonmuutosta, panostaa koulutukseen, suojella
-arvokasta luontoamme, tukea heikoimpia ja vahvistaa hyvinvointia,
-mielenterveyttä ja tasa-arvoa. Kunnissa voimme tehdä reilun muutoksen. Tässä
-Vihreiden vaaliohjelmassa esitämme, kuinka se voidaan tehdä.
+Kunnilla on Suomessa paljon valtaa. Kunnissa voimme kääntää suunnan kohti kestävää tulevaisuutta: torjua ilmastonmuutosta, panostaa koulutukseen, suojella arvokasta luontoamme, tukea heikoimpia ja vahvistaa hyvinvointia, mielenterveyttä ja tasa-arvoa. Kunnissa voimme tehdä reilun muutoksen. Tässä Vihreiden vaaliohjelmassa esitämme, kuinka se voidaan tehdä.
 
 
-Kevään 2021 kuntavaalit käydään keskellä globaalia koronaviruspandemiaa, jolla
-on pitkäaikaisia vaikutuksia kuntien toimintaan ja kuntalaisten elämään.
-Joudumme kunnissa korjaamaan koronan aiheuttamaa taloudellista ja
-hyvinvointivelkaa vuosien ajan.
+Kevään 2021 kuntavaalit käydään keskellä globaalia koronaviruspandemiaa, jolla on pitkäaikaisia vaikutuksia kuntien toimintaan ja kuntalaisten elämään. Joudumme kunnissa korjaamaan koronan aiheuttamaa taloudellista ja hyvinvointivelkaa vuosien ajan.
 
 
-Nyt on pahin mahdollinen hetki leikata lastemme koulutuksesta, jolle huominen
-rakennetaan. On pahin mahdollinen hetki leikata niistä palveluista, joilla
-estetään eriarvoisuuden kasvu. Talouden kriisit jättävät pitkän varjon, eikä
-meillä on varaa yhteenkään kadotettuun sukupolveen. Edellisten kriisien
-vahinkoja on mahdollista välttää. Tasa-arvo ja välittäminen tarvitsevat kunnissa
-puolustajia juuri nyt.
+Nyt on pahin mahdollinen hetki leikata lastemme koulutuksesta, jolle huominen rakennetaan. On pahin mahdollinen hetki leikata niistä palveluista, joilla estetään eriarvoisuuden kasvu. Talouden kriisit jättävät pitkän varjon, eikä meillä on varaa yhteenkään kadotettuun sukupolveen. Edellisten kriisien vahinkoja on mahdollista välttää. Tasa-arvo ja välittäminen tarvitsevat kunnissa puolustajia juuri nyt.
 
 
-Vihreässä kunnassa jokainen voi kokea kuuluvansa osaksi yhteisöä. Palvelut ovat
-helpon matkan päässä ja harrastuksia löytyy kaikille vekaroista vaareihin.
-Kirjasto toimii yhteisenä olohuoneena ja luonto on lähellä. Toisaalla kuljetaan
-biokaasu- ja sähköautoilla, toisaalla taas hypätään ratikkaan, lähijunaan tai
-pyörän selkään. Eri puolilla maata tarvitaan erilaisia ratkaisuja.
+Vihreässä kunnassa jokainen voi kokea kuuluvansa osaksi yhteisöä. Palvelut ovat helpon matkan päässä ja harrastuksia löytyy kaikille vekaroista vaareihin. Kirjasto toimii yhteisenä olohuoneena ja luonto on lähellä. Toisaalla kuljetaan biokaasu- ja sähköautoilla, toisaalla taas hypätään ratikkaan, lähijunaan tai pyörän selkään. Eri puolilla maata tarvitaan erilaisia ratkaisuja.
 
 
-Tässä ajassa tarvitaan jokaisessa Suomen kunnassa rohkeutta puolustaa sitä, mikä
-on arvokasta ja rakentaa toivoa hyvästä huomisesta. Tarvitaan päättäväisyyttä
-pysäyttää ilmastokriisi ja tarttua puhtaiden ratkaisujen mahdollisuuksiin.
-Tarvitaan rohkeutta vastustaa epäoikeudenmukaisuutta ja lyhytnäköisyyttä.
-Tarvitaan myös tahtoa kysyä ja ottaa ihmiset mukaan.
+Tässä ajassa tarvitaan jokaisessa Suomen kunnassa rohkeutta puolustaa sitä, mikä on arvokasta ja rakentaa toivoa hyvästä huomisesta. Tarvitaan päättäväisyyttä pysäyttää ilmastokriisi ja tarttua puhtaiden ratkaisujen mahdollisuuksiin. Tarvitaan rohkeutta vastustaa epäoikeudenmukaisuutta ja lyhytnäköisyyttä. Tarvitaan myös tahtoa kysyä ja ottaa ihmiset mukaan.
 
 
-Me suomalaiset pystymme mihin tahansa, kun päätämme niin.     Nyt on aika
-rakentaa kestävää tulevaisuutta.
+Me suomalaiset pystymme mihin tahansa, kun päätämme niin.  
+
+Nyt on aika rakentaa kestävää tulevaisuutta.
 
 
 Huomenna Suomi on vihreä.
@@ -84,35 +59,19 @@ Huomenna Suomi on vihreä.
 ## Ilmastokriisiä torjuva ja luonnosta huolehtiva kunta on vihreä
 
 
-Ratkaisut ilmastonmuutoksen torjuntaan, luonnon monimuotoisuuden vaalimiseen ja
-ympäristön tilan parantamiseen ovat erilaisia eri puolilla Suomea. Reilu muutos
-edellyttää alueellisten erojen tunnistamista ja niiden huomioimista ilmasto- ja
-ympäristöpolitiikassa. Paikallinen ilmastotyö luo uusia työpaikkoja ja
-viihtyisiä elinympäristöjä, ja juuri tästä reilussa muutoksessa on kyse.
+Ratkaisut ilmastonmuutoksen torjuntaan, luonnon monimuotoisuuden vaalimiseen ja ympäristön tilan parantamiseen ovat erilaisia eri puolilla Suomea. Reilu muutos edellyttää alueellisten erojen tunnistamista ja niiden huomioimista ilmasto- ja ympäristöpolitiikassa. Paikallinen ilmastotyö luo uusia työpaikkoja ja viihtyisiä elinympäristöjä, ja juuri tästä reilussa muutoksessa on kyse.
 
 
 #### 1. Ilmastonmuutosta torjutaan kunnissa
 
 
-Vihreässä kunnassa ilmastonmuutoksen torjunta, siihen sopeutuminen ja
-ympäristöongelmiin liittyvän muutos- ja sietokyvyn lisääminen on osa kaikkea
-kunnan toimintaa. Vihreässä kunnassa asukkaat voivat luoda itselleen kestävän
-elämäntavan.
+Vihreässä kunnassa ilmastonmuutoksen torjunta, siihen sopeutuminen ja ympäristöongelmiin liittyvän muutos- ja sietokyvyn lisääminen on osa kaikkea kunnan toimintaa. Vihreässä kunnassa asukkaat voivat luoda itselleen kestävän elämäntavan.
 
 
-Vihreät haluavat tehdä kaikista suomalaisista kunnista ilmastotyön
-edelläkävijöitä. Monet kunnat ovat asettaneet kunnianhimoisia
-ilmastotavoitteita. Vihreiden tavoite on, että kaikki kunnat ovat
-hiilineutraaleja viimeistään 2030-luvulla.
+Vihreät haluavat tehdä kaikista suomalaisista kunnista ilmastotyön edelläkävijöitä. Monet kunnat ovat asettaneet kunnianhimoisia ilmastotavoitteita. Vihreiden tavoite on, että kaikki kunnat ovat hiilineutraaleja viimeistään 2030-luvulla.
 
 
-Suuri osa Suomen päästöistä on kuntapäättäjien vallassa. He ratkaisevat, miten
-kunnan sähkö ja lämpö tuotetaan, miten liikenne järjestetään ja miten
-ilmastoystävällisiä tuotteita kunnissa hankitaan. Kunta- tai
-kaupunkiorganisaation omien päästöjen painaminen nollaan ei kuitenkaan riitä,
-vaan yhdessä asukkaiden ja alueen yritysten kanssa on luotava mahdollisuudet
-elää ilman ilmastopäästöjä. Tämä edellyttää kuntien, järjestöjen, yritysten ja
-asukkaiden keskinäisen yhteistyön lisäämistä.
+Suuri osa Suomen päästöistä on kuntapäättäjien vallassa. He ratkaisevat, miten kunnan sähkö ja lämpö tuotetaan, miten liikenne järjestetään ja miten ilmastoystävällisiä tuotteita kunnissa hankitaan. Kunta- tai kaupunkiorganisaation omien päästöjen painaminen nollaan ei kuitenkaan riitä, vaan yhdessä asukkaiden ja alueen yritysten kanssa on luotava mahdollisuudet elää ilman ilmastopäästöjä. Tämä edellyttää kuntien, järjestöjen, yritysten ja asukkaiden keskinäisen yhteistyön lisäämistä.
 
 
 **Vihreitä tavoitteita:**
@@ -132,37 +91,19 @@ asukkaiden keskinäisen yhteistyön lisäämistä.
 ### 2. Luonnon monimuotoisuutta vaalitaan kunnissa
 
 
-Luonto on suomalaisille rakas, ja siitä on voitava nauttia sekä maalla että
-kaupungeissa. Vihreä kunta suojelee luontoa ja eläimiä ja on mukana
-pysäyttämässä luontokatoa ja käynnissä olevaa sukupuuttoaaltoa. Kunnilla ja
-kaupungeilla on merkittävä rooli luonnonsuojelussa, sillä usein ratkaisut
-luonnon monimuotoisuuden turvaamiseksi ovat paikallisia. Hallitus on tehnyt
-historiallisen suuret panostukset luonnonsuojeluun, joten nyt kunnilla on
-käytettävissä rahaa, jolla luontoa voidaan suojella ennätysmäärin.
+Luonto on suomalaisille rakas, ja siitä on voitava nauttia sekä maalla että kaupungeissa. Vihreä kunta suojelee luontoa ja eläimiä ja on mukana pysäyttämässä luontokatoa ja käynnissä olevaa sukupuuttoaaltoa. Kunnilla ja kaupungeilla on merkittävä rooli luonnonsuojelussa, sillä usein ratkaisut luonnon monimuotoisuuden turvaamiseksi ovat paikallisia. Hallitus on tehnyt historiallisen suuret panostukset luonnonsuojeluun, joten nyt kunnilla on käytettävissä rahaa, jolla luontoa voidaan suojella ennätysmäärin.
 
 
-Kaupunkien lähimetsät, puistot ja virkistysalueet ovat tärkeitä luonnon
-monimuotoisuuden kannalta, mutta niillä on myös suuri merkitys ihmisten
-terveydelle ja hyvinvoinnille. Monimuotoinen luonto, vapaasti virtaavat puhtaat
-vedet ja vehreät asuinalueet ovat kuntien vetovoimatekijöitä. Vihreässä kunnassa
-ne ovat kaikkien saavutettavissa.
+Kaupunkien lähimetsät, puistot ja virkistysalueet ovat tärkeitä luonnon monimuotoisuuden kannalta, mutta niillä on myös suuri merkitys ihmisten terveydelle ja hyvinvoinnille. Monimuotoinen luonto, vapaasti virtaavat puhtaat vedet ja vehreät asuinalueet ovat kuntien vetovoimatekijöitä. Vihreässä kunnassa ne ovat kaikkien saavutettavissa.
 
 
-Kaupungit ja kunnat omistavat merkittävät määrät metsää ja muita luontoalueita.
-Vihreässä kunnassa metsänhoito nojaa jatkuvaan kasvatukseen, hiilinielujen ja
-hiilivarastojen turvaamiseen, luonnon monimuotoisuuden turvaamiseen ja
-lisäämiseen, sekä metsien virkistyskäyttöön ja kestävään metsätalouteen. Vihreä
-kunta on edelläkävijä metsien luonnonarvojen säilyttämisessä.
+Kaupungit ja kunnat omistavat merkittävät määrät metsää ja muita luontoalueita. Vihreässä kunnassa metsänhoito nojaa jatkuvaan kasvatukseen, hiilinielujen ja hiilivarastojen turvaamiseen, luonnon monimuotoisuuden turvaamiseen ja lisäämiseen, sekä metsien virkistyskäyttöön ja kestävään metsätalouteen. Vihreä kunta on edelläkävijä metsien luonnonarvojen säilyttämisessä.
 
 
-Vihreässä kunnassa on paljon puistoja, katupuita, vehreitä pihoja ja
-viherkattoja. Samalla osa kaupunkiluonnosta jätetään luonnontilaan tukemaan
-kaupungin keskellä elävää lajistoa ja elintärkeitä pölyttäjiä. Luonnon
-monimuotoisuutta lisätään myös keskusta-alueilla.
+Vihreässä kunnassa on paljon puistoja, katupuita, vehreitä pihoja ja viherkattoja. Samalla osa kaupunkiluonnosta jätetään luonnontilaan tukemaan kaupungin keskellä elävää lajistoa ja elintärkeitä pölyttäjiä. Luonnon monimuotoisuutta lisätään myös keskusta-alueilla.
 
 
-Vihreä kunta on myös eläinystävällinen ja edistää määrätietoisesti eläinten
-hyvinvointia. Eläinsuojeluongelmia ratkaistaan ja ehkäistään ennalta.
+Vihreä kunta on myös eläinystävällinen ja edistää määrätietoisesti eläinten hyvinvointia. Eläinsuojeluongelmia ratkaistaan ja ehkäistään ennalta.
 
 
 **Vihreitä tavoitteita:**
@@ -185,39 +126,19 @@ hyvinvointia. Eläinsuojeluongelmia ratkaistaan ja ehkäistään ennalta.
 ### 3. Rakennetaan kestäviä ja viihtyisiä kuntia ja kaupunkeja
 
 
-Vihreän taajaman ja kaupunkikeskustan periaatteena on tiiviys ja saavutettavuus:
-15 minuutin kunnassa eri palvelut, vapaa-ajan viettopaikat mutta myös lähimetsät
-ovat kätevästi saavutettavissa pyöräillen, kävellen tai joukkoliikenteellä noin
-vartin matkan päässä. Pienempien kuntien keskustat ovat eläviä ja kompakteja,
-jolloin asiat voi hoitaa kävellen. Koko kunta on ihmisen koti ja sen tulee
-toimia kaikenlaisille kuntalaisille. Esteettömyys on vihreille arvo, josta ei
-tingitä.
+Vihreän taajaman ja kaupunkikeskustan periaatteena on tiiviys ja saavutettavuus: 15 minuutin kunnassa eri palvelut, vapaa-ajan viettopaikat mutta myös lähimetsät ovat kätevästi saavutettavissa pyöräillen, kävellen tai joukkoliikenteellä noin vartin matkan päässä. Pienempien kuntien keskustat ovat eläviä ja kompakteja, jolloin asiat voi hoitaa kävellen. Koko kunta on ihmisen koti ja sen tulee toimia kaikenlaisille kuntalaisille. Esteettömyys on vihreille arvo, josta ei tingitä.
 
 
-Myös maaseudulla, missä etäisyydet ovat pitkiä yhdyskuntarakenteella on väliä,
-koska toimivat ja eheät kylät luovat yhteisöllisyyttä sekä tuovat
-merkityksellisyyttä ja turvallisuuden tunnetta asukkaille. Lisäksi
-kyläkeskittymien myötä kimppakyydit, teiden kunnossapito, vesihuolto sekä
-tietoliikenneyhteydet on helpompi järjestää.
+Myös maaseudulla, missä etäisyydet ovat pitkiä yhdyskuntarakenteella on väliä, koska toimivat ja eheät kylät luovat yhteisöllisyyttä sekä tuovat merkityksellisyyttä ja turvallisuuden tunnetta asukkaille. Lisäksi kyläkeskittymien myötä kimppakyydit, teiden kunnossapito, vesihuolto sekä tietoliikenneyhteydet on helpompi järjestää.
 
 
-Vihreä kunta suojelee luontoa ja torjuu ilmastonmuutosta myös kaavoituksen
-keinoin. Keskittämällä uusi rakentaminen pitkälti jo rakennetuille alueille ja
-tiivistämällä yhdyskuntarakennetta säästämme luontoa. Samalla haluamme turvata
-mahdollisuuden lähiluontoon ja ekologiset verkostot myös tiivistyvissä
-kaupungeissa.
+Vihreä kunta suojelee luontoa ja torjuu ilmastonmuutosta myös kaavoituksen keinoin. Keskittämällä uusi rakentaminen pitkälti jo rakennetuille alueille ja tiivistämällä yhdyskuntarakennetta säästämme luontoa. Samalla haluamme turvata mahdollisuuden lähiluontoon ja ekologiset verkostot myös tiivistyvissä kaupungeissa.
 
 
-Asumisen korkea hinta koskettaa monia erityisesti kasvavilla seuduilla.
-Vihreässä kunnassa varmistetaan riittävä asuntotuotanto ja lisätään
-kohtuuhintaisia asuntoja, jotta jokaiselle löytyy tarpeita vastaava koti.
+Asumisen korkea hinta koskettaa monia erityisesti kasvavilla seuduilla. Vihreässä kunnassa varmistetaan riittävä asuntotuotanto ja lisätään kohtuuhintaisia asuntoja, jotta jokaiselle löytyy tarpeita vastaava koti.
 
 
-Kaunis ympäristö parantaa ihmisten elämänlaatua ja terveyttä, sekä ohjaa
-viettämään aikaa yhteisessä tilassa. Panostaminen arkkitehtuuriin,
-rakennusperintöön ja kulttuuriympäristöihin luo viihtyisyyttä ja vahvistaa
-kunnan identiteettiä. Vihreä kunta myös suojelee historiallisesti ja
-rakennustaiteellisesti arvokkaat rakennuksensa.
+Kaunis ympäristö parantaa ihmisten elämänlaatua ja terveyttä, sekä ohjaa viettämään aikaa yhteisessä tilassa. Panostaminen arkkitehtuuriin, rakennusperintöön ja kulttuuriympäristöihin luo viihtyisyyttä ja vahvistaa kunnan identiteettiä. Vihreä kunta myös suojelee historiallisesti ja rakennustaiteellisesti arvokkaat rakennuksensa.
 
 
 **Vihreitä tavoitteita:**
@@ -239,23 +160,13 @@ rakennustaiteellisesti arvokkaat rakennuksensa.
 ### 4. Muutetaan liikenne kestäväksi
 
 
-Vihreä kunta mahdollistaa vähäpäästöisen liikkumisen kaikille asuinpaikasta
-riippumatta. Suurissa kaupungeissa tämä tarkoittaa kävelyn, pyöräilyn ja
-joukkoliikenteen edellytysten parantamista. Biokaasu- ja sähköautojen sekä
-kimppakyytien avulla voidaan vähentää liikkumisen päästöjä siellä, missä
-joukkoliikennettä ei ole järkevää järjestää.
+Vihreä kunta mahdollistaa vähäpäästöisen liikkumisen kaikille asuinpaikasta riippumatta. Suurissa kaupungeissa tämä tarkoittaa kävelyn, pyöräilyn ja joukkoliikenteen edellytysten parantamista. Biokaasu- ja sähköautojen sekä kimppakyytien avulla voidaan vähentää liikkumisen päästöjä siellä, missä joukkoliikennettä ei ole järkevää järjestää.
 
 
-Pyöräilyä ja kävelyä voidaan edistää kaiken kokoisissa taajamissa. Se kannustaa
-ilmastoystävällisempään liikkumiseen ja luo turvallisempaa ympäristöä, kun
-liikenneonnettomuudet vähenevät. Sähköavusteiset polkupyörät helpottavat
-liikkumista. Pyöräilyyn ja kävelyyn sijoitetut eurot tulevat kunnille
-moninkertaisesti takaisin positiivisina terveysvaikutuksina.
+Pyöräilyä ja kävelyä voidaan edistää kaiken kokoisissa taajamissa. Se kannustaa ilmastoystävällisempään liikkumiseen ja luo turvallisempaa ympäristöä, kun liikenneonnettomuudet vähenevät. Sähköavusteiset polkupyörät helpottavat liikkumista. Pyöräilyyn ja kävelyyn sijoitetut eurot tulevat kunnille moninkertaisesti takaisin positiivisina terveysvaikutuksina.
 
 
-Vihreässä kunnassa kattava ja toimiva laajakaistaverkko sekä digitalisaatio
-vähentävät asiointimatkoja ja mahdollistavat sujuvan arjen kauempana
-palveluista.
+Vihreässä kunnassa kattava ja toimiva laajakaistaverkko sekä digitalisaatio vähentävät asiointimatkoja ja mahdollistavat sujuvan arjen kauempana palveluista.
 
 
 **Vihreitä tavoitteita:**
@@ -276,47 +187,28 @@ palveluista.
 ## Koulutukseen satsaava kunta on vihreä
 
 
-Suomen historia on tarina koulutuksen voimasta. Koulutuksen avulla olemme
-nousseet sadassa vuodessa yhdeksi maailman kehittyneimmistä ja onnellisimmista
-maista. Koulutus on avain myös Suomen tulevaisuuden hyvinvoinnin turvaamiseen.
-Vihreässä kunnassa voimme tehdä suomalaisesta koulutuksesta maailman parhaan.
+Suomen historia on tarina koulutuksen voimasta. Koulutuksen avulla olemme nousseet sadassa vuodessa yhdeksi maailman kehittyneimmistä ja onnellisimmista maista. Koulutus on avain myös Suomen tulevaisuuden hyvinvoinnin turvaamiseen. Vihreässä kunnassa voimme tehdä suomalaisesta koulutuksesta maailman parhaan.
 
 
-Jokainen lapsi ja nuori on tärkeä. Vihreässä kunnassa pidetään kiinni siitä,
-että jokaisen lapsen ja nuoren unelmat ovat yhtä arvokkaita. Pidetään huoli
-siitä, että tässä maassa kenestä tahansa voi tulla mitä tahansa.
+Jokainen lapsi ja nuori on tärkeä. Vihreässä kunnassa pidetään kiinni siitä, että jokaisen lapsen ja nuoren unelmat ovat yhtä arvokkaita. Pidetään huoli siitä, että tässä maassa kenestä tahansa voi tulla mitä tahansa.
 
 
-Vihreässä sivistyskunnassa jokaiselle taataan tasa-arvoinen ja yhdenvertainen
-oikeus laadukkaaseen ja maksuttomaan koulutukseen varhaiskasvatuksesta
-korkeimpaan koulutukseen ja elinikäiseen oppimiseen asti. Vihreässä kunnassa
-koulutus on kunnan ydintehtävä. Se on investointi tulevaisuuteen.
+Vihreässä sivistyskunnassa jokaiselle taataan tasa-arvoinen ja yhdenvertainen oikeus laadukkaaseen ja maksuttomaan koulutukseen varhaiskasvatuksesta korkeimpaan koulutukseen ja elinikäiseen oppimiseen asti. Vihreässä kunnassa koulutus on kunnan ydintehtävä. Se on investointi tulevaisuuteen.
 
 
-Sydämen sivistys on kulttuuria ja yhteisöllisyyttä sekä hauskaa ja
-merkityksellistä elämää kunnissa ja kaupungeissa. Vihreässä sivistyskunnassa
-kulttuuri on tärkeä osa ihmisten hyvinvointia ja kunnan elinvoimaa.
+Sydämen sivistys on kulttuuria ja yhteisöllisyyttä sekä hauskaa ja merkityksellistä elämää kunnissa ja kaupungeissa. Vihreässä sivistyskunnassa kulttuuri on tärkeä osa ihmisten hyvinvointia ja kunnan elinvoimaa.
 
 
 ### 1. Varhaiskasvatus antaa elämän eväitä
 
 
-Varhaislapsuus on ainutkertainen elämänvaihe, jonka aikana ihminen oppii enemmän
-kuin koskaan muulloin. Sen aikana luodaan perusta koko elämän kantaville
-arvoille, toisten ihmisten ja luonnon kunnioittamiselle, identiteetille ja
-itsetunnolle.
+Varhaislapsuus on ainutkertainen elämänvaihe, jonka aikana ihminen oppii enemmän kuin koskaan muulloin. Sen aikana luodaan perusta koko elämän kantaville arvoille, toisten ihmisten ja luonnon kunnioittamiselle, identiteetille ja itsetunnolle.
 
 
-Vihreässä kunnassa jokaisella lapsella on oikeus laadukkaaseen
-varhaiskasvatukseen. Se tarkoittaa riittävän pieniä ryhmiä, osaavaa henkilöstöä,
-virikkeellistä ympäristöä ja tukea oppimisen ja hyvinvoinnin pulmiin. Vihreässä
-kunnassa ensiluokkainen varhaiskasvatus tasaa lasten erilaisia lähtökohtia ja
-ehkäisee koulunkäynnin keskeyttämistä sekä sosiaalista syrjäytymistä.
+Vihreässä kunnassa jokaisella lapsella on oikeus laadukkaaseen varhaiskasvatukseen. Se tarkoittaa riittävän pieniä ryhmiä, osaavaa henkilöstöä, virikkeellistä ympäristöä ja tukea oppimisen ja hyvinvoinnin pulmiin. Vihreässä kunnassa ensiluokkainen varhaiskasvatus tasaa lasten erilaisia lähtökohtia ja ehkäisee koulunkäynnin keskeyttämistä sekä sosiaalista syrjäytymistä.
 
 
-Yhdenvertainen, turvallinen ja korkeatasoinen varhaiskasvatus edesauttaa lapsen
-kehittymistä ja luo perustan tulevaisuuden oppimiselle. Erityisesti siitä
-hyötyvät haavoittuvassa asemassa olevat lapset.
+Yhdenvertainen, turvallinen ja korkeatasoinen varhaiskasvatus edesauttaa lapsen kehittymistä ja luo perustan tulevaisuuden oppimiselle. Erityisesti siitä hyötyvät haavoittuvassa asemassa olevat lapset.
 
 
 **Vihreitä tavoitteita:**
@@ -337,23 +229,13 @@ hyötyvät haavoittuvassa asemassa olevat lapset.
 ### 2. Yhdenvertainen oikeus laadukkaaseen koulutukseen
 
 
-Haluamme koulun, joka on täynnä oppimisen iloa ja oivaltamisen riemua. Vihreässä
-kunnassa opiskellaan terveellisissä tiloissa, vahvistetaan lukutaitoa ja
-estetään syrjäytymistä sekä harrastetaan koulupäivän jälkeen.
+Haluamme koulun, joka on täynnä oppimisen iloa ja oivaltamisen riemua. Vihreässä kunnassa opiskellaan terveellisissä tiloissa, vahvistetaan lukutaitoa ja estetään syrjäytymistä sekä harrastetaan koulupäivän jälkeen.
 
 
-Kouluissa on oltava aikaa kiireettömään, turvalliseen kohtaamiseen, jossa lapsi
-tai nuori tulee nähdyksi yksilönä. Opettajan on voitava tukea niin hitaammin
-etenevien oppijoiden kuin nopeampienkin oppimista ja ymmärrettävä erilaisia
-oppimisen tapoja. Kaikissa tilanteissa – poikkeuksellisinakin aikoina – on
-tärkeää varmistaa, että jokainen lapsi saa tarvitsemaansa tukea ajoissa ja että
-yhteistyö koulun ja hyvinvointipalveluiden välillä toimii. Yksikään oppilas ei
-saa pudota kelkasta.
+Kouluissa on oltava aikaa kiireettömään, turvalliseen kohtaamiseen, jossa lapsi tai nuori tulee nähdyksi yksilönä. Opettajan on voitava tukea niin hitaammin etenevien oppijoiden kuin nopeampienkin oppimista ja ymmärrettävä erilaisia oppimisen tapoja. Kaikissa tilanteissa – poikkeuksellisinakin aikoina – on tärkeää varmistaa, että jokainen lapsi saa tarvitsemaansa tukea ajoissa ja että yhteistyö koulun ja hyvinvointipalveluiden välillä toimii. Yksikään oppilas ei saa pudota kelkasta.
 
 
-Turvataan myös jokaiselle mielekäs opinpolku peruskoulun jälkeen. Laadukas
-koulutus ja yhdenvertaiset mahdollisuudet itsensä kehittämiseen ovat toimivan
-yhteiskunnan tulevaisuuden tae.
+Turvataan myös jokaiselle mielekäs opinpolku peruskoulun jälkeen. Laadukas koulutus ja yhdenvertaiset mahdollisuudet itsensä kehittämiseen ovat toimivan yhteiskunnan tulevaisuuden tae.
 
 
 **Vihreitä tavoitteita:**
@@ -382,16 +264,7 @@ yhteiskunnan tulevaisuuden tae.
 ### 3. Oikeus tulla hyväksytyksi, saada tarvittavaa tukea ja kasvaa ihmisenä
 
 
-Vihreässä kunnassa jokaisella on tilaa kasvaa ainutlaatuiseksi yksilöksi ilman
-pelkoa kiusaamisesta, häirinnästä tai syrjinnästä. Tunnistetaan nykyistä
-paremmin lasten ja nuorten moninaisuus kaikissa kunnan palveluissa. Kasvatetaan
-kouluissa lapsia ja nuoria toimimaan moniarvoisessa maailmassa. Nuorisotyö on
-tärkeä väline nuorten tukemisessa ja mielekkäiden palvelujen tarjoamisessa. Se
-on aivan liian usein leikkausten kohteena. Laadukas nuorisotyö on osa Vihreän
-kunnan perustoimintaa, jolla voidaan ennaltaehkäistä ja vähentää nuorten
-ongelmia. Vihreässä kunnassa rakennetaan vahvaa demokratiaa korostamalla
-vuoropuhelua, yhteistoimintaa ja toistemme ymmärtämistä. Lapsia ja nuoria
-kuullaan heitä koskevissa päätöksissä.
+Vihreässä kunnassa jokaisella on tilaa kasvaa ainutlaatuiseksi yksilöksi ilman pelkoa kiusaamisesta, häirinnästä tai syrjinnästä. Tunnistetaan nykyistä paremmin lasten ja nuorten moninaisuus kaikissa kunnan palveluissa. Kasvatetaan kouluissa lapsia ja nuoria toimimaan moniarvoisessa maailmassa. Nuorisotyö on tärkeä väline nuorten tukemisessa ja mielekkäiden palvelujen tarjoamisessa. Se on aivan liian usein leikkausten kohteena. Laadukas nuorisotyö on osa Vihreän kunnan perustoimintaa, jolla voidaan ennaltaehkäistä ja vähentää nuorten ongelmia. Vihreässä kunnassa rakennetaan vahvaa demokratiaa korostamalla vuoropuhelua, yhteistoimintaa ja toistemme ymmärtämistä. Lapsia ja nuoria kuullaan heitä koskevissa päätöksissä.
 
 
 **Vihreitä tavoitteita:**
@@ -408,26 +281,13 @@ kuullaan heitä koskevissa päätöksissä.
 ### 4. Kulttuuri ja kirjastot luovat sivistystä kaikille
 
 
-Vihreässä kunnassa ymmärretään, että kulttuurilla on hyvinvointia, sivistystä,
-tasa-arvoa ja uutta ajattelua luova voima. Sillä on tärkeä merkitys ihmisten
-hyvinvoinnille ja luovuudelle sekä kuntien elinvoimalle. Kulttuuri tuo ihmisiä
-yhteen.
+Vihreässä kunnassa ymmärretään, että kulttuurilla on hyvinvointia, sivistystä, tasa-arvoa ja uutta ajattelua luova voima. Sillä on tärkeä merkitys ihmisten hyvinvoinnille ja luovuudelle sekä kuntien elinvoimalle. Kulttuuri tuo ihmisiä yhteen.
 
 
-Vihreässä kunnassa oikeus kivoihin asioihin ja kokemuksiin kuuluu jokaiselle.
-Kynnys astua kirjastoon, teatteriin, konserttiin, museoon tai galleriaan on
-matala. Kulttuuria tukemalla tarjotaan yhä useammalle mahdollisuuksia sekä
-itsensä toteuttamiseen että taiteesta nauttimiseen. Vahvistamalla kulttuurin
-monimuotoisuutta yhteiskunnassa tuetaan myös vähemmistöjen hyvinvointia.
+Vihreässä kunnassa oikeus kivoihin asioihin ja kokemuksiin kuuluu jokaiselle. Kynnys astua kirjastoon, teatteriin, konserttiin, museoon tai galleriaan on matala. Kulttuuria tukemalla tarjotaan yhä useammalle mahdollisuuksia sekä itsensä toteuttamiseen että taiteesta nauttimiseen. Vahvistamalla kulttuurin monimuotoisuutta yhteiskunnassa tuetaan myös vähemmistöjen hyvinvointia.
 
 
-Vihreässä kunnassa tunnistetaan ammattimaisesti tuotetun kulttuurin ja taiteen
-merkitys kunnan elinvoimalle. Kulttuuriin panostettu euro palautuu
-moninkertaisena takaisin. Siksikin kulttuuria ja kulttuurin ammattilaisten
-toimeentuloa kannattaa tukea. Se kannattelee keskustojen palveluita, vahvistaa
-kuntataloutta ja tuo rahavirtoja kaupunkikeskuksiin. Vihreässä kunnassa
-kylätalot ja kyläkoulut toimivat kansalais- ja harrastustoiminnan keskuksina ja
-tärkeinä kohtaamispaikkoina maaseudulla.
+Vihreässä kunnassa tunnistetaan ammattimaisesti tuotetun kulttuurin ja taiteen merkitys kunnan elinvoimalle. Kulttuuriin panostettu euro palautuu moninkertaisena takaisin. Siksikin kulttuuria ja kulttuurin ammattilaisten toimeentuloa kannattaa tukea. Se kannattelee keskustojen palveluita, vahvistaa kuntataloutta ja tuo rahavirtoja kaupunkikeskuksiin. Vihreässä kunnassa kylätalot ja kyläkoulut toimivat kansalais- ja harrastustoiminnan keskuksina ja tärkeinä kohtaamispaikkoina maaseudulla.
 
 
 **Vihreitä tavoitteita:**
@@ -449,62 +309,34 @@ tärkeinä kohtaamispaikkoina maaseudulla.
 ## Kaikkien hyvinvoinnista huolehtiva kunta on vihreä
 
 
-Vihreiden tavoitteena on Suomi, jossa jokainen saa tarvitsemaansa apua ja
-äänettömilläkin on ääni yhteiskunnassa. Kunnilla on suuri vastuu asukkaiden
-hyvinvoinnista ja sen edistämisestä, sillä ne vastaavat sosiaali- ja
-terveydenhuollon uudistuksen jälkeenkin monista palveluista, joilla edistetään
-jokaisen fyysistä, psyykkistä ja sosiaalista hyvinvointia.
+Vihreiden tavoitteena on Suomi, jossa jokainen saa tarvitsemaansa apua ja äänettömilläkin on ääni yhteiskunnassa. Kunnilla on suuri vastuu asukkaiden hyvinvoinnista ja sen edistämisestä, sillä ne vastaavat sosiaali- ja terveydenhuollon uudistuksen jälkeenkin monista palveluista, joilla edistetään jokaisen fyysistä, psyykkistä ja sosiaalista hyvinvointia.
 
 
-Peruspalveluiden tulee olla kaikkien saavutettavissa varallisuudesta ja
-asuinpaikasta riippumatta. Vihreä kunta panostaa ennaltaehkäiseviin palveluihin,
-sillä se on aina sosiaalisesti, inhimillisesti ja taloudellisesti paras
-vaihtoehto.
+Peruspalveluiden tulee olla kaikkien saavutettavissa varallisuudesta ja asuinpaikasta riippumatta. Vihreä kunta panostaa ennaltaehkäiseviin palveluihin, sillä se on aina sosiaalisesti, inhimillisesti ja taloudellisesti paras vaihtoehto.
 
 
-Vihreä kunta turvaa perus- ja ihmisoikeudet kaikille ihmisille. Jokaisella on
-oikeus kokea kuuluvansa tähän yhteiskuntaan. Toimivat turvaverkot ja sujuva
-pääsy palveluiden äärelle on osa tätä kokemusta.
+Vihreä kunta turvaa perus- ja ihmisoikeudet kaikille ihmisille. Jokaisella on oikeus kokea kuuluvansa tähän yhteiskuntaan. Toimivat turvaverkot ja sujuva pääsy palveluiden äärelle on osa tätä kokemusta.
 
 
-Vihreässä kunnassa varmistetaan, että ruotsinkieliset, saamenkieliset ja
-viittomakieliset saavat palvelut omalla äidinkielellään. Kehitetään
-palvelukulttuuria kielitietoiseksi ja selkokieliseksi.
+Vihreässä kunnassa varmistetaan, että ruotsinkieliset, saamenkieliset ja viittomakieliset saavat palvelut omalla äidinkielellään. Kehitetään palvelukulttuuria kielitietoiseksi ja selkokieliseksi.
 
 
-Nykyaikainen teknologia mahdollistaa monien hyvinvointivaltion tärkeiden
-palveluiden tarjoamisen suurelle joukolle kätevästi myös digitaalisesti.
-Digitalisaation nopea kehitys voi kuitenkin syrjäyttää ihmisiä ja ihmisryhmiä.
-Vihreässä kunnassa tämä estetään tarjoamalla neuvontaa, ohjausta ja apua
-palvelujen käyttämiseen, sekä fyysinen palveluvaihtoehto heille, jotka eivät
-itse voi digitaalisia palveluita käyttää.
+Nykyaikainen teknologia mahdollistaa monien hyvinvointivaltion tärkeiden palveluiden tarjoamisen suurelle joukolle kätevästi myös digitaalisesti. Digitalisaation nopea kehitys voi kuitenkin syrjäyttää ihmisiä ja ihmisryhmiä. Vihreässä kunnassa tämä estetään tarjoamalla neuvontaa, ohjausta ja apua palvelujen käyttämiseen, sekä fyysinen palveluvaihtoehto heille, jotka eivät itse voi digitaalisia palveluita käyttää.
 
 
 ### 1. Torjumme köyhyyttä
 
 
-Vihreässä kunnassa vähennetään köyhyyttä kaikissa väestö- ja ikäryhmissä.
-Perheiden tiukentunut taloustilanne näkyy kunnissa ja Suomessa on tyypillistä,
-että köyhyys periytyy sukupolvelta toiselle. On tärkeää tukea pienituloisia
-kuntalaisia hyvän arjen ylläpitämisessä. Vihreässä kunnassa jokaisella on oikeus
-saada matalalla kynnyksellä apua ja tukea.
+Vihreässä kunnassa vähennetään köyhyyttä kaikissa väestö- ja ikäryhmissä. Perheiden tiukentunut taloustilanne näkyy kunnissa ja Suomessa on tyypillistä, että köyhyys periytyy sukupolvelta toiselle. On tärkeää tukea pienituloisia kuntalaisia hyvän arjen ylläpitämisessä. Vihreässä kunnassa jokaisella on oikeus saada matalalla kynnyksellä apua ja tukea.
 
 
-Päihdetyön huutava tarve ja asunnottomuuden ongelmat näkyvät eniten suurissa
-kaupungeissa. Toisaalta asiantuntevaa päihdetyötä ja asumiseen keskittyvää
-sosiaalityön osaamista tarvitaan ihan kaikissa kunnissa. Heikossa asemassa
-olevien kuntalaisten hyvinvointia tulee tukea turvaamalla jokaiselle
-mahdollisuus levätä, peseytyä ja huolehtia hygieniastaan.
+Päihdetyön huutava tarve ja asunnottomuuden ongelmat näkyvät eniten suurissa kaupungeissa. Toisaalta asiantuntevaa päihdetyötä ja asumiseen keskittyvää sosiaalityön osaamista tarvitaan ihan kaikissa kunnissa. Heikossa asemassa olevien kuntalaisten hyvinvointia tulee tukea turvaamalla jokaiselle mahdollisuus levätä, peseytyä ja huolehtia hygieniastaan.
 
 
-Terveyden edistäminen on tärkeää köyhyyden torjuntaa, koska köyhyys ja
-terveysongelmat kulkevat usein käsi kädessä. Koska paljon terveyspalveluja
-käyttävät kuntalaiset ovat usein myös hyvin pienituloisia, Vihreässä kunnassa
-varmistetaan, ettei kukaan velkaannu terveyspalvelujen asiakasmaksujen takia.
+Terveyden edistäminen on tärkeää köyhyyden torjuntaa, koska köyhyys ja terveysongelmat kulkevat usein käsi kädessä. Koska paljon terveyspalveluja käyttävät kuntalaiset ovat usein myös hyvin pienituloisia, Vihreässä kunnassa varmistetaan, ettei kukaan velkaannu terveyspalvelujen asiakasmaksujen takia.
 
 
-Vihreälle kunnalle järjestö- ja vapaaehtoistoiminta on tärkeä voimavara ja
-julkisen palveluverkon täydentäjä, jonka työtä tuetaan ja arvostetaan.
+Vihreälle kunnalle järjestö- ja vapaaehtoistoiminta on tärkeä voimavara ja julkisen palveluverkon täydentäjä, jonka työtä tuetaan ja arvostetaan.
 
 
 **Vihreitä tavoitteita:**
@@ -524,53 +356,25 @@ julkisen palveluverkon täydentäjä, jonka työtä tuetaan ja arvostetaan.
 ### 2. Toimivat sosiaali- ja terveyspalvelut
 
 
-Sote-uudistus on tällä hetkellä vielä kesken. Vihreiden kanta on kuitenkin
-selvä: tarvitsemme terveydenhuollon kokonaisuuden, joka nojaa lyhytnäköisten
-säästötavoitteiden sijaan terveyserojen kaventamiseen, saumattomiin
-hoitoketjuihin ja palveluiden saatavuuden parantamiseen. Pitkällä aikavälillä
-tämä on myös taloudellisesti kannattavin vaihtoehto, kun ihmiset pääsevät
-ajoissa hoitoon. Vihreässä kunnassa jokainen iästä, varallisuudesta tai
-taustasta riippumatta pääsee nopeasti hoitoon.
+Sote-uudistus on tällä hetkellä vielä kesken. Vihreiden kanta on kuitenkin selvä: tarvitsemme terveydenhuollon kokonaisuuden, joka nojaa lyhytnäköisten säästötavoitteiden sijaan terveyserojen kaventamiseen, saumattomiin hoitoketjuihin ja palveluiden saatavuuden parantamiseen. Pitkällä aikavälillä tämä on myös taloudellisesti kannattavin vaihtoehto, kun ihmiset pääsevät ajoissa hoitoon. Vihreässä kunnassa jokainen iästä, varallisuudesta tai taustasta riippumatta pääsee nopeasti hoitoon.
 
 
-Olemme erityisen huolissamme mielenterveyspalvelujen heikosta saatavuudesta.
-Julkisissa terveyspalveluissa pitää saada hoitoa nopeasti. Erityisesti nuorten
-aikuisten kasvaviin mielenterveyden ongelmiin tulee tarttua ajoissa. Vihreässä
-kunnassa ehkäistään esimerkiksi työkyvyttömyyttä, työuupumusta ja masennusta
-panostamalla matalan kynnyksen mielenterveyspalveluihin.
+Olemme erityisen huolissamme mielenterveyspalvelujen heikosta saatavuudesta. Julkisissa terveyspalveluissa pitää saada hoitoa nopeasti. Erityisesti nuorten aikuisten kasvaviin mielenterveyden ongelmiin tulee tarttua ajoissa. Vihreässä kunnassa ehkäistään esimerkiksi työkyvyttömyyttä, työuupumusta ja masennusta panostamalla matalan kynnyksen mielenterveyspalveluihin.
 
 
-Opiskelijapaikkakunnilla varmistetaan opiskelijapalveluiden ja -terveydenhuollon
-riittävä saatavuus.
+Opiskelijapaikkakunnilla varmistetaan opiskelijapalveluiden ja -terveydenhuollon riittävä saatavuus.
 
 
-Vihreässä kunnassa lasten ja perheiden hyvinvointia tuetaan panostamalla
-monipuolisiin perhepalveluihin ja kotiin tuotavaan apuun. Lasten oikeus
-turvalliseen elämään varmistetaan panostamalla lastensuojeluun ja henkilöstön
-pysyvyyteen.
+Vihreässä kunnassa lasten ja perheiden hyvinvointia tuetaan panostamalla monipuolisiin perhepalveluihin ja kotiin tuotavaan apuun. Lasten oikeus turvalliseen elämään varmistetaan panostamalla lastensuojeluun ja henkilöstön pysyvyyteen.
 
 
-Vihreä kunta on turvallinen jokaiselle. Sosiaali- ja terveysviranomaiset eri
-palveluissa osaavat ottaa väkivallan puheeksi ja jokainen väkivallan uhri,
-tekijä ja väkivallalle altistunut saa tarvittavan avun ja tuen. Vihreässä
-kunnassa on selkeät ja toimivat rakenteet lapsiin ja naisiin kohdistuvan
-väkivallan sekä lähisuhdeväkivallan ja ”kunniaan” liittyvän väkivallan
-ehkäisyyn.
+Vihreä kunta on turvallinen jokaiselle. Sosiaali- ja terveysviranomaiset eri palveluissa osaavat ottaa väkivallan puheeksi ja jokainen väkivallan uhri, tekijä ja väkivallalle altistunut saa tarvittavan avun ja tuen. Vihreässä kunnassa on selkeät ja toimivat rakenteet lapsiin ja naisiin kohdistuvan väkivallan sekä lähisuhdeväkivallan ja ”kunniaan” liittyvän väkivallan ehkäisyyn.
 
 
-Vihreässä kunnassa palvelun saamista selkeytetään ja yksinkertaistetaan niin,
-että ne ovat kaikkien tarvitsevien saatavilla. Vammaisille ja erityisryhmille
-turvataan yhdenvertaiset palvelut ja heidän osallisuuttaan lisätään
-päätöksentekoon. Henkilökohtainen apu turvaa monien vammaisten henkilöiden
-itsemääräämisoikeuden ja itsenäisen elämän. Parasta vammaispolitiikkaa on
-laaja-alainen esteettömyys ja yhdenvertaisuus.
+Vihreässä kunnassa palvelun saamista selkeytetään ja yksinkertaistetaan niin, että ne ovat kaikkien tarvitsevien saatavilla. Vammaisille ja erityisryhmille turvataan yhdenvertaiset palvelut ja heidän osallisuuttaan lisätään päätöksentekoon. Henkilökohtainen apu turvaa monien vammaisten henkilöiden itsemääräämisoikeuden ja itsenäisen elämän. Parasta vammaispolitiikkaa on laaja-alainen esteettömyys ja yhdenvertaisuus.
 
 
-Ihmisten kokema yksinäisyys on lisääntynyt ja erityisesti monet nuoret,
-opiskelijat ja ikääntyneet kärsivät yksinäisyydestä. Vihreässä kunnassa
-vähennetään yksinäisyyttä ja luodaan avoimia kohtaamispaikkoja. Jokaiselle
-ikääntyneelle varmistetaan turvallinen vanhuus. Jokaisella sitä tarvitsevalla on
-mahdollisuus ikääntyä myös palvelutalossa.
+Ihmisten kokema yksinäisyys on lisääntynyt ja erityisesti monet nuoret, opiskelijat ja ikääntyneet kärsivät yksinäisyydestä. Vihreässä kunnassa vähennetään yksinäisyyttä ja luodaan avoimia kohtaamispaikkoja. Jokaiselle ikääntyneelle varmistetaan turvallinen vanhuus. Jokaisella sitä tarvitsevalla on mahdollisuus ikääntyä myös palvelutalossa.
 
 
 **Vihreitä tavoitteita:**
@@ -597,48 +401,22 @@ mahdollisuus ikääntyä myös palvelutalossa.
 ### 3. Hyvinvointia ja osallisuutta kaikille
 
 
-Hyvinvointi lähtee arjesta. Sillä, miten ihmiset kokevat kuuluvansa osaksi
-yhteisöä ja tulevansa kuulluksi, on merkitystä jokaisen meidän hyvinvoinnille.
-Vihreissä kunnissa hyvinvointi rakentuu yhteisöllisyyteen, aineettomiin
-palveluihin ja välittämiselle. Oma kunta on asukkaiden yhteinen asuinpaikka,
-jonka pitää tuntua kodilta niin siellä vuosikymmeniä asuneelle kuin
-vastamuuttaneelle.
+Hyvinvointi lähtee arjesta. Sillä, miten ihmiset kokevat kuuluvansa osaksi yhteisöä ja tulevansa kuulluksi, on merkitystä jokaisen meidän hyvinvoinnille. Vihreissä kunnissa hyvinvointi rakentuu yhteisöllisyyteen, aineettomiin palveluihin ja välittämiselle. Oma kunta on asukkaiden yhteinen asuinpaikka, jonka pitää tuntua kodilta niin siellä vuosikymmeniä asuneelle kuin vastamuuttaneelle.
 
 
-Haluamme rakentaa perusoikeuksia kunnioittavia, feministisiä, demokraattisia ja
-avoimia kuntia. Kunnissa asukkaat ovat moninaisia, mutta aina yhdenvertaisia.
-Vihreässä kunnassa on ehdoton nollatoleranssi rasismille, häirinnälle ja
-kaikelle syrjinnälle. Haluamme, että kaikki kunnan tilat ovat turvallisia
-jokaiselle.
+Haluamme rakentaa perusoikeuksia kunnioittavia, feministisiä, demokraattisia ja avoimia kuntia. Kunnissa asukkaat ovat moninaisia, mutta aina yhdenvertaisia. Vihreässä kunnassa on ehdoton nollatoleranssi rasismille, häirinnälle ja kaikelle syrjinnälle. Haluamme, että kaikki kunnan tilat ovat turvallisia jokaiselle.
 
 
-Vapaa-aika on tärkeä osa jokaisen hyvinvointia. Tämän takia kaikissa kunnissa
-pitää olla tarjolla monipuolisia harrastusmahdollisuuksia. Mielekäs
-liikuntaharrastus tai säännöllinen kuntoilu luo perustaa hyvinvoinnille.
-Haluamme, että jokaisessa kunnassa on tarjolla lähivirkistysalueita,
-luonnonmetsiä ja rakentamattomia rantoja, jotta jokaisella on mahdollisuus
-liikkua luonnossa.
+Vapaa-aika on tärkeä osa jokaisen hyvinvointia. Tämän takia kaikissa kunnissa pitää olla tarjolla monipuolisia harrastusmahdollisuuksia. Mielekäs liikuntaharrastus tai säännöllinen kuntoilu luo perustaa hyvinvoinnille. Haluamme, että jokaisessa kunnassa on tarjolla lähivirkistysalueita, luonnonmetsiä ja rakentamattomia rantoja, jotta jokaisella on mahdollisuus liikkua luonnossa.
 
 
-Kulttuurilla on suuri merkitys hyvinvoinnin ja mielenterveyden edistämisessä.
-Vihreässä kunnassa turvataan ihmisten yhdenvertaiset mahdollisuudet nauttia
-taiteesta ja kulttuurista. Se toteutuu tuomalla kulttuuria osaksi kaupunkikuvaa,
-laajentamalla palveluiden alennuksia ja maksuttomuutta sekä tukemalla
-omaehtoista kulttuuria tuottavia järjestöjä.
+Kulttuurilla on suuri merkitys hyvinvoinnin ja mielenterveyden edistämisessä. Vihreässä kunnassa turvataan ihmisten yhdenvertaiset mahdollisuudet nauttia taiteesta ja kulttuurista. Se toteutuu tuomalla kulttuuria osaksi kaupunkikuvaa, laajentamalla palveluiden alennuksia ja maksuttomuutta sekä tukemalla omaehtoista kulttuuria tuottavia järjestöjä.
 
 
-Asukkaat tekevät kunnan tai kaupungin ja asukkaille on tarjottava tapoja
-toteuttaa itseään ja osallistua. Esimerkiksi osallistuvalla budjetoinnilla ja
-asukasraadeilla lisäämme asukkaiden äänen kuulumista. Ihmisten monipaikkaisuus
-lisääntyy ja kunnissa on tärkeää kuulla myös osa-aikaisten tai vapaa-ajan
-asukkaiden ääntä. Kuntien kestävään kehittämiseen tarvitsemme kaikki toimijat
-mukaan – parhaat ideat voivat tulla oppilaitoksista, yrityksistä, yhdistyksistä
-tai vaikkapa esikoululaisten suusta.
+Asukkaat tekevät kunnan tai kaupungin ja asukkaille on tarjottava tapoja toteuttaa itseään ja osallistua. Esimerkiksi osallistuvalla budjetoinnilla ja asukasraadeilla lisäämme asukkaiden äänen kuulumista. Ihmisten monipaikkaisuus lisääntyy ja kunnissa on tärkeää kuulla myös osa-aikaisten tai vapaa-ajan asukkaiden ääntä. Kuntien kestävään kehittämiseen tarvitsemme kaikki toimijat mukaan – parhaat ideat voivat tulla oppilaitoksista, yrityksistä, yhdistyksistä tai vaikkapa esikoululaisten suusta.
 
 
-Vihreässä kunnassa maahanmuuttajat löytävät paikkansa tasaveroisina yhteisön
-jäseninä. Kunnat ovat avainasemassa maahanmuuttajien onnistuneen kotoutumisen
-varmistamisessa.
+Vihreässä kunnassa maahanmuuttajat löytävät paikkansa tasaveroisina yhteisön jäseninä. Kunnat ovat avainasemassa maahanmuuttajien onnistuneen kotoutumisen varmistamisessa.
 
 
 **Vihreitä tavoitteita:**
@@ -664,45 +442,25 @@ varmistamisessa.
 ## Elinvoimainen kunta on vihreä
 
 
-Kestävä taloudenpito turvaa ihmisten hyvinvoinnin ympäristön kantokyvyn
-rajoissa. Monilla suomalaisilla kunnilla on tällä hetkellä vakavia
-talousongelmia, joita on ratkottava sekä kuntien että valtion toimesta.
+Kestävä taloudenpito turvaa ihmisten hyvinvoinnin ympäristön kantokyvyn rajoissa. Monilla suomalaisilla kunnilla on tällä hetkellä vakavia talousongelmia, joita on ratkottava sekä kuntien että valtion toimesta.
 
 
-Alueelliset erot ovat Suomessa kasvaneet. Suurissa kaupungeissa väkiluvun nopea
-kasvu on vaatinut merkittäviä investointeja ja palvelutuotannon lisäämistä.
-Väestöään menettävät alueet ovat päinvastaisen haasteen äärellä, kun pohditaan
-hyvinvointivaltion peruspalveluiden turvaamista vähenevälle väestölle. Näiden
-välissä on paljon eri tilanteissa eläviä kuntia.
+Alueelliset erot ovat Suomessa kasvaneet. Suurissa kaupungeissa väkiluvun nopea kasvu on vaatinut merkittäviä investointeja ja palvelutuotannon lisäämistä. Väestöään menettävät alueet ovat päinvastaisen haasteen äärellä, kun pohditaan hyvinvointivaltion peruspalveluiden turvaamista vähenevälle väestölle. Näiden välissä on paljon eri tilanteissa eläviä kuntia.
 
 
-Kuntakentän moninaisuus on sekä rikkaus että haaste. Siksi sama lääke ei tehoa
-kaikissa kunnissa. Vihreässä kunnassa on rohkeutta tehdä yhteistyötä, sillä
-yhdistämällä voimat naapurikunnan tai kansalaisjärjestön kanssa voidaan saada
-enemmän aikaiseksi.
+Kuntakentän moninaisuus on sekä rikkaus että haaste. Siksi sama lääke ei tehoa kaikissa kunnissa. Vihreässä kunnassa on rohkeutta tehdä yhteistyötä, sillä yhdistämällä voimat naapurikunnan tai kansalaisjärjestön kanssa voidaan saada enemmän aikaiseksi.
 
 
-Ekologisesti kestävä elämäntapa on mahdollinen joka puolella Suomea – ratkaisut
-vain ovat erilaisia. Kuntia ja kaupunkeja on tärkeää kehittää kriisinkestäviksi
-paikoiksi, joissa on hyvä elää myös poikkeuksellisissa olosuhteissa.
+Ekologisesti kestävä elämäntapa on mahdollinen joka puolella Suomea – ratkaisut vain ovat erilaisia. Kuntia ja kaupunkeja on tärkeää kehittää kriisinkestäviksi paikoiksi, joissa on hyvä elää myös poikkeuksellisissa olosuhteissa.
 
 
 ### 1. Eväitä kestävään kuntatalouteen
 
 
-Vihreä kunta varmistaa yhdenvertaiset ja saavutettavat palvelut kaikille
-asukkailleen myös taloudellisesti vaikeina aikoina. Laadukkaiden palveluiden
-järjestäminen on pitkällä aikavälillä edullisempaa kuin lyhytnäköisten
-leikkauslistojen laatiminen. Vihreä kunta ei pelkää investoida kestävään
-kasvuun. Se suunnittelee ja valmistelee investointinsa huolella ja tulevaisuuden
-toimintakykyä ja hyvinvointia kasvattaen.
+Vihreä kunta varmistaa yhdenvertaiset ja saavutettavat palvelut kaikille asukkailleen myös taloudellisesti vaikeina aikoina. Laadukkaiden palveluiden järjestäminen on pitkällä aikavälillä edullisempaa kuin lyhytnäköisten leikkauslistojen laatiminen. Vihreä kunta ei pelkää investoida kestävään kasvuun. Se suunnittelee ja valmistelee investointinsa huolella ja tulevaisuuden toimintakykyä ja hyvinvointia kasvattaen.
 
 
-Kuntatalous on yhteisistä tarpeista ja resursseista huolehtimista paikallisella
-tasolla. Loppujen lopuksi kyse on siitä, minkälaiset elämän puitteet kunnalla on
-tarjota asukkailleen. Paras tulos ei aina löydy kunnantalon kokoushuoneesta,
-vaan asukkaiden kanssa. Vihreässä kunnassa kuntalaiset otetaan aktiivisemmin
-mukaan kuntatalouden suunnitteluun ja toteuttamiseen.
+Kuntatalous on yhteisistä tarpeista ja resursseista huolehtimista paikallisella tasolla. Loppujen lopuksi kyse on siitä, minkälaiset elämän puitteet kunnalla on tarjota asukkailleen. Paras tulos ei aina löydy kunnantalon kokoushuoneesta, vaan asukkaiden kanssa. Vihreässä kunnassa kuntalaiset otetaan aktiivisemmin mukaan kuntatalouden suunnitteluun ja toteuttamiseen.
 
 
 **Vihreitä tavoitteita:**
@@ -719,25 +477,13 @@ mukaan kuntatalouden suunnitteluun ja toteuttamiseen.
 ### 2. Kuntien rooli työllisyyden edistäjänä
 
 
-Kunnalla on merkittävä rooli alueen työllisyyden edistämisessä ja siirtymisessä
-kohti hiilineutraalia Suomea. Julkisilla investoinneilla ja hankinnoilla on
-merkittävä rooli kestävässä siirtymässä ja hankinnoilla voidaan tukea kestäviä
-innovaatioita. Parhaimmillaan ne myös työllistävät paikallisia yrityksiä ja
-ihmisiä.
+Kunnalla on merkittävä rooli alueen työllisyyden edistämisessä ja siirtymisessä kohti hiilineutraalia Suomea. Julkisilla investoinneilla ja hankinnoilla on merkittävä rooli kestävässä siirtymässä ja hankinnoilla voidaan tukea kestäviä innovaatioita. Parhaimmillaan ne myös työllistävät paikallisia yrityksiä ja ihmisiä.
 
 
-Vihreä kunta on vastuullinen työnantaja, joka tarjoaa mahdollisuuksia työuran
-eri vaiheissa oleville työntekijöille. Haluamme, että kunnat pystyvät tarjoamaan
-niin vastuullisia johtotehtäviä kuin joustavia osa-aikatöitä ja mahdollisuuksia
-osaamisen kehittämiseen. Kannustava ja avoin työilmapiiri tukee työntekijöiden
-työhyvinvointia ja onnistumista työtehtävissä.
+Vihreä kunta on vastuullinen työnantaja, joka tarjoaa mahdollisuuksia työuran eri vaiheissa oleville työntekijöille. Haluamme, että kunnat pystyvät tarjoamaan niin vastuullisia johtotehtäviä kuin joustavia osa-aikatöitä ja mahdollisuuksia osaamisen kehittämiseen. Kannustava ja avoin työilmapiiri tukee työntekijöiden työhyvinvointia ja onnistumista työtehtävissä.
 
 
-Kunnat voivat tarjota väylän työllistymiseen ja ehkäistä yhteiskunnallista
-syrjäytymistä tarjoamalla työllistymismahdollisuuksia esimerkiksi nuorille,
-pitkäaikaistyöttömille ja Suomeen muuttaneille. Aktiivinen kunta toimii myös
-välittäjänä työntekijöiden ja työtä tarvitsevien yritysten ja yhteisöjen
-välillä.
+Kunnat voivat tarjota väylän työllistymiseen ja ehkäistä yhteiskunnallista syrjäytymistä tarjoamalla työllistymismahdollisuuksia esimerkiksi nuorille, pitkäaikaistyöttömille ja Suomeen muuttaneille. Aktiivinen kunta toimii myös välittäjänä työntekijöiden ja työtä tarvitsevien yritysten ja yhteisöjen välillä.
 
 
 **Vihreitä tavoitteita:**
@@ -760,38 +506,16 @@ välillä.
 ### 3. Kuntien elinvoima ja yrittäjyyden tukeminen
 
 
-Yritysten rooli kuntataloudelle on merkittävä. Yritysten tarjoamat työpaikat
-auttavat luomaan kunnalle hyvinvointia ja asukkaille tärkeitä palveluita.
-Yritykset ovat myös keskeisessä roolissa työelämän uudistamisessa reilulla
-tavalla, kun päästövähennykset ja luonnonvarojen käytön vähentäminen muuttavat
-tuotantoa ja työmarkkinoita luoden uusia ammatteja. Vihreä kunta tunnetaan
-kestävää kehitystä ja kiertotaloutta edistävästä, resurssiviisasta
-elinkeinopolitiikastaan.
+Yritysten rooli kuntataloudelle on merkittävä. Yritysten tarjoamat työpaikat auttavat luomaan kunnalle hyvinvointia ja asukkaille tärkeitä palveluita. Yritykset ovat myös keskeisessä roolissa työelämän uudistamisessa reilulla tavalla, kun päästövähennykset ja luonnonvarojen käytön vähentäminen muuttavat tuotantoa ja työmarkkinoita luoden uusia ammatteja. Vihreä kunta tunnetaan kestävää kehitystä ja kiertotaloutta edistävästä, resurssiviisasta elinkeinopolitiikastaan.
 
 
-Päästövähennykset ja työpaikat asetetaan usein vastakkain, vaikka
-kunnianhimoisten ympäristö- ja ilmastotoimien on todettu synnyttävän enemmän
-uusia työpaikkoja kuin vähentävän niitä. Erityisesti potentiaalia on pienissä
-kasvuyrityksissä, joissa usein uskalletaan ajatellaan toisin. Kunnat voivat
-tarjota näille yrityksille mahdollisuuden kasvaa. Vihreissä kunnissa luodaan
-ratkaisuja maailmanlaajuisiin haasteisiin uusien palveluiden, teknologioiden,
-startupien ja osaamistalouden avulla.
+Päästövähennykset ja työpaikat asetetaan usein vastakkain, vaikka kunnianhimoisten ympäristö- ja ilmastotoimien on todettu synnyttävän enemmän uusia työpaikkoja kuin vähentävän niitä. Erityisesti potentiaalia on pienissä kasvuyrityksissä, joissa usein uskalletaan ajatellaan toisin. Kunnat voivat tarjota näille yrityksille mahdollisuuden kasvaa. Vihreissä kunnissa luodaan ratkaisuja maailmanlaajuisiin haasteisiin uusien palveluiden, teknologioiden, startupien ja osaamistalouden avulla.
 
 
-Vihreät kunnat toimivat yrittäjämyönteisesti monella eri tavalla. Kaavoituksella
-varmistetaan sujuvat tontti- ja kaavaratkaisut sekä kaupunkien keskustojen
-elävyys ja viihtyisyys. Kunnan koulutusmahdollisuudet ovat yrityksille tärkeitä,
-sillä iso osa opiskelijoista jää valmistumisen jälkeen opiskelukaupunkiinsa.
-Monipuolinen ja yritysten tarpeita tukeva koulutustarjonta auttaa yrityksiä
-löytämään kaipaamaansa työvoimaa.
+Vihreät kunnat toimivat yrittäjämyönteisesti monella eri tavalla. Kaavoituksella varmistetaan sujuvat tontti- ja kaavaratkaisut sekä kaupunkien keskustojen elävyys ja viihtyisyys. Kunnan koulutusmahdollisuudet ovat yrityksille tärkeitä, sillä iso osa opiskelijoista jää valmistumisen jälkeen opiskelukaupunkiinsa. Monipuolinen ja yritysten tarpeita tukeva koulutustarjonta auttaa yrityksiä löytämään kaipaamaansa työvoimaa.
 
 
-Vuoropuhelu kunnan ja alueen yritysten välillä on hyvä tapa varmistaa, että
-molempien tarpeet ja toiveet otetaan huomioon. Yrittäjämyönteinen kunta ottaa
-yritykset mukaan kehittämään kunnan toimintaa. Vihreä kunta tekee luovaa
-yhteistyötä niin kunnan sisällä kuin yli seudullisesti yli kuntarajojen.
-Globaalissa maailmassa on myös todella tärkeää, että kunnat verkostoituvat
-kansainvälisesti.
+Vuoropuhelu kunnan ja alueen yritysten välillä on hyvä tapa varmistaa, että molempien tarpeet ja toiveet otetaan huomioon. Yrittäjämyönteinen kunta ottaa yritykset mukaan kehittämään kunnan toimintaa. Vihreä kunta tekee luovaa yhteistyötä niin kunnan sisällä kuin yli seudullisesti yli kuntarajojen. Globaalissa maailmassa on myös todella tärkeää, että kunnat verkostoituvat kansainvälisesti.
 
 
 **Vihreitä tavoitteita:**

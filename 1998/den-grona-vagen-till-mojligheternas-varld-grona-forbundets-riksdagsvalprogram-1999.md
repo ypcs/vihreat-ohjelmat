@@ -3,8 +3,8 @@ language: SV
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:04:59.611496
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:34:21.558326
 title: "Den gr\xF6na v\xE4gen till m\xF6jligheternas v\xE4rld - Gr\xF6na f\xF6rbundets\
   \ riksdagsvalprogram 1999"
 type: vaaliohjelma
@@ -22,95 +22,49 @@ year: 1998
 godkänt i Gröna förbundets delegation den 14.11.1998
 
 
-De gröna arbetar för ett samhälle med hållbar utveckling, där var och en har
-rätt och möjlighet till ett människovärdigt liv och där välfärden skapas utan
-att naturen kommer till skada.
+De gröna arbetar för ett samhälle med hållbar utveckling, där var och en har rätt och möjlighet till ett människovärdigt liv och där välfärden skapas utan att naturen kommer till skada.
 
 
-Den gröna politikens nyckelord är **miljö, arbete och rättvisa**. Att värna om
-miljön ligger också i människans intresse, inte bara med tanke på framtiden utan
-redan idag. Många miljöförbättrande åtgärder skapar samtidigt nya arbetsplatser
-och gör boendemiljön trivsammare. För att förbättra sysselsättningen måste man
-våga lösgöra sig från gamla ingrodda tänkesätt och rikta in blicken på
-framtiden. Många strukturer i den nuvarande sysselsättningspolitiken grundar sig
-på ett samhälle som inte längre finns. Den politik som förs av de gröna främjar
-i synnerhet sysselsättningen bland unga och bland kvinnor. Välfärden bör vara
-även kvalitativ och dessutom tillgänglig för alla.
+Den gröna politikens nyckelord är **miljö, arbete och rättvisa**. Att värna om miljön ligger också i människans intresse, inte bara med tanke på framtiden utan redan idag. Många miljöförbättrande åtgärder skapar samtidigt nya arbetsplatser och gör boendemiljön trivsammare. För att förbättra sysselsättningen måste man våga lösgöra sig från gamla ingrodda tänkesätt och rikta in blicken på framtiden. Många strukturer i den nuvarande sysselsättningspolitiken grundar sig på ett samhälle som inte längre finns. Den politik som förs av de gröna främjar i synnerhet sysselsättningen bland unga och bland kvinnor. Välfärden bör vara även kvalitativ och dessutom tillgänglig för alla.
 
 
-Det gröna förbundet har inte bundit sig till att vara någon speciell
-intressegrupps talesman utan vi vill tänka på helheten och framtiden och främja
-etiska handlingsmönster i politiken. Det gröna samhället är pluralistiskt,
-rättvist, jämlikt och tolerant. Det här valprogrammet informerar om vilka saker
-Det gröna förbundet kör och vill förverkliga under riksdagsperioden 1999-2003 i
-den utsträckning medborgarna ger oss fullmakt till det.
+Det gröna förbundet har inte bundit sig till att vara någon speciell intressegrupps talesman utan vi vill tänka på helheten och framtiden och främja etiska handlingsmönster i politiken. Det gröna samhället är pluralistiskt, rättvist, jämlikt och tolerant. Det här valprogrammet informerar om vilka saker Det gröna förbundet kör och vill förverkliga under riksdagsperioden 1999-2003 i den utsträckning medborgarna ger oss fullmakt till det. 
 
 
 ## Förändring bevarar välfärden
 
 
-Vi finländare har vant oss vid väldigt många goda saker. Alla har rätt till
-avgiftsfri grundskolning och samhällsstödd hälsovård. Vi lever tryggare och i en
-renare natur än man gör i många andra länder. Ett bra dagvårdssystem ger både
-kvinnor och män möjlighet att delta i arbetslivet samtidigt som de är
-småbarnsföräldrar.
+Vi finländare har vant oss vid väldigt många goda saker. Alla har rätt till avgiftsfri grundskolning och samhällsstödd hälsovård. Vi lever tryggare och i en renare natur än man gör i många andra länder. Ett bra dagvårdssystem ger både kvinnor och män möjlighet att delta i arbetslivet samtidigt som de är småbarnsföräldrar.
 
 
-Många av dessa saker är dock hotade. Anslagen till utbildning och hälsovård
-skärs ner. Blåalgsmattor hindrar barnen från att plaska omkring i strandvattnet
-under sommarhettan. Den ihärdiga massarbetslösheten marginaliserar stora grupper
-av befolkningen. Rasismen visar sitt ansikte i form av intolerans och våldsdåd.
+Många av dessa saker är dock hotade. Anslagen till utbildning och hälsovård skärs ner. Blåalgsmattor hindrar barnen från att plaska omkring i strandvattnet under sommarhettan. Den ihärdiga massarbetslösheten marginaliserar stora grupper av befolkningen. Rasismen visar sitt ansikte i form av intolerans och våldsdåd.
 
 
-Många saker måste förändras för att vi ska kunna bevara det goda som finns i
-vårt land. Förändringen bör ske stegvis: modigt och beslutsamt, men tryggt.
+Många saker måste förändras för att vi ska kunna bevara det goda som finns i vårt land. Förändringen bör ske stegvis: modigt och beslutsamt, men tryggt.
 
 
-Det som nu behövs är ett nytt tänkande och etiskt mod. Vi måste våga tala om
-värden och omsätta festtalen om mänskliga rättigheter och tolerans i
-vardagshandlingar. Diskussionen måste också handla om sådana färska strömningar
-som de nya formerna för lokalt påverkande och medborgaraktivitet samt djurens
-rättigheter.
+Det som nu behövs är ett nytt tänkande och etiskt mod. Vi måste våga tala om värden och omsätta festtalen om mänskliga rättigheter och tolerans i vardagshandlingar. Diskussionen måste också handla om sådana färska strömningar som de nya formerna för lokalt påverkande och medborgaraktivitet samt djurens rättigheter.
 
 
 ## Vi tänker globalt men handlar lokalt
 
 
-I all vår verksamhet måste vi komma ihåg det globala ansvaret. När man ser på
-vår planet utifrån rymden nattetid syns en obruten kontinentöverskridande kedja
-av ljuspunkter. Det är ljuset från våra städer, staternas gränser syns däremot
-inte. Också ur djurens, växternas, vattnets, luftens och jordmånens synvinkel är
-vår planet en enda helhet.
+I all vår verksamhet måste vi komma ihåg det globala ansvaret. När man ser på vår planet utifrån rymden nattetid syns en obruten kontinentöverskridande kedja av ljuspunkter. Det är ljuset från våra städer, staternas gränser syns däremot inte. Också ur djurens, växternas, vattnets, luftens och jordmånens synvinkel är vår planet en enda helhet.
 
 
 Förbättrandet av sysselsättningen är den bästa ekonomin
 
 
-Den gröna ekonomin och socialpolitiken leder till en förbättrad sysselsättning,
-gör näringsstrukturen mångsidigare och främjar skapandet av nya företag. Den
-stimulerar utvecklingen inom den sysselsättande servicebranschen och inom de
-branscher som använder sig av ny teknik. Våra medel för att åstadkomma det här
-är en grön skattereform, ett socialskydd baserat på grundinkomst samt fördelning
-av arbetet och förkortning av arbetstiden. Förutom att arbetslösheten är en stor
-mänsklig tragedi är den dyr. Att förbättra sysselsättningen är det effektivaste
-sättet att förstärka både statens ekonomi och öka den samhälleliga rättvisan.
+Den gröna ekonomin och socialpolitiken leder till en förbättrad sysselsättning, gör näringsstrukturen mångsidigare och främjar skapandet av nya företag. Den stimulerar utvecklingen inom den sysselsättande servicebranschen och inom de branscher som använder sig av ny teknik. Våra medel för att åstadkomma det här är en grön skattereform, ett socialskydd baserat på grundinkomst samt fördelning av arbetet och förkortning av arbetstiden. Förutom att arbetslösheten är en stor mänsklig tragedi är den dyr. Att förbättra sysselsättningen är det effektivaste sättet att förstärka både statens ekonomi och öka den samhälleliga rättvisan.
 
 
 ## Den gröna skattereformen ger arbete och bättre miljöskydd
 
 
-Den gröna ekonomin främjar det slags tillväxt som ökar medborgarnas andliga och
-materiella välfärd. Samtidigt minskar vi på nedsmutsningen av naturen och
-råvarukonsumtionen. Detta åstadkoms med hjälp av en grön skattereform.
-Arbetsbeskattningen sänks och motsvarande medel tas in genom höjda skatter för
-energikonsumtion, användning av ickeförnybara råvaror och nedsmutsning.
+Den gröna ekonomin främjar det slags tillväxt som ökar medborgarnas andliga och materiella välfärd. Samtidigt minskar vi på nedsmutsningen av naturen och råvarukonsumtionen. Detta åstadkoms med hjälp av en grön skattereform. Arbetsbeskattningen sänks och motsvarande medel tas in genom höjda skatter för energikonsumtion, användning av ickeförnybara råvaror och nedsmutsning.
 
 
-Det här främjar uppkomsten av nya arbetsplatser inom servicesektorn och inom den
-del av industrin som utnyttjar ny teknik. Samtidigt tryggas en hög servicenivå i
-samhället och utvecklandet och ibruktagandet av ny renare teknik och
-miljövänliga verksamhetsmetoder stimuleras. Den gröna skattereformen förbättrar
-också möjligheterna att betala ordentliga löner inom kvinnodominerade branscher.
+Det här främjar uppkomsten av nya arbetsplatser inom servicesektorn och inom den del av industrin som utnyttjar ny teknik. Samtidigt tryggas en hög servicenivå i samhället och utvecklandet och ibruktagandet av ny renare teknik och miljövänliga verksamhetsmetoder stimuleras. Den gröna skattereformen förbättrar också möjligheterna att betala ordentliga löner inom kvinnodominerade branscher.
 
 
 * Under riksdagsperioden 1999-2003 lindras arbetsbeskattningen med cirka 10 miljarder mark. Samma summa tas in genom höjda miljö-, kapital- och förmögenhetsskatter. Dessutom uppgörs ett 10-årsprogram med avsikt att ändra tyngdpunkten inom beskattningen så att personer och företag får tid att förbereda sig på förändringen.
@@ -122,18 +76,7 @@ också möjligheterna att betala ordentliga löner inom kvinnodominerade bransch
 ## Grundinkomsten räddar välfärdssamhället
 
 
-Med hjälp av en grundinkomst kan man skapa ett enkelt och smidigt socialskydd
-som stimulerar individen till att arbeta. Inom grundinkomstsystemet erbjuder
-samhället de lägst avlönade en grundinkomst som minskar då förvärvsinkomsterna
-stiger. Varje självförvärvad mark ökar dock den totala nettosumman. På det här
-sättet blir det möjligt att få en rimlig utkomst också på olika snutt-, deltids-
-och säsongbetonade jobb. Grundinkomsten annulerar dock inte föräldra- och
-sjukpengen, pensionen eller andra stödformer till personer som är
-arbetsoförmögna. Vikariat och säsongbetonade jobb är bättre än total
-arbetslöshet. Förbättrandet av sysselsättningen är det viktigaste medlet för att
-få statens ekonomi i skick och gör det möjligt för oss att bevara
-välfärdssamhället, det vill säga den avgiftsfria skolgången, den samhällsstödda
-hälsovården och pensionskyddet.
+Med hjälp av en grundinkomst kan man skapa ett enkelt och smidigt socialskydd som stimulerar individen till att arbeta. Inom grundinkomstsystemet erbjuder samhället de lägst avlönade en grundinkomst som minskar då förvärvsinkomsterna stiger. Varje självförvärvad mark ökar dock den totala nettosumman. På det här sättet blir det möjligt att få en rimlig utkomst också på olika snutt-, deltids- och säsongbetonade jobb. Grundinkomsten annulerar dock inte föräldra- och sjukpengen, pensionen eller andra stödformer till personer som är arbetsoförmögna. Vikariat och säsongbetonade jobb är bättre än total arbetslöshet. Förbättrandet av sysselsättningen är det viktigaste medlet för att få statens ekonomi i skick och gör det möjligt för oss att bevara välfärdssamhället, det vill säga den avgiftsfria skolgången, den samhällsstödda hälsovården och pensionskyddet.
 
 
 * Övergången till ett grundinkomstsystem inleds under riksdagsperioden 1999-2003. I det första skedet tillsätts en arbetsgrupp med avsikt att reformera socialskyddet, utföra beräkningar och skapa en detaljerad modell.
@@ -145,15 +88,7 @@ hälsovården och pensionskyddet.
 ## Mot klimatförändringen med hjälp av hjärnkraft, inte kärnkraft
 
 
-Klimaförändringen är det mest betydande globala miljöhotet. För att råda bot på
-det behövs nya lösningar, som till en början kostar mer än de tidigare
-lösningarna. En förändring av energipolitiken gör Finlands näringsstruktur
-mångsidigare. Den nya energitekniken är framtidens stora business.
-Energipolitiken står i nyckelställning när det gäller att minska utsläppen av de
-drivhusgaser som förändrar klimatet. Hörnstenarna i 2000-talets energipolitik
-består av energisparande med hjälp av ny teknik, ersättande av stenkolen med den
-renare naturgasen, användning av inhemsk träflis, vind- och solkraft samt annan
-ny energiteknik.
+Klimaförändringen är det mest betydande globala miljöhotet. För att råda bot på det behövs nya lösningar, som till en början kostar mer än de tidigare lösningarna. En förändring av energipolitiken gör Finlands näringsstruktur mångsidigare. Den nya energitekniken är framtidens stora business. Energipolitiken står i nyckelställning när det gäller att minska utsläppen av de drivhusgaser som förändrar klimatet. Hörnstenarna i 2000-talets energipolitik består av energisparande med hjälp av ny teknik, ersättande av stenkolen med den renare naturgasen, användning av inhemsk träflis, vind- och solkraft samt annan ny energiteknik.
 
 
 * De grönas målsättning är att utsläppet av klimatförändrande drivhusgaser börjar minska från och med sekelskiftet.
@@ -170,9 +105,7 @@ ny energiteknik.
 ## Finland hålls bebott och samhällena levande
 
 
-De grönas målsättning är att hålla Finland bebott; det är inte förnuftigt att
-redan existerande bostäder på landbygden och i småstäderna töms på sina invånare
-samtidigt som bostadsbristen i de stora städerna förvärras.
+De grönas målsättning är att hålla Finland bebott; det är inte förnuftigt att redan existerande bostäder på landbygden och i småstäderna töms på sina invånare samtidigt som bostadsbristen i de stora städerna förvärras.
 
 
 * Landsbygden bibehålls livskraftig genom utveckling av nya näringsfång, genom distansarbete och småföretagarverksamhet. Också grundinkomstsystemet stöder uppkomsten av nya näringsfång.
@@ -190,13 +123,7 @@ samtidigt som bostadsbristen i de stora städerna förvärras.
 ## För en hälsosam, säker och trivsam livsmiljö
 
 
-En god livsmiljö befrämjar människors hälsa och välmåga. Det bör vara
-utgångspunkten när man planerar bostadsområden och arbetsplatsmiljöer. En god
-miljö innebär att man vid planeringen även beaktat barnen, åldringarna och de
-handikappade. Kännetecknande för ett trivsamt bostadsområde är också att det
-finns tillräckliga frilufts- och rekreationsområden, mångsidig service samt
-välutvecklad kollektivtrafik och att man gynnat byggandet av lättrafikleder.
-Omgivningen kan göras trivsam i samhällen av alla storlekar.
+En god livsmiljö befrämjar människors hälsa och välmåga. Det bör vara utgångspunkten när man planerar bostadsområden och arbetsplatsmiljöer. En god miljö innebär att man vid planeringen även beaktat barnen, åldringarna och de handikappade. Kännetecknande för ett trivsamt bostadsområde är också att det finns tillräckliga frilufts- och rekreationsområden, mångsidig service samt välutvecklad kollektivtrafik och att man gynnat byggandet av lättrafikleder. Omgivningen kan göras trivsam i samhällen av alla storlekar.
 
 
 * Låt oss utveckla en samhällsplanering som ger medborgarna möjligheter att delta och fatta beslut vid planeringen av deras närmiljö.
@@ -211,14 +138,7 @@ Omgivningen kan göras trivsam i samhällen av alla storlekar.
 ## För en ansvarsfull trafikpolitik
 
 
-Målsättningen för trafikpolitiken bör å ena sidan vara att de klimatförändrande
-drivhusgaserna minskas och å andra sidan att boendemiljöerna görs trivsammare.
-Bägge målsättningarna gynnas av en ökad satsning på kollektivtrafiken, på den
-lätta trafiken och på ny teknik. Majoriteten av finländarna anser det vara
-viktigt att kollektivtrafiken och den lätta trafiken utvecklas.
-Personbilstrafiken kan minskas genom ökad datatrafik, kunskapens autostrada är
-en ekologisk autostrada. Genom att gynna den lätta trafiken gynnar man även
-möjligheterna till hälsosam vardagsmotion.
+Målsättningen för trafikpolitiken bör å ena sidan vara att de klimatförändrande drivhusgaserna minskas och å andra sidan att boendemiljöerna görs trivsammare. Bägge målsättningarna gynnas av en ökad satsning på kollektivtrafiken, på den lätta trafiken och på ny teknik. Majoriteten av finländarna anser det vara viktigt att kollektivtrafiken och den lätta trafiken utvecklas. Personbilstrafiken kan minskas genom ökad datatrafik, kunskapens autostrada är en ekologisk autostrada. Genom att gynna den lätta trafiken gynnar man även möjligheterna till hälsosam vardagsmotion.
 
 
 * En minskning av personbilstrafiken bör ställas som mål för samhällsplaneringen.
@@ -238,11 +158,7 @@ möjligheterna till hälsosam vardagsmotion.
 ## Östersjöns smutsiga vatten måste renas
 
 
-Östersjöns tillstånd är alarmerande. Vattnet kan dock renas genom att man snabbt
-minskar på de utsläpp som hamnar i havet. Jordbruket och trafiken är de största
-belastarna av Östersjön i Finland. Den gröna trafikpolitiken och gynnandet av
-ekologisk produktion inom jordbruket minskar på våra utsläpp. Men det behövs
-också andra åtgärder:
+Östersjöns tillstånd är alarmerande. Vattnet kan dock renas genom att man snabbt minskar på de utsläpp som hamnar i havet. Jordbruket och trafiken är de största belastarna av Östersjön i Finland. Den gröna trafikpolitiken och gynnandet av ekologisk produktion inom jordbruket minskar på våra utsläpp. Men det behövs också andra åtgärder:
 
 
 * Skyddet av Östersjön måste göras till en av huvudmålsättningarna när Finland fungerar som EU:s ordförandeland under senare hälten av år 1999.
@@ -256,13 +172,7 @@ också andra åtgärder:
 ## Information till konsumenterna om produkters miljö- och hälsoinverkan samt deras etiska kvalitet
 
 
-Miljösynpunkter bör knytas till all planering och alla beslut, såväl på
-konsument-, samhälls- som företagsnivå. Miljö-, konsument- och
-arbetstagarskyddet bör inte utsättas för frihandel. Varje köpbeslut påverkar
-andra människors liv, miljö och hälsa. För att vi med våra slantar ska kunna
-rösta för den utveckling vi vill ha behöver vi bättre information om
-produkternas miljö- och hälsoinverkan samt om deras etiska kvalitet. På detta
-sätt främjar vi också utvecklandet av nya och bättre produkter.
+Miljösynpunkter bör knytas till all planering och alla beslut, såväl på konsument-, samhälls- som företagsnivå. Miljö-, konsument- och arbetstagarskyddet bör inte utsättas för frihandel. Varje köpbeslut påverkar andra människors liv, miljö och hälsa. För att vi med våra slantar ska kunna rösta för den utveckling vi vill ha behöver vi bättre information om produkternas miljö- och hälsoinverkan samt om deras etiska kvalitet. På detta sätt främjar vi också utvecklandet av nya och bättre produkter.
 
 
 * Alla för konsumenten tillgängliga betydande produktgrupper bör omfattas av miljömärkningen.
@@ -275,11 +185,7 @@ sätt främjar vi också utvecklandet av nya och bättre produkter.
 ## Utbildning, forskning och konst skapar förutsättningarna för en hållbar utveckling
 
 
-Utbildning och forskning skapar förutsättningar för att utveckla
-välfärdssamhället. Konsten ger livet innehåll och åskådliggör nya livsfenomen
-och strömningar. Utbildning ger färdigheter att klara sig i en ständigt
-föränderlig värld. En jämlik utbildning är också en viktig förutsättning för
-demokrati.
+Utbildning och forskning skapar förutsättningar för att utveckla välfärdssamhället. Konsten ger livet innehåll och åskådliggör nya livsfenomen och strömningar. Utbildning ger färdigheter att klara sig i en ständigt föränderlig värld. En jämlik utbildning är också en viktig förutsättning för demokrati.
 
 
 * Grundutbildningens kvantitet och kvalitet får inte vara beroende av elevens boendeort eller hemkommun.
@@ -296,13 +202,7 @@ demokrati.
 ## En trygg värld byggs med hjälp av samarbete inte med vapen
 
 
-Finlands trygghet riskeras inte i första hand av militära hot utan av samhälls-
-och miljökriser. Skapandet av en rättvis världsekonomi är på lång sikt ett
-villkor för välfärd och en balanserad utveckling. Det internationella
-miljösamarbetet, utvecklingssamarbetet liksom samarbetet med Finlands närområden
-är viktiga beståndsdelar när det gäller att bygga upp en trygg värld. Att satsa
-pengar på de här ändamålen är att mycket effektivare värna om sin trygghet än
-att inhandla vapen.
+Finlands trygghet riskeras inte i första hand av militära hot utan av samhälls- och miljökriser. Skapandet av en rättvis världsekonomi är på lång sikt ett villkor för välfärd och en balanserad utveckling. Det internationella miljösamarbetet, utvecklingssamarbetet liksom samarbetet med Finlands närområden är viktiga beståndsdelar när det gäller att bygga upp en trygg värld. Att satsa pengar på de här ändamålen är att mycket effektivare värna om sin trygghet än att inhandla vapen.
 
 
 * I förhandlingar om villkoren för internationell affärsverksamhet bör Finland verka för att man ställer upp ekologiska och sociala villkor för såväl handel, investeringar som kapitalets rörlighet.
@@ -318,10 +218,7 @@ att inhandla vapen.
 ## Fulla mänskliga rättigheter är till för alla
 
 
-Varje människa har rätt till fulla medborgerliga rättigheter, till arbete,
-kultur och personlig lycka. Varje människa hör till någon minoritet. Även
-familjerna är inbördes olika men bör likafullt vara jämlika. Arbete och
-familjeliv måste gå att kombinera.
+Varje människa har rätt till fulla medborgerliga rättigheter, till arbete, kultur och personlig lycka. Varje människa hör till någon minoritet. Även familjerna är inbördes olika men bör likafullt vara jämlika. Arbete och familjeliv måste gå att kombinera.
 
 
 * Riksdagens principbeslut om att stifta en lag som gör parförhållanden mellan personer av samma kön jämlika med äktenskap bör förverkligas.

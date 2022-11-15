@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:04:11.732961
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:35.221204
 title: "Politiikassa ei ole mit\xE4\xE4n h\xE4vett\xE4v\xE4\xE4! - Vihreiden demokratiaohjelma"
 type: erityisohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1018
@@ -22,74 +22,42 @@ Hyväksytty valtuuskunnan kokouksessa 25.11.2012
 
 
 
-Vihreiden demokratiakäsityksen mukaan valta kuuluu kaikille, ei ainoastaan
-täysi-ikäisille kansalaisille, jotka pääsevät ajoittain äänestämään. Tavoitteena
-on, että jokainen voi kantaa vastuuta yhteiskunnasta ja ympäristöstä, osaa
-vaatia ja käyttää valtaa ja kokee olevansa osallinen itseään ja yhteiskuntaa
-koskevaan päätöksentekoon.
+Vihreiden demokratiakäsityksen mukaan valta kuuluu kaikille, ei ainoastaan täysi-ikäisille kansalaisille, jotka pääsevät ajoittain äänestämään. Tavoitteena on, että jokainen voi kantaa vastuuta yhteiskunnasta ja ympäristöstä, osaa vaatia ja käyttää valtaa ja kokee olevansa osallinen itseään ja yhteiskuntaa koskevaan päätöksentekoon.
 
 
-Vallanpitäjillä on aina todistusvastuu oman valtansa oikeutuksesta, ei kansalla,
-jolle valta päättää kaikista omista asioistaan lähtökohtaisesti kuuluu.
-Edustuksellisen demokratian rinnalle tarvitaan suoraa ja osallistuvaa
-demokratiaa.
+Vallanpitäjillä on aina todistusvastuu oman valtansa oikeutuksesta, ei kansalla, jolle valta päättää kaikista omista asioistaan lähtökohtaisesti kuuluu. Edustuksellisen demokratian rinnalle tarvitaan suoraa ja osallistuvaa demokratiaa.
 
 
-Yhteiskunnallisessa vallankäytössä toisilla on käytännössä enemmän valtaa kuin
-toisilla. Tulonsiirroilla ja hyvillä demokraattisilla rakenteilla haluamme jakaa
-niin rahaa kuin valtaakin ihmisten tasavertaisuutta parantavalla tavalla.
-Erityisesti talouspoliittinen päätöksenteko on karkaamassa yhä kauemmas
-kansalaisten ulottumattomiin.
+Yhteiskunnallisessa vallankäytössä toisilla on käytännössä enemmän valtaa kuin toisilla. Tulonsiirroilla ja hyvillä demokraattisilla rakenteilla haluamme jakaa niin rahaa kuin valtaakin ihmisten tasavertaisuutta parantavalla tavalla. Erityisesti talouspoliittinen päätöksenteko on karkaamassa yhä kauemmas kansalaisten ulottumattomiin.
 
 
 Demokratiaohjelmassa haarukoidaan käytännöllisiä tapoja lisätä ihmisten
 
 
-vaikutusmahdollisuuksia valmisteluun ja päätöksentekoon. Julkisen vallan
-avoimuuden ja hyvän hallinnon lisäksi tärkeää myös on arkinen yhteisöllisyyden
-kokemus, joka vahvistaa vastuuntuntoamme ympärillä olevasta yhteiskunnasta ja
-antaa voimia parantaa maailmaa.
+vaikutusmahdollisuuksia valmisteluun ja päätöksentekoon. Julkisen vallan avoimuuden ja hyvän hallinnon lisäksi tärkeää myös on arkinen yhteisöllisyyden kokemus, joka vahvistaa vastuuntuntoamme ympärillä olevasta yhteiskunnasta ja antaa voimia parantaa maailmaa.
 
 
-Demokratian toteutumisen edellytyksiä ovat poliittisten perusoikeuksien ja
-kansalaisoikeuksien lisäksi myös taloudelliset, sosiaaliset ja sivistykselliset
-oikeudet, joiden toteutumisesta linjataan useissa vihreiden ohjelmissa, kuten
-yhdenvertaisuusohjelmassa ja eriarvoisuusohjelmassa.
+Demokratian toteutumisen edellytyksiä ovat poliittisten perusoikeuksien ja kansalaisoikeuksien lisäksi myös taloudelliset, sosiaaliset ja sivistykselliset oikeudet, joiden toteutumisesta linjataan useissa vihreiden ohjelmissa, kuten yhdenvertaisuusohjelmassa ja eriarvoisuusohjelmassa.
 
 
-Vihreät suhtautuvat avoimesti uusiin ja erilaisiin demokratiamalleihin, kuten
-joustavaan demokratiaan, jonka uusi teknologia voisi mahdollistaa. Demokratia on
-prosessi: sitä tulee jatkuvasti kehittää
+Vihreät suhtautuvat avoimesti uusiin ja erilaisiin demokratiamalleihin, kuten joustavaan demokratiaan, jonka uusi teknologia voisi mahdollistaa. Demokratia on prosessi: sitä tulee jatkuvasti kehittää
 
 
 
 ## Demokraattinen toimintakulttuuri
 
 
-Vuosikymmenten saatossa syntyneet hyväveliverkostot ja vaalirahajärjestelyt ovat
-viime vuosien aikana alkaneet paljastua. Vihreät edustavat ylpeästi uutta,
-avointa poliittista kulttuuria. Siksi valmistelu ja päätöksenteko voidaan
-siirtää ulos tunkkaisista kabineteista päivänvaloon kansalaisten
-keskusteltavaksi. Koska kaikki viisaus ei asu puolueissa, kansalaisille on
-turvattava myös mahdollisuus suoraan osallistumiseen.
+Vuosikymmenten saatossa syntyneet hyväveliverkostot ja vaalirahajärjestelyt ovat viime vuosien aikana alkaneet paljastua. Vihreät edustavat ylpeästi uutta, avointa poliittista kulttuuria. Siksi valmistelu ja päätöksenteko voidaan siirtää ulos tunkkaisista kabineteista päivänvaloon kansalaisten keskusteltavaksi. Koska kaikki viisaus ei asu puolueissa, kansalaisille on turvattava myös mahdollisuus suoraan osallistumiseen.
 
 
 
-> Avointa valmistelua ja prosessia voidaan kuvata vaikka seuraavalla
-> kuvitteelliseen Kettupuistoon sijoittuvalla esimerkillä.
+> Avointa valmistelua ja prosessia voidaan kuvata vaikka seuraavalla kuvitteelliseen Kettupuistoon sijoittuvalla esimerkillä.
 > 
 > 
-> Suljetussa byrokraattisessa mallissa Kettupuiston istutusten uudistaminen lähtee
-> virkahenkilön ideasta. Valmistelu tehdään virkatyönä, päätös suljetussa
-> kokouksessa ja lopulta kaupungin työntekijät käyvät tekemässä istutukset.
+> Suljetussa byrokraattisessa mallissa Kettupuiston istutusten uudistaminen lähtee virkahenkilön ideasta. Valmistelu tehdään virkatyönä, päätös suljetussa kokouksessa ja lopulta kaupungin työntekijät käyvät tekemässä istutukset.
 > 
 > 
-> Avoimessa ja osallistuvassa mallissa aloite esimerkiksi Kettupuiston
-> uudistamiseen voi tulla asukkailta. Valmistelu tehdään asukkaiden ja
-> virkahenkilöiden välillä yhteissuunnitteluna, päätös tehdään täysin avoimessa
-> kokouksessa taikka paikallisessa kansanäänestyksessä. Toteutukseenkin asukkaat
-> voivat osallistua itse taikka tehdä sen kokonaan kunnan tarjotessa lähinnä
-> resurssit toimintaan.
+> Avoimessa ja osallistuvassa mallissa aloite esimerkiksi Kettupuiston uudistamiseen voi tulla asukkailta. Valmistelu tehdään asukkaiden ja virkahenkilöiden välillä yhteissuunnitteluna, päätös tehdään täysin avoimessa kokouksessa taikka paikallisessa kansanäänestyksessä. Toteutukseenkin asukkaat voivat osallistua itse taikka tehdä sen kokonaan kunnan tarjotessa lähinnä resurssit toimintaan.
 > 
 > 
 
@@ -97,22 +65,13 @@ turvattava myös mahdollisuus suoraan osallistumiseen.
 #### Avoimuus
 
 
-Radikaalin avoimuuden perustana on kansanvalta. Perustuslain mukaan valta kuuluu
-kansalle ja kansalla viimesijaisena vallan käyttäjänä tulee olla mahdollisuus
-avoimesti seurata kaikkea valmistelua ja päätöksentekoa.
+Radikaalin avoimuuden perustana on kansanvalta. Perustuslain mukaan valta kuuluu kansalle ja kansalla viimesijaisena vallan käyttäjänä tulee olla mahdollisuus avoimesti seurata kaikkea valmistelua ja päätöksentekoa.
 
 
-Avoin päätöksenteko voi olla vaikeampaa, hitaampaa ja ongelmallisempaa kuin
-suljettu päätöksenteko. Usein se kuitenkin tuottaa paremman lopputuloksen ja
-yleisesti hyväksyttävämmän päätöksen.
+Avoin päätöksenteko voi olla vaikeampaa, hitaampaa ja ongelmallisempaa kuin suljettu päätöksenteko. Usein se kuitenkin tuottaa paremman lopputuloksen ja yleisesti hyväksyttävämmän päätöksen.
 
 
-Päätöksiä valmisteltaessa eri vaihtoehdot on saatava avoimeen
-kansalaiskeskusteluun jo valmisteluprosessin aikana. Valmistelussa käytettävät
-aineistot on saatava verkkoon aina, kun tietojen luottamuksellisuus eivät sitä
-estä. Kansalaiskeskustelun vaikutukset päätöksentekoon on pysyttävä osoittamaan.
-Jos kansalaiset eivät näe osallistumisen vaikutuksia, motivaatio vaikuttamiseen
-hupenee nopeasti.
+Päätöksiä valmisteltaessa eri vaihtoehdot on saatava avoimeen kansalaiskeskusteluun jo valmisteluprosessin aikana. Valmistelussa käytettävät aineistot on saatava verkkoon aina, kun tietojen luottamuksellisuus eivät sitä estä. Kansalaiskeskustelun vaikutukset päätöksentekoon on pysyttävä osoittamaan. Jos kansalaiset eivät näe osallistumisen vaikutuksia, motivaatio vaikuttamiseen hupenee nopeasti.
 
 
 * Valmisteltavien asioiden tulee olla vireilletulostaan saakka avoimesti ihmisten seurattavissa.
@@ -135,32 +94,14 @@ hupenee nopeasti.
 #### Hyvä hallinto (korruptio, valvonta)
 
 
-Suomi on pärjännyt korruptiolistauksissa hyvin, mutta ne eivät ota juuri
-huomioon rakenteellista korruptiota ja erilaisia hyvävelijärjestelmiä. Hyvän
-hallinnon toimintaperiaatteet turvaavat tasapuolisen kohtelun, avoimuuden ja
-riittävän väärinkäytösten valvonnan. Lisäksi hallinnon tulee omaksua nykyistä
-laajemmin tiedonjakajan ja keskustelun mahdollistajan rooli.
+Suomi on pärjännyt korruptiolistauksissa hyvin, mutta ne eivät ota juuri huomioon rakenteellista korruptiota ja erilaisia hyvävelijärjestelmiä. Hyvän hallinnon toimintaperiaatteet turvaavat tasapuolisen kohtelun, avoimuuden ja riittävän väärinkäytösten valvonnan. Lisäksi hallinnon tulee omaksua nykyistä laajemmin tiedonjakajan ja keskustelun mahdollistajan rooli.
 
 
-Hallinnon kieli on toisinaan vaikeaselkoista ja tarpeettoman monimutkaista. Tämä
-johtuu toisaalta pyrkimyksestä tarkkuuteen, toisaalta hallinnon sisälle
-syntyneestä erikois- ja ammattikielestä kirjainlyhenteineen ja kuusiosaisine
-yhdyssanoineen.
+Hallinnon kieli on toisinaan vaikeaselkoista ja tarpeettoman monimutkaista. Tämä johtuu toisaalta pyrkimyksestä tarkkuuteen, toisaalta hallinnon sisälle syntyneestä erikois- ja ammattikielestä kirjainlyhenteineen ja kuusiosaisine yhdyssanoineen.
 
 
 
-> Useimpia poliittisia mielipiteitä tukemaan löytyy virkamiesten ja
-> asiantuntijoiden päteviä argumentteja ja tilastotietoa. Virkamiehillä ja
-> asiantuntijoilla on väistämättä poliittisia mielipiteitä siinä missä muillakin -
-> heidän arvonsa ja mieltymyksensä vaikuttavat siihen, mitä asioita otetaan
-> huomioon valmistelussa ja mitä ylipäänsä aletaan tavoitella. Siksi poliitikkojen
-> on kansanvaltaisesti päätettävä, mitä valmistellaan ja miltä pohjalta. Kun
-> aktiiviset ihmiset pääsevät osallistumaan valmisteltaviin asioihin, useammat
-> näkökulmat tulevat katetuksi. Yksikään asiantuntija tai ihminen ylipäätään, ei
-> voi olla täysin epäpoliittinen, mutta poliittisten prosessien kautta
-> valikoituvat päätökset, joihin kaikki ovat tavalla tai toisella voineet
-> osallistua. Byrokratia on yhteisten asioiden hoitoa, demokratia ristiriitaisten
-> intressien yhteensovittamista rauhanomaisin keinoin.
+> Useimpia poliittisia mielipiteitä tukemaan löytyy virkamiesten ja asiantuntijoiden päteviä argumentteja ja tilastotietoa. Virkamiehillä ja asiantuntijoilla on väistämättä poliittisia mielipiteitä siinä missä muillakin - heidän arvonsa ja mieltymyksensä vaikuttavat siihen, mitä asioita otetaan huomioon valmistelussa ja mitä ylipäänsä aletaan tavoitella. Siksi poliitikkojen on kansanvaltaisesti päätettävä, mitä valmistellaan ja miltä pohjalta. Kun aktiiviset ihmiset pääsevät osallistumaan valmisteltaviin asioihin, useammat näkökulmat tulevat katetuksi. Yksikään asiantuntija tai ihminen ylipäätään, ei voi olla täysin epäpoliittinen, mutta poliittisten prosessien kautta valikoituvat päätökset, joihin kaikki ovat tavalla tai toisella voineet osallistua. Byrokratia on yhteisten asioiden hoitoa, demokratia ristiriitaisten intressien yhteensovittamista rauhanomaisin keinoin.
 > 
 > 
 
@@ -181,52 +122,26 @@ yhdyssanoineen.
 ## Ihminen vaikuttaa arkeensa
 
 
-Demokratian keskiössä on ihminen. Jos yksilö ei koe voivansa vaikuttaa itseään
-koskeviin asioihin ja lähiympäristöönsä, yksin tai yhdessä muiden kanssa,
-demokratia voi huonosti. Äänestysprosentit laskevat, mutta liian usein vika
-nähdään passiivisissa ihmisissä eikä demokratian rakenteissa.
+Demokratian keskiössä on ihminen. Jos yksilö ei koe voivansa vaikuttaa itseään koskeviin asioihin ja lähiympäristöönsä, yksin tai yhdessä muiden kanssa, demokratia voi huonosti. Äänestysprosentit laskevat, mutta liian usein vika nähdään passiivisissa ihmisissä eikä demokratian rakenteissa.
 
 
-Peruskoulussa oppilaitosdemokratia on ulkoistettu pienelle oppilaskunnan
-hallitukselle, johon osallistuu vain kourallinen oppilaita. Kouluyhteisö on
-riittävän pieni sille, että edustuksellisuudesta voitaisiin luopua kokonaan ja
-tarjota osallistumismahdollisuuksia kaikille. Nuoria ei ole syytä kasvattaa
-ajatukseen, että joku muu kyllä hoitaa "yhteiset asiat".
+Peruskoulussa oppilaitosdemokratia on ulkoistettu pienelle oppilaskunnan hallitukselle, johon osallistuu vain kourallinen oppilaita. Kouluyhteisö on riittävän pieni sille, että edustuksellisuudesta voitaisiin luopua kokonaan ja tarjota osallistumismahdollisuuksia kaikille. Nuoria ei ole syytä kasvattaa ajatukseen, että joku muu kyllä hoitaa "yhteiset asiat".
 
 
-Julkisten palveluiden käyttäjillä on usein sellaista asiantuntemusta palveluiden
-toimivuudesta, jota palveluita suunnittelevilla ja toteuttavilla virkamiehillä
-ei ole. Siksi esimerkiksi terveyskeskusten, koulujen ja sosiaalitoimiston
-asiakkaista tulisi koostaa tilapäisiä paneeleita, joissa heidän näkemyksiään
-palveluiden kehittämistarpeista selvitettäisiin. Palveluita käyttäviä asiakkaita
-tulisi kuulla jo julkisten hankkeiden suunnitteluvaiheessa.
+Julkisten palveluiden käyttäjillä on usein sellaista asiantuntemusta palveluiden toimivuudesta, jota palveluita suunnittelevilla ja toteuttavilla virkamiehillä ei ole. Siksi esimerkiksi terveyskeskusten, koulujen ja sosiaalitoimiston asiakkaista tulisi koostaa tilapäisiä paneeleita, joissa heidän näkemyksiään palveluiden kehittämistarpeista selvitettäisiin. Palveluita käyttäviä asiakkaita tulisi kuulla jo julkisten hankkeiden suunnitteluvaiheessa.
 
 
 #### Nuoret, koulu- ja oppilaitosdemokratia
 
 
-Ei ole olemassa kollektiivista ryhmää nimeltä "nuoret". Samoin kuin vanhempien
-ihmisten myös nuorten keskuudessa on eriäviä näkemyksiä siitä, kuinka asioiden
-tulisi olla. Nuorten vaikutusmahdollisuuksien lisäämisen ei tule perustua
-näennäisen edustuksellisiin nuorisovaltuustoihin, joilla ei ole valtaa.
+Ei ole olemassa kollektiivista ryhmää nimeltä "nuoret". Samoin kuin vanhempien ihmisten myös nuorten keskuudessa on eriäviä näkemyksiä siitä, kuinka asioiden tulisi olla. Nuorten vaikutusmahdollisuuksien lisäämisen ei tule perustua näennäisen edustuksellisiin nuorisovaltuustoihin, joilla ei ole valtaa.
 
 
 
-> Suomalaisilla ysiluokkalaisilla on kansainvälisten tutkimusten mukaan
-> erinomaiset yhteiskunnalliset tiedot mutta heikko motivaatio vaikuttaa ja
-> vähäinen usko omiin vaikutusmahdollisuuksiinsa. Kouluneuvostot ajettiin
-> 'ylipolitisoitumisen' seurauksena alas 1980-luvun kuluessa ja korvattiin
-> oppilaskunnilla, joilla on vain vähän vaikutusvaltaa. Yhteiskunnallinen
-> vaikuttaminen demokraattisessa järjestelmässä opitaan kuitenkin parhaiten itse
-> tekemällä.
+> Suomalaisilla ysiluokkalaisilla on kansainvälisten tutkimusten mukaan erinomaiset yhteiskunnalliset tiedot mutta heikko motivaatio vaikuttaa ja vähäinen usko omiin vaikutusmahdollisuuksiinsa. Kouluneuvostot ajettiin 'ylipolitisoitumisen' seurauksena alas 1980-luvun kuluessa ja korvattiin oppilaskunnilla, joilla on vain vähän vaikutusvaltaa. Yhteiskunnallinen vaikuttaminen demokraattisessa järjestelmässä opitaan kuitenkin parhaiten itse tekemällä.
 > 
 > 
-> Yhteiskuntaopin oppitunnilla kuunteleminen kehittää kyllä yhteiskunnallisia
-> tietoja muttei välttämättä taitoja. Oikeiden vaalien alla järjestettävät
-> 'varjovaalit' taas saattavat toimia jopa tarkoitustaan vastaan, koska vaalien
-> lopputuloksella ei ole mitään todellista vaikutusta. Miksi siis suhtautua niihin
-> vakavasti? Edustukselliseen demokratiaan perustuva oppilaskuntajärjestelmä
-> aktivoi lähinnä jo ennestään aktiivisia yksilöitä, ei koko oppilaskuntaa.
+> Yhteiskuntaopin oppitunnilla kuunteleminen kehittää kyllä yhteiskunnallisia tietoja muttei välttämättä taitoja. Oikeiden vaalien alla järjestettävät 'varjovaalit' taas saattavat toimia jopa tarkoitustaan vastaan, koska vaalien lopputuloksella ei ole mitään todellista vaikutusta. Miksi siis suhtautua niihin vakavasti? Edustukselliseen demokratiaan perustuva oppilaskuntajärjestelmä aktivoi lähinnä jo ennestään aktiivisia yksilöitä, ei koko oppilaskuntaa.
 > 
 > 
 
@@ -279,13 +194,7 @@ näennäisen edustuksellisiin nuorisovaltuustoihin, joilla ei ole valtaa.
 #### Perusoikeudet
 
 
-Sananvapaus on toimivan demokraattisen yhteiskunnan perusta. Ihmisillä on oltava
-mahdollisuus saada mielipiteensä esiin. Ihmisen on voitava ilmaista itseään
-ilman pelkoa ja halutessaan vaikka nimettömästi. Keskustelua ei tule rajoittaa
-verkossa sen enempää kuin verkon ulkopuolella. Riippumaton media on yksi
-sananvapauden keskeisistä takeista. Koska joukossa on voimaa, on kaikille
-ihmisille poliittisiin mielipiteisiin katsomatta taattava myös poikkeusoloissa
-oikeus kokoontua, yhdistyä ja järjestää mielenilmauksia.
+Sananvapaus on toimivan demokraattisen yhteiskunnan perusta. Ihmisillä on oltava mahdollisuus saada mielipiteensä esiin. Ihmisen on voitava ilmaista itseään ilman pelkoa ja halutessaan vaikka nimettömästi. Keskustelua ei tule rajoittaa verkossa sen enempää kuin verkon ulkopuolella. Riippumaton media on yksi sananvapauden keskeisistä takeista. Koska joukossa on voimaa, on kaikille ihmisille poliittisiin mielipiteisiin katsomatta taattava myös poikkeusoloissa oikeus kokoontua, yhdistyä ja järjestää mielenilmauksia.
 
 
 * Verkossa pitää säilyä oikeus esiintyä nimettömänä.
@@ -296,12 +205,7 @@ oikeus kokoontua, yhdistyä ja järjestää mielenilmauksia.
 #### Vaalit
 
 
-Suomessa käytössä olevan vaalijärjestelmän suurimpia ongelmia ovat joidenkin
-vaalipiirien piilevät äänikynnykset, jotka suosivat suuria puolueita ja
-vääristävät vaalien suhteellisuutta. Puolueen paikkamäärä ei ole aina oikeassa
-suhteessa ääniosuuteen. Vaalijärjestelmä tulee uudistaa niin, että suhteellisuus
-toteutuu mahdollisimman hyvin ja mahdollisimman harvan kansalaisen ääni menee
-hukkaan.
+Suomessa käytössä olevan vaalijärjestelmän suurimpia ongelmia ovat joidenkin vaalipiirien piilevät äänikynnykset, jotka suosivat suuria puolueita ja vääristävät vaalien suhteellisuutta. Puolueen paikkamäärä ei ole aina oikeassa suhteessa ääniosuuteen. Vaalijärjestelmä tulee uudistaa niin, että suhteellisuus toteutuu mahdollisimman hyvin ja mahdollisimman harvan kansalaisen ääni menee hukkaan.
 
 
 * Eduskuntavaaleissa on otettava käyttöön puolueiden kannatuksen suhteellisuuden valtakunnallisesti toteuttava ja alueellisen edustuksen riittävällä tavalla turvaava vaalijärjestelmä ilman juridista äänikynnystä.
@@ -314,17 +218,10 @@ hukkaan.
 #### Valtiosääntö, EU:n perussopimukset ja globaali demokratia
 
 
-Euroopan unionissa on demokratian kannalta valtava haaste se, että
-sisämarkkinoiden luomasta kohtalonyhteydestä huolimatta meillä ei ole yhteistä
-kansainvaltaista tapaa sopia talous- ja finanssipolitiikasta. Siksi vihreät
-ajavat integraation syventämistä myös talous- ja veropolitiikan osalta ja
-parlamentarismin syventämistä. Demokratian toteutuminen integraation syventyessä
-edellyttää, että myös kansalaiskeskustelua käydään koko Euroopan laajuisesti.
+Euroopan unionissa on demokratian kannalta valtava haaste se, että sisämarkkinoiden luomasta kohtalonyhteydestä huolimatta meillä ei ole yhteistä kansainvaltaista tapaa sopia talous- ja finanssipolitiikasta. Siksi vihreät ajavat integraation syventämistä myös talous- ja veropolitiikan osalta ja parlamentarismin syventämistä. Demokratian toteutuminen integraation syventyessä edellyttää, että myös kansalaiskeskustelua käydään koko Euroopan laajuisesti.
 
 
-Vihreät kansainvälisenä liikkeenä ajaa aktiivisesti globaalin demokratian
-toteutumista. Erityisesti on demokratisoitava kansainvälisten järjestöjen
-päätöksentekoa.
+Vihreät kansainvälisenä liikkeenä ajaa aktiivisesti globaalin demokratian toteutumista. Erityisesti on demokratisoitava kansainvälisten järjestöjen päätöksentekoa.
 
 
 * Eduskuntaan, europarlamenttiin ja kunnanvaltuustoihin on säädettävä kolmen vaalikauden rotaatio eli edustajan on sen jälkeen pidettävä kyseisestä toimesta vähintään yhden vaalikauden tauko.
@@ -345,12 +242,7 @@ päätöksentekoa.
 #### Kansalaisjärjestöt ja vapaa kansalaistoiminta
 
 
-Rekisteröityjä yhdistyksiä on Suomessa toistasataa tuhatta, mutta viime
-vuosikymmeninä erityisesti nuorten ikäluokkien osallistuminen perinteiseen
-järjestötoimintaan on ollut vähentymään päin harrastus- ja kulttuurijärjestöjä
-lukuunottamatta. Järjestöjen toimintaedellytykset on jatkossakin turvattava
-mutta niiden lisäksi rekisteröitymättömien yhteisöjen ja vapaamuotoisten
-verkostojen toimintaa on tuettava.
+Rekisteröityjä yhdistyksiä on Suomessa toistasataa tuhatta, mutta viime vuosikymmeninä erityisesti nuorten ikäluokkien osallistuminen perinteiseen järjestötoimintaan on ollut vähentymään päin harrastus- ja kulttuurijärjestöjä lukuunottamatta. Järjestöjen toimintaedellytykset on jatkossakin turvattava mutta niiden lisäksi rekisteröitymättömien yhteisöjen ja vapaamuotoisten verkostojen toimintaa on tuettava.
 
 
 * Julkisen vallan tulee tukea vakiintuneita kansalaisjärjestöjä pääsääntöisesti yleisavustuksin, jotka eivät ohjaa liikaa toiminnan sisältöä.
@@ -365,11 +257,7 @@ verkostojen toimintaa on tuettava.
 #### Puolueet
 
 
-Niin kauan kuin meillä on listoihin perustuvat vaalit tulee meillä olemaan myös
-puolueita. Puolueet vastaavat monella osin siitä miltä politiikka näyttää
-ihmisten silmissä, joten niiden toiminnan demokraattisuus ja avoimuus on
-ensisijaisen tärkeää koko politiikan uskottavuudelle. Hyväksi esimerkiksi
-vastakkaisesta käy viime vuosien vaalirahakohut.
+Niin kauan kuin meillä on listoihin perustuvat vaalit tulee meillä olemaan myös puolueita. Puolueet vastaavat monella osin siitä miltä politiikka näyttää ihmisten silmissä, joten niiden toiminnan demokraattisuus ja avoimuus on ensisijaisen tärkeää koko politiikan uskottavuudelle. Hyväksi esimerkiksi vastakkaisesta käy viime vuosien vaalirahakohut.
 
 
 * Kahden tai useamman puheenjohtajan malli on mahdollistettava yhdistyslaissa.
@@ -381,11 +269,7 @@ vastakkaisesta käy viime vuosien vaalirahakohut.
 #### Kolmikantainen päätöksenteko (korporativismi)
 
 
-Vihreät eivät näe mahdollisena, että muut kuin suoraan työnantajan ja
-työntekijän jako-osuuksiin liittyvät päätökset valmistellaan kolmikantaisesti.
-Työelämän tasa-arvoon, nuorten asemaan, eläkejärjestelmään sekä työperäiseen
-sosiaaliturvaan liittyvissä kysymyksissä työelämän instituutioiden aseman ei
-tule olla määräävä.
+Vihreät eivät näe mahdollisena, että muut kuin suoraan työnantajan ja työntekijän jako-osuuksiin liittyvät päätökset valmistellaan kolmikantaisesti. Työelämän tasa-arvoon, nuorten asemaan, eläkejärjestelmään sekä työperäiseen sosiaaliturvaan liittyvissä kysymyksissä työelämän instituutioiden aseman ei tule olla määräävä.
 
 
 * Kolmikantaa on käytettävä vain niissä tilanteissa, joissa työmarkkinaosapuolilla on käsiteltävässä asiassa sisällön kannalta merkitystä.
@@ -395,45 +279,23 @@ tule olla määräävä.
 #### Suora ja osallistuva demokratia
 
 
-Suora demokratia on suoraa kansan valtaa, jossa ihmiset päättävät suoraan
-asiakysymyksistä. Hyvä suora demokratia osallistaa sekä keskusteluttaa ihmisiä
-ja toimii edustuksellisen demokratian tukena, ei sen vastakohtana. Laskeva
-äänestysinto ja ihmisten lisääntyvä vieraantuminen politiikasta kertovat siitä,
-että kansalaisvaikuttamista, demokratiaa, on kehitettävä ja lisättävä. Ihmiset
-osallistuvat politiikkaan vain, jos kokevat voivansa vaikuttaa.
+Suora demokratia on suoraa kansan valtaa, jossa ihmiset päättävät suoraan asiakysymyksistä. Hyvä suora demokratia osallistaa sekä keskusteluttaa ihmisiä ja toimii edustuksellisen demokratian tukena, ei sen vastakohtana. Laskeva äänestysinto ja ihmisten lisääntyvä vieraantuminen politiikasta kertovat siitä, että kansalaisvaikuttamista, demokratiaa, on kehitettävä ja lisättävä. Ihmiset osallistuvat politiikkaan vain, jos kokevat voivansa vaikuttaa.
 
 
-Osallistava demokratia on vallan jakamista ja enemmistövallan rajoittamista.
-Jotta suora demokratia onnistuisi, tarvitaan sen rinnalle kuitenkin myös vahvaa
-vähemmistönsuojaa: Jos kaikki eivät omista tasa-arvoista mahdollisuutta
-äänestää, ei demokratia enää ole demokratiaa. Lisäksi on kunnioitettava ylemmän
-tason sääntelyä: perustuslakia, kansainvälisiä sopimuksia ja perustavanlaatuisia
-kansainvälisiä periaatteita.
+Osallistava demokratia on vallan jakamista ja enemmistövallan rajoittamista. Jotta suora demokratia onnistuisi, tarvitaan sen rinnalle kuitenkin myös vahvaa vähemmistönsuojaa: Jos kaikki eivät omista tasa-arvoista mahdollisuutta äänestää, ei demokratia enää ole demokratiaa. Lisäksi on kunnioitettava ylemmän tason sääntelyä: perustuslakia, kansainvälisiä sopimuksia ja perustavanlaatuisia kansainvälisiä periaatteita.
 
 
-Sitovia kansanäänestyksiä on järjestettävä päätöksenteon ja hallinnon kaikilla
-tasoilla. Pelkät neuvoa-antavat kansanäänestykset toteuttavat demokratiaa
-heikosti, sillä niiden tulosta ei päättäjien ole pakko noudattaa. Suora
-demokratia ei ole mielipidekyselyä eikä huutoäänestystä: On tärkeää, että
-aloitteen ja äänestyksen väliin jätetään tarpeeksi pitkä aika keskustelulle,
-tiedonhankinnalle ja mielipiteiden muutoksille ensivaikutelmasta.
+Sitovia kansanäänestyksiä on järjestettävä päätöksenteon ja hallinnon kaikilla tasoilla. Pelkät neuvoa-antavat kansanäänestykset toteuttavat demokratiaa heikosti, sillä niiden tulosta ei päättäjien ole pakko noudattaa. Suora demokratia ei ole mielipidekyselyä eikä huutoäänestystä: On tärkeää, että aloitteen ja äänestyksen väliin jätetään tarpeeksi pitkä aika keskustelulle, tiedonhankinnalle ja mielipiteiden muutoksille ensivaikutelmasta.
 
 
 
 > #### Sveitsin mallinen kansalaisaloite ja kansalaispäätös
 > 
 > 
-> Jos kansa tekee aloitteen ja parlamentti, kunnanvaltuusto tai muu
-> edustuksellinen taho sen hyväksyy, menee se suoraan läpi. Sveitsin
-> kansalaisaloite mahdollistaa myös neuvotteluvaiheen. Aloitteen tekijä voi
-> neuvotella edustuksellisen elimen kanssa aloitteen sisällöstä. Jos
-> edustuksellinen elin tekee muutoksia aloitteeseen tai hylkää sen, voi aloitteen
-> tekijä viedä sen kansanäänestykseen tai hyväksyä sen suoraan.
+> Jos kansa tekee aloitteen ja parlamentti, kunnanvaltuusto tai muu edustuksellinen taho sen hyväksyy, menee se suoraan läpi. Sveitsin kansalaisaloite mahdollistaa myös neuvotteluvaiheen. Aloitteen tekijä voi neuvotella edustuksellisen elimen kanssa aloitteen sisällöstä. Jos edustuksellinen elin tekee muutoksia aloitteeseen tai hylkää sen, voi aloitteen tekijä viedä sen kansanäänestykseen tai hyväksyä sen suoraan.
 > 
 > 
-> Kansalaispäätös on kansan käsissä oleva metodi, jossa kansalaiset vaativat
-> jonkin parlamentin päätösvallassa ja agendalla olevan asian päätettäväkseen
-> keräämällä tietyn määrän nimiä.
+> Kansalaispäätös on kansan käsissä oleva metodi, jossa kansalaiset vaativat jonkin parlamentin päätösvallassa ja agendalla olevan asian päätettäväkseen keräämällä tietyn määrän nimiä.
 > 
 > 
 
@@ -447,27 +309,11 @@ tiedonhankinnalle ja mielipiteiden muutoksille ensivaikutelmasta.
 #### Lähidemokratian rakenteet (kuntataso, seututaso)
 
 
-Kunnalliseen päätöksentekoon liittyy ongelma, jossa luottamushenkilöillä ei ole
-tarpeeksi aikaa paneutua päätöksentekoon. Tämä johtaa sekä heikosti
-perusteltuihin päätöksiin, että virkamiesvallan lisääntymiseen, kun
-valmistelijaa ei kyetä resurssien puutteen vuoksi kyseenalaistamaan. Tämän
-vuoksi tarvitaan myös edustuksellista demokratiaa laajempaa osallisuutta,
-vastuiden jakamista ja esimerkiksi palkallisia luottamushenkilöitä.
+Kunnalliseen päätöksentekoon liittyy ongelma, jossa luottamushenkilöillä ei ole tarpeeksi aikaa paneutua päätöksentekoon. Tämä johtaa sekä heikosti perusteltuihin päätöksiin, että virkamiesvallan lisääntymiseen, kun valmistelijaa ei kyetä resurssien puutteen vuoksi kyseenalaistamaan. Tämän vuoksi tarvitaan myös edustuksellista demokratiaa laajempaa osallisuutta, vastuiden jakamista ja esimerkiksi palkallisia luottamushenkilöitä.
 
 
 
-> Ajatus paikallisvaltuustoista on kehitelty maakuntamallin tai metropolimallin
-> lähidemokratiavajetta paikkaamaan. Itsenäinen 3 000 hengen kuvitteellinen Kyntää
-> ei varmastikaan tarvitse yhtään alempaa hallinnollista porrasta, kun sen
-> kunnanvaltuusto on jo itsessään "paikallisvaltuusto". Samaa ei voida sanoa
-> Helsingistä saati mahdollisesta suur-Helsingistä, jossa asuisi miljoona henkeä.
-> Saako taloyhtiö Koivuranta rakentaa puuaidan tontin läntiseen osaan, tuleeko
-> Kristiinankujalle pyörätie vai pyöräkaista, saako Mönttöset laajentaa
-> grillikatostaan 5 neliötä ja niin edelleen ovat asioita, joita on kohtuullisen
-> turhaa päättää hallintotasolla, jonka piirissä on 100 000-1 000 000 asukasta.
-> Siksi paikallisvaltuustot. Niiden vallassa tulisi olla osa peruspalveluista,
-> asemakaavoitus ja tätä vähäisemmät maankäytön, liikenteen ja rakentamisen
-> kysymykset.
+> Ajatus paikallisvaltuustoista on kehitelty maakuntamallin tai metropolimallin lähidemokratiavajetta paikkaamaan. Itsenäinen 3 000 hengen kuvitteellinen Kyntää ei varmastikaan tarvitse yhtään alempaa hallinnollista porrasta, kun sen kunnanvaltuusto on jo itsessään "paikallisvaltuusto". Samaa ei voida sanoa Helsingistä saati mahdollisesta suur-Helsingistä, jossa asuisi miljoona henkeä. Saako taloyhtiö Koivuranta rakentaa puuaidan tontin läntiseen osaan, tuleeko Kristiinankujalle pyörätie vai pyöräkaista, saako Mönttöset laajentaa grillikatostaan 5 neliötä ja niin edelleen ovat asioita, joita on kohtuullisen turhaa päättää hallintotasolla, jonka piirissä on 100 000-1 000 000 asukasta. Siksi paikallisvaltuustot. Niiden vallassa tulisi olla osa peruspalveluista, asemakaavoitus ja tätä vähäisemmät maankäytön, liikenteen ja rakentamisen kysymykset.
 > 
 > 
 

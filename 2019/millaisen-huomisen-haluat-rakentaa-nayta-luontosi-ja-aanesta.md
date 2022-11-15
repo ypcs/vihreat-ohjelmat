@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:05:46.775751
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:10.184122
 title: "Millaisen huomisen haluat rakentaa? N\xE4yt\xE4 luontosi ja \xE4\xE4nest\xE4\
   !"
 type: vaaliohjelma
@@ -22,123 +22,104 @@ year: 2019
 *Hyväksytty puoluevaltuuskunnan kokouksessa 17.2.2019*
 
 
-101-vuotias Suomi on tienhaarassa. Juuri nyt tehtävät valinnat ratkaisevat,
-millaista yhteiskuntaa rakennamme ei vain itsellemme, vaan myös niille, jotka
-tulevat meidän jälkeemme.
+101-vuotias Suomi on tienhaarassa. Juuri nyt tehtävät valinnat ratkaisevat, millaista yhteiskuntaa rakennamme ei vain itsellemme, vaan myös niille, jotka tulevat meidän jälkeemme.
 
 
-Pohjoismaisen hyvinvointivaltion lupaus tasa-arvosta ja oikeudenmukaisesta
-hyvinvoinnista on Suomen suuri perintö. Meidän tehtävämme on viedä sitä
-eteenpäin, niin että se kestää seuraavat sata vuotta.
+Pohjoismaisen hyvinvointivaltion lupaus tasa-arvosta ja oikeudenmukaisesta hyvinvoinnista on Suomen suuri perintö. Meidän tehtävämme on viedä sitä eteenpäin, niin että se kestää seuraavat sata vuotta.
 
 
-Hyvinvointivaltion tulevaisuus on vihreä. Jos emme pidä huolta ympäristön
-kantokyvystä ja pysäytä ilmastonmuutosta, hyvinvoinnin ja tasa-arvon perusta ei
-kestä. Siksi seuraavan hallituksen on oltava kestävän kehityksen hallitus, joka
-päivittää vihreän hyvinvointivaltion tähän aikaan. Sen tulee olla myös
-feministinen hallitus, joka purkaa epätasa-arvon rakenteet ja tekee tilaa
-jokaisen ihmisen oikeudelle olla oma itsensä.
+Hyvinvointivaltion tulevaisuus on vihreä. Jos emme pidä huolta ympäristön kantokyvystä ja pysäytä ilmastonmuutosta, hyvinvoinnin ja tasa-arvon perusta ei kestä. Siksi seuraavan hallituksen on oltava kestävän kehityksen hallitus, joka päivittää vihreän hyvinvointivaltion tähän aikaan. Sen tulee olla myös feministinen hallitus, joka purkaa epätasa-arvon rakenteet ja tekee tilaa jokaisen ihmisen oikeudelle olla oma itsensä.
 
 
-Esitämme tässä vaaliohjelmassa kärkitavoitteemme tämän muutoksen
-toteuttamiseksi. Haluamme nostaa **ympäristön ja ilmaston** politiikan ytimeen,
-tehdä suomalaisesta **koulutuksesta** maailman parhaan, torjua **köyhyyttä ja
-eriarvoisuutta** sekä luoda uutta **työtä** ja menestyksen edellytyksiä
-Suomelle.
+Esitämme tässä vaaliohjelmassa kärkitavoitteemme tämän muutoksen toteuttamiseksi. Haluamme nostaa **ympäristön ja ilmaston** politiikan ytimeen, tehdä suomalaisesta **koulutuksesta** maailman parhaan, torjua **köyhyyttä ja eriarvoisuutta** sekä luoda uutta **työtä** ja menestyksen edellytyksiä Suomelle.
 
 
-Ilmastonmuutoksen ja luonnon monimuotoisuuden heikkenemisen pysäyttäminen
-asettaa reunaehdot kaikelle, mitä teemme seuraavien vuosikymmenten ajan.
-Seuraavan hallituksen kiireellinen velvollisuus on nostaa Suomi tämän tehtävän
-vaatimalle tasolle. Koko yhteiskuntamme toiminta - koko tapamme tuottaa,
-kuluttaa ja elää - on sovitettava ympäristön kantokyvyn rajoihin. Tästä suuresta
-muutoksesta on tehtävä turvallinen ja oikeudenmukainen.
+Ilmastonmuutoksen ja luonnon monimuotoisuuden heikkenemisen pysäyttäminen asettaa reunaehdot kaikelle, mitä teemme seuraavien vuosikymmenten ajan. Seuraavan hallituksen kiireellinen velvollisuus on nostaa Suomi tämän tehtävän vaatimalle tasolle. Koko yhteiskuntamme toiminta - koko tapamme tuottaa, kuluttaa ja elää - on sovitettava ympäristön kantokyvyn rajoihin. Tästä suuresta muutoksesta on tehtävä turvallinen ja oikeudenmukainen.
 
 
-Koulutuksen kunnianpalautus on seuraavan hallituksen toinen kiireellinen
-tehtävä. Koulutus on ollut olennainen osa Suomen menestystarinaa. Meistä on
-kiinni, miten pystymme jatkamaan sitä. Tavoitteeksi on asetettava suomalaisen
-koulutuksen nostaminen maailman parhaaksi. Vihreät esittävät tätä Suomen
-yhteiseksi kansalliseksi hankkeeksi.
+Koulutuksen kunnianpalautus on seuraavan hallituksen toinen kiireellinen tehtävä. Koulutus on ollut olennainen osa Suomen menestystarinaa. Meistä on kiinni, miten pystymme jatkamaan sitä. Tavoitteeksi on asetettava suomalaisen koulutuksen nostaminen maailman parhaaksi. Vihreät esittävät tätä Suomen yhteiseksi kansalliseksi hankkeeksi.
 
 
-Kaikkien pitämiseksi mukana murroksen ajassa tarvitaan sosiaaliturvan
-uudistusta, joka vähentää köyhyyttä ja antaa ihmisille vallan oman elämänsä
-rakentamiseen. Tämän uudistuksen ydin on perustulo, joka kantaa turvaverkkona
-elämäntilanteesta toiseen ja takaa ettei ihminen koskaan putoa tyhjän päälle.
+Kaikkien pitämiseksi mukana murroksen ajassa tarvitaan sosiaaliturvan uudistusta, joka vähentää köyhyyttä ja antaa ihmisille vallan oman elämänsä rakentamiseen. Tämän uudistuksen ydin on perustulo, joka kantaa turvaverkkona elämäntilanteesta toiseen ja takaa ettei ihminen koskaan putoa tyhjän päälle.
 
 
-Vihreiden Suomi ei kuulu vain tietyn näköisille, tietyn värisille, tietyt
-edellytykset täyttäville. Vihreiden Suomi on yhteinen Suomi, joka on hyvä koti
-jokaiselle. Yhteinen Suomi niin naisille, miehille kuin muille sukupuolille,
-täällä syntyneille ja muualta muuttaneille, nuorille ja vanhoille,
-vähemmistöille ja enemmistöille. Puolustamme demokratiaa, ihmisoikeuksia ja
-oikeusvaltion periaatetta kaikkialla, missä ne ovat uhattuina, lähellä ja
-kaukana.
+Vihreiden Suomi ei kuulu vain tietyn näköisille, tietyn värisille, tietyt edellytykset täyttäville. Vihreiden Suomi on yhteinen Suomi, joka on hyvä koti jokaiselle. Yhteinen Suomi niin naisille, miehille kuin muille sukupuolille, täällä syntyneille ja muualta muuttaneille, nuorille ja vanhoille, vähemmistöille ja enemmistöille. Puolustamme demokratiaa, ihmisoikeuksia ja oikeusvaltion periaatetta kaikkialla, missä ne ovat uhattuina, lähellä ja kaukana.
 
 
-Tämän Suomen ja näiden tavoitteiden puolesta vihreät kutsuvat kaikki mukaan
-tekemään muutosta tämän kevään vaaleissa. Haastamme meidät kaikki näyttämään,
-millaisen maan ja maailman haluamme rakentaa. Näytä luontosi ja äänestä! Valinta
-on sinun.
+Tämän Suomen ja näiden tavoitteiden puolesta vihreät kutsuvat kaikki mukaan tekemään muutosta tämän kevään vaaleissa. Haastamme meidät kaikki näyttämään, millaisen maan ja maailman haluamme rakentaa. Näytä luontosi ja äänestä! Valinta on sinun.
 
 
 #### Vihreiden 20 kärkitavoitetta eduskuntavaaleihin
 
 
-**Pysäytetään ilmastonmuutos, suojellaan yhteistä ympäristöämme**     1.
-Tiekartta reiluun muutokseen     2. Eräpäivä fossiilisille, ympäristölle
-haitalliset tuet alas     3. Liikenne päästöttömäksi     4. Kasvatetaan
-hiilinieluja, suojellaan metsät, vesistöt ja suot     5. Kohti eläinoikeuksia
-kunnioittavaa Suomea
+**Pysäytetään ilmastonmuutos, suojellaan yhteistä ympäristöämme**  
+
+1. Tiekartta reiluun muutokseen  
+
+2. Eräpäivä fossiilisille, ympäristölle haitalliset tuet alas  
+
+3. Liikenne päästöttömäksi  
+
+4. Kasvatetaan hiilinieluja, suojellaan metsät, vesistöt ja suot  
+
+5. Kohti eläinoikeuksia kunnioittavaa Suomea
 
 
-**Rakennetaan maailman paras koulutus**     6. Koulutus kansalliseksi
-kärkihankkeeksi     7. Vahva satsaus varhaiskasvatukseen     8. Peruskoulun
-ydintehtävä kunniaan     9. Kaikille vähintään toisen asteen koulutus     10.
-Korkeakouluihin ja tutkimukseen rauhaa ja vapautta     11. Jatkuva oppiminen
-uudelle tasolle
+**Rakennetaan maailman paras koulutus**  
+
+6. Koulutus kansalliseksi kärkihankkeeksi  
+
+7. Vahva satsaus varhaiskasvatukseen  
+
+8. Peruskoulun ydintehtävä kunniaan  
+
+9. Kaikille vähintään toisen asteen koulutus  
+
+10. Korkeakouluihin ja tutkimukseen rauhaa ja vapautta  
+
+11. Jatkuva oppiminen uudelle tasolle
 
 
-**Torjutaan köyhyyttä ja eriarvoisuutta**     12. Sosiaaliturvan uudistus kohti
-perustuloa     13. Korjataan sosiaali- ja terveyspalvelut     14. Eriarvoisuus
-historiaan     15. Kannetaan globaalia vastuuta
+**Torjutaan köyhyyttä ja eriarvoisuutta**  
+
+12. Sosiaaliturvan uudistus kohti perustuloa  
+
+13. Korjataan sosiaali- ja terveyspalvelut  
+
+14. Eriarvoisuus historiaan  
+
+15. Kannetaan globaalia vastuuta
 
 
-**Luodaan työtä ja turvaa**     16. Koulutuksella ja osaamisella turvataan
-osaava työvoima     17. Helpotetaan työperäistä maahanmuuttoa ja kotoutumista
-18. Madalletaan työelämän kynnyksiä     19. Uudistetaan työttömän palvelut
+**Luodaan työtä ja turvaa**  
+
+16. Koulutuksella ja osaamisella turvataan osaava työvoima  
+
+17. Helpotetaan työperäistä maahanmuuttoa ja kotoutumista  
+
+18. Madalletaan työelämän kynnyksiä  
+
+19. Uudistetaan työttömän palvelut  
+
 20. Julkinen sektori tukemaan talouden uudistumista
 
 
 ## Pysäytetään ilmastonmuutos, suojellaan yhteistä ympäristöämme
 
 
-*Otamme ainoasta planeetastamme koko ajan enemmän kuin se kestää. Vielä on
-mahdollista valita kestävä tulevaisuus. On käännettävä kurssia. Ilmaston
-kohtalokas lämpeneminen ja luonnon monimuotoisuuden heikkeneminen on
-pysäytettävä tänään, sillä huomenna on liian myöhäistä. Ilmastotekoja vai tyhjää
-puhetta? Näytä luontosi ja äänestä! Valinta on sinun.*
+*Otamme ainoasta planeetastamme koko ajan enemmän kuin se kestää. Vielä on mahdollista valita kestävä tulevaisuus. On käännettävä kurssia. Ilmaston kohtalokas lämpeneminen ja luonnon monimuotoisuuden heikkeneminen on pysäytettävä tänään, sillä huomenna on liian myöhäistä. Ilmastotekoja vai tyhjää puhetta? Näytä luontosi ja äänestä! Valinta on sinun.*
 
 
 ### 1 Tiekartta reiluun muutokseen
 
 
-Ilmaston lämpenemisen pysäyttäminen 1,5 asteeseen on aikamme tärkein tehtävä.
-Laaditaan tiekartta siihen, kuinka Suomi muutetaan seuraavien vuosikymmenten
-aikana ilmaston kannalta kestäväksi. Otetaan työhön mukaan kaikki yhteiskunnan
-osapuolet: työntekijät, elinkeinoelämä, kansalaisyhteiskunta.
+Ilmaston lämpenemisen pysäyttäminen 1,5 asteeseen on aikamme tärkein tehtävä. Laaditaan tiekartta siihen, kuinka Suomi muutetaan seuraavien vuosikymmenten aikana ilmaston kannalta kestäväksi. Otetaan työhön mukaan kaikki yhteiskunnan osapuolet: työntekijät, elinkeinoelämä, kansalaisyhteiskunta.
 
 
-Siirtymästä päästöttömään yhteiskuntaan on tehtävä turvallinen ja
-oikeudenmukainen. Varmistetaan että muutoksen hinta jakautuu reilusti: ei
-maksateta sitä niillä, joilla tekee jo valmiiksi arjessa tiukkaa.
+Siirtymästä päästöttömään yhteiskuntaan on tehtävä turvallinen ja oikeudenmukainen. Varmistetaan että muutoksen hinta jakautuu reilusti: ei maksateta sitä niillä, joilla tekee jo valmiiksi arjessa tiukkaa.
 
 
-Edessämme on uusi teollinen vallankumous, ei vähempää. Ilmastonmuutoksen
-torjunta tarkoittaa valtavaa määrää uutta teknologiaa, palveluja, työtä ja
-kansainvälisiä markkinoita suomalaisille ympäristöä säästäville tuotteille ja
-ratkaisuille.
+Edessämme on uusi teollinen vallankumous, ei vähempää. Ilmastonmuutoksen torjunta tarkoittaa valtavaa määrää uutta teknologiaa, palveluja, työtä ja kansainvälisiä markkinoita suomalaisille ympäristöä säästäville tuotteille ja ratkaisuille.
 
 
 * Asetetaan välietapiksi hiilineutraalius eli tila jossa hiilinielumme kumoavat jäljellä olevat päästömme vuonna 2030. Tämä merkitsee käytännössä 60% päästövähennyksiä. Heti tämän jälkeen tulee päästä tilaan, jossa nielut sitovat enemmän hiilidioksidia ilmakehästä kuin päästämme sinne.
@@ -149,11 +130,7 @@ ratkaisuille.
 ### 2 Eräpäivä fossiilisille, ympäristölle haitalliset tuet alas
 
 
-Turpeen, kivihiilen, bensiinin, dieselin, polttoöljyn ja lopuksi myös maakaasun
-käytön on loputtava nopealla aikataululla. Fossiilisten tilalle tuodaan
-uusiutuvat ja päästöttömät ratkaisut: tuuli, aurinko, kestävä bioenergia, suuren
-ja pienen kokoluokan maalämpö, hukkalämmön talteenotto, energiatehokkuus,
-älyverkot ja energian varastointi.
+Turpeen, kivihiilen, bensiinin, dieselin, polttoöljyn ja lopuksi myös maakaasun käytön on loputtava nopealla aikataululla. Fossiilisten tilalle tuodaan uusiutuvat ja päästöttömät ratkaisut: tuuli, aurinko, kestävä bioenergia, suuren ja pienen kokoluokan maalämpö, hukkalämmön talteenotto, energiatehokkuus, älyverkot ja energian varastointi.
 
 
 * Asetetaan eräpäivä fossiilisille polttoaineille: kivihiilelle ja turpeelle 2020-luvulla, maakaasulle ja liikennepolttoaineille 2030-luvulla.
@@ -164,10 +141,7 @@ ja pienen kokoluokan maalämpö, hukkalämmön talteenotto, energiatehokkuus,
 ### 3 Liikenne päästöttömäksi, kaupungit ja kunnat kestäviksi
 
 
-Liikenne tulee pääasiassa siirtää raiteiden ja sähköajoneuvojen varaan.
-Raskaassa liikenteessä ja lentämisessä on siirryttävä kestävästi tuotettuihin
-biopolttoaineisiin. Rakennetaan kaupunkeja ja taajamia eheästi ja kestävästi
-raiteiden varrelle.
+Liikenne tulee pääasiassa siirtää raiteiden ja sähköajoneuvojen varaan. Raskaassa liikenteessä ja lentämisessä on siirryttävä kestävästi tuotettuihin biopolttoaineisiin. Rakennetaan kaupunkeja ja taajamia eheästi ja kestävästi raiteiden varrelle.
 
 
 * Viedään Suomi raiteille: tehdään nopeista junayhteyksistä kotimaan liikenteen ydin ja lisätään reittejä myös pääradan ulkopuolelle käynnistämällä kunnianhimoinen raideinvestointiohjelma yli 10 miljardilla eurolla seuraavien 12-20 vuoden aikana. Käynnistetään tärkeimmät raidehankkeet jo ensi vaalikaudella.
@@ -180,20 +154,10 @@ raiteiden varrelle.
 ### 4 Suojellaan luonnon monimuotoisuus ja kasvatetaan hiilinieluja
 
 
-Metsä on aina tarjonnut suomalaisille suojan ja toimeentulon. Nyt,
-ilmastonmuutoksen ajassa, metsä tekee meille vielä uuden palveluksen: toimii
-hiilinieluna, joka poistaa hiilidioksidia ilmakehästä ja viilentää
-kohtalokkaaksi käyvää lämpenemistä. Nykyisen hallituksen kaavailemat
-jättihakkuut vaarantavat kuitenkin tämän hiilinielun.
+Metsä on aina tarjonnut suomalaisille suojan ja toimeentulon. Nyt, ilmastonmuutoksen ajassa, metsä tekee meille vielä uuden palveluksen: toimii hiilinieluna, joka poistaa hiilidioksidia ilmakehästä ja viilentää kohtalokkaaksi käyvää lämpenemistä. Nykyisen hallituksen kaavailemat jättihakkuut vaarantavat kuitenkin tämän hiilinielun.
 
 
-Luonnon monimuotoisuuden heikkeneminen on pysäytettävä. Hakkuiden
-kasvattamisesta on luovuttava. Hakkuut on asetettava ilmaston ja
-monimuotoisuuden kannalta kestävälle tasolle ja hiilinieluja kasvatettava
-merkittävästi. Kuudes sukupuuttoaalto kulkee käsi kädessä ilmastonmuutoksen
-kanssa ja uhkaa luontomme ainutlaatuista monimuotoisuutta - ja samalla meidän
-ihmisten elinmahdollisuuksia. Samalla kun puolustamme hiilinieluja, puolustamme
-metsäluonnon korvaamatonta monimuotoisuutta, uhanalaisia soita ja kosteikkoja.
+Luonnon monimuotoisuuden heikkeneminen on pysäytettävä. Hakkuiden kasvattamisesta on luovuttava. Hakkuut on asetettava ilmaston ja monimuotoisuuden kannalta kestävälle tasolle ja hiilinieluja kasvatettava merkittävästi. Kuudes sukupuuttoaalto kulkee käsi kädessä ilmastonmuutoksen kanssa ja uhkaa luontomme ainutlaatuista monimuotoisuutta - ja samalla meidän ihmisten elinmahdollisuuksia. Samalla kun puolustamme hiilinieluja, puolustamme metsäluonnon korvaamatonta monimuotoisuutta, uhanalaisia soita ja kosteikkoja.
 
 
 * Tehdään hiilinieluista mestänomistajille tulonlähde: otetaan käyttöön kasvatusmaksu, joka palkitsee metsänomistajaa siitä, että metsän annetaan kasvaa.
@@ -210,9 +174,7 @@ metsäluonnon korvaamatonta monimuotoisuutta, uhanalaisia soita ja kosteikkoja.
 ### 5 Kohti eläinoikeuksia kunnioittavaa Suomea
 
 
-Kehitetään maataloustuotantoa eettisempään ja kestävämpään suuntaan. Vähennetään
-eläintuotannon tukia aloittaen turkistarhauksen tuista ja muista eläintuotannon
-kestämättömien tuotantotapojen tuista.
+Kehitetään maataloustuotantoa eettisempään ja kestävämpään suuntaan. Vähennetään eläintuotannon tukia aloittaen turkistarhauksen tuista ja muista eläintuotannon kestämättömien tuotantotapojen tuista.
 
 
 * Parannetaan kasvisperäisen proteeiinin kilpailuasemaa kohdennetulla tuella ja eläinperäisiin tuotteisiin kohdennetulla korkeammalla verotuksella.
@@ -224,27 +186,19 @@ kestämättömien tuotantotapojen tuista.
 ## Rakennetaan maailman paras koulutus
 
 
-*Suomen menestys on aina nojannut tasa-arvoiseen koulutukseen - siihen että
-saamme kaikki mukaan. Luottamus koulutuslupaukseen on palautettava. Onko
-koulutus Suomelle vastaisuudessa kuluerä josta leikataan, vai sijoitus jolle
-tulevaisuus rakennetaan? Näytä luontosi ja äänestä! Valinta on sinun.*
+*Suomen menestys on aina nojannut tasa-arvoiseen koulutukseen - siihen että saamme kaikki mukaan. Luottamus koulutuslupaukseen on palautettava. Onko koulutus Suomelle vastaisuudessa kuluerä josta leikataan, vai sijoitus jolle tulevaisuus rakennetaan? Näytä luontosi ja äänestä! Valinta on sinun.*
 
 
 ### 6 Koulutus kansalliseksi kärkihankkeeksi
 
 
-Asetetaan tavoitteeksi nostaa suomalaisten koulutustaso, oppimistulokset ja
-korkeakoulutuksen ja tutkimuksen edellytykset kansainväliseen kärkeen.
-Investoidaan tähän koulutusmiljardilla: miljardin euron lisäpanostuksella
-koulutukseen ja tutkimukseen, joka voidaan rahoittaa leikkaamalla ympäristölle
-haitallisia tukia.
+Asetetaan tavoitteeksi nostaa suomalaisten koulutustaso, oppimistulokset ja korkeakoulutuksen ja tutkimuksen edellytykset kansainväliseen kärkeen. Investoidaan tähän koulutusmiljardilla: miljardin euron lisäpanostuksella koulutukseen ja tutkimukseen, joka voidaan rahoittaa leikkaamalla ympäristölle haitallisia tukia.
 
 
 ### 7 Vahva satsaus varhaiskasvatukseen
 
 
-Laadukas varhaiskasvatus on yksi parhaimpia sijoituksia tulevaisuuteen, sillä se
-kaventaa oppimiseroja jo varhaisessa vaiheessa ja ehkäisee syrjäytymistä.
+Laadukas varhaiskasvatus on yksi parhaimpia sijoituksia tulevaisuuteen, sillä se kaventaa oppimiseroja jo varhaisessa vaiheessa ja ehkäisee syrjäytymistä.
 
 
 * Jokaisella lapsella tulee olla oikeus varhaiskasvatukseen riippumatta vanhempien työ- tai opiskelutilanteesta. Subjektiivinen varhaiskasvatusoikeus on palautettava.
@@ -255,11 +209,7 @@ kaventaa oppimiseroja jo varhaisessa vaiheessa ja ehkäisee syrjäytymistä.
 ### 8 Peruskoulun ydintehtävä kunniaan
 
 
-Peruskoulu on tasa-arvon lippulaiva. Sille on annettava resurssit toteuttaa
-tehtäväänsä. Kansainvälisissäkin mittauksissa näkyvä oppimistulosten lasku
-tarkoittaa ennen kaikkea oppimistulosten eriytymistä. Hyvin pärjäävät pärjäävät
-yhtä hyvin kuin ennenkin. Huonosti pärjäävät, erityisesti pojat, pärjäävät sen
-sijaan yhä huonommin. Käännetään tämä suunta.
+Peruskoulu on tasa-arvon lippulaiva. Sille on annettava resurssit toteuttaa tehtäväänsä. Kansainvälisissäkin mittauksissa näkyvä oppimistulosten lasku tarkoittaa ennen kaikkea oppimistulosten eriytymistä. Hyvin pärjäävät pärjäävät yhtä hyvin kuin ennenkin. Huonosti pärjäävät, erityisesti pojat, pärjäävät sen sijaan yhä huonommin. Käännetään tämä suunta.
 
 
 * Vahvistetaan selvästi koulujen resursseja tukea heikommin pärjääviä ja erityisen tuen tarpeessa olevia oppilaita.
@@ -272,9 +222,7 @@ sijaan yhä huonommin. Käännetään tämä suunta.
 ### 9 Kaikille vähintään toisen asteen koulutus
 
 
-Pelkän peruskoulun varassa harva pärjää enää seuraavien vuosikymmenten
-työmarkkinoilla. Varmistetaan vähintään toisen asteen koulutus jokaiselle
-nuorelle.
+Pelkän peruskoulun varassa harva pärjää enää seuraavien vuosikymmenten työmarkkinoilla. Varmistetaan vähintään toisen asteen koulutus jokaiselle nuorelle.
 
 
 * Tehdään toisen asteen koulutuksesta aidosti maksutonta ja taataan kaikille toisen asteen koulutuspaikka.
@@ -286,18 +234,10 @@ nuorelle.
 ### 10 Korkeakouluihin ja tutkimukseen rahaa, työrauhaa ja vapautta
 
 
-Lyhyen tähtäimen taloudellisia tai poliittisia intressejä painottava ohjaus sekä
-yhä koveneva lyhytjänteinen rahoituskilpailu ovat heikentäneet korkeakoulutujen
-autonomiaa ja edellytyksiä keskittyä pitkäjänteiseen tieteelliseen työhön,
-erityisesti uutta luovaan perustutkimukseen. Samalla opintorahaa on leikattu,
-tukikuukausia vähennetty ja ehtoja entisestään tiukennettu.
+Lyhyen tähtäimen taloudellisia tai poliittisia intressejä painottava ohjaus sekä yhä koveneva lyhytjänteinen rahoituskilpailu ovat heikentäneet korkeakoulutujen autonomiaa ja edellytyksiä keskittyä pitkäjänteiseen tieteelliseen työhön, erityisesti uutta luovaan perustutkimukseen. Samalla opintorahaa on leikattu, tukikuukausia vähennetty ja ehtoja entisestään tiukennettu.
 
 
-Maailmanluokan korkeakoulutusta ei rakenneta näin. Annetaan opiskelijoille,
-opettajille ja tutkijoille vapaus ja resurssit opiskella, opettaa ja tutkia
-ilman jatkuvaa hiostusta. Asetetaan suomalaisen korkeakoulu- ja tiedepolitiikan
-ytimeen sivistys markkinaehtoisuuden sijaan. Luodaan korkeakoulutukselle ja
-tutkimukselle parhaat mahdolliset olosuhteet, mitä voimme maana tarjota.
+Maailmanluokan korkeakoulutusta ei rakenneta näin. Annetaan opiskelijoille, opettajille ja tutkijoille vapaus ja resurssit opiskella, opettaa ja tutkia ilman jatkuvaa hiostusta. Asetetaan suomalaisen korkeakoulu- ja tiedepolitiikan ytimeen sivistys markkinaehtoisuuden sijaan. Luodaan korkeakoulutukselle ja tutkimukselle parhaat mahdolliset olosuhteet, mitä voimme maana tarjota.
 
 
 * Vahvistetaan merkittävästi yliopistojen ja ammattikorkeakoulujen perusrahoitusta tekemällä perusrahoitukseen tasokorotus ja sitomalla rahoitus taas indeksiin.
@@ -312,10 +252,7 @@ tutkimukselle parhaat mahdolliset olosuhteet, mitä voimme maana tarjota.
 ### 11 Jatkuva oppiminen uudelle tasolle
 
 
-Tulevaisuuden työelämässä voi olla varma, että lähes kaikki osaaminen vaatii
-päivittämistä. Vuonna 2019 opittu ei enää riitä vuonna 2038. Jokainen tulee
-tarvitsemaan tilaisuuksia kouluttautua lisää - tarvittaessa kokonaan uudelle
-alalle.
+Tulevaisuuden työelämässä voi olla varma, että lähes kaikki osaaminen vaatii päivittämistä. Vuonna 2019 opittu ei enää riitä vuonna 2038. Jokainen tulee tarvitsemaan tilaisuuksia kouluttautua lisää - tarvittaessa kokonaan uudelle alalle.
 
 
 * Perustetaan kansallinen osaamisohjelma ja luodaan sitä varten uusi, pääosin julkisrahoitteinen osaamisturvan malli, jonka ytimessä voi olla esimerkiksi henkilökohtainen koulutustili. Puretaan jatkuvan oppimisen maksullisuutta.
@@ -325,29 +262,16 @@ alalle.
 ## Torjutaan köyhyyttä ja eriarvoisuutta
 
 
-*Tasa-arvoisimmat yhteiskunnat ovat onnellisimpia ja parhaiten pärjääviä.
-Haluamme Suomen, joka päättäväisesti puolustaa yhdenvertaisuutta ja
-luovuttamatonta ihmisarvoa. Rakennetaanko harvojen Suomea vai kaikkien Suomea,
-joka kuuluu yhtäläisesti jokaiselle? Näytä luontosi ja äänestä! Valinta on
-sinun.*
+*Tasa-arvoisimmat yhteiskunnat ovat onnellisimpia ja parhaiten pärjääviä. Haluamme Suomen, joka päättäväisesti puolustaa yhdenvertaisuutta ja luovuttamatonta ihmisarvoa. Rakennetaanko harvojen Suomea vai kaikkien Suomea, joka kuuluu yhtäläisesti jokaiselle? Näytä luontosi ja äänestä! Valinta on sinun.*
 
 
 ### 12 Sosiaaliturvan uudistus kohti perustuloa
 
 
-Päivitetään sosiaaliturva vastaamaan 2000-luvun yhteiskunnan olosuhteisiin.
-Tarvitsemme sosiaaliturvan pohjaksi eheän ja kattavan turvaverkon, joka ei
-kyykytä eikä erottele ihmisiä sen mukaan, mikä on heidän kulloinenkin asemansa
-työmarkkinoilla. Tämän turvaverkon nimi on perustulo. Perustulo on jokaiselle
-täysi-ikäiselle kuuluva vastikkeeton etuus, joka korvaisi kaikki sitä pienemmät
-nykyiset tuet.
+Päivitetään sosiaaliturva vastaamaan 2000-luvun yhteiskunnan olosuhteisiin. Tarvitsemme sosiaaliturvan pohjaksi eheän ja kattavan turvaverkon, joka ei kyykytä eikä erottele ihmisiä sen mukaan, mikä on heidän kulloinenkin asemansa työmarkkinoilla. Tämän turvaverkon nimi on perustulo. Perustulo on jokaiselle täysi-ikäiselle kuuluva vastikkeeton etuus, joka korvaisi kaikki sitä pienemmät nykyiset tuet.
 
 
-Perustulo olisi merkittävä parannus pienituloisten ja epävarman toimeentulon
-varassa olevien asemaan. Se toisi vakaan pohjan toimeentulolle ja eri
-elämäntilanteiden mukaan joustavan turvan, jonka varassa olisi helpompi liikkua
-esimerkiksi palkkatyön, yrittäjyyden, opiskelun, apurahatyön ja perhe-elämän
-välillä.
+Perustulo olisi merkittävä parannus pienituloisten ja epävarman toimeentulon varassa olevien asemaan. Se toisi vakaan pohjan toimeentulolle ja eri elämäntilanteiden mukaan joustavan turvan, jonka varassa olisi helpompi liikkua esimerkiksi palkkatyön, yrittäjyyden, opiskelun, apurahatyön ja perhe-elämän välillä.
 
 
 * Perustulon tasoksi vihreät esittävät 600 euroa kuukaudessa.
@@ -360,14 +284,7 @@ välillä.
 ### 13 Korjataan sotepalvelut ja torjutaan huono-osaisuutta
 
 
-On aika palauttaa sosiaali- ja terveyspalvelujen uudistus perusasioihin:
-Suomalaisten terveys- ja hyvinvointierot kasvavat. Väestö jakautuu hyvin ja
-huonosti voiviin. Lastensuojelun piirissä olevien lasten ja nuorten riskit jäädä
-koulutuksen ja työelämän ulkopuolelle ovat muita suuremmat. Tämä kehitys on
-pysäytettävä. Se tapahtuu ennen kaikkea vahvistamalla julkisia peruspalveluita,
-jotta kukaan ei jää palveluiden ulkopuolelle. Lapsiköyhyyden torjuminen on yksi
-keskeisistä tavoitteista. Ei avata haavoittuvimmassa asemassa olevien palveluja
-yhä enempää yksityisille markkinoille ja suuryritysten voitontavoittelulle.
+On aika palauttaa sosiaali- ja terveyspalvelujen uudistus perusasioihin: Suomalaisten terveys- ja hyvinvointierot kasvavat. Väestö jakautuu hyvin ja huonosti voiviin. Lastensuojelun piirissä olevien lasten ja nuorten riskit jäädä koulutuksen ja työelämän ulkopuolelle ovat muita suuremmat. Tämä kehitys on pysäytettävä. Se tapahtuu ennen kaikkea vahvistamalla julkisia peruspalveluita, jotta kukaan ei jää palveluiden ulkopuolelle. Lapsiköyhyyden torjuminen on yksi keskeisistä tavoitteista. Ei avata haavoittuvimmassa asemassa olevien palveluja yhä enempää yksityisille markkinoille ja suuryritysten voitontavoittelulle.
 
 
 * Vihreät ovat valmiit viemään sosiaali- ja terveyspalvelujen uudistuksen maaliin, kunhan sen valuviat korjataan: palvelut yksityisille markkinoille siirtävä markkinamalli hylätään, maakunnille luodaan aito itsehallinto sisältäen verotusoikeuden, rahoitusjärjestelmän ongelmat korjataan ja suurten kaupunkiseutujen erityistarpeet huomioidaan.
@@ -385,12 +302,7 @@ yhä enempää yksityisille markkinoille ja suuryritysten voitontavoittelulle.
 ### 14 Eriarvoisuus historiaan
 
 
-Seuraavan hallituksen tulee olla feministinen hallitus, joka purkaa
-epätasa-arvon rakenteet ja tekee tilaa jokaisen ihmisen oikeudelle olla oma
-itsensä. On murskattava lasikattoja ja tehtävä loppu rasismista, syrjinnästä ja
-häirinnästä. On luotava Suomi, jossa ei ole "meitä" ja "heitä", vaan
-yhdenvertaisia ihmisiä sukupuoleen, ihonväriin, vammaisuuteen, seksuaaliseen
-suuntautumiseen tai mihin tahansa inhimilliseen ominaisuuteen katsomatta.
+Seuraavan hallituksen tulee olla feministinen hallitus, joka purkaa epätasa-arvon rakenteet ja tekee tilaa jokaisen ihmisen oikeudelle olla oma itsensä. On murskattava lasikattoja ja tehtävä loppu rasismista, syrjinnästä ja häirinnästä. On luotava Suomi, jossa ei ole "meitä" ja "heitä", vaan yhdenvertaisia ihmisiä sukupuoleen, ihonväriin, vammaisuuteen, seksuaaliseen suuntautumiseen tai mihin tahansa inhimilliseen ominaisuuteen katsomatta.
 
 
 * Uudistetaan perhevapaat tasa-arvoisemmiksi ja joustavammiksi. Vihreiden perhevapaamallissa molemmille vanhemmille on kiintiöity oma 6 kuukauden vapaa, jonka lisäksi 6 kuukautta vanhemmat voivat jakaa keskenään. Kaikkia perhevapaita voisi pitää osissa ja yhdistää siten joustavasti lastenhoitoa ja osa-aikatyötä: esimerkiksi nostaa puolikasta vanhempainrahaa kaksinkertaisen ajan.
@@ -406,9 +318,7 @@ suuntautumiseen tai mihin tahansa inhimilliseen ominaisuuteen katsomatta.
 ### 15 Kannetaan globaalia vastuuta
 
 
-Niin paljon kuin Suomessa onkin tehtävää, emme saa sulkea silmiä ja ovia niiltä,
-joiden asiat ovat paljon huonommin. Torjutaan äärimmäistä köyhyyttä ja
-eriarvoisuutta maailmassa.
+Niin paljon kuin Suomessa onkin tehtävää, emme saa sulkea silmiä ja ovia niiltä, joiden asiat ovat paljon huonommin. Torjutaan äärimmäistä köyhyyttä ja eriarvoisuutta maailmassa.
 
 
 * Tehdään Suomesta vihdoin vastuullinen Pohjoismaa: nostetaan kehitysyhteistyön määrärahat YK:ssa määriteltyyn 0,7 prosenttiin bruttokansantulosta.
@@ -423,29 +333,16 @@ eriarvoisuutta maailmassa.
 ## Luodaan työtä ja turvaa
 
 
-*Teknologian ja työn murros muuttaa yhteiskunnan perusrakenteita. Tarvitaan
-vahvaa satsausta koulutukseen ja osaamiseen. Tarvitaan sosiaaliturvan
-uudistamista. Tarvitaan kunnianhimoista ilmasto- ja ympäristöpolitiikkaa, joka
-luo uutta työtä ja uusia menestyviä elinkeinoja. Millä tehdään suomalaisen työn
-tulevaisuus: Uudistamalla työelämää vai säilyttämällä vanhoja rakenteita?
-Nostamalla ihmisiä työhön vai lannistamalla ja kyykyttämällä? Näytä luontosi ja
-äänestä! Valinta on sinun.*
+*Teknologian ja työn murros muuttaa yhteiskunnan perusrakenteita. Tarvitaan vahvaa satsausta koulutukseen ja osaamiseen. Tarvitaan sosiaaliturvan uudistamista. Tarvitaan kunnianhimoista ilmasto- ja ympäristöpolitiikkaa, joka luo uutta työtä ja uusia menestyviä elinkeinoja. Millä tehdään suomalaisen työn tulevaisuus: Uudistamalla työelämää vai säilyttämällä vanhoja rakenteita? Nostamalla ihmisiä työhön vai lannistamalla ja kyykyttämällä? Näytä luontosi ja äänestä! Valinta on sinun.*
 
 
-Tavoitteeksi on otettava on nostaa työllisyysaste pohjoismaiselle tasolle
-vähintään 75 prosenttiin ja luoda 100 000 uutta työpaikkaa vuoteen 2023
-mennessä. Työttömien syyllistämisen ja työntekijöiden aseman heikentämisen
-sijaan työelämään pääsyä on helpotettava ja turvaa lisättävä, jotta työelämään
-mahtuu yhä useampi eikä yhä harvempi.
+Tavoitteeksi on otettava on nostaa työllisyysaste pohjoismaiselle tasolle vähintään 75 prosenttiin ja luoda 100 000 uutta työpaikkaa vuoteen 2023 mennessä. Työttömien syyllistämisen ja työntekijöiden aseman heikentämisen sijaan työelämään pääsyä on helpotettava ja turvaa lisättävä, jotta työelämään mahtuu yhä useampi eikä yhä harvempi.
 
 
 ### 16 Koulutuksella ja osaamisella turvataan osaava työvoima
 
 
-Puute osaavasta työvoimasta jarruttaa jo tällä hetkellä eniten yritysten
-palkkauspäätöksiä. Satsaamalla koulutukseen ja tutkimukseen voidaan kaikkein
-parhaiten turvata edellytykset myönteiselle työllisyyden ja tuottavuuden
-kehitykselle seuraavina vuosikymmeninä.
+Puute osaavasta työvoimasta jarruttaa jo tällä hetkellä eniten yritysten palkkauspäätöksiä. Satsaamalla koulutukseen ja tutkimukseen voidaan kaikkein parhaiten turvata edellytykset myönteiselle työllisyyden ja tuottavuuden kehitykselle seuraavina vuosikymmeninä.
 
 
 * Tehdään tässä ohjelmassa kuvatut miljardin euron panostukset suomalaisen koulutuksen ja tutkimuksen nostamiseen maailman huipulle
@@ -455,9 +352,7 @@ kehitykselle seuraavina vuosikymmeninä.
 ### 17 Helpotetaan työperäistä maahanmuuttoa ja kotoutumista
 
 
-Suomi tulee väestön vanhetessa ja syntyvyyden laskiessa tarvitsemaan
-maahanmuuttajia työmarkkinoille yhä enemmän. Tarvitaan niin työperäisen
-maahanmuuton helpottamista kuin vahvoja panostuksia kotoutumiseen.
+Suomi tulee väestön vanhetessa ja syntyvyyden laskiessa tarvitsemaan maahanmuuttajia työmarkkinoille yhä enemmän. Tarvitaan niin työperäisen maahanmuuton helpottamista kuin vahvoja panostuksia kotoutumiseen.
 
 
 * Helpotetaan ulkomaalaisten työntekijöiden palkkaamista luopumalla työvoiman saatavuusharkinnasta, nopeuttamalla työlupakäytäntöjä sekä lisäämällä ulkomailla hankitun pätevyyden tunnustamista.
@@ -470,9 +365,7 @@ maahanmuuton helpottamista kuin vahvoja panostuksia kotoutumiseen.
 ### 18 Madalletaan työelämän kynnyksiä
 
 
-Parannetaan työn mahdollisuuksia joustaa yksilön tilanteen mukaan: lasten
-ollessa pieniä, ikääntyvien vanhempien tarvitessa hoivaa, työkyvyn heikentyessä
-tai eläkeiän lähestyessä.
+Parannetaan työn mahdollisuuksia joustaa yksilön tilanteen mukaan: lasten ollessa pieniä, ikääntyvien vanhempien tarvitessa hoivaa, työkyvyn heikentyessä tai eläkeiän lähestyessä.
 
 
 * Helpotetaan mahdollisuutta osa-aikatyöhön, mikä edistää työssä jatkamista sekä ehkäisee työuran päättymistä tai keskeytymistä.
@@ -485,9 +378,7 @@ tai eläkeiän lähestyessä.
 ### 19 Uudistetaan työnhakijan palvelut
 
 
-Räätälöidään palvelut ihmisen elämäntilanteen mukaan. Esimerkiksi päihde- tai
-mielenterveysongelmista kärsivä voi tarvita ensin rauhaa toipumiseen ennen kuin
-palaa työmarkkinoille.
+Räätälöidään palvelut ihmisen elämäntilanteen mukaan. Esimerkiksi päihde- tai mielenterveysongelmista kärsivä voi tarvita ensin rauhaa toipumiseen ennen kuin palaa työmarkkinoille.
 
 
 * Uudistetaan työvoimapalveluja tukemaan yksilöllisemmin kunkin työnhakijan tarpeita. Ihminen voi tarvita niin työvoima- kuin sosiaalipalveluja tai koulutusta elämäntilanteensa mukaan.
@@ -500,9 +391,7 @@ palaa työmarkkinoille.
 ### 20 Julkinen sektori tukemaan talouden uudistumista
 
 
-Uudistamalla yritystuet, ottamalla digitalisaation haltuun ja sijoittamalla
-vihreään talouteen julkinen sektori voi toimia moottorina, joka vauhdittaa
-talouden uudistumista.
+Uudistamalla yritystuet, ottamalla digitalisaation haltuun ja sijoittamalla vihreään talouteen julkinen sektori voi toimia moottorina, joka vauhdittaa talouden uudistumista.
 
 
 * Uudistetaan yritystuet siirtämällä painopiste pieniin kasvuhakuisiin yrityksiin sekä tutkimus- ja kehitystoimintaan.

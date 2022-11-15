@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:05:48.540528
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:11.845657
 title: Luonto vastuullamme - Vihreiden luonnonsuojeluohjelma
 type: erityisohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1099
@@ -18,74 +18,34 @@ Vihreät De Gröna
 # Luonto vastuullamme - Vihreiden luonnonsuojeluohjelma
 
 
-*Hyväksytty valtuuskunnan kokouksessa 4.3.2018. Tämä ohjelma korvaa
-puoluehallituksen 1.10.2010 hyväksymät ja puoluevaltuuskunnan 30.9.2012
-muokkaamat Vihreiden luonnonsuojelutavoitteet.*
+*Hyväksytty valtuuskunnan kokouksessa 4.3.2018. Tämä ohjelma korvaa puoluehallituksen 1.10.2010 hyväksymät ja puoluevaltuuskunnan 30.9.2012 muokkaamat Vihreiden luonnonsuojelutavoitteet.*
 
 
 ## JOHDANTO
 
 
-Ihminen on osa luontoa, ja luonto on osa ihmistä. Tämän unohtuminen ihmiseltä on
-johtanut maapallon tasapainoa järkyttäviin ympäristöongelmiin. Ihmisen on korkea
-aika tunnistaa olevansa osa luontoa ja myös vastuussa aiheuttamistaan
-muutoksista ympäristössään.
+Ihminen on osa luontoa, ja luonto on osa ihmistä. Tämän unohtuminen ihmiseltä on johtanut maapallon tasapainoa järkyttäviin ympäristöongelmiin. Ihmisen on korkea aika tunnistaa olevansa osa luontoa ja myös vastuussa aiheuttamistaan muutoksista ympäristössään.
 
 
-Luonnon monimuotoisuuden hupeneminen on ilmastonmuutoksen ohella maailman suurin
-ympäristöongelma. Luonnon monimuotoisuuden heikkenemiseen vaikuttaa eniten
-ihmisen toiminta, metsien ja muiden elinympäristöjen häviäminen ja
-pirstoutuminen sekä eläinten liiallinen pyynti. Myös nopea ilmastonmuutos
-vaikuttaa luonnon monimuotoisuuden vähenemiseen. Juurisyinä ovat luonnovarojen
-kulutuksen ja väestön globaali kasvu.
+Luonnon monimuotoisuuden hupeneminen on ilmastonmuutoksen ohella maailman suurin ympäristöongelma. Luonnon monimuotoisuuden heikkenemiseen vaikuttaa eniten ihmisen toiminta, metsien ja muiden elinympäristöjen häviäminen ja pirstoutuminen sekä eläinten liiallinen pyynti. Myös nopea ilmastonmuutos vaikuttaa luonnon monimuotoisuuden vähenemiseen. Juurisyinä ovat luonnovarojen kulutuksen ja väestön globaali kasvu.
 
 
-Luonnon monimuotoisuudella on kansainvälisesti tunnustettu itseisarvo.
-Monimuotoisuuden säilyminen on elintärkeää ihmiskunnalle, sillä se vaikuttaa
-ekosysteemien kykyyn tuottaa elämälle välttämättömiä ekosysteemipalveluita,
-kuten puhdasta vettä ja ilmaa sekä luonnosta saatavia tuotteita. Metsät, meret
-ja maaperä sitovat hiiltä ja sen määrään ihmisen toiminnalla on suuri merkitys.
-Tuoreiden tutkimusten mukaan luonnon monimuotoisuudella on suuri merkitys
-ihmisen fyysiselle ja psyykkiselle terveydelle.
+Luonnon monimuotoisuudella on kansainvälisesti tunnustettu itseisarvo. Monimuotoisuuden säilyminen on elintärkeää ihmiskunnalle, sillä se vaikuttaa ekosysteemien kykyyn tuottaa elämälle välttämättömiä ekosysteemipalveluita, kuten puhdasta vettä ja ilmaa sekä luonnosta saatavia tuotteita. Metsät, meret ja maaperä sitovat hiiltä ja sen määrään ihmisen toiminnalla on suuri merkitys. Tuoreiden tutkimusten mukaan luonnon monimuotoisuudella on suuri merkitys ihmisen fyysiselle ja psyykkiselle terveydelle.
 
 
-Käynnissä oleva kuudes sukupuuttoaalto on ilmastonmuutoksen lisäksi nykylajien
-ja ihmiskunnan tulevaisuuden kohtalonkysymyksiä. Kaikista maailman
-villieläimistä on arvioitu kadonneen vuosien 1970-2012 aikana yli puolet.
-Uhanalaisten lajien määrän kasvun lisäksi useiden yleisten lajien populaatiot
-ovat pienentyneet huolestuttavasti.
+Käynnissä oleva kuudes sukupuuttoaalto on ilmastonmuutoksen lisäksi nykylajien ja ihmiskunnan tulevaisuuden kohtalonkysymyksiä. Kaikista maailman villieläimistä on arvioitu kadonneen vuosien 1970-2012 aikana yli puolet. Uhanalaisten lajien määrän kasvun lisäksi useiden yleisten lajien populaatiot ovat pienentyneet huolestuttavasti.
 
 
-Suomessa on arvioitu olevan noin 45 000 eliölajia, joista yli puolet on
-puutteellisesti tunnettuja. Erityisesti selkärangattomia, sieniä, sammalia,
-jäkäliä ja vesieliöitä tunnetaan huonosti. Lajeja kartoittavaa tutkimusta
-tarvitaan lisää luontotiedon itsensä kartuttamisen lisäksi myös niiden
-uhanalaisuuden arvioimiseksi ja elinympäristöjen tunnistamiseksi.
+Suomessa on arvioitu olevan noin 45 000 eliölajia, joista yli puolet on puutteellisesti tunnettuja. Erityisesti selkärangattomia, sieniä, sammalia, jäkäliä ja vesieliöitä tunnetaan huonosti. Lajeja kartoittavaa tutkimusta tarvitaan lisää luontotiedon itsensä kartuttamisen lisäksi myös niiden uhanalaisuuden arvioimiseksi ja elinympäristöjen tunnistamiseksi.
 
 
-Arvioiden mukaan Suomessa joka kymmenes laji on uhanalainen, todellisuudessa
-uhanalaisia lajeja saattaa olla vielä enemmän. Suomessa esiintyvästä 75
-nisäkäslajista uhanalaisia ja silmälläpidettäviä lajeja on molempia seitsemän,
-linnuista yli kolmannes on todettu uhanalaisiksi. Suurin uhanalaisten lajien
-ryhmä ovat metsälajit, joita on noin kolmannes kaikista uhanalaisista. Noin
-neljästäsadasta luontotyypistämme uhanalaisia on arvioitu olevan puolet.
-Katoavia luontotyyppejä esiintyy tuntureilta merenrantaniityille, lehdoilta
-soille, metsälaitumilta saaristoon.
+Arvioiden mukaan Suomessa joka kymmenes laji on uhanalainen, todellisuudessa uhanalaisia lajeja saattaa olla vielä enemmän. Suomessa esiintyvästä 75 nisäkäslajista uhanalaisia ja silmälläpidettäviä lajeja on molempia seitsemän, linnuista yli kolmannes on todettu uhanalaisiksi. Suurin uhanalaisten lajien ryhmä ovat metsälajit, joita on noin kolmannes kaikista uhanalaisista. Noin neljästäsadasta luontotyypistämme uhanalaisia on arvioitu olevan puolet. Katoavia luontotyyppejä esiintyy tuntureilta merenrantaniityille, lehdoilta soille, metsälaitumilta saaristoon.
 
 
-Vihreiden luonnonsuojeluohjelman painopisteenä on luonnon monimuotoisuuden
-vähenemisen pysäyttäminen. Suomen on täytettävä kansainväliset sitoumukset,
-jotka olemme tehneet tähän tavoitteeseen pääsemiseksi. Mikäli haluamme ihmisen
-ja ympäristön kannalta kestävän tulevaisuuden, johon kuuluu monimuotoinen, rikas
-luonto, kulutus on saatava laskemaan.
+Vihreiden luonnonsuojeluohjelman painopisteenä on luonnon monimuotoisuuden vähenemisen pysäyttäminen. Suomen on täytettävä kansainväliset sitoumukset, jotka olemme tehneet tähän tavoitteeseen pääsemiseksi. Mikäli haluamme ihmisen ja ympäristön kannalta kestävän tulevaisuuden, johon kuuluu monimuotoinen, rikas luonto, kulutus on saatava laskemaan.
 
 
-Ympäristön- ja luonnonsuojelu ovat vihreän politiikan ytimessä. Aihe on laaja ja
-monisyinen, joten sen eri osa-alueita käsitellään eri ohjelmissa.
-Ilmastonmuutoksen hillintää käsitteleviä ohjelmia ovat Vihreiden energiavisio
-2035 ja Vihreiden neljä teesiä ilmastopolitiikasta Pariisin kokouksen alla.
-Vuoden 2018 aikana valmistuu maatalouspoliittiset linjaukset, joissa käsitellään
-kestävää maataloutta ja luonnonsuojeluun liittyviä toimia.
+Ympäristön- ja luonnonsuojelu ovat vihreän politiikan ytimessä. Aihe on laaja ja monisyinen, joten sen eri osa-alueita käsitellään eri ohjelmissa. Ilmastonmuutoksen hillintää käsitteleviä ohjelmia ovat Vihreiden energiavisio 2035 ja Vihreiden neljä teesiä ilmastopolitiikasta Pariisin kokouksen alla. Vuoden 2018 aikana valmistuu maatalouspoliittiset linjaukset, joissa käsitellään kestävää maataloutta ja luonnonsuojeluun liittyviä toimia.
 
 
 ## TAVOITTEET JA MITEN NIIHIN PÄÄSTÄÄN
@@ -94,52 +54,22 @@ kestävää maataloutta ja luonnonsuojeluun liittyviä toimia.
 ### Tavoite 1: Pysäytetään Suomen luonnon monimuotoisuuden köyhtyminen.
 
 
-Suomi on YK:n biodiversiteettisopimuksessa sitoutunut pysäyttämään luontonsa
-monimuotoisuuden hupenemisen vuoteen 2020 mennessä. Lajien uhanalaisuuden
-tärkein syy on niiden elinympäristöjen häviäminen, erityisesti tämä koskee
-metsiä.
+Suomi on YK:n biodiversiteettisopimuksessa sitoutunut pysäyttämään luontonsa monimuotoisuuden hupenemisen vuoteen 2020 mennessä. Lajien uhanalaisuuden tärkein syy on niiden elinympäristöjen häviäminen, erityisesti tämä koskee metsiä.
 
 
-Monimuotoisuuden vähenemisen pysäyttäminen vaatii lisää suojelualueita, mutta
-myös heikentyneiden elinympäristöjen ennallistamista ja parempaa luonnonhoitoa
-talousmetsissä.
+Monimuotoisuuden vähenemisen pysäyttäminen vaatii lisää suojelualueita, mutta myös heikentyneiden elinympäristöjen ennallistamista ja parempaa luonnonhoitoa talousmetsissä.
 
 
-Biodiversiteettisopimuksen mukaisesti Suomessa tulee lisätä merkittävästi
-maa-alan ja sisävesien suojelua. Kansainväliset sopimukset edellyttävät Suomelta
-myös kunnianhimoisia ennallistamistoimia jo heikentymään päässeille
-ekosysteemeille.
+Biodiversiteettisopimuksen mukaisesti Suomessa tulee lisätä merkittävästi maa-alan ja sisävesien suojelua. Kansainväliset sopimukset edellyttävät Suomelta myös kunnianhimoisia ennallistamistoimia jo heikentymään päässeille ekosysteemeille. 
 
 
-Tavoitteiden saavuttaminen vaatii merkittävää suojelualueiden lisäämistä. Tiivis
-ja kytketynyt suojelualueiden verkosto vähentää lajien sukupuuttoriskiä enemmän
-kuin erilleen sijoitellut suojelualueet. Jotta suojelu- ja
-ennallistamistoimenpiteiden suunnittelu olisi pitkäjänteistä ja ekologisesti
-kustannustehokasta, on niiden toteuttaminen järkevää hoitaa pitkäaikaisten,
-vakaasti rahoitettujen ohjelmien kautta. Vihreät kannattaa suojeluohjelmien
-yhdistämistä yhdeksi, merkittävästi nykyistä paremmin resursoiduksi,
-elinympäristöjen suojelu- ja ennallistamisohjelmaksi. Tätä varten on
-perustettava parlamentaarinen työryhmä, joka mahdollistaa pitkäjänteisen työn
-kulloinkin istuvasta hallituksesta riippumatta.
+Tavoitteiden saavuttaminen vaatii merkittävää suojelualueiden lisäämistä. Tiivis ja kytketynyt suojelualueiden verkosto vähentää lajien sukupuuttoriskiä enemmän kuin erilleen sijoitellut suojelualueet. Jotta suojelu- ja ennallistamistoimenpiteiden suunnittelu olisi pitkäjänteistä ja ekologisesti kustannustehokasta, on niiden toteuttaminen järkevää hoitaa pitkäaikaisten, vakaasti rahoitettujen ohjelmien kautta. Vihreät kannattaa suojeluohjelmien yhdistämistä yhdeksi, merkittävästi nykyistä paremmin resursoiduksi, elinympäristöjen suojelu- ja ennallistamisohjelmaksi. Tätä varten on perustettava parlamentaarinen työryhmä, joka mahdollistaa pitkäjänteisen työn kulloinkin istuvasta hallituksesta riippumatta.
 
 
-Suomalaisella metsäluonnolla ei mene niin hyvin kuin yleisesti uskotaan. Puut
-kasvavat kyllä erinomaisesti, mutta samanaikaisesti lukuisat metsälajit kärsivät
-voimakkaan metsätalouden seurauksena elinympäristöjensä muutoksista. Suomessa
-elävistä metsälajeista 814 on uhanalaisia, ja 776 lajin joukko on luokiteltu
-silmälläpidettäviksi. Nämäkin lajit voivat uhanalaistua tulevaisuudessa, jos
-niiden elinympäristöjen heikentyminen jatkuu.
+Suomalaisella metsäluonnolla ei mene niin hyvin kuin yleisesti uskotaan. Puut kasvavat kyllä erinomaisesti, mutta samanaikaisesti lukuisat metsälajit kärsivät voimakkaan metsätalouden seurauksena elinympäristöjensä muutoksista. Suomessa elävistä metsälajeista 814 on uhanalaisia, ja 776 lajin joukko on luokiteltu silmälläpidettäviksi. Nämäkin lajit voivat uhanalaistua tulevaisuudessa, jos niiden elinympäristöjen heikentyminen jatkuu.
 
 
-Metsätalouden toimet ovat vähentäneet tiettyjen elinympäristöjen, kuten vanhojen
-luonnontilaisten metsien, määrää ja heikentäneet niiden laatua. Metsien
-talouskäyttö on ensisijainen uhanalaisuuden syy 74 %:lle kaikista uhanalaisista
-metsälajeista. Näin ei kuitenkaan tarvitse olla. Luonnonarvojen vaaliminen
-talouskäytössä olevissa metsissä on tärkeä osa metsäluonnon säilyttämistä ja
-suojelua. Luonnon monimuotoisuutta tukeva jatkuvan metsänkasvatuksen menetelmä
-mahdollistaa sekä taloudellisen tuoton hankkimisen että luonnon monimuotoisuuden
-vaalimisen talousmetsissä. Metsähakkuiden määrä on myös tärkeää asettaa luonnon
-kannalta kestävälle tasolle.
+Metsätalouden toimet ovat vähentäneet tiettyjen elinympäristöjen, kuten vanhojen luonnontilaisten metsien, määrää ja heikentäneet niiden laatua. Metsien talouskäyttö on ensisijainen uhanalaisuuden syy 74 %:lle kaikista uhanalaisista metsälajeista. Näin ei kuitenkaan tarvitse olla. Luonnonarvojen vaaliminen talouskäytössä olevissa metsissä on tärkeä osa metsäluonnon säilyttämistä ja suojelua. Luonnon monimuotoisuutta tukeva jatkuvan metsänkasvatuksen menetelmä mahdollistaa sekä taloudellisen tuoton hankkimisen että luonnon monimuotoisuuden vaalimisen talousmetsissä. Metsähakkuiden määrä on myös tärkeää asettaa luonnon kannalta kestävälle tasolle.
 
 
 **Toimenpiteet:**
@@ -174,51 +104,22 @@ kannalta kestävälle tasolle.
 ### Tavoite 2: Turvataan ympäristöhallinnon itsenäisyys ja vahvistetaan muuta viranomaistoimintaa luonnon ja kansalaisten edunvalvojana.
 
 
-Suunnitellussa maakunta- ja soteuudistuksessa ympäristöhallinnon tehtävät ja
-henkilöstö on
+Suunnitellussa maakunta- ja soteuudistuksessa ympäristöhallinnon tehtävät ja henkilöstö on
 
 
-suunniteltu siirrettäväksi elinkeino-, liikenne- ja ympäristökeskuksista (ELY)
-ja aluehallintovirastoista (AVI) osin Valtion lupa- ja valvontavirastoon (LUOVA)
-ja osin maakuntiin. Valtion viranomaispäätökset tehtäisiin LUOVA:ssa, mutta
-monet valmistelevat toimet ja luonnon monimuotoisuuden edistämistehtävät
-eriytettäisiin maakuntiin. Esimerkiksi
+suunniteltu siirrettäväksi elinkeino-, liikenne- ja ympäristökeskuksista (ELY) ja aluehallintovirastoista (AVI) osin Valtion lupa- ja valvontavirastoon (LUOVA) ja osin maakuntiin. Valtion viranomaispäätökset tehtäisiin LUOVA:ssa, mutta monet valmistelevat toimet ja luonnon monimuotoisuuden edistämistehtävät eriytettäisiin maakuntiin. Esimerkiksi
 
 
-METSO-päätökset valmisteltaisiin maakunnissa, mutta niiden viranomaispäätökset
-tehtäisiin LUOVA:ssa. Henkilöstön ja tehtävien jakaminen eri hallintotasoille
-lisää byrokratiaa ja heikentää luonnonsuojeluun ja yleisen edun valvontaan
-käytettävissä olevia henkilöstöresursseja.
+METSO-päätökset valmisteltaisiin maakunnissa, mutta niiden viranomaispäätökset tehtäisiin LUOVA:ssa. Henkilöstön ja tehtävien jakaminen eri hallintotasoille lisää byrokratiaa ja heikentää luonnonsuojeluun ja yleisen edun valvontaan käytettävissä olevia henkilöstöresursseja.
 
 
-Viime vuosina viranomaisten mahdollisuuksia valvoa yleistä etua
-ympäristöasioissa on vähennetty ja maakuntauudistuksessa tätä linjaa aiotaan
-jatkaa. Ympäristöön vaikuttavien päätösten lainmukaisuuden valvontaa ja
-päätöksistä valittamista sysätään tavallisten kansalaisten ja järjestöjen
-harteille. Riippumattomien ympäristö- ja kalatalousviranomaisten mahdollisuuksia
-valvoa yleisen edun toteutumista on turvattava ja vahvistettava.
+Viime vuosina viranomaisten mahdollisuuksia valvoa yleistä etua ympäristöasioissa on vähennetty ja maakuntauudistuksessa tätä linjaa aiotaan jatkaa. Ympäristöön vaikuttavien päätösten lainmukaisuuden valvontaa ja päätöksistä valittamista sysätään tavallisten kansalaisten ja järjestöjen harteille. Riippumattomien ympäristö- ja kalatalousviranomaisten mahdollisuuksia valvoa yleisen edun toteutumista on turvattava ja vahvistettava.
 
 
-Valtakunnallisten alueidenkäyttötavoitteiden (VAT) uudistuksen myötä niiden
-merkitys maankäytön ohjauksessa pienenee. Tavoitteiden yleispiirteisyys ja
-velvoittavuuden väheneminen johtavat tilanteeseen, jossa jokainen maakunta tulee
-luomaan toisistaan poikkeavia toimintatapoja ympäristö- ja
-luonnonsuojeluasioissa. Näitä toteutetaan kuten kukin maakunta parhaaksi näkee.
-Tällöin on todennäköistä, että luonnonsuojelun tavoitteilla ja kansainvälisillä
-sitoumuksilla ei ole painoarvoa vaan kaavoitus tehdään elinkeinojen ehdoilla.
+Valtakunnallisten alueidenkäyttötavoitteiden (VAT) uudistuksen myötä niiden merkitys maankäytön ohjauksessa pienenee. Tavoitteiden yleispiirteisyys ja velvoittavuuden väheneminen johtavat tilanteeseen, jossa jokainen maakunta tulee luomaan toisistaan poikkeavia toimintatapoja ympäristö- ja luonnonsuojeluasioissa. Näitä toteutetaan kuten kukin maakunta parhaaksi näkee. Tällöin on todennäköistä, että luonnonsuojelun tavoitteilla ja kansainvälisillä sitoumuksilla ei ole painoarvoa vaan kaavoitus tehdään elinkeinojen ehdoilla.
 
 
-Metsäkeskus valvoo metsälain noudattamista ja kerää metsätietoa sekä edistää
-metsänhoitoa ja luonnon monimuotoisuutta Suomen metsissä. Vastaavat vesilain ja
-luonnonsuojelulain valvonta- ja edistämistehtävät yksityismailla ovat tällä
-hetkellä ELY-keskuksissa. Metsäkeskus on säilynyt monista aiemmista
-suunnitelmista huolimatta erillisenä organisaationa, mikä aiheuttaa haasteita
-tiedonsiirrossa ja luonnon monimuotoisuuteen liittyvien lakien noudattamisessa.
-Tiedonsiirrossa, tiedon tuottamisen laadussa ja metsänkäyttöilmoituksiin
-liittyvissä varoitusjärjestelmissä on ollut merkittäviä puutteita.
-Metsäkeskukselle kuuluvat rauhoitettujen erityisen arvokkaiden elinympäristöjen
-inventoinnit, uusien kohteiden virallistuminen ja toimenpiteiden valvonta
-metsälakikohteissa on resurssien puuttuessa ollut heikkoa.
+Metsäkeskus valvoo metsälain noudattamista ja kerää metsätietoa sekä edistää metsänhoitoa ja luonnon monimuotoisuutta Suomen metsissä. Vastaavat vesilain ja luonnonsuojelulain valvonta- ja edistämistehtävät yksityismailla ovat tällä hetkellä ELY-keskuksissa. Metsäkeskus on säilynyt monista aiemmista suunnitelmista huolimatta erillisenä organisaationa, mikä aiheuttaa haasteita tiedonsiirrossa ja luonnon monimuotoisuuteen liittyvien lakien noudattamisessa. Tiedonsiirrossa, tiedon tuottamisen laadussa ja metsänkäyttöilmoituksiin liittyvissä varoitusjärjestelmissä on ollut merkittäviä puutteita. Metsäkeskukselle kuuluvat rauhoitettujen erityisen arvokkaiden elinympäristöjen inventoinnit, uusien kohteiden virallistuminen ja toimenpiteiden valvonta metsälakikohteissa on resurssien puuttuessa ollut heikkoa.
 
 
 **Toimenpiteet:**
@@ -238,15 +139,7 @@ metsälakikohteissa on resurssien puuttuessa ollut heikkoa.
 ### Tavoite 3. Selvitetään puutteellisesti tunnettujen lajien levinneisyyttä ja ekologiaa sekä lisätään lajien suojelun keinoja.
 
 
-Suomen lajimäärän on arvioitu olevan vähintään 45 000 lajia. Viimeisimmän,
-vuonna 2010 julkaistun, Suomen lajien uhanalaisarvioinnin mukaan riittävät
-tiedot uhanalaisuusarviointiin oli 21 398 lajista tai alemmasta taksonista. Tämä
-on noin 47 prosenttia lajistosta. Riittämättömän tiedon vuoksi joudutaan noin
-puolet lajeista jättämään uhanalaisarviointien ulkopuolelle. Suojelutoimenpiteet
-vaativat myös tietoa lajien elinympäristövaatimuksista. Suomella on vastuu
-huolehtia uhanalaisesta lajistostaan ja sen suojelutoimista sekä harjoittaa
-vastuullista suurpetopolitiikkaa. Vieraslajien aiheuttamat haitat Suomen
-alkuperäislajistolle tulevat todennäköisesti kasvamaan ilmastonmuutoksen myötä.
+Suomen lajimäärän on arvioitu olevan vähintään 45 000 lajia. Viimeisimmän, vuonna 2010 julkaistun, Suomen lajien uhanalaisarvioinnin mukaan riittävät tiedot uhanalaisuusarviointiin oli 21 398 lajista tai alemmasta taksonista. Tämä on noin 47 prosenttia lajistosta. Riittämättömän tiedon vuoksi joudutaan noin puolet lajeista jättämään uhanalaisarviointien ulkopuolelle. Suojelutoimenpiteet vaativat myös tietoa lajien elinympäristövaatimuksista. Suomella on vastuu huolehtia uhanalaisesta lajistostaan ja sen suojelutoimista sekä harjoittaa vastuullista suurpetopolitiikkaa. Vieraslajien aiheuttamat haitat Suomen alkuperäislajistolle tulevat todennäköisesti kasvamaan ilmastonmuutoksen myötä.
 
 
 **Toimenpiteet:**
@@ -265,18 +158,10 @@ alkuperäislajistolle tulevat todennäköisesti kasvamaan ilmastonmuutoksen myö
 ### Tavoite 4. Vahvistetaan Suomen asemaa ympäristön- ja luonnonsuojelussa globaalisti ja EU:ssa.
 
 
-Luonnon monimuotoisuuden väheneminen ja ilmastonmuutos ovat globaaleja
-megatrendejä, joihin Suomi vaikuttaa kansainvälisen ympäristö- ja
-luonnonsuojelupolitiikan sekä EU:n kautta. Suomen tulee olla entistä suurempi
-tekijä ja suunnannäyttäjä kansainvälisessä yhteistyötoiminnassa.
+Luonnon monimuotoisuuden väheneminen ja ilmastonmuutos ovat globaaleja megatrendejä, joihin Suomi vaikuttaa kansainvälisen ympäristö- ja luonnonsuojelupolitiikan sekä EU:n kautta. Suomen tulee olla entistä suurempi tekijä ja suunnannäyttäjä kansainvälisessä yhteistyötoiminnassa.
 
 
-Meitä lähimpänä olevan kansainvälisiä suojelutoimia vaativan kohteen, Itämeren,
-rannikkovesien ja avomeren tila on monilta osin heikentynyt. Ravinnekuormitus ei
-ole pienentynyt ja ilmastonmuutos lisää rehevöitymisongelmia. Meri on myös
-pahoin roskaantunut. Monimuotoisuus on vähentynyt myös ylikalastuksen,
-ruoppausten, läjitysten ja rakentamisen vuoksi. Merien ja niiden lajiston
-suojelu vaatii kansallisten toimien lisäksi kansainvälisiä toimia.
+Meitä lähimpänä olevan kansainvälisiä suojelutoimia vaativan kohteen, Itämeren, rannikkovesien ja avomeren tila on monilta osin heikentynyt. Ravinnekuormitus ei ole pienentynyt ja ilmastonmuutos lisää rehevöitymisongelmia. Meri on myös pahoin roskaantunut. Monimuotoisuus on vähentynyt myös ylikalastuksen, ruoppausten, läjitysten ja rakentamisen vuoksi. Merien ja niiden lajiston suojelu vaatii kansallisten toimien lisäksi kansainvälisiä toimia.
 
 
 **Toimenpiteet:**
@@ -297,17 +182,7 @@ suojelu vaatii kansallisten toimien lisäksi kansainvälisiä toimia.
 ### Tavoite 5. Huolehditaan taajamien viheralueiden, kaupunkimetsien ja lähiluonnon riittävästä määrästä ja laadusta.
 
 
-Kunnilla, kaupungeilla ja seurakunnilla on hallussaan merkittävää maa- ja
-metsäomaisuutta. Julkisen toimijan tulee huolehtia, että sen metsien hoito on
-taloudellisen ja sosiaalisen kestävyyden lisäksi myös ekologisesti kestävää.
-Kaupunkien lähimetsät, puistot ja virkistysalueet ovat tärkeitä luonnon
-monimuotoisuuden kannalta. Luonnolla on suuri merkitys ihmisten terveydelle ja
-hyvinvoinnille. Luonnossa liikkuminen alentaa verenpainetta sekä lievittää
-stressiä. Monimuotoisella luonnolla on positiivinen vaikutus allergioiden ja
-autoimmuunisairausten vähenemiseen, kun ihminen altistuu monipuolisemmin
-mikrobeille. Kaupungistumisen edetessä ja maankäytön muutospaineiden kasvaessa
-on pidettävä huolta riittävästä ja monimuotoisesta luontoympäristöstä, joka on
-saavutettavissa kaikille suurtenkin kaupunkien asukkaille.
+Kunnilla, kaupungeilla ja seurakunnilla on hallussaan merkittävää maa- ja metsäomaisuutta. Julkisen toimijan tulee huolehtia, että sen metsien hoito on taloudellisen ja sosiaalisen kestävyyden lisäksi myös ekologisesti kestävää. Kaupunkien lähimetsät, puistot ja virkistysalueet ovat tärkeitä luonnon monimuotoisuuden kannalta. Luonnolla on suuri merkitys ihmisten terveydelle ja hyvinvoinnille. Luonnossa liikkuminen alentaa verenpainetta sekä lievittää stressiä. Monimuotoisella luonnolla on positiivinen vaikutus allergioiden ja autoimmuunisairausten vähenemiseen, kun ihminen altistuu monipuolisemmin mikrobeille. Kaupungistumisen edetessä ja maankäytön muutospaineiden kasvaessa on pidettävä huolta riittävästä ja monimuotoisesta luontoympäristöstä, joka on saavutettavissa kaikille suurtenkin kaupunkien asukkaille.
 
 
 **Toimenpiteet:**
@@ -325,19 +200,10 @@ saavutettavissa kaikille suurtenkin kaupunkien asukkaille.
 ### Lopuksi
 
 
-Luonnonsuojeluun liittyvää lainsäädäntöä tulee tehdä pitkäjänteisesti. Kaikessa
-toiminnassa tulee huomioida varovaisuusperiaate. Uudet innovaatiot ja keksinnöt
-ovat olleet ja ovat tulevaisuudessa tärkeä osa ihmisten hyvinvoinnin
-kehittämistä. Uuden keksinnön vaikutukset on kuitenkin tutkittava
-perusteellisesti ennen laajempaa käyttöönottoa, mikäli on syytä epäillä sen
-voivan olla ympäristölle haitallinen.
+Luonnonsuojeluun liittyvää lainsäädäntöä tulee tehdä pitkäjänteisesti. Kaikessa toiminnassa tulee huomioida varovaisuusperiaate. Uudet innovaatiot ja keksinnöt ovat olleet ja ovat tulevaisuudessa tärkeä osa ihmisten hyvinvoinnin kehittämistä. Uuden keksinnön vaikutukset on kuitenkin tutkittava perusteellisesti ennen laajempaa käyttöönottoa, mikäli on syytä epäillä sen voivan olla ympäristölle haitallinen.
 
 
-Toisaalta meidän on oltava valmiita ripeisiin muutoksiin ja ryhtymään
-määrätietoisiin toimiin, asian luonteen mukaan paikallisella, kansallisella tai
-kansainvälisellä tasolla, kun saamme tiedon ympäristöä uhkaavista ilmiöistä.
-Viime kädessähän yhteiskuntamme toiminta perustuu luontoon ja sen tarjoamiin
-ekosysteemipalveluihin.
+Toisaalta meidän on oltava valmiita ripeisiin muutoksiin ja ryhtymään määrätietoisiin toimiin, asian luonteen mukaan paikallisella, kansallisella tai kansainvälisellä tasolla, kun saamme tiedon ympäristöä uhkaavista ilmiöistä. Viime kädessähän yhteiskuntamme toiminta perustuu luontoon ja sen tarjoamiin ekosysteemipalveluihin.
 
 
 

@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:05:03.708801
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:34:25.457192
 title: "Vihreiden l\xE4hivuosien tavoitteet"
 type: yleisohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/865
@@ -21,36 +21,44 @@ Toukokuu 1997
 JOHDANTO
 
 
-VIHREÄ TOIMEENTULO JA TALOUSKASVU    Mitä on vihreä talouskasvu?    Vihreä
-tulonjako ja työllistäminen    Vihreä verouudistus
+VIHREÄ TOIMEENTULO JA TALOUSKASVU  
+
+Mitä on vihreä talouskasvu?  
+
+Vihreä tulonjako ja työllistäminen  
+
+Vihreä verouudistus
 
 
-VIHREÄT KANTAVAT VASTUUTA KOKO MAASTA    Aluepolitiikka on osa
-sosiaalipolitiikkaa    Maaseutupolitiikka kohtaa kaupunkipolitiikan    Maakunnat
-ja seutukunnat demokraattisen kehityksen yksikköinä    Alueellisesti reiluun ja
-kestävään liikennepolitiikkaan
+VIHREÄT KANTAVAT VASTUUTA KOKO MAASTA  
+
+Aluepolitiikka on osa sosiaalipolitiikkaa  
+
+Maaseutupolitiikka kohtaa kaupunkipolitiikan  
+
+Maakunnat ja seutukunnat demokraattisen kehityksen yksikköinä  
+
+Alueellisesti reiluun ja kestävään liikennepolitiikkaan
 
 
-YMPÄRISTÖN TULEVAISUUS RATKAISEE IHMISEN TULEVAISUUDEN    Ympäristöpolitiikan
-painopistealueet    Energiapolitiikka
+YMPÄRISTÖN TULEVAISUUS RATKAISEE IHMISEN TULEVAISUUDEN  
+
+Ympäristöpolitiikan painopistealueet  
+
+Energiapolitiikka
 
 
-RAJAT LIUKENEVAT - EDUT YHTENEVÄT    Lähiajan EU- ja EMU-askeleet
+RAJAT LIUKENEVAT - EDUT YHTENEVÄT  
+
+Lähiajan EU- ja EMU-askeleet  
+
 Kansainvälispoliittiset kysymykset
 
 
 ## JOHDANTO
 
 
-*Lipposen hallitus on kautensa puolivälissä. Hallitus on saanut aikaan joitakin
-vihreiden linjausten mukaisia päätöksiä mm. luonnonsuojelussa ja verotuksen
-painopisteen muuttamisessa, mutta paljon on vielä tekemättä. Tähänastisella
-hallituspolitiikalla on mm. saavutettu valtion velkaantumisen hidastuminen,
-korkotason aleneminen ja lievä muutos verotuksen painottamisessa vihreiden
-vaatimusten mukaisesti vähemmän työhön ja enemmän ympäristön rasittamiseen
-kohdistuvaksi. Ankarimmat valtiontalouden leikkauspäätökset on jo tehty.
-Työttömyys kuitenkin alenee liian hitaasti, ja tuleva kehitys viime aikojen
-hyvästä talouskehityksestä huolimatta näyttää hyvin epävarmalta.*
+*Lipposen hallitus on kautensa puolivälissä. Hallitus on saanut aikaan joitakin vihreiden linjausten mukaisia päätöksiä mm. luonnonsuojelussa ja verotuksen painopisteen muuttamisessa, mutta paljon on vielä tekemättä. Tähänastisella hallituspolitiikalla on mm. saavutettu valtion velkaantumisen hidastuminen, korkotason aleneminen ja lievä muutos verotuksen painottamisessa vihreiden vaatimusten mukaisesti vähemmän työhön ja enemmän ympäristön rasittamiseen kohdistuvaksi. Ankarimmat valtiontalouden leikkauspäätökset on jo tehty. Työttömyys kuitenkin alenee liian hitaasti, ja tuleva kehitys viime aikojen hyvästä talouskehityksestä huolimatta näyttää hyvin epävarmalta.*
 
 
 Vihreiden päätavoitteet hallituskauden toiselle puoliskolle ovat
@@ -67,16 +75,7 @@ Vihreiden päätavoitteet hallituskauden toiselle puoliskolle ovat
 ## VIHREÄ TOIMEENTULO JA TALOUSKASVU
 
 
-*On olemassa vihreästä näkökulmasta hyväksyttävää ja ei-hyväksyttävää
-talouskasvua. Hyväksyttävää ja tavoiteltavaa on kasvu, jossa ihmisten
-aineellinen ja henkinen hyvinvointi paranee samalla, kun luonnonympäristöön
-kohdistuvat haitat eliminoituvat. Ei-hyväksyttävää on talouskasvu, joka saadaan
-aikaan aiheuttamalla yhä suurempia haittoja sekä luonnolle että ihmisten
-henkiselle hyvinvoinnille. Vihreä elinkeinopolitiikka tukee työllisyyden
-paranemista, koska se kannustaa työvaltaisten alojen kehittymistä. Vihreiden
-tavoitteena on verotuksen rakenteen muuttaminen siten, että ihmistyön verotusta
-alennetaan ja vastaavat varat kerätään energian kulutukseen, uusiutumattomien
-raaka-aineiden käyttöön sekä saastuttamiseen kohdistuvilla veroilla.*
+*On olemassa vihreästä näkökulmasta hyväksyttävää ja ei-hyväksyttävää talouskasvua. Hyväksyttävää ja tavoiteltavaa on kasvu, jossa ihmisten aineellinen ja henkinen hyvinvointi paranee samalla, kun luonnonympäristöön kohdistuvat haitat eliminoituvat. Ei-hyväksyttävää on talouskasvu, joka saadaan aikaan aiheuttamalla yhä suurempia haittoja sekä luonnolle että ihmisten henkiselle hyvinvoinnille. Vihreä elinkeinopolitiikka tukee työllisyyden paranemista, koska se kannustaa työvaltaisten alojen kehittymistä. Vihreiden tavoitteena on verotuksen rakenteen muuttaminen siten, että ihmistyön verotusta alennetaan ja vastaavat varat kerätään energian kulutukseen, uusiutumattomien raaka-aineiden käyttöön sekä saastuttamiseen kohdistuvilla veroilla.*
 
 
 ### Mitä on vihreä talouskasvu?
@@ -140,16 +139,9 @@ o suomalaisen kulttuuri-identiteetin vahvistaminen.
 4. kehittää sosiaaliturvaa siten, ettei työtä jakava joudu turvaverkkojen ulkopuolelle.
 
 
-o Yhä useampi jää perinteisen palkkatyön ulkopuolelle ja joutuu hankkimaan
-elantonsa pienyrittäjänä. Tätä on tuettava muun muassa tasapuolistamalla
-yrittäjän sosiaaliturva palkkatyötä tekevien turvaan verrattuna sekä
-täsmentämällä yrittäjän verotuksellista oikeusturvaa.     o Raja palkkatyön ja
-vapaaehtoisesti tehtävän hyödyllisen työn välillä tulee muuttumaan entistä
-häilyvämmäksi. "Kolmanteen sektoriin" tulee suhtautua sen todellisen arvon
-mukaisesti. Tämä tarkoittaa esimerkiksi sitä, että puretaan verotukselliset ja
-byrokraattiset esteet talkootyön tekemiseltä sekä sitä, että yhteiskunta lakkaa
-asettamasta esteitä naapuriavulle ja päinvastoin ryhtyy suosimaan esimerkiksi
-asuma-alueiden "paikallisvaluutan" avulla tapahtuvaa työsuoritusten vaihtoa.
+o Yhä useampi jää perinteisen palkkatyön ulkopuolelle ja joutuu hankkimaan elantonsa pienyrittäjänä. Tätä on tuettava muun muassa tasapuolistamalla yrittäjän sosiaaliturva palkkatyötä tekevien turvaan verrattuna sekä täsmentämällä yrittäjän verotuksellista oikeusturvaa.   
+
+o Raja palkkatyön ja vapaaehtoisesti tehtävän hyödyllisen työn välillä tulee muuttumaan entistä häilyvämmäksi. "Kolmanteen sektoriin" tulee suhtautua sen todellisen arvon mukaisesti. Tämä tarkoittaa esimerkiksi sitä, että puretaan verotukselliset ja byrokraattiset esteet talkootyön tekemiseltä sekä sitä, että yhteiskunta lakkaa asettamasta esteitä naapuriavulle ja päinvastoin ryhtyy suosimaan esimerkiksi asuma-alueiden "paikallisvaluutan" avulla tapahtuvaa työsuoritusten vaihtoa.
 
 
 ### Vihreä verouudistus
@@ -181,11 +173,7 @@ o poistetaan palkkasidonnaisista työnantajan sosiaaliturvamaksuista se osa, jol
 ## VIHREÄT KANTAVAT VASTUUTA KOKO MAASTA
 
 
-*Lipposen hallituksen ohjelma: "Hallitus on sitoutunut toimimaan niin, että
-vuosituhannen vaihteeseen mennessä maan kaikki alueet, kaupungit ja maaseutu
-kehittyvät tasapuolisesti. Päämääränä on ihmisten elinehtojen turvaaminen
-asuinpaikasta riippumatta. Hallitus edistää toimintakykyisten ja taloudellisesti
-toimivien kuntien ja kuntaverkostojen luomista sekä kuntaliitoksia."*
+*Lipposen hallituksen ohjelma: "Hallitus on sitoutunut toimimaan niin, että vuosituhannen vaihteeseen mennessä maan kaikki alueet, kaupungit ja maaseutu kehittyvät tasapuolisesti. Päämääränä on ihmisten elinehtojen turvaaminen asuinpaikasta riippumatta. Hallitus edistää toimintakykyisten ja taloudellisesti toimivien kuntien ja kuntaverkostojen luomista sekä kuntaliitoksia."*
 
 
 ### Aluepolitiikka on osa sosiaalipolitiikkaa
@@ -229,11 +217,7 @@ toimivien kuntien ja kuntaverkostojen luomista sekä kuntaliitoksia."*
 ## YMPÄRISTÖN TULEVAISUUS RATKAISEE IHMISEN TULEVAISUUDEN
 
 
-*CO2-päästöjen vähentäminen ja Rion ilmastosopimuksen noudattaminen on nyt
-Suomen ympäristöpolitiikan uskottavuuskysymys. Siksi kotimaisten ja uusiutuvien
-polttoaineiden käyttöön tulee kannustaa, energiansäästömahdollisuudet tulee
-käyttää teollisuudessa ja kotitalouksissa, ja henkilöautoliikenne kääntää
-laskuun polttoaineiden hintaa nostamalla ja julkista liikennetta parantamalla.*
+*CO2-päästöjen vähentäminen ja Rion ilmastosopimuksen noudattaminen on nyt Suomen ympäristöpolitiikan uskottavuuskysymys. Siksi kotimaisten ja uusiutuvien polttoaineiden käyttöön tulee kannustaa, energiansäästömahdollisuudet tulee käyttää teollisuudessa ja kotitalouksissa, ja henkilöautoliikenne kääntää laskuun polttoaineiden hintaa nostamalla ja julkista liikennetta parantamalla.*
 
 
 ### Ympäristöpolitiikan painopistealueet
@@ -269,17 +253,7 @@ laskuun polttoaineiden hintaa nostamalla ja julkista liikennetta parantamalla.*
 ## RAJAT LIUKENEVAT - EDUT YHTENEVÄT
 
 
-*EU- ja EMU- politiikasta on tehtävä kansalaisille selkeästi ymmärrettävää,
-jotta turvataan kansalaisten todelliset vaikutusmahdollisuudet tehtäessä EU:ta
-koskevia keskeisiä ratkaisuja. EU-kansalaisten on voitava valvoa EU:n
-talouspolitiikan harjoittamista. Vihreät eivät näe mitään perusteita Suomen
-NATO-jäsenyydelle, sen sijaan Suomen tavoitteena on pidettävä
-yleiseurooppalaista turvallisuusjärjestelmää, jossa ovat mukana ETYJ:n
-jäsenmaat. Kehitysyhteistyömäärärahat on nostettava vähintään 0,7 prosentin
-tasolle BKT:stä vuoteen 2004 mennessä ja laatu on nostettava painopisteeksi:
-tasa-arvon, ihmisoikeuksien ja ympäristönsuojelun parantaminen tulee määritellä
-yhteistyön keskeiseksi sisällöksi. Suomen kehitysyhteistyössä on kiinnitettävä
-huomiota myös globaalin väestönkasvun hillitsemisen kysymyksiin.*
+*EU- ja EMU- politiikasta on tehtävä kansalaisille selkeästi ymmärrettävää, jotta turvataan kansalaisten todelliset vaikutusmahdollisuudet tehtäessä EU:ta koskevia keskeisiä ratkaisuja. EU-kansalaisten on voitava valvoa EU:n talouspolitiikan harjoittamista. Vihreät eivät näe mitään perusteita Suomen NATO-jäsenyydelle, sen sijaan Suomen tavoitteena on pidettävä yleiseurooppalaista turvallisuusjärjestelmää, jossa ovat mukana ETYJ:n jäsenmaat. Kehitysyhteistyömäärärahat on nostettava vähintään 0,7 prosentin tasolle BKT:stä vuoteen 2004 mennessä ja laatu on nostettava painopisteeksi: tasa-arvon, ihmisoikeuksien ja ympäristönsuojelun parantaminen tulee määritellä yhteistyön keskeiseksi sisällöksi. Suomen kehitysyhteistyössä on kiinnitettävä huomiota myös globaalin väestönkasvun hillitsemisen kysymyksiin.*
 
 
 ### Lähiajan EU- ja EMU-askeleet

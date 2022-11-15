@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:05:52.049130
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:15.310264
 title: Vihreiden turvapaikkapoliittinen linjapaperi
 type: erityisohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1125
@@ -21,56 +21,19 @@ Hyväksytty puoluevaltuuskunnassa 24.9.2017
 ## Vastuullista ja ihmisoikeuksia kunnioittavaa turvapaikkapolitiikkaa
 
 
-Suomi on yksi maailman turvallisimmista maista asua ja elää. Samaan aikaan
-maailmalla on käynnissä pahin pakolaiskriisi sitten toisen maailmansodan. Yli 21
-miljoonaa ihmistä elää pakolaisina kotimaansa rajojen ulkopuolella. Maansisäiset
-pakolaiset ja turvapaikkaa hakeneet mukaan laskien pakolaisten määrä maailmassa
-on yli 65 miljoonaa. Lähes puolet heistä on lapsia. Ilmastonmuutoksen arvioidaan
-nostavan pakolaisten määrää entisestään.
+Suomi on yksi maailman turvallisimmista maista asua ja elää. Samaan aikaan maailmalla on käynnissä pahin pakolaiskriisi sitten toisen maailmansodan. Yli 21 miljoonaa ihmistä elää pakolaisina kotimaansa rajojen ulkopuolella. Maansisäiset pakolaiset ja turvapaikkaa hakeneet mukaan laskien pakolaisten määrä maailmassa on yli 65 miljoonaa. Lähes puolet heistä on lapsia. Ilmastonmuutoksen arvioidaan nostavan pakolaisten määrää entisestään.
 
 
-Laillisten maahantulokeinojen puuttuminen pakottaa yhä useamman
-hengenvaaralliselle matkalle kohti Eurooppaa. Suomen on tehtävä osansa
-pakolaiskriisin poistamiseksi osallistumalla sitä synnyttävien konfliktien
-ratkaisemiseen, edistettävä Euroopan unionin tasolla turvallisten
-maahantuloväylien rakentamista ja annettava turvaa hädässä oleville.
-Kasvattamalla pakolaiskiintiötä, helpottamalla perheenyhdistämistä ja ottamalla
-käyttöön humanitaarisen viisumin Suomi voi lisätä turvallisia ja hallittuja
-väyliä pakolaisille hakeutua turvaan.
+Laillisten maahantulokeinojen puuttuminen pakottaa yhä useamman hengenvaaralliselle matkalle kohti Eurooppaa. Suomen on tehtävä osansa pakolaiskriisin poistamiseksi osallistumalla sitä synnyttävien konfliktien ratkaisemiseen, edistettävä Euroopan unionin tasolla turvallisten maahantuloväylien rakentamista ja annettava turvaa hädässä oleville. Kasvattamalla pakolaiskiintiötä, helpottamalla perheenyhdistämistä ja ottamalla käyttöön humanitaarisen viisumin Suomi voi lisätä turvallisia ja hallittuja väyliä pakolaisille hakeutua turvaan.
 
 
-Meidän on kohdeltava oikeudenmukaisesti heitä, jotka täältä hakevat turvaa. YK:n
-ihmisoikeuksien julistuksen 14 artiklan mukaan jokaisella vainon kohteeksi
-joutuneella on oikeus hakea ja nauttia turvapaikkaa muissa maissa.
-Perustuslakimme ehdottoman palautuskiellon mukaan ketään ei saa palauttaa maahan
-tai alueelle, jossa häntä uhkaa kuolemanrangaistus, kidutus tai muu ihmisarvoa
-loukkaava kohtelu. Oikeusvaltiossa valtion ja jokaisen viranomaisen velvollisuus
-on varmistaa tämän toteutuminen. Harkinnan tulee olla aina henkilö- ja
-tapauskohtaista, eivätkä päätökset voi olla yleisluontoisia.
+Meidän on kohdeltava oikeudenmukaisesti heitä, jotka täältä hakevat turvaa. YK:n ihmisoikeuksien julistuksen 14 artiklan mukaan jokaisella vainon kohteeksi joutuneella on oikeus hakea ja nauttia turvapaikkaa muissa maissa. Perustuslakimme ehdottoman palautuskiellon mukaan ketään ei saa palauttaa maahan tai alueelle, jossa häntä uhkaa kuolemanrangaistus, kidutus tai muu ihmisarvoa loukkaava kohtelu. Oikeusvaltiossa valtion ja jokaisen viranomaisen velvollisuus on varmistaa tämän toteutuminen. Harkinnan tulee olla aina henkilö- ja tapauskohtaista, eivätkä päätökset voi olla yleisluontoisia.
 
 
-Hallitus on kiristänyt Suomen turvapaikkapolitiikkaa radikaalisti ilman, että
-päätösten kokonaisvaikutuksia olisi arvioitu. Hallitus on muun muassa
-heikentänyt turvapaikanhakijoiden oikeutta saada oikeudellista apua samalla kun
-maahanmuuttovirasto on kiristänyt tulkintakäytäntöjään. Suomen
-turvapaikkakäytäntö poikkeaa oleellisesti yleisimpien lähtömaiden kohdalla EU:n
-keskimääräisestä.
+Hallitus on kiristänyt Suomen turvapaikkapolitiikkaa radikaalisti ilman, että päätösten kokonaisvaikutuksia olisi arvioitu. Hallitus on muun muassa heikentänyt turvapaikanhakijoiden oikeutta saada oikeudellista apua samalla kun maahanmuuttovirasto on kiristänyt tulkintakäytäntöjään. Suomen turvapaikkakäytäntö poikkeaa oleellisesti yleisimpien lähtömaiden kohdalla EU:n keskimääräisestä.
 
 
-Päätösten seuraukset näkyvät kielteisten turvapaikkapäätösten suhteellisen
-osuuden suurena kasvuna. Kokeneiden turvapaikkajuristien mukaan muutosten
-yhteisvaikutuksena myös turvapaikkamenettelyn ja -päätösten taso romahti ja
-turvapaikanhakijoiden oikeusturva on vaarantunut ennennäkemättömällä tavalla.
-Suomessa on aiemmin eurooppalaisittain ollut verratenkin hyvä
-turvapaikkamenettely ja päätösten taso. Suomen turvapaikkajärjestelmän
-luotettavuus ja uskottavuus on heikentynyt ja se on nyt korjattava. Kehityksen
-seurauksena on perusteltu syy olla huolissaan siitä, että haavoittuvassa
-asemassa olevia ja palautuskieltotapauksia ei välttämättä tunnisteta
-turvapaikkaprosessissa. Vaarana on tällöin, että kielteisen päätöksen saanut
-joutuu kotimaahansa käännytettynä hengenvaaraan tai alttiiksi kidutukselle. Nämä
-huolet tulee ottaa vakavasti. Pakkopalautukset on väliaikaisesti keskeytettävä,
-kunnes on varmaa, että turvapaikkaprosessi takaa hakijoiden oikeusturvan sekä
-perus- ja ihmisoikeudet.
+Päätösten seuraukset näkyvät kielteisten turvapaikkapäätösten suhteellisen osuuden suurena kasvuna. Kokeneiden turvapaikkajuristien mukaan muutosten yhteisvaikutuksena myös turvapaikkamenettelyn ja -päätösten taso romahti ja turvapaikanhakijoiden oikeusturva on vaarantunut ennennäkemättömällä tavalla. Suomessa on aiemmin eurooppalaisittain ollut verratenkin hyvä turvapaikkamenettely ja päätösten taso. Suomen turvapaikkajärjestelmän luotettavuus ja uskottavuus on heikentynyt ja se on nyt korjattava. Kehityksen seurauksena on perusteltu syy olla huolissaan siitä, että haavoittuvassa asemassa olevia ja palautuskieltotapauksia ei välttämättä tunnisteta turvapaikkaprosessissa. Vaarana on tällöin, että kielteisen päätöksen saanut joutuu kotimaahansa käännytettynä hengenvaaraan tai alttiiksi kidutukselle. Nämä huolet tulee ottaa vakavasti. Pakkopalautukset on väliaikaisesti keskeytettävä, kunnes on varmaa, että turvapaikkaprosessi takaa hakijoiden oikeusturvan sekä perus- ja ihmisoikeudet.
 
 
 ## Laadukas ja ihmisoikeusperustainen turvapaikkaprosessi

@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:05:57.934622
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:20.824830
 title: "Yhdess\xE4 rakennamme paremman huomisen -vaaliohjelma"
 type: vaaliohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/934
@@ -25,136 +25,102 @@ Kuntavaalit 2017
 Hyväksytty valtuuskunnan kokouksessa 4.12.2016
 
 
-Näissä kuntavaaleissa päätetään Suomen suunnasta. Vihreät haluaa yhdessä
-ihmisten kanssa rakentaa kestävää tulevaisuutta. Me valitsemme inhimillisen
-vaihtoehdon.
+Näissä kuntavaaleissa päätetään Suomen suunnasta. Vihreät haluaa yhdessä ihmisten kanssa rakentaa kestävää tulevaisuutta. Me valitsemme inhimillisen vaihtoehdon. 
 
 
-Me uskomme, että nyt ei ole hetki antaa periksi hyvinvoinnin lupauksesta – siitä
-lupauksesta, jonka tämä maa on sukupolvi toisensa jälkeen antanut lapsilleen.
+Me uskomme, että nyt ei ole hetki antaa periksi hyvinvoinnin lupauksesta – siitä lupauksesta, jonka tämä maa on sukupolvi toisensa jälkeen antanut lapsilleen.
 
 
-Edessämme on valinta: inhimillisten ja kestävien uudistusten tie vai kovien
-arvojen ja epäoikeudenmukaisten leikkausten tie.
+Edessämme on valinta: inhimillisten ja kestävien uudistusten tie vai kovien arvojen ja epäoikeudenmukaisten leikkausten tie.
 
 
-Maan hallitus leikkaa ihmisten hyvinvoinnista ja lastemme koulutuksesta. Se
-kääntää selkänsä vastuulle yhteisestä ympäristöstä ja tulevista sukupolvista.
+Maan hallitus leikkaa ihmisten hyvinvoinnista ja lastemme koulutuksesta. Se kääntää selkänsä vastuulle yhteisestä ympäristöstä ja tulevista sukupolvista.
 
 
-Kunnissa voidaan valita toisin. Kunnilla on Suomessa suuri valta. Kunnissa
-voimme valita tälle maalle toisen suunnan ja luoda ihmisille toivoa paremmasta
-huomisesta. Kestävillä uudistuksilla me haluamme puolustaa sitä mikä on
-arvokasta. Yhdessä me voimme tehdä sen.
+Kunnissa voidaan valita toisin. Kunnilla on Suomessa suuri valta. Kunnissa voimme valita tälle maalle toisen suunnan ja luoda ihmisille toivoa paremmasta huomisesta. Kestävillä uudistuksilla me haluamme puolustaa sitä mikä on arvokasta. Yhdessä me voimme tehdä sen.
 
 
-Esitämme tässä vaaliohjelmassa 12 vihreää lupausta Suomen kuntiin. Ne ovat
-uudistusohjelma, jolla suojelemme yhteisen **ympäristömme**, palautamme
-**koulutuksen** taas suomalaisen yhteiskunnan menestystarinaksi, torjumme
-**köyhyyttä** ja luomme uutta **työtä** ja menestystä kaikkialla Suomessa.
+Esitämme tässä vaaliohjelmassa 12 vihreää lupausta Suomen kuntiin. Ne ovat uudistusohjelma, jolla suojelemme yhteisen **ympäristömme**, palautamme **koulutuksen** taas suomalaisen yhteiskunnan menestystarinaksi, torjumme **köyhyyttä** ja luomme uutta **työtä** ja menestystä kaikkialla Suomessa.
 
 
 **"Kunnat päättävät ympäristöstä, jossa elämme.**
 
 
-Kunnat päättävät ympäristöstä, jossa elämme. Vihreät haluavat vaalia
-lähiluontoa, tehdä liikkumisen helpoksi ja rakentaa viihtyisää elinympäristöä,
-jossa ihmisten arki sujuu. Yhdessä voimme tehdä kunnissa kaiken tarvittavan
-ilmastonmuutoksen pysäyttämiseksi ja valjastaa puhtaasta energiasta Suomen
-menestystekijän.
+Kunnat päättävät ympäristöstä, jossa elämme. Vihreät haluavat vaalia lähiluontoa, tehdä liikkumisen helpoksi ja rakentaa viihtyisää elinympäristöä, jossa ihmisten arki sujuu. Yhdessä voimme tehdä kunnissa kaiken tarvittavan ilmastonmuutoksen pysäyttämiseksi ja valjastaa puhtaasta energiasta Suomen menestystekijän.
 
 
-Tulevaisuus on lapsissamme. Siksi vihreille on tärkeää pitää koulutuslupaus
-siitä, että jokainen lapsi ja nuori saa hyvän koulutuksen ja varhaiskasvatuksen.
-Kunnissa voidaan torjua hallituksen leikkaukset kouluista ja päivähoidosta.
-Yhdessä me voimme puolustaa päivähoidon ja peruskoulujen pieniä ryhmäkokoja sekä
-parantaa koulutuksen laatua ja tasa-arvoa, jokaiselle lapselle.
+Tulevaisuus on lapsissamme. Siksi vihreille on tärkeää pitää koulutuslupaus siitä, että jokainen lapsi ja nuori saa hyvän koulutuksen ja varhaiskasvatuksen. Kunnissa voidaan torjua hallituksen leikkaukset kouluista ja päivähoidosta. Yhdessä me voimme puolustaa päivähoidon ja peruskoulujen pieniä ryhmäkokoja sekä parantaa koulutuksen laatua ja tasa-arvoa, jokaiselle lapselle.
 
 
-Kunnat päättävät palveluista, joilla torjutaan syrjäytymistä ja edistetään
-tasa-arvoa. Kunnan tulee olla paikka, joissa erilaiset ihmiset voivat asua,
-elää, oppia ja tehdä työtä – kaikki yhtä arvokkaina, ainutkertaisina ihmisinä.
-Yhdessä voimme ehkäistä ongelmia ennalta ja pitää kaikista tasavertaisesti
-huolta.
+Kunnat päättävät palveluista, joilla torjutaan syrjäytymistä ja edistetään tasa-arvoa. Kunnan tulee olla paikka, joissa erilaiset ihmiset voivat asua, elää, oppia ja tehdä työtä – kaikki yhtä arvokkaina, ainutkertaisina ihmisinä. Yhdessä voimme ehkäistä ongelmia ennalta ja pitää kaikista tasavertaisesti huolta.
 
 
-Kuntien käsissä on keinot tukea uusien työpaikkojen syntyä ja auttaa ihmisiä
-työttömyydestä kohti työtä. Uutta työtä luodaan parhaiten sijoittamalla uusiin
-ratkaisuihin: joukkoliikenteeseen, puhtaaseen energiaan, kestävään rakentamiseen
-ja vaikkapa luomuruokaan. Yhdessä voimme rakentaa kuntiin kestävää ja reilua
-taloutta ja työtä.
+Kuntien käsissä on keinot tukea uusien työpaikkojen syntyä ja auttaa ihmisiä työttömyydestä kohti työtä. Uutta työtä luodaan parhaiten sijoittamalla uusiin ratkaisuihin: joukkoliikenteeseen, puhtaaseen energiaan, kestävään rakentamiseen ja vaikkapa luomuruokaan. Yhdessä voimme rakentaa kuntiin kestävää ja reilua taloutta ja työtä.
 
 
-Kuntavaaleissa valitaan, mihin suuntaan haluamme Suomen viedä. Yhdessä voimme
-rakentaa paremman huomisen ja näyttää, että tämän hienon maan tulevaisuus on
-valoisa ja inhimillinen. Päätös on sinun!
+Kuntavaaleissa valitaan, mihin suuntaan haluamme Suomen viedä. Yhdessä voimme rakentaa paremman huomisen ja näyttää, että tämän hienon maan tulevaisuus on valoisa ja inhimillinen. Päätös on sinun!
 
 
 ## KÄÄNNETÄÄN SUOMEN SUUNTA:
 12 VIHREÄÄ LUPAUSTA KUNTIIN
 
 
-**Lupaamme tehdä parhaamme tehdäksemme seuraavista 12 tavoitteesta totta
-seuraavalla vaalikaudella.**
+**Lupaamme tehdä parhaamme tehdäksemme seuraavista 12 tavoitteesta totta seuraavalla vaalikaudella.**
 
 
 RAKENNETAAN LAPSILLEMME MAAILMAN PARAS KOULU
 
 
-1 Palautetaan kaikkien lasten oikeus laadukkaaseen päivähoitoon ja edetään kohti
-maksutonta varhaiskasvatusta      2 Perutaan koulutusleikkaukset kunnissa ja
-tehdään kouluista maailman parhaita     3 Huolehditaan koko kansan kulttuurista
-ja sivistyksestä
+1 Palautetaan kaikkien lasten oikeus laadukkaaseen päivähoitoon ja edetään kohti maksutonta varhaiskasvatusta   
+
+2 Perutaan koulutusleikkaukset kunnissa ja tehdään kouluista maailman parhaita  
+
+3 Huolehditaan koko kansan kulttuurista ja sivistyksestä
 
 
 SUOJELLAAN YHTEINEN YMPÄRISTÖMME
 
 
-4 Ilmastonmuutos pysäytetään kunnissa     5 Tehdään liikkumisesta sujuvaa ja
-elinympäristöstä viihtyisä      6 Suojellaan korvaamaton luontomme
+4 Ilmastonmuutos pysäytetään kunnissa  
+
+5 Tehdään liikkumisesta sujuvaa ja elinympäristöstä viihtyisä   
+
+6 Suojellaan korvaamaton luontomme
 
 
 TORJUTAAN KÖYHYYTTÄ JA ERIARVOISUUTTA, TEHDÄÄN HYVINVOINTIA LÄHELLÄ IHMISTÄ
 
 
-7 Sosiaali- ja terveyspalvelut uudistetaan ihmisten ehdoilla ja ongelmat
-ehkäistään ennalta     8 Kamppaillaan köyhyyttä ja syrjäytymistä vastaan     9
-Kunnista tehdään tasa-arvoisia ja syrjinnästä vapaita
+7 Sosiaali- ja terveyspalvelut uudistetaan ihmisten ehdoilla ja ongelmat ehkäistään ennalta  
+
+8 Kamppaillaan köyhyyttä ja syrjäytymistä vastaan  
+
+9 Kunnista tehdään tasa-arvoisia ja syrjinnästä vapaita
 
 
 LUODAAN TYÖTÄ JA TURVAA KOKO SUOMEEN
 
 
-10 Luodaan työpaikkoja ja elinvoimaa kuntiin koko maassa     11 Nostetaan
-ihmisiä työttömyydestä työhön     12 Tehdään kotouttaminen hyvin ja otetaan
-uudet suomalaiset mukaan
+10 Luodaan työpaikkoja ja elinvoimaa kuntiin koko maassa  
+
+11 Nostetaan ihmisiä työttömyydestä työhön  
+
+12 Tehdään kotouttaminen hyvin ja otetaan uudet suomalaiset mukaan
 
 
 ## RAKENNETAAN LAPSILLEMME MAAILMAN PARAS KOULU
 
 
-Koulu on rakennus, jossa on neljä seinää ja sisällä huominen. Tulevaisuuden
-Suomen menestys tehdään siellä. Tasa-arvoinen oikeus jokaiselle laadukkaaseen
-koulutukseen – päiväkodista aina korkeimpaan koulutukseen asti – on ollut
-suomalaisen yhteiskunnan suuri menestystarina. Kunnissa päätetään tämän tarinan
-seuraava luku. Koulutuksesta ja sivistyksestä tulee vastedes kuntien tärkein
-tehtävä. Yhdessä voimme tehdä suomalaisesta koulutuksesta maailman parhaan, jos
-niin valitsemme. Päätös on sinun.
+Koulu on rakennus, jossa on neljä seinää ja sisällä huominen. Tulevaisuuden Suomen menestys tehdään siellä. Tasa-arvoinen oikeus jokaiselle laadukkaaseen koulutukseen – päiväkodista aina korkeimpaan koulutukseen asti – on ollut suomalaisen yhteiskunnan suuri menestystarina. Kunnissa päätetään tämän tarinan seuraava luku. Koulutuksesta ja sivistyksestä tulee vastedes kuntien tärkein tehtävä. Yhdessä voimme tehdä suomalaisesta koulutuksesta maailman parhaan, jos niin valitsemme. Päätös on sinun.
 
 
 ### PALAUTETAAN KAIKKIEN LASTEN OIKEUS LAADUKKAASEEN PÄIVÄHOITOON JA OTETAAN ASKELEITA KOHTI MAKSUTONTA VARHAISKASVATUSTA
 
 
-**Maan hallitus on yrittänyt poistaa kaikkien lasten yhtäläisen oikeuden
-päivähoitoon ja kasvattanut päivähoidon ryhmäkokoja. Monessa kunnassa on jo
-noustu vastarintaan ja linjattu: ei näin. Kaikissa Suomen kunnissa voidaan
-valita toisin.**
+**Maan hallitus on yrittänyt poistaa kaikkien lasten yhtäläisen oikeuden päivähoitoon ja kasvattanut päivähoidon ryhmäkokoja. Monessa kunnassa on jo noustu vastarintaan ja linjattu: ei näin. Kaikissa Suomen kunnissa voidaan valita toisin.**
 
 
-Ei erotella lapsia työttömän lapsiin ja työssäkäyvän lapsiin. Ei rajata lasten
-oikeutta laadukkaaseen varhaiskasvatukseen vanhempien elämäntilanteen
-perusteella eikä kasvateta ryhmäkokoja. Valitaan lasten yhdenvertainen
-tulevaisuus ja laadukas varhaiskasvatus.
+Ei erotella lapsia työttömän lapsiin ja työssäkäyvän lapsiin. Ei rajata lasten oikeutta laadukkaaseen varhaiskasvatukseen vanhempien elämäntilanteen perusteella eikä kasvateta ryhmäkokoja. Valitaan lasten yhdenvertainen tulevaisuus ja laadukas varhaiskasvatus.
 
 
 Vihreiden tavoitteita ovat:
@@ -168,10 +134,7 @@ Vihreiden tavoitteita ovat:
 ### PERUTAAN KOULUTUSLEIKKAUKSET KUNNISSA JA TEHDÄÄN KOULUISTA MAAILMAN PARHAITA
 
 
-**Maailman parasta koulua ei tehdä säästämällä. Vaikka hallitus leikkaa
-historiallisella tavalla koulutuksesta, kunnissa voidaan valita toinen tie.
-Koulutukseen satsaaminen on tärkein sijoitus, jonka kunnat voivat tehdä
-asukkaidensa ja tämän maan tulevaisuuteen.**
+**Maailman parasta koulua ei tehdä säästämällä. Vaikka hallitus leikkaa historiallisella tavalla koulutuksesta, kunnissa voidaan valita toinen tie. Koulutukseen satsaaminen on tärkein sijoitus, jonka kunnat voivat tehdä asukkaidensa ja tämän maan tulevaisuuteen.**
 
 
 Vihreiden tavoitteita ovat:
@@ -190,12 +153,7 @@ Vihreiden tavoitteita ovat:
 ### HUOLEHDITAAN KOKO KANSAN KULTTUURISTA JA SIVISTYKSESTÄ
 
 
-Sivistys ja kulttuuri kuuluvat kaikille. Kunnan kulttuuripalvelut ja vapaa
-sivistystyö tarjoavat kuntalaisille kaikkien saatavilla olevan tien elämyksiin
-ja itseilmaisuun. Museot, kirjastot ja muut kulttuurilaitokset ovat oppimisen
-keskuksia, joita on kunnia-asia vaalia. Tulevaisuuden kirjasto tukee
-lukuharrastusta, tuo mediakeskuksena maailman kaikkien ulottuville ja on
-yhteinen olohuone lähellä kuntalaista.
+Sivistys ja kulttuuri kuuluvat kaikille. Kunnan kulttuuripalvelut ja vapaa sivistystyö tarjoavat kuntalaisille kaikkien saatavilla olevan tien elämyksiin ja itseilmaisuun. Museot, kirjastot ja muut kulttuurilaitokset ovat oppimisen keskuksia, joita on kunnia-asia vaalia. Tulevaisuuden kirjasto tukee lukuharrastusta, tuo mediakeskuksena maailman kaikkien ulottuville ja on yhteinen olohuone lähellä kuntalaista.
 
 
 Vihreiden tavoitteita ovat:
@@ -209,30 +167,16 @@ Vihreiden tavoitteita ovat:
 ## SUOJELLAAN YHTEINEN YMPÄRISTÖMME
 
 
-**Ympäristö, jossa elämme, ei ole meidän. Olemme saaneet sen lahjaksi meitä
-ennen eläneiltä ja pidämme sitä lainassa lapsiltamme. Ympäristö on sekä luonnon
-että ihmisen tuotosta: metsiä ja puistoja, vesistöjä ja rakennuksia, polkuja ja
-katuja. Velvollisuutemme on vaalia sitä. Kun kerran aika jättää meistä,
-tehtävämme on antaa tämä kaikki eteenpäin paremmassa kunnossa kuin olemme sen
-saaneet. Se, onnistummeko tässä, ratkaistaan kunnissa. Yhdessä voimme pitää
-huolta elinympäristöstämme ja tehdä siitä paremman, jos niin valitsemme. Päätös
-on sinun.**
+**Ympäristö, jossa elämme, ei ole meidän. Olemme saaneet sen lahjaksi meitä ennen eläneiltä ja pidämme sitä lainassa lapsiltamme. Ympäristö on sekä luonnon että ihmisen tuotosta: metsiä ja puistoja, vesistöjä ja rakennuksia, polkuja ja katuja. Velvollisuutemme on vaalia sitä. Kun kerran aika jättää meistä, tehtävämme on antaa tämä kaikki eteenpäin paremmassa kunnossa kuin olemme sen saaneet. Se, onnistummeko tässä, ratkaistaan kunnissa. Yhdessä voimme pitää huolta elinympäristöstämme ja tehdä siitä paremman, jos niin valitsemme. Päätös on sinun.**
 
 
 ### ILMASTONMUUTOS PYSÄYTETÄÄN KUNNISSA
 
 
-Ilmastonmuutos on pysäytettävä nyt, jotta lapsillemme jäisi elinkelpoinen
-maailma. Jos maan hallitus hidastelee, kunnissa voidaan toimia. Suuri osa Suomen
-päästöistä on kunnallisten päättäjien vallassa.
+Ilmastonmuutos on pysäytettävä nyt, jotta lapsillemme jäisi elinkelpoinen maailma. Jos maan hallitus hidastelee, kunnissa voidaan toimia. Suuri osa Suomen päästöistä on kunnallisten päättäjien vallassa.
 
 
-He ratkaisevat, millä kunnan sähkö ja lämpö tuotetaan, miten liikenne
-järjestetään ja rakennetaanko taloista energiaa tuhlaavia vai energiaa
-säästäviä. Vihreiden tavoite on, että 2030-luvulla kaikki kunnat ovat
-hiilineutraaleja. Työ sitä varten on aloitettava heti, sillä aikaa ei ole
-lainkaan hukattavaksi. Valitaan kunnissa kestävä tulevaisuus, niin kauan kuin
-vielä voimme.
+He ratkaisevat, millä kunnan sähkö ja lämpö tuotetaan, miten liikenne järjestetään ja rakennetaanko taloista energiaa tuhlaavia vai energiaa säästäviä. Vihreiden tavoite on, että 2030-luvulla kaikki kunnat ovat hiilineutraaleja. Työ sitä varten on aloitettava heti, sillä aikaa ei ole lainkaan hukattavaksi. Valitaan kunnissa kestävä tulevaisuus, niin kauan kuin vielä voimme.
 
 
 Vihreiden tavoitteita ovat:
@@ -247,15 +191,10 @@ Vihreiden tavoitteita ovat:
 ### TEHDÄÄN LIIKKUMISESTA SUJUVAA JA ELINYMPÄRISTÖSTÄ VIIHTYISÄ
 
 
-Suomeen mahtuu monenlaista: tiivistä kaupunkia ja luonnon rauhaa. Rakennetaan
-elinympäristöjä tätä moninaisuutta kunnioittaen.
+Suomeen mahtuu monenlaista: tiivistä kaupunkia ja luonnon rauhaa. Rakennetaan elinympäristöjä tätä moninaisuutta kunnioittaen.
 
 
-Kehitetään kaupunkeja kaupunkeina: ehyinä, viihtyisinä, värikkäinä. Kaupunki on
-ihmisten koti, ei liikenneväylä. Rakennetaan vastaavasti maaseutua maaseudun
-ehdoilla: elinvoimaisia kyliä, saavutettavia palveluja, luontoa ja tilaa.
-Tehdään Suomeen kaupunkeja ja kyliä, joissa on hyvä asua, sujuva liikkua ja
-helppo elää.
+Kehitetään kaupunkeja kaupunkeina: ehyinä, viihtyisinä, värikkäinä. Kaupunki on ihmisten koti, ei liikenneväylä. Rakennetaan vastaavasti maaseutua maaseudun ehdoilla: elinvoimaisia kyliä, saavutettavia palveluja, luontoa ja tilaa. Tehdään Suomeen kaupunkeja ja kyliä, joissa on hyvä asua, sujuva liikkua ja helppo elää.
 
 
 Vihreiden tavoitteita ovat:
@@ -271,15 +210,10 @@ Vihreiden tavoitteita ovat:
 ### SUOJELLAAN KORVAAMATON LUONTOMME
 
 
-Suomalainen luonto suojellaan tai tärvellään kunnissa. Päätökset siitä,
-varjelemmeko jokaisen kuntalaisen kallisarvoisen lähiluonnon, tehdään kuntien
-valtuustoissa ja lautakunnissa.
+Suomalainen luonto suojellaan tai tärvellään kunnissa. Päätökset siitä, varjelemmeko jokaisen kuntalaisen kallisarvoisen lähiluonnon, tehdään kuntien valtuustoissa ja lautakunnissa.
 
 
-Kuntien omistamat metsät, rannat, niityt, taajamametsiköt ja lähipuistot ovat
-ilon ja virkistyksen lähde ja samalla itseisarvo: kappale luonnon korvaamatonta
-monimuotoisuutta. Jokaisessa kunnassa tulee ymmärtää tämän yhteisen omaisuuden
-arvo ja vaalia sitä.
+Kuntien omistamat metsät, rannat, niityt, taajamametsiköt ja lähipuistot ovat ilon ja virkistyksen lähde ja samalla itseisarvo: kappale luonnon korvaamatonta monimuotoisuutta. Jokaisessa kunnassa tulee ymmärtää tämän yhteisen omaisuuden arvo ja vaalia sitä.
 
 
 Vihreiden tavoitteita ovat:
@@ -294,26 +228,16 @@ Vihreiden tavoitteita ovat:
 ## TEHDÄÄN HYVINVOINTIA LÄHELLÄ IHMISTÄ
 
 
-**Tarvitsemme Suomen, joka pitää huolta jokaisesta – etenkin niistä jotka eivät
-itse voi. Tämä on kuntien keskeinen tehtävä: edistää terveyttä ja hyvinvointia,
-puolustaa tasa-arvoa ja yhdenvertaisuutta. Leipäjonojen Suomi ja menestyjien
-Suomi erkaantuvat toisistaan. Osattomuudesta on yhä vaikeampi murtautua ulos.
-Tämä kehitys on pysäytettävä. Yhdessä voimme pitää kunnissa kaikki mukana, jos
-niin valitsemme. Päätös on sinun.**
+**Tarvitsemme Suomen, joka pitää huolta jokaisesta – etenkin niistä jotka eivät itse voi. Tämä on kuntien keskeinen tehtävä: edistää terveyttä ja hyvinvointia, puolustaa tasa-arvoa ja yhdenvertaisuutta. Leipäjonojen Suomi ja menestyjien Suomi erkaantuvat toisistaan. Osattomuudesta on yhä vaikeampi murtautua ulos. Tämä kehitys on pysäytettävä. Yhdessä voimme pitää kunnissa kaikki mukana, jos niin valitsemme. Päätös on sinun.**
 
 
 ### SOSIAALI- JA TERVEYSPALVELUT UUDISTETAAN IHMISTEN EHDOILLA JA ONGELMAT EHKÄISTÄÄN ENNALTA
 
 
-Jatkossa maakunnille siirtyy päätösvalta siitä, mitä sosiaali- ja
-terveyspalveluita ihmisillä on käytössään, mistä niitä saa ja mihin hintaan.
-Ihmiset kuitenkin käyttävät palveluita vastedeskin siellä missä asuvat ja
-kunnilla on merkittävä rooli ihmisten terveyden ja hyvinvoinnin edistämisessä.
+Jatkossa maakunnille siirtyy päätösvalta siitä, mitä sosiaali- ja terveyspalveluita ihmisillä on käytössään, mistä niitä saa ja mihin hintaan. Ihmiset kuitenkin käyttävät palveluita vastedeskin siellä missä asuvat ja kunnilla on merkittävä rooli ihmisten terveyden ja hyvinvoinnin edistämisessä.
 
 
-Vaikka hallinto siirtyy kauemmas, palveluiden tulee pysyä lähellä. Miten tahansa
-sosiaali- ja terveyspalveluiden uudistus toteutetaankin, Vihreiden tavoitteet
-ovat samat:
+Vaikka hallinto siirtyy kauemmas, palveluiden tulee pysyä lähellä. Miten tahansa sosiaali- ja terveyspalveluiden uudistus toteutetaankin, Vihreiden tavoitteet ovat samat:
 
 
 * **Vähennetään terveys- ja hyvinvointieroja.** Sosiaali- ja terveyspalveluiden uudistuksen tulee kaventaa terveys- ja hyvinvointieroja maan eri osissa ja väestöryhmien välillä.
@@ -326,13 +250,7 @@ ovat samat:
 * **Toteutetaan uudistus fiksusti.** Kun uudistusta tehdään, ensin tulee purkaa erilaiset hallinnolliset raja-aidat palveluiden väliltä. Sitten pitää varmistaa, että palveluiden järjestäminen ja rahoittaminen ovat yksissä käsissä. Vasta viimeiseksi voi arvioida, miten niin kutsuttua asiakkaan valinnanvapautta voidaan lisätä tinkimättä uudistuksen tavoitteista.
 
 
-Kun sosiaali- ja terveyspalvelut siirtyvät maakuntien vastuulle, kunnat eivät
-enää hoida ihmisten sairauksia, mutta ne voivat auttaa ihmisiä pysymään
-terveinä. Kulttuuri ja liikunta luovat hyvinvointia ja kunnan palveluina tulevat
-niidenkin ulottuville, joilla päivästä toiseen on jokaista euroa venytettävä.
-Kun panostetaan niihin sekä kirjastoihin, harrastusmahdollisuuksiin, hyvään
-asuinympäristöön ja lähiluontoon, ihmiset elävät terveempinä ja pitempään. Se
-vapauttaa samalla yhteistä rahaa niiden auttamiseen, joilla ei mene yhtä hyvin.
+Kun sosiaali- ja terveyspalvelut siirtyvät maakuntien vastuulle, kunnat eivät enää hoida ihmisten sairauksia, mutta ne voivat auttaa ihmisiä pysymään terveinä. Kulttuuri ja liikunta luovat hyvinvointia ja kunnan palveluina tulevat niidenkin ulottuville, joilla päivästä toiseen on jokaista euroa venytettävä. Kun panostetaan niihin sekä kirjastoihin, harrastusmahdollisuuksiin, hyvään asuinympäristöön ja lähiluontoon, ihmiset elävät terveempinä ja pitempään. Se vapauttaa samalla yhteistä rahaa niiden auttamiseen, joilla ei mene yhtä hyvin.
 
 
 Vihreiden tavoitteita ovat:
@@ -348,13 +266,10 @@ Vihreiden tavoitteita ovat:
 ### KAMPPAILLAAN KÖYHYYTTÄ JA SYRJÄYTYMISTÄ VASTAAN
 
 
-Köyhyys ja eriarvoisuus ovat pois meiltä jokaiselta. Hyvässä yhteiskunnassa
-ketään ei päästetä putoamaan. Hyvässä kunnassa kaikissa päätöksissä pidetään
-heikompien puolta.
+Köyhyys ja eriarvoisuus ovat pois meiltä jokaiselta. Hyvässä yhteiskunnassa ketään ei päästetä putoamaan. Hyvässä kunnassa kaikissa päätöksissä pidetään heikompien puolta. 
 
 
-Yksinäisyyttä, syrjäytymistä ja hätää vastaan on kamppailtava päättäväisesti ja
-tiukasti. Sitä tehdään kunnissa yksittäinen päätös kerrallaan.
+Yksinäisyyttä, syrjäytymistä ja hätää vastaan on kamppailtava päättäväisesti ja tiukasti. Sitä tehdään kunnissa yksittäinen päätös kerrallaan.
 
 
 Vihreiden tavoitteita ovat:
@@ -370,13 +285,10 @@ Vihreiden tavoitteita ovat:
 ### KUNNISTA TEHDÄÄN TASA-ARVOISIA JA SYRJIMÄTTÖMIÄ
 
 
-Kunnissa ei ole meitä ja heitä. On vain yhdenvertaisia asukkaita varallisuuteen,
-sukupuoleen, ihonväriin tai etniseen taustaan katsomatta.
+Kunnissa ei ole meitä ja heitä. On vain yhdenvertaisia asukkaita varallisuuteen, sukupuoleen, ihonväriin tai etniseen taustaan katsomatta.
 
 
-Tehdään rohkeasti feminististä politiikkaa, jossa sanotaan ei kaikelle
-syrjinnälle ja puolustetaan jokaisen oikeutta olla oma itsensä. Pidetään
-kaikkien puolta.
+Tehdään rohkeasti feminististä politiikkaa, jossa sanotaan ei kaikelle syrjinnälle ja puolustetaan jokaisen oikeutta olla oma itsensä. Pidetään kaikkien puolta.
 
 
 Vihreiden tavoitteita ovat:
@@ -393,13 +305,7 @@ Vihreiden tavoitteita ovat:
 ## LUODAAN TYÖTÄ JA TURVAA KOKO SUOMEEN
 
 
-**Työn tulevaisuus tehdään kunnissa. Työllisyys ei ole asia, josta joku muu
-päättää jossain muualla. Paikallisilla päätöksillä rakennetaan mahdollisuuksia
-paikallisille yrityksille menestyä ja kasvaa ja luoda uusia työpaikkoja.
-Paikallisilla päätöksillä ratkaistaan, millainen kunta on työnantajana ja miten
-työtön kohdataan. Yhdessä voimme auttaa uusien työpaikkojen syntymistä, tukea
-niitä jotka ovat työtä vailla ja nostaa ihmisiä kyykyttämisen sijaan, jos niin
-valitsemme. Päätös on sinun.**
+**Työn tulevaisuus tehdään kunnissa. Työllisyys ei ole asia, josta joku muu päättää jossain muualla. Paikallisilla päätöksillä rakennetaan mahdollisuuksia paikallisille yrityksille menestyä ja kasvaa ja luoda uusia työpaikkoja. Paikallisilla päätöksillä ratkaistaan, millainen kunta on työnantajana ja miten työtön kohdataan. Yhdessä voimme auttaa uusien työpaikkojen syntymistä, tukea niitä jotka ovat työtä vailla ja nostaa ihmisiä kyykyttämisen sijaan, jos niin valitsemme. Päätös on sinun.**
 
 
 ### LUODAAN TYÖPAIKKOJA JA ELINVOIMAA KUNTIIN KOKO MAASSA
@@ -408,12 +314,7 @@ valitsemme. Päätös on sinun.**
 Suomi tarvitsee uutta työtä. Edellytykset siihen luodaan kunnissa.
 
 
-Paikallisten yritysten menestys, kasvu ja kyky työllistää ovat asioita, joita
-kunta voi edistää merkittävästi. Kunnat, jotka tahtovat, voivat olla
-avainasemassa tulevaisuuden alojen edistäjinä omilla alueillaan – niin
-luomutuotannon kuin kiertotalouden, digitalisaation ja puhtaan teknologian.
-Panostamalla näihin säästetään euroja ja luodaan uutta kestävää
-elinkeinotoimintaa.
+Paikallisten yritysten menestys, kasvu ja kyky työllistää ovat asioita, joita kunta voi edistää merkittävästi. Kunnat, jotka tahtovat, voivat olla avainasemassa tulevaisuuden alojen edistäjinä omilla alueillaan – niin luomutuotannon kuin kiertotalouden, digitalisaation ja puhtaan teknologian. Panostamalla näihin säästetään euroja ja luodaan uutta kestävää elinkeinotoimintaa.
 
 
 Vihreiden tavoitteina ovat:
@@ -428,13 +329,10 @@ Vihreiden tavoitteina ovat:
 ### NOSTETAAN IHMISIÄ TYÖTTÖMYYDESTÄ TYÖHÖN
 
 
-Työttömyys on valtava taakka niin yksilöille, yhteisöille kuin yhteiskunnalle.
-Työttömyyden vähentämisen tulee olla jokaisen kunnan ykköstavoite.
+Työttömyys on valtava taakka niin yksilöille, yhteisöille kuin yhteiskunnalle. Työttömyyden vähentämisen tulee olla jokaisen kunnan ykköstavoite.
 
 
-On aina viisaampaa tukea ihmisten kouluttautumista tai työllistämistä kuin
-maksaa työttömyydestä. Kunnat ovat myös merkittävä työllistäjä ja pystyvät
-hyvänä työnantajana lisäämään työn tuottavuutta ja työhyvinvointia.
+On aina viisaampaa tukea ihmisten kouluttautumista tai työllistämistä kuin maksaa työttömyydestä. Kunnat ovat myös merkittävä työllistäjä ja pystyvät hyvänä työnantajana lisäämään työn tuottavuutta ja työhyvinvointia.
 
 
 Vihreiden tavoitteita ovat:
@@ -450,15 +348,10 @@ Vihreiden tavoitteita ovat:
 ### TEHDÄÄN KOTOUTTAMINEN HYVIN JA OTETAAN UUDET SUOMALAISET MUKAAN
 
 
-Maailmalla on käynnissä suurin pakolaiskriisi sitten toisen maailmansodan.
-Tällaisena aikana globaali vastuu tulee kotiovellemme. Ihmiset, jotka pakenevat
-kärsimystä, sotaa ja vainoa Suomeen, löytävät uuden kodin suomalaisista
-kunnista.
+Maailmalla on käynnissä suurin pakolaiskriisi sitten toisen maailmansodan. Tällaisena aikana globaali vastuu tulee kotiovellemme. Ihmiset, jotka pakenevat kärsimystä, sotaa ja vainoa Suomeen, löytävät uuden kodin suomalaisista kunnista.
 
 
-On meistä kiinni, miten otamme heidät vastaan ja miten he pääsevät kiinni uuteen
-elämäänsä tässä maassa, osallistuvaksi osaksi tätä yhteiskuntaa. Hoidetaan se
-hyvin.
+On meistä kiinni, miten otamme heidät vastaan ja miten he pääsevät kiinni uuteen elämäänsä tässä maassa, osallistuvaksi osaksi tätä yhteiskuntaa. Hoidetaan se hyvin.
 
 
 Vihreiden tavoitteita ovat:

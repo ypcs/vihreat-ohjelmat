@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:05:05.428995
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:34:27.096079
 title: "VIHRE\xC4 EUROOPPA - Vihre\xE4n liiton EP-vaaliohjelma"
 type: vaaliohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/831
@@ -21,59 +21,31 @@ year: 1996
 Vihreän liiton EP-vaaliohjelma
 
 
-Maailma pienenee päivä päivältä. Markkinavoimat, teknologia ja mediat toimivat
-yhä vilkkaammin yli kansallisten rajojen. Ympäristöongelmat, työttömyys ja
-syrjäytyminen ovat yhä selvemmin ylikansallisia ilmiöitä. Demokraattinen
-päätöksenteko ei voi enää rajoittua pelkästään kansallisiin puitteisiin.
+Maailma pienenee päivä päivältä. Markkinavoimat, teknologia ja mediat toimivat yhä vilkkaammin yli kansallisten rajojen. Ympäristöongelmat, työttömyys ja syrjäytyminen ovat yhä selvemmin ylikansallisia ilmiöitä. Demokraattinen päätöksenteko ei voi enää rajoittua pelkästään kansallisiin puitteisiin.
 
 
-Ympäristönsuojelu, työllisyys, turvallisuus ja kuluttajansuoja ovat esimerkkejä
-asioista, jotka vaativat ylikansallisia päätöksiä.
+Ympäristönsuojelu, työllisyys, turvallisuus ja kuluttajansuoja ovat esimerkkejä asioista, jotka vaativat ylikansallisia päätöksiä.
 
 
-Euroopan Unionilla on oltava riittävästi valtaa niissä kysymyksissä, joita ei
-voida perinteisellä kansallisella politiikalla ratkaista. Vihreät haluavat
-kehittää EU:sta uudenlaisen demokraattisen yhteisön, joka huolehtii
-eurooppalaisille yhteisistä asioista. Kansalliset päätökset jäävät
-kansallisvaltioille ja paikalliset paikallistasolle - alueille ja kunnille.
-Eurovaalien ja kunnallisvaalien järjestäminen samaan aikaan tarjoaa hyvän
-mahdollisuuden ylikansallisen ja paikallisen demokratian vahvistamiseen.
+Euroopan Unionilla on oltava riittävästi valtaa niissä kysymyksissä, joita ei voida perinteisellä kansallisella politiikalla ratkaista. Vihreät haluavat kehittää EU:sta uudenlaisen demokraattisen yhteisön, joka huolehtii eurooppalaisille yhteisistä asioista. Kansalliset päätökset jäävät kansallisvaltioille ja paikalliset paikallistasolle - alueille ja kunnille. Eurovaalien ja kunnallisvaalien järjestäminen samaan aikaan tarjoaa hyvän mahdollisuuden ylikansallisen ja paikallisen demokratian vahvistamiseen.
 
 
-Nykyinen EU on jäänyt ihmisten arkielämässä etäiseksi ja salaperäiseksi
-labyrintiksi. Kansalaisten vaikutusmahdollisuuksia on parannettava pelkän
-taloudellisen yhdentymisen sijasta.
+Nykyinen EU on jäänyt ihmisten arkielämässä etäiseksi ja salaperäiseksi labyrintiksi. Kansalaisten vaikutusmahdollisuuksia on parannettava pelkän taloudellisen yhdentymisen sijasta.
 
 
-EU:n perussopimuksissa on vahvistettava jäsenmaiden kansalaisten oikeuksia.
-Demokratia vaatii julkisuutta ja avoimuutta. Kansalaisille on taattava
-mahdollisuus tiedon saantiin valmisteilla olevista päätöksistä. Kansalaisten
-oikeuksia EU:n päätöksentekoa on yksinkertaistettava. Yhteisön ja
-jäsenvaltioiden suhteet on määriteltävä niin, että kansalaisille on selvää,
-missä mistäkin asioista päätetään.
+EU:n perussopimuksissa on vahvistettava jäsenmaiden kansalaisten oikeuksia. Demokratia vaatii julkisuutta ja avoimuutta. Kansalaisille on taattava mahdollisuus tiedon saantiin valmisteilla olevista päätöksistä. Kansalaisten oikeuksia EU:n päätöksentekoa on yksinkertaistettava. Yhteisön ja jäsenvaltioiden suhteet on määriteltävä niin, että kansalaisille on selvää, missä mistäkin asioista päätetään.
 
 
-Kansalaisilla on oltava oikeus lausua mielipiteensä EU:n tulevaisuudesta. Tämä
-on taattava järjestämällä jäsenmaissa sitovia kansanäänestyksiä tärkeimmistä
-poliittisista ratkaisuista, kuten liittymisestä Euroopan talous- ja rahaliittoon
-EMU:un. Jäsenmailla tulee olla myös oikeus erota Unionista kansanäänestyksellä.
+Kansalaisilla on oltava oikeus lausua mielipiteensä EU:n tulevaisuudesta. Tämä on taattava järjestämällä jäsenmaissa sitovia kansanäänestyksiä tärkeimmistä poliittisista ratkaisuista, kuten liittymisestä Euroopan talous- ja rahaliittoon EMU:un. Jäsenmailla tulee olla myös oikeus erota Unionista kansanäänestyksellä.
 
 
-Vihreät kannattavat Euroopan Unionin laajentamista Itä- ja Keski-Eurooppaan.
-Sitoutuminen demokraattisten periaatteiden ja ihmisoikeuksien kunnioittamiseen
-on riittävä jäsenyyden peruste. Laajentuminen on toteutettava lisäämällä
-yhteistyötä asteittain hakijamaiden kanssa. Malliksi sopivat jo solmitut
-Eurooppa-sopimukset. EU:n laajentuessakin on pidettävä kiinni kaikkien
-jäsenmaiden tasavertaisuudesta yhteisön päätöksenteossa. Yhteisösopimusten on
-velvoitettava samalla tavalla kaikkia jäsenmaita.
+Vihreät kannattavat Euroopan Unionin laajentamista Itä- ja Keski-Eurooppaan. Sitoutuminen demokraattisten periaatteiden ja ihmisoikeuksien kunnioittamiseen on riittävä jäsenyyden peruste. Laajentuminen on toteutettava lisäämällä yhteistyötä asteittain hakijamaiden kanssa. Malliksi sopivat jo solmitut Eurooppa-sopimukset. EU:n laajentuessakin on pidettävä kiinni kaikkien jäsenmaiden tasavertaisuudesta yhteisön päätöksenteossa. Yhteisösopimusten on velvoitettava samalla tavalla kaikkia jäsenmaita.
 
 
 ## EUROOPPA KANSALAISTEN KÄSIIN
 
 
-Euroopan Unionin päämäärät on kirkastettava. EU:n perussopimuksiin on kirjattava
-ekologisesti kestävän kehityksen, yhteiskunnallisen tasa-arvon ja työllisyyden
-edistäminen. EU:n kansalaisten perusoikeudet on turvattava kaikissa jäsenmaissa.
+Euroopan Unionin päämäärät on kirkastettava. EU:n perussopimuksiin on kirjattava ekologisesti kestävän kehityksen, yhteiskunnallisen tasa-arvon ja työllisyyden edistäminen. EU:n kansalaisten perusoikeudet on turvattava kaikissa jäsenmaissa.
 
 
 Vihreät vaativat, että
@@ -93,11 +65,7 @@ Vihreät vaativat, että
 ## EU:N PÄÄTÖKSENTEKO AVOIMEKSI
 
 
-Euroopan parlamentti on saanut lisää valtaa, mutta sen merkitys on kansalaisille
-vieras. Päätöksentekojärjestelmä on monimutkainen, parlamentin päätöksistä ei
-tiedoteta ja varojen käyttö on kohtuutonta. Jotta parlamentti voi toimia
-tehokkaammin kansalaisten äänenä, sen asemaa on koko Unionissa selkeytettävä ja
-päätöksentekoa yksinkertaistettava.
+Euroopan parlamentti on saanut lisää valtaa, mutta sen merkitys on kansalaisille vieras. Päätöksentekojärjestelmä on monimutkainen, parlamentin päätöksistä ei tiedoteta ja varojen käyttö on kohtuutonta. Jotta parlamentti voi toimia tehokkaammin kansalaisten äänenä, sen asemaa on koko Unionissa selkeytettävä ja päätöksentekoa yksinkertaistettava.
 
 
 Vihreät vaativat, että
@@ -114,15 +82,10 @@ Vihreät vaativat, että
 ## VIHREÄ VEROUUDISTUS TYÖLLISTÄÄ
 
 
-Euroopan Unioni määrittelee tavoitteekseen kestävän kasvun. Vihreät hyväksyvät
-ympäristöön sopeutetun talouskasvun silloin, kun se palvelee ihmisten todellisen
-elämänlaadun parantamista luonnon kantokykyä ylittämättä.
+Euroopan Unioni määrittelee tavoitteekseen kestävän kasvun. Vihreät hyväksyvät ympäristöön sopeutetun talouskasvun silloin, kun se palvelee ihmisten todellisen elämänlaadun parantamista luonnon kantokykyä ylittämättä.
 
 
-Eurooppalaisen työttömyysongelman ratkaisemista voidaan edistää vihreällä
-talouskasvulla. Lisäksi tarvitaan työttömyyden vähentämiseen vihreää
-verouudistusta ja työn jakamista. Näistä uudistuksista on voitava päättää
-jäsenmaiden kesken.
+Eurooppalaisen työttömyysongelman ratkaisemista voidaan edistää vihreällä talouskasvulla. Lisäksi tarvitaan työttömyyden vähentämiseen vihreää verouudistusta ja työn jakamista. Näistä uudistuksista on voitava päättää jäsenmaiden kesken.
 
 
 Vihreät vaativat, että
@@ -138,16 +101,10 @@ Vihreät vaativat, että
 ## RAHALIITTO SAA ODOTTAA
 
 
-Euroopan talous- ja rahaliiton EMU:n jäsenyysehtojen täyttämiseen tähtäävä
-talouspolitiikka on paperilla järkevää, mutta käytännössä se on johtanut
-lisääntyneeseen ahdinkoon ja epävarmuuteen yhteiskunnan turvaverkkojen
-tulevaisuudesta. Julkisen talouden tervehdyttämisen tarkoituksena on oltava
-kansalaisten hyvinvoinnin turvaaminen. Talous- ja rahaliiton
-lähentymiskriteerien yhtäaikainen nopea täyttäminen kaikissa jäsenmaissa uhkaa
-pahentaa työttömyyttä etenkin EU:n reuna-alueilla, joihin Suomikin kuuluu.
+Euroopan talous- ja rahaliiton EMU:n jäsenyysehtojen täyttämiseen tähtäävä talouspolitiikka on paperilla järkevää, mutta käytännössä se on johtanut lisääntyneeseen ahdinkoon ja epävarmuuteen yhteiskunnan turvaverkkojen tulevaisuudesta. Julkisen talouden tervehdyttämisen tarkoituksena on oltava kansalaisten hyvinvoinnin turvaaminen. Talous- ja rahaliiton lähentymiskriteerien yhtäaikainen nopea täyttäminen kaikissa jäsenmaissa uhkaa pahentaa työttömyyttä etenkin EU:n reuna-alueilla, joihin Suomikin kuuluu.
 
 
-EMU:lle on otettava reilu aikalisä.
+EMU:lle on otettava reilu aikalisä. 
 
 
 Vihreät vaativat, että
@@ -160,18 +117,10 @@ Vihreät vaativat, että
 ## YMPÄRISTÖNSUOJELUSTA EUROOPALLE KILPAILUVALTTI
 
 
-Ympäristönsuojelu on tärkein ylikansallisen päätöksenteon alue. Markkinoiden
-vapaus ei saa olla ympäristönsuojelun este. Nyt tilanne on nurinkurinen:
-ympäristönsuojelua pidetään tavaroiden, palvelujen, pääomien ja työntekijöiden
-vapaan liikkuvuuden esteenä EU:n sisämarkkinoilla Ympäristö on alistettu
-kestämättömän talouskasvun vaatimuksille.
+Ympäristönsuojelu on tärkein ylikansallisen päätöksenteon alue. Markkinoiden vapaus ei saa olla ympäristönsuojelun este. Nyt tilanne on nurinkurinen: ympäristönsuojelua pidetään tavaroiden, palvelujen, pääomien ja työntekijöiden vapaan liikkuvuuden esteenä EU:n sisämarkkinoilla Ympäristö on alistettu kestämättömän talouskasvun vaatimuksille.
 
 
-Euroopan Unionin kaikessa päätöksenteossa on otettava tavoitteeksi kestävä
-kehitys -kansalaisten elämän laadun parantaminen ylittämättä maapallon
-ekologista kestokykyä. Tätä periaatetta on noudatettava niin yhteisessä
-maatalous- ja metsäpolitiikassa, kuluttajien oikeuksien turvaamisessa kuin EU:n
-tukemissa liikennehankkeissakin. Vihreät vaativat, että
+Euroopan Unionin kaikessa päätöksenteossa on otettava tavoitteeksi kestävä kehitys -kansalaisten elämän laadun parantaminen ylittämättä maapallon ekologista kestokykyä. Tätä periaatetta on noudatettava niin yhteisessä maatalous- ja metsäpolitiikassa, kuluttajien oikeuksien turvaamisessa kuin EU:n tukemissa liikennehankkeissakin. Vihreät vaativat, että
 
 
 * EU:n luonnonsuojelualueverkostoa täydennetään biodiversiteetin säilyttämisen edellyttämässä laajuudessa
@@ -189,23 +138,10 @@ tukemissa liikennehankkeissakin. Vihreät vaativat, että
 ## MAAILMAA ON EUROOPAN ULKOPUOLELLAKIN
 
 
-Vihreille Euroopan yhdentyminen on siviiliprojekti, jonka avulla edistetään
-oikeudenmukaista ja kestävää kehitystä koko planeetalla. Euroopan Unioni on yksi
-maapallon merkittävimmistä vallan ja vaurauden keskittymistä. Siitä ei saa
-kuitenkaan tulla muusta maailmasta eristäytynyttä linnaketta. EU:n tulee toimia
-globaalin oikeudenmukaisuuden ja kestävän kehityksen puolesta myös
-maailmanlaajuisessa päätöksenteossa.
+Vihreille Euroopan yhdentyminen on siviiliprojekti, jonka avulla edistetään oikeudenmukaista ja kestävää kehitystä koko planeetalla. Euroopan Unioni on yksi maapallon merkittävimmistä vallan ja vaurauden keskittymistä. Siitä ei saa kuitenkaan tulla muusta maailmasta eristäytynyttä linnaketta. EU:n tulee toimia globaalin oikeudenmukaisuuden ja kestävän kehityksen puolesta myös maailmanlaajuisessa päätöksenteossa.
 
 
-Keskustelu Euroopan Unionin yhteisestä ulko- ja turvallisuuspolitiikasta on
-perustunut liian kapeaan turvallisuuskäsitykseen. Sotien ja kriisien syiden
-poistamiseen ei ole esitetty tepsiviä keinoja. Euroopan turvallisuutta
-edistetään parhaiten takaamalla jäsenmaiden kansalaisille riittävä toimeentulo
-sekä turvallinen ja puhdas elinympäristö. Kansainvälisten kriisien kestävä
-ratkaiseminen edellyttää kehitysmaiden aseman parantamista, lähialueiden
-vakauttamista ja tasa-arvon vahvistamista myös Euroopan Unionin sisällä. Maailma
-ei tarvitse uutta sotilaallista supervaltaa: EU:n ei tule rakentaa yhteisiä
-puolustusvoimia.
+Keskustelu Euroopan Unionin yhteisestä ulko- ja turvallisuuspolitiikasta on perustunut liian kapeaan turvallisuuskäsitykseen. Sotien ja kriisien syiden poistamiseen ei ole esitetty tepsiviä keinoja. Euroopan turvallisuutta edistetään parhaiten takaamalla jäsenmaiden kansalaisille riittävä toimeentulo sekä turvallinen ja puhdas elinympäristö. Kansainvälisten kriisien kestävä ratkaiseminen edellyttää kehitysmaiden aseman parantamista, lähialueiden vakauttamista ja tasa-arvon vahvistamista myös Euroopan Unionin sisällä. Maailma ei tarvitse uutta sotilaallista supervaltaa: EU:n ei tule rakentaa yhteisiä puolustusvoimia.
 
 
 Vihreät vaativat, että

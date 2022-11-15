@@ -3,8 +3,8 @@ language: FI
 party: "Vihre\xE4 liitto"
 ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
   \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-09.)"
-timestamp: 2022-11-09 20:05:46.204381
+  \ (Viitattu 2022-11-15.)"
+timestamp: 2022-11-15 17:33:09.653024
 title: Millaisen Euroopan haluat rakentaa? - Eurovaaliohjelma 2019
 type: vaaliohjelma
 url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1372
@@ -18,82 +18,43 @@ year: 2019
 ## Näytä luontosi ja äänestä!
 
 
-Tämä eurovaaliohjelma esittelee Suomen vihreiden kärkitavoitteet
-eurovaalikampanjassa 2019. Laajemmat vihreät vaalitavoitteet on esitelty
-Euroopan vihreiden yhteisessä vaaliohjelmassa sekä Suomen vihreiden poliittisen
-tavoiteohjelman Eurooppa-politiikkaa käsittelevissä luvuissa.
+Tämä eurovaaliohjelma esittelee Suomen vihreiden kärkitavoitteet eurovaalikampanjassa 2019. Laajemmat vihreät vaalitavoitteet on esitelty Euroopan vihreiden yhteisessä vaaliohjelmassa sekä Suomen vihreiden poliittisen tavoiteohjelman Eurooppa-politiikkaa käsittelevissä luvuissa.
 
 
 *Hyväksytty puoluevaltuuskunnan kokouksessa 28.4.2019*
 
 
-On olemassa unelma, jota kannattaa puolustaa. Se on eurooppalainen unelma
-rauhasta, vapaudesta, oikeudenmukaisesta hyvinvoinnista ja vastuusta tulevia
-sukupolvia kohtaan.
+On olemassa unelma, jota kannattaa puolustaa. Se on eurooppalainen unelma rauhasta, vapaudesta, oikeudenmukaisesta hyvinvoinnista ja vastuusta tulevia sukupolvia kohtaan.
 
 
-Sotien aiemmin runtelemalla mantereella on lähes seitsemänkymmenen vuoden ajan
-rakennettu keskinäiseen yhteistyöhön ja demokraattisiin perusarvoihin nojaavaa
-yhteisöä, jolle ei – puutteistaan huolimatta – löydy vertailukohtaa historiassa.
+Sotien aiemmin runtelemalla mantereella on lähes seitsemänkymmenen vuoden ajan rakennettu keskinäiseen yhteistyöhön ja demokraattisiin perusarvoihin nojaavaa yhteisöä, jolle ei – puutteistaan huolimatta – löydy vertailukohtaa historiassa.
 
 
-Eurooppa on ollut viime vuodet hajalla. Tämän on muututtava. Se ei onnistu ilman
-poliittista johtajuutta. Tarvitaan taas niitä, jotka ovat valmiit näyttämään
-suuntaa, esittämään vision yhteisestä Euroopasta ja kutsumaan ihmiset mukaan
-rakentamaan sitä.
+Eurooppa on ollut viime vuodet hajalla. Tämän on muututtava. Se ei onnistu ilman poliittista johtajuutta. Tarvitaan taas niitä, jotka ovat valmiit näyttämään suuntaa, esittämään vision yhteisestä Euroopasta ja kutsumaan ihmiset mukaan rakentamaan sitä.
 
 
-Suomi tarvitsee Eurooppaa. Historian myrskyissä olemme oppineet, miten karu voi
-olla yksin jäävän pienen maan osa. 5,5 miljoonan ihmisen Suomi edustaa vain 0,07
-prosenttia maailman väestöstä. Mutta osana yli 500 miljoonan ihmisen EU:ta
-olemme yhdessä enemmän: seitsemän prosenttia maailman väestöstä ja maailman
-suurin talousalue.
+Suomi tarvitsee Eurooppaa. Historian myrskyissä olemme oppineet, miten karu voi olla yksin jäävän pienen maan osa. 5,5 miljoonan ihmisen Suomi edustaa vain 0,07 prosenttia maailman väestöstä. Mutta osana yli 500 miljoonan ihmisen EU:ta olemme yhdessä enemmän: seitsemän prosenttia maailman väestöstä ja maailman suurin talousalue.
 
 
-Maailma tarvitsee Eurooppaa. EU on ollut suuri voima ilmastonmuutoksen
-pysäyttämisen, ympäristönsuojelun, rauhan, ihmisoikeuksien, demokratian ja
-sopimuksiin nojaavan maailmanjärjestyksen edistämisessä. Sitä tarvitaan tänään
-enemmän kuin koskaan.
+Maailma tarvitsee Eurooppaa. EU on ollut suuri voima ilmastonmuutoksen pysäyttämisen, ympäristönsuojelun, rauhan, ihmisoikeuksien, demokratian ja sopimuksiin nojaavan maailmanjärjestyksen edistämisessä. Sitä tarvitaan tänään enemmän kuin koskaan.
 
 
-Emme anna periksi voimille, jotka yrittävät purkaa kaiken saavutetun ja hajottaa
-Euroopan eripuraan, sulkeutumiseen, sisäänpäin käpertymiseen, vihaan ja
-ennakkoluuloihin. Emme anna periksi näköalattomuudelle, joka etäännyttää ihmiset
-demokratian toiminnasta. Emme anna periksi ahneudelle ja lyhytnäköisyydelle,
-jotka uhkaavat hävittää tulevien sukupolvien edellytykset hyvään elämään.
+Emme anna periksi voimille, jotka yrittävät purkaa kaiken saavutetun ja hajottaa Euroopan eripuraan, sulkeutumiseen, sisäänpäin käpertymiseen, vihaan ja ennakkoluuloihin. Emme anna periksi näköalattomuudelle, joka etäännyttää ihmiset demokratian toiminnasta. Emme anna periksi ahneudelle ja lyhytnäköisyydelle, jotka uhkaavat hävittää tulevien sukupolvien edellytykset hyvään elämään.
 
 
-Tarvitsemme vahvaa, demokraattista EU:ta, joka pitää yllä eurooppalaisia
-oikeudenmukaisuuden, vapauden ja solidaarisuuden arvoja. Tarvitsemme Eurooppaa,
-joka puolustaa järkähtämättä demokratian, ihmisoikeuksien ja oikeusvaltion
-periaatteita. Tarvitsemme Eurooppaa, joka on avainpelaaja kansainvälisellä
-näyttämöllä, edistää vastuullisempia sääntöjä kansainväliseen yhteistyöhön ja
-näyttää suuntaa kestävän tulevaisuuden rakentamisessa maailmalle.
+Tarvitsemme vahvaa, demokraattista EU:ta, joka pitää yllä eurooppalaisia oikeudenmukaisuuden, vapauden ja solidaarisuuden arvoja. Tarvitsemme Eurooppaa, joka puolustaa järkähtämättä demokratian, ihmisoikeuksien ja oikeusvaltion periaatteita. Tarvitsemme Eurooppaa, joka on avainpelaaja kansainvälisellä näyttämöllä, edistää vastuullisempia sääntöjä kansainväliseen yhteistyöhön ja näyttää suuntaa kestävän tulevaisuuden rakentamisessa maailmalle.
 
 
-Haluamme saada Euroopan takaisin jaloilleen. Haluamme Euroopan, joka osoittaa
-kansalaisilleen, että se saa tuloksia aikaan ja kykenee rakentamaan parempaa
-huomista meille kaikille.
+Haluamme saada Euroopan takaisin jaloilleen. Haluamme Euroopan, joka osoittaa kansalaisilleen, että se saa tuloksia aikaan ja kykenee rakentamaan parempaa huomista meille kaikille.
 
 
-**Näiden tavoitteiden puolesta vihreät kutsuvat kaikki mukaan tekemään Euroopan
-unionista taas sitä mitä sen pitäisi olla. Millaista Suomea, Eurooppaa ja
-maailmaa haluamme rakentaa? Näytä luontosi ja äänestä eurovaaleissa! Valinta on
-sinun.**
+**Näiden tavoitteiden puolesta vihreät kutsuvat kaikki mukaan tekemään Euroopan unionista taas sitä mitä sen pitäisi olla. Millaista Suomea, Eurooppaa ja maailmaa haluamme rakentaa? Näytä luontosi ja äänestä eurovaaleissa! Valinta on sinun.**
 
 
 ## Ilmastoa ja ympäristöä suojeleva Eurooppa
 
 
-Haluamme Euroopan, joka kantaa vastuunsa tulevista sukupolvista. Yhteiskuntiemme
-toiminta – koko tapamme tuottaa, kuluttajaa ja elää – on sovitettava maapallon
-kantokyvyn rajoihin. EU:n ilmasto- ja ympäristötavoitteiden kunnianhimon tasoa
-on nostettava merkittävästi, jotta saamme pysäytettyä ilmaston lämpenemisen alle
-1,5 asteen kriittisen rajan. Agenda 2030:n mukaisten kestävän kehityksen
-tavoitteiden on ohjattava kaikkea toimintaamme. Siirtymästä päästöttömään
-yhteiskuntaan ja vihreään talouteen on tehtävä reilu muutos, jossa luomme paljon
-uutta työtä, tuotantoa, vientimarkkinoita ja palveluja sekä varmistamme, että
-kustannukset ja hyödyt jakautuvat oikeudenmukaisella tavalla.
+Haluamme Euroopan, joka kantaa vastuunsa tulevista sukupolvista. Yhteiskuntiemme toiminta – koko tapamme tuottaa, kuluttajaa ja elää – on sovitettava maapallon kantokyvyn rajoihin. EU:n ilmasto- ja ympäristötavoitteiden kunnianhimon tasoa on nostettava merkittävästi, jotta saamme pysäytettyä ilmaston lämpenemisen alle 1,5 asteen kriittisen rajan. Agenda 2030:n mukaisten kestävän kehityksen tavoitteiden on ohjattava kaikkea toimintaamme. Siirtymästä päästöttömään yhteiskuntaan ja vihreään talouteen on tehtävä reilu muutos, jossa luomme paljon uutta työtä, tuotantoa, vientimarkkinoita ja palveluja sekä varmistamme, että kustannukset ja hyödyt jakautuvat oikeudenmukaisella tavalla.
 
 
 * EU:n on tehtävä sitova hiilibudjetti, asetettava määräaika, johon mennessä koko unionin on oltava hiilineutraali ja korjattava päästökauppa niin, että päästöjen hinta saadaan ylös ja niille asetetaan lattiahinta.
@@ -111,14 +72,7 @@ kustannukset ja hyödyt jakautuvat oikeudenmukaisella tavalla.
 ## Ihmisistä huolehtiva Eurooppa
 
 
-Haluamme rakentaa Euroopan, jossa ketään ei jätetä kyydistä - Euroopan, joka
-pitää huolta sosiaalisista turvaverkoista, oikeudenmukaisesta tulonjaosta ja
-kaikkien saatavilla olevista julkisista peruspalveluista, taistelee köyhyyttä
-vastaan ja tarjoaa työtä ja toimeentuloa asukkailleen. Sosiaalisen Euroopan
-rahoittamiseksi meidän on taisteltava veronkiertoa vastaan, edistettävä
-eurooppalaisia sääntöjä reilulle verotukselle ja varmistettava, että
-rahoitusmarkkinat maksavat oikeudenmukaisen osansa yhteisen hyvinvointimme
-ylläpidosta.
+Haluamme rakentaa Euroopan, jossa ketään ei jätetä kyydistä - Euroopan, joka pitää huolta sosiaalisista turvaverkoista, oikeudenmukaisesta tulonjaosta ja kaikkien saatavilla olevista julkisista peruspalveluista, taistelee köyhyyttä vastaan ja tarjoaa työtä ja toimeentuloa asukkailleen. Sosiaalisen Euroopan rahoittamiseksi meidän on taisteltava veronkiertoa vastaan, edistettävä eurooppalaisia sääntöjä reilulle verotukselle ja varmistettava, että rahoitusmarkkinat maksavat oikeudenmukaisen osansa yhteisen hyvinvointimme ylläpidosta.
 
 
 * Luodaan eurooppalainen minimitoimeentulo, joka on sidottu kunkin maan mediaanituloon. Aletaan valmistella esitystä EU:n laajuiseksi perustuloksi.
@@ -132,11 +86,7 @@ ylläpidosta.
 ## Feministinen ja yhdenvertainen Eurooppa
 
 
-Haluamme rakentaa feministisen Euroopan, joka taistelee kaikkinaista syrjintää
-vastaan ja pitää tinkimättä kiinni jokaisen ihmisen yhdenvertaisuudesta ja
-luovuttamattomasta ihmisarvosta. Haluamme yhteisen Euroopan, joka kuuluu
-yhtäläisesti kaikille sukupuolille, täällä syntyneille ja muualta muuttaneille,
-nuorille ja vanhoille, vähemmistöille ja enemmistöille.
+Haluamme rakentaa feministisen Euroopan, joka taistelee kaikkinaista syrjintää vastaan ja pitää tinkimättä kiinni jokaisen ihmisen yhdenvertaisuudesta ja luovuttamattomasta ihmisarvosta. Haluamme yhteisen Euroopan, joka kuuluu yhtäläisesti kaikille sukupuolille, täällä syntyneille ja muualta muuttaneille, nuorille ja vanhoille, vähemmistöille ja enemmistöille.
 
 
 * Edistetään työelämän tasa-arvoa. Luodaan unionin tason standardi vanhampainvapaille, jonka tavoite on vapaiden tasaisempi jakautuminen. Tuetaan jäsenmaita maksuttoman tai edullisen varhaiskasvatuksen tarjoamisessa kaikille lapsille.
@@ -148,14 +98,7 @@ nuorille ja vanhoille, vähemmistöille ja enemmistöille.
 ## Koulutuksen ja tutkimuksen Eurooppa
 
 
-Haluamme rakentaa Euroopasta maailman parhaan koulutuksen ja tutkimuksen sekä
-sivistyksen tyyssijan. Haluamme panostaa koulutukseen koko Euroopassa ja
-varmistaa, että jokainen lapsi saa parhaat mahdollisuudet löytää oman polkunsa
-ja edetä korkeimpaan mahdolliseen koulutukseen saakka taloudellisesta ja
-sosiaalisesta taustastaan riippumatta. Haluamme panostaa tutkimukseen,
-innovaatioihin ja tuotekehitykseen luodaksemme edellytykset kestävälle kasvulle
-ja tehdäksemme Euroopasta vireiden uusien ajatusten, innovaatioiden ja
-tieteellisten läpimurtojen dynamon.
+Haluamme rakentaa Euroopasta maailman parhaan koulutuksen ja tutkimuksen sekä sivistyksen tyyssijan. Haluamme panostaa koulutukseen koko Euroopassa ja varmistaa, että jokainen lapsi saa parhaat mahdollisuudet löytää oman polkunsa ja edetä korkeimpaan mahdolliseen koulutukseen saakka taloudellisesta ja sosiaalisesta taustastaan riippumatta. Haluamme panostaa tutkimukseen, innovaatioihin ja tuotekehitykseen luodaksemme edellytykset kestävälle kasvulle ja tehdäksemme Euroopasta vireiden uusien ajatusten, innovaatioiden ja tieteellisten läpimurtojen dynamon.
 
 
 * Otetaan Euroopan unionin strategiseksi tavoitteeksi nostaa eurooppalainen koulutus ja tutkimus maailman parhaaksi. Euroopassa koulutus tulee nähdä itseisarvona, ei vain työllisyyspolitiikan välineenä.
@@ -167,11 +110,7 @@ tieteellisten läpimurtojen dynamon.
 ## Perusarvoistaan kiinni pitävä Eurooppa
 
 
-Haluamme Euroopan, joka pitää järkähtämättä kiinni perusarvoistaan:
-laillisuudesta, demokratiasta, kansalaisvapauksista sekä perus- ja
-ihmisoikeuksista. Näitä arvoja tulee edistää kaikessa EU:n toiminnassa
-globaalisti ja vaatia samojen arvojen tinkimätöntä noudattamista myös EU:n
-sisällä.
+Haluamme Euroopan, joka pitää järkähtämättä kiinni perusarvoistaan: laillisuudesta, demokratiasta, kansalaisvapauksista sekä perus- ja ihmisoikeuksista. Näitä arvoja tulee edistää kaikessa EU:n toiminnassa globaalisti ja vaatia samojen arvojen tinkimätöntä noudattamista myös EU:n sisällä.
 
 
 * Puolustetaan vapaata mediaa, riippumatonta tuomioistuinlaitosta ja kansalaisyhteiskunnan toimintaedellytyksiä kaikissa jäsenmaissa. Edellytetään jäsenmailta demokratian, oikeusvaltion ja ihmisoikeuksien periaatteiden noudattamista sanktioiden uhalla ja ehtona EU-rahoitukselle. Tuetaan myös potentiaalisia tulevia jäsenmaita jäsenyyskriteerien täyttämisessä.
