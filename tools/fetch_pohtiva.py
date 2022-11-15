@@ -80,7 +80,7 @@ class Document:
 
     def as_markdown(self):
         """Return meta + contents as Markdown"""
-        md = markdownify(self.content, wrap=True, heading_style='ATX')
+        md = markdownify(self.content, wrap=False, heading_style='ATX')
         return '\n'.join([self._get_frontmatter(), md])
 
     def get_filename(self):
