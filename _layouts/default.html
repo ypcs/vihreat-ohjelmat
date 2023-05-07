@@ -18,6 +18,14 @@
     </nav>
     <section id="content">
     {{ content }}
+      <aside class="meta">
+        {% if page.original_url %}
+          <p>Alkuperäinen sivu: <a href="{{ page.original_url }}">{{ page.original_url }}</a></p>
+        {% endif %}
+        {% if page.ref %}
+        <p>Viittaustiedot: {{ page.ref }}</p>
+        {% endif %}
+      </aside>
     </section>
     <footer>
       <p><a href="{{ site.github.repository_url }}">GitHub</a></p>
