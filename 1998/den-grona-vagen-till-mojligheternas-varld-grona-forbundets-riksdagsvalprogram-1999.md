@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:34:21.558326
 title: "Den gr\xF6na v\xE4gen till m\xF6jligheternas v\xE4rld - Gr\xF6na f\xF6rbundets\
   \ riksdagsvalprogram 1999"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/864
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/864
 year: 1998
 ---
 

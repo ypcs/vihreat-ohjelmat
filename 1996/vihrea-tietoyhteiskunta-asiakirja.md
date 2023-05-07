@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:28.185880
 title: "Vihre\xE4 tietoyhteiskunta-asiakirja"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/867
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/867
 year: 1996
 ---
 

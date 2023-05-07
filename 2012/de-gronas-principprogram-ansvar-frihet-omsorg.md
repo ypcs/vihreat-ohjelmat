@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:34.133555
 title: "De Gr\xF6nas principprogram - Ansvar, frihet, omsorg"
 type: yleisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1196
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1196
 year: 2012
 ---
 

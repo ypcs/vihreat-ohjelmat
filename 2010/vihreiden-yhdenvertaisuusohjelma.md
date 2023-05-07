@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:44.833383
 title: Vihreiden yhdenvertaisuusohjelma
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/958
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/958
 year: 2010
 ---
 

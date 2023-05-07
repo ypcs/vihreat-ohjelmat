@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:20.824830
 title: "Yhdess\xE4 rakennamme paremman huomisen -vaaliohjelma"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/934
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/934
 year: 2016
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:09.653024
 title: Millaisen Euroopan haluat rakentaa? - Eurovaaliohjelma 2019
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1372
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1372
 year: 2019
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:06.269551
 title: Vihreiden aluevaaliohjelma
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1432
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1432
 year: 2021
 ---
 

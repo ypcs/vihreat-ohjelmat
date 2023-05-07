@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:33.055472
 title: A More Open Municipality - Local Election Manifesto 2012
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/851
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/851
 year: 2012
 ---
 

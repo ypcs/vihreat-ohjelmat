@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:23.203112
 title: "Vihre\xE4n liiton Periaateohjelma"
 type: yleisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/886
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/886
 year: 1998
 ---
 

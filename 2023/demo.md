@@ -2,19 +2,30 @@
 layout: default
 language: FI
 party: "Vihre\xE4 liitto"
-ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntatieteellinen\
-  \ tietoarkisto [yll\xE4pit\xE4j\xE4 ja tuottaja]. <https://www.fsd.tuni.fi/pohtiva>.\
-  \ (Viitattu 2022-11-15.)"
-timestamp: 2022-11-15 17:33:05.685691
-title: Kuntavaaliohjelma 2021
+timestamp: 2023-05-06 19:33:05.685691
+title: Demovaaliohjelma 2023
 type: vaaliohjelma
-original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1416
-year: 2021
+original_url: https://fixme
+year: 2023
+
+status:
+# draft / accepted / obsolete
+  state: hyväksytty
+# good | fair | bad
+  quality: hyvä
+
+validity:
+  after: 2023-05-06
+  until: 2024-05-06
+
+quality: good
+
+history:
+ - date: 2023-05-06
+   comment: "Hyväksytty xxx kokouksessa."
+ - date: 2023-05-07
+   comment: "Sisältö tarkistettu, merkitty kohta 5.5 vanhentuneeksi."
 ---
-
-
-# Vihreiden kuntavaaliohjelma 2021
-
 
 *Hyväksytty puoluevaltuuskunnan kokouksessa 21.2.2021*
 
@@ -136,8 +147,9 @@ Myös maaseudulla, missä etäisyydet ovat pitkiä yhdyskuntarakenteella on väl
 Vihreä kunta suojelee luontoa ja torjuu ilmastonmuutosta myös kaavoituksen keinoin. Keskittämällä uusi rakentaminen pitkälti jo rakennetuille alueille ja tiivistämällä yhdyskuntarakennetta säästämme luontoa. Samalla haluamme turvata mahdollisuuden lähiluontoon ja ekologiset verkostot myös tiivistyvissä kaupungeissa.
 
 
+<del title="Kumottu 2023-05-07 (esimerkki muutoksesta)">
 Asumisen korkea hinta koskettaa monia erityisesti kasvavilla seuduilla. Vihreässä kunnassa varmistetaan riittävä asuntotuotanto ja lisätään kohtuuhintaisia asuntoja, jotta jokaiselle löytyy tarpeita vastaava koti.
-
+</del>
 
 Kaunis ympäristö parantaa ihmisten elämänlaatua ja terveyttä, sekä ohjaa viettämään aikaa yhteisessä tilassa. Panostaminen arkkitehtuuriin, rakennusperintöön ja kulttuuriympäristöihin luo viihtyisyyttä ja vahvistaa kunnan identiteettiä. Vihreä kunta myös suojelee historiallisesti ja rakennustaiteellisesti arvokkaat rakennuksensa.
 

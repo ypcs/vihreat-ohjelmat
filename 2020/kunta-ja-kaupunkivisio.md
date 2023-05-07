@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:07.438985
 title: Kunta- ja kaupunkivisio
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1414
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1414
 year: 2020
 ---
 

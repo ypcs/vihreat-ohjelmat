@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:33:58.870414
 title: "Linjauksia yhdyskuntaj\xE4tteen energiana hy\xF6dynt\xE4misest\xE4 ja kest\xE4\
   v\xE4st\xE4 j\xE4tehuollosta"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1197
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1197
 year: 2006
 ---
 

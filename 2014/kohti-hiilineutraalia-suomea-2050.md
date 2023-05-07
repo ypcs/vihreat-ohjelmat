@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:24.715491
 title: Kohti hiilineutraalia Suomea 2050
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1105
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1105
 year: 2014
 ---
 

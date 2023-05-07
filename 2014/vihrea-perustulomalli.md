@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:26.426780
 title: "Vihre\xE4 perustulomalli"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1176
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1176
 year: 2014
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:49.827017
 title: Oikeudenmukaisuus, valinnanvapaus, ilmastovastuu - Kunnallisvaaliohjelma 2008
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/843
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/843
 year: 2008
 ---
 

@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:33:10.184122
 title: "Millaisen huomisen haluat rakentaa? N\xE4yt\xE4 luontosi ja \xE4\xE4nest\xE4\
   !"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1364
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1364
 year: 2019
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:13.012827
 title: Pelastetaan maailman paras koulutus
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1324
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1324
 year: 2018
 ---
 

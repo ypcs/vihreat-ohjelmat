@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:54.917092
 title: "Irti \xF6ljyriippuvuudesta"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1030
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1030
 year: 2007
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:47.627475
 title: Vesipoliittinen linjapaperi
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1160
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1160
 year: 2009
 ---
 

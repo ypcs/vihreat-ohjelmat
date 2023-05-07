@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:50.377805
 title: "R\xE4ttvisa, klimatansvar, frihet att v\xE4lja - Kommunalvalsprogram 2008"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/840
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/840
 year: 2008
 ---
 

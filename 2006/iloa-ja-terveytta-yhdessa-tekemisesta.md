@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:57.744495
 title: "Iloa ja terveytt\xE4 yhdess\xE4 tekemisest\xE4"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1225
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1225
 year: 2006
 ---
 

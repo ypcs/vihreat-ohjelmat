@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:43.138866
 title: Vihreiden luonnonsuojelutavoitteet
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1129
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1129
 year: 2010
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:24.163871
 title: "Vihreit\xE4 ratkaisuja turvapaikanhakijoiden ja pakolaisten kotouttamiseen"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1132
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1132
 year: 2015
 ---
 

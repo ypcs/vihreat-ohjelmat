@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:16.943702
 title: Tehokasta turvallisuuspolitiikkaa
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1144
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1144
 year: 2016
 ---
 

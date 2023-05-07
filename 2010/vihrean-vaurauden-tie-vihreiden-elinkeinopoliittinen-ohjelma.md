@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:41.998091
 title: "Vihre\xE4n vaurauden tie - Vihreiden elinkeinopoliittinen ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1016
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1016
 year: 2010
 ---
 

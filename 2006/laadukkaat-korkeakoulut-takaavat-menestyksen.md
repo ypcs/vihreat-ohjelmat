@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:58.309492
 title: Laadukkaat korkeakoulut takaavat menestyksen
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1211
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1211
 year: 2006
 ---
 

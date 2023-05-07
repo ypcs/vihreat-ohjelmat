@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:37.459390
 title: Radikaalisti avoin yhteiskunta - Vihreiden tietoyhteiskuntapoliittinen ohjelma
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1143
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1143
 year: 2011
 ---
 

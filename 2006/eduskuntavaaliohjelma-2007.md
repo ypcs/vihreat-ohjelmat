@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:57.184671
 title: Eduskuntavaaliohjelma 2007
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/875
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/875
 year: 2006
 ---
 

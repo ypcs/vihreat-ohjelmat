@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:45.968614
 title: "Vihreit\xE4 tekij\xE4noikeuslinjauksia"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1139
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1139
 year: 2010
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:31.942434
 title: "Vihre\xE4mpi yhteinen Eurooppa - Euroopan unionin peruskorjausohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1017
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1017
 year: 2013
 ---
 

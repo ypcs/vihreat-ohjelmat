@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:16.035561
 title: "Vihre\xE4n liiton koulutuspoliittinen ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/841
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/841
 year: 2002
 ---
 

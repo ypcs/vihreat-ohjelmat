@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:06.861182
 title: "Ik\xE4\xE4ntymispoliittinen ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1395
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1395
 year: 2020
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:31.393434
 title: "Vihre\xE4 kulttuurimanifesti"
 type: muu ohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1163
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1163
 year: 2013
 ---
 

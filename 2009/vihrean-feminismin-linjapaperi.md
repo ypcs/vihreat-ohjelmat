@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:48.188793
 title: "Vihre\xE4n feminismin linjapaperi"
 type: muu ohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1142
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1142
 year: 2009
 ---
 

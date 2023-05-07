@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:56.629962
 title: "Tavoitteena turvalliset, laadukkaat ja riitt\xE4v\xE4t peruspalvelut"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1220
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1220
 year: 2007
 ---
 

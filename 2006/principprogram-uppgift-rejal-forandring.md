@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:01.137443
 title: "Principprogram - Uppgift: Rej\xE4l f\xF6r\xE4ndring"
 type: yleisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/862
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/862
 year: 2006
 ---
 

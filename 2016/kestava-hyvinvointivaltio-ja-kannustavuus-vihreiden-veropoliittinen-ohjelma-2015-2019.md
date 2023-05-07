@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:33:16.385437
 title: "Kest\xE4v\xE4 hyvinvointivaltio ja kannustavuus - Vihreiden veropoliittinen\
   \ ohjelma 2015-2019"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1159
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1159
 year: 2016
 ---
 

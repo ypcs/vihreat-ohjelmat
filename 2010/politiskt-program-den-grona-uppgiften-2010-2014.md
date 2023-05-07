@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:40.289134
 title: "Politiskt program - Den gr\xF6na uppgiften 2010-2014"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/860
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/860
 year: 2010
 ---
 

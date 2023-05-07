@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:34.693030
 title: "Kommunalvalsprogrammet 2012: En \xF6ppnare kommun"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/880
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/880
 year: 2012
 ---
 

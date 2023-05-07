@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:10.991927
 title: "Vihre\xE4n liiton kaupunkipoliittinen ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/837
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/837
 year: 2004
 ---
 

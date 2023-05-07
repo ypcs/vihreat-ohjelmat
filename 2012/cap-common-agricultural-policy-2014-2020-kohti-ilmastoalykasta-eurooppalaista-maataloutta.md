@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:33:33.584088
 title: "CAP - Common agricultural policy 2014-2020 - kohti ilmasto\xE4lyk\xE4st\xE4\
   \ eurooppalaista maataloutta"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1114
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1114
 year: 2012
 ---
 

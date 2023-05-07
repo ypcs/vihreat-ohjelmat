@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:09.356181
 title: "V\xE4rlden g\xF6rs n\xE4ra dig -valprogram"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/879
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/879
 year: 2004
 ---
 

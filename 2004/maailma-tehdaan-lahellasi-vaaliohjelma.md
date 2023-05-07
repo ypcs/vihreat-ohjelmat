@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:08.785766
 title: "Maailma tehd\xE4\xE4n l\xE4hell\xE4si -vaaliohjelma"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/874
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/874
 year: 2004
 ---
 

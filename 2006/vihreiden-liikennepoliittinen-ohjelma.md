@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:03.969672
 title: Vihreiden liikennepoliittinen ohjelma
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/847
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/847
 year: 2006
 ---
 

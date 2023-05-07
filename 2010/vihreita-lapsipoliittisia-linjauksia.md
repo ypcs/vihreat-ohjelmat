@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:45.407000
 title: "Vihreit\xE4 lapsipoliittisia linjauksia"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1102
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1102
 year: 2010
 ---
 

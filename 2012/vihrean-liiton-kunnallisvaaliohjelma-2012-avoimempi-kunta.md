@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:35.783399
 title: "Vihre\xE4n liiton kunnallisvaaliohjelma 2012: Avoimempi kunta"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/876
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/876
 year: 2012
 ---
 

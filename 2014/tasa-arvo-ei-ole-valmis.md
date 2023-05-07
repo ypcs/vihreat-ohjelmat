@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:25.870737
 title: Tasa-arvo ei ole valmis
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1138
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1138
 year: 2014
 ---
 

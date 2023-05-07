@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:28.071627
 title: Vihreiden koulutuspoliittinen ohjelma - Tasa-arvoisin koulutus, osaavin kansa
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1104
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1104
 year: 2014
 ---
 

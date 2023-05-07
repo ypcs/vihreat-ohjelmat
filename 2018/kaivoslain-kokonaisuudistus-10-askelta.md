@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:10.748023
 title: Kaivoslain kokonaisuudistus - 10 askelta
 type: muu ohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1107
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1107
 year: 2018
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:17.206863
 title: "Vihre\xE4n liiton teesit kansainv\xE4lisest\xE4 turvallisuuspolitiikasta"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/869
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/869
 year: 2002
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:13.780460
 title: "P\xE4ihdepoliittinen ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/853
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/853
 year: 2003
 ---
 

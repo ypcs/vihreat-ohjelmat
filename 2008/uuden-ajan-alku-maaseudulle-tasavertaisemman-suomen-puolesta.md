@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:51.481330
 title: Uuden ajan alku maaseudulle - Tasavertaisemman Suomen puolesta
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1032
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1032
 year: 2008
 ---
 

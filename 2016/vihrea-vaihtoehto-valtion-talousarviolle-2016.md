@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:19.701752
 title: "Vihre\xE4 vaihtoehto valtion talousarviolle 2016"
 type: muu ohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1149
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1149
 year: 2016
 ---
 

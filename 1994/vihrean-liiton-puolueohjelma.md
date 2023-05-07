@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:28.747018
 title: "Vihre\xE4n Liiton Puolueohjelma"
 type: yleisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/885
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/885
 year: 1994
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:03.404461
 title: "Vihre\xE4n liiton vammaispoliittiset tavoitteet"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/881
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/881
 year: 2006
 ---
 

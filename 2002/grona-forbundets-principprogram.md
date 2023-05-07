@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:14.916262
 title: "Gr\xF6na f\xF6rbundets principprogram"
 type: yleisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/861
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/861
 year: 2002
 ---
 

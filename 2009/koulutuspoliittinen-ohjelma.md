@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:46.535495
 title: Koulutuspoliittinen ohjelma
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1177
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1177
 year: 2009
 ---
 

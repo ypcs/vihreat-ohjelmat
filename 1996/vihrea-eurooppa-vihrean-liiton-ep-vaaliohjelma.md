@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:27.096079
 title: "VIHRE\xC4 EUROOPPA - Vihre\xE4n liiton EP-vaaliohjelma"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/831
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/831
 year: 1996
 ---
 

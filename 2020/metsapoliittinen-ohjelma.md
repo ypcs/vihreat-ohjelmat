@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:07.973411
 title: "Mets\xE4poliittinen ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1393
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1393
 year: 2020
 ---
 

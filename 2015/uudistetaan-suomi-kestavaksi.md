@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:22.484116
 title: "Uudistetaan Suomi kest\xE4v\xE4ksi"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1140
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1140
 year: 2015
 ---
 

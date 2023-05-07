@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:33:44.258888
 title: "Vihreiden verolinjaukset seuraavalle vaalikaudelle. VIHRE\xC4 VEROUUDISTUS\
   \ OSA II"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/882
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/882
 year: 2010
 ---
 

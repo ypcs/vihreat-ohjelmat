@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:39.730317
 title: "Poliittinen ohjelma - Vihre\xE4 teht\xE4v\xE4 2010-2014"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/859
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/859
 year: 2010
 ---
 

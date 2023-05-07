@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:33:12.411660
 title: "Meille kaikille hyv\xE4 el\xE4m\xE4: Vihre\xE4 sosiaali- ja terveyspoliittinen\
   \ ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1096
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1096
 year: 2018
 ---
 

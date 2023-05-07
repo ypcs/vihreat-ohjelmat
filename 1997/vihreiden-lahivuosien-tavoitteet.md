@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:25.457192
 title: "Vihreiden l\xE4hivuosien tavoitteet"
 type: yleisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/865
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/865
 year: 1997
 ---
 

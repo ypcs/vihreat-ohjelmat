@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:09.091652
 title: Vihreiden periaateohjelma 2020-2028
 type: yleisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1387
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1387
 year: 2020
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:14.763873
 title: Vihreiden Lukeva Suomi -teesit
 type: muu ohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1100
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1100
 year: 2017
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:19.153791
 title: "Vihre\xE4t: Onnistunut perustulokokeilu on avain parempaan sosiaaliturvaan"
 type: muu ohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1162
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1162
 year: 2016
 ---
 

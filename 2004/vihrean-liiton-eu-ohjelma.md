@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:10.431382
 title: "Vihre\xE4n liiton EU-ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/830
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/830
 year: 2004
 ---
 

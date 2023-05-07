@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:15.858787
 title: "Yhdess\xE4 teemme maailman parhaan koulun"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1097
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1097
 year: 2017
 ---
 

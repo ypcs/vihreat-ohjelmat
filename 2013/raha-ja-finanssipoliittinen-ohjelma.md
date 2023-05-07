@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:30.868199
 title: Raha- ja finanssipoliittinen ohjelma
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1131
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1131
 year: 2013
 ---
 

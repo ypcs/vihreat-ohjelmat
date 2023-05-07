@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:48.732726
 title: Vihreiden Eurooppa-ohjelma
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1110
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1110
 year: 2009
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:32.501706
 title: "21 Vihre\xE4\xE4 askelta eriarvoisuuden torjumiseen"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1111
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1111
 year: 2012
 ---
 

@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:33:28.623628
 title: "Vihreit\xE4 ratkaisuja kohtuuhintaiseen ja kest\xE4v\xE4\xE4n asumiseen -\
   \ Vihre\xE4n liiton asumispoliittinen ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1115
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1115
 year: 2014
 ---
 

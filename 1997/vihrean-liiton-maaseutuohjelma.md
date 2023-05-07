@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:24.879689
 title: "Vihre\xE4n liiton maaseutuohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/849
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/849
 year: 1997
 ---
 

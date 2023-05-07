@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:13.239732
 title: "Euroopan vihre\xE4n puolueen vaaliohjelma 2004"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/833
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/833
 year: 2003
 ---
 

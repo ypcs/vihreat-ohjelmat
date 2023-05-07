@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:19.391645
 title: "Tasapainoinen vihre\xE4 Suomi - Vihre\xE4n liiton aluepoliittinen ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/827
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/827
 year: 2000
 ---
 

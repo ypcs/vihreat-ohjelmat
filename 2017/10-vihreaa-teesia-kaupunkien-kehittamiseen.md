@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:14.214806
 title: "10 vihre\xE4\xE4 teesi\xE4 kaupunkien kehitt\xE4miseen"
 type: muu ohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1148
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1148
 year: 2017
 ---
 

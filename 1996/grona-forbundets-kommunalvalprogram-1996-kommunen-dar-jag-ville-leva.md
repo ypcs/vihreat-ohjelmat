@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:34:26.566467
 title: "Gr\xF6na f\xF6rbundets kommunalvalprogram 1996 - Kommunen d\xE4r jag ville\
   \ leva..."
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/838
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/838
 year: 1996
 ---
 

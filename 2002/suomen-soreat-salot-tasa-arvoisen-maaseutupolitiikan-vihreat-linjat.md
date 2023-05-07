@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:15.481053
 title: "Suomen soreat salot - Tasa-arvoisen maaseutupolitiikan vihre\xE4t linjat"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/850
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/850
 year: 2002
 ---
 

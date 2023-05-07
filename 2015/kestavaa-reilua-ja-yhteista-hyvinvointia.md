@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:21.931067
 title: "Kest\xE4v\xE4\xE4, reilua ja yhteist\xE4 hyvinvointia"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1109
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1109
 year: 2015
 ---
 

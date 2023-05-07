@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:01.717511
 title: "Program f\xF6r riksdagsvalet 2007"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/877
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/877
 year: 2006
 ---
 

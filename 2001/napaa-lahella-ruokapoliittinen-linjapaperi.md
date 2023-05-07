@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:18.305741
 title: "Napaa l\xE4hell\xE4 - ruokapoliittinen linjapaperi"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1212
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1212
 year: 2001
 ---
 

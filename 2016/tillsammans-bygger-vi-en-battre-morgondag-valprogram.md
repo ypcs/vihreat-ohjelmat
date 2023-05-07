@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:17.471968
 title: "Tillsammans bygger vi en b\xE4ttre morgondag -valprogram"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/953
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/953
 year: 2016
 ---
 

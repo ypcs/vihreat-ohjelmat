@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:53.774485
 title: "Vihreit\xE4 linjauksia kasvukeskusten ja kaupunkien asuntopolitiikkaan"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1156
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1156
 year: 2008
 ---
 

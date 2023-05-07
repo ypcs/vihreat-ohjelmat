@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:21.013033
 title: Vihreiden perhepoliittiset tavoitteet
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/854
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/854
 year: 1999
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:18.596682
 title: "Vihre\xE4 energiavisio 2035"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1157
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1157
 year: 2016
 ---
 

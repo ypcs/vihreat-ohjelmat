@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:15.310264
 title: Vihreiden turvapaikkapoliittinen linjapaperi
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1125
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1125
 year: 2017
 ---
 

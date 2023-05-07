@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:08.517323
 title: "Reilun vihre\xE4n muutoksen ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1394
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1394
 year: 2020
 ---
 

@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:49.272653
 title: "Yritt\xE4jyys kannattaa - pk-yritt\xE4jyysohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1158
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1158
 year: 2009
 ---
 

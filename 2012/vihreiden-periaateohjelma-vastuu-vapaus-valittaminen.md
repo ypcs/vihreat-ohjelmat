@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:36.890466
 title: "Vihreiden periaateohjelma \u2013 Vastuu, vapaus, v\xE4litt\xE4minen"
 type: yleisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/857
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/857
 year: 2012
 ---
 

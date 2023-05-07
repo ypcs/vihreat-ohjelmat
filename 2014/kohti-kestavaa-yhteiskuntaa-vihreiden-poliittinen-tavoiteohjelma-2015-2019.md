@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:33:25.281045
 title: "Kohti kest\xE4v\xE4\xE4 yhteiskuntaa - Vihreiden poliittinen tavoiteohjelma\
   \ 2015-2019"
 type: tavoiteohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1124
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1124
 year: 2014
 ---
 

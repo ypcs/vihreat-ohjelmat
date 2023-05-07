@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:02.833415
 title: "Vihre\xE4n liiton periaateohjelma: Teht\xE4v\xE4n\xE4 reilu muutos"
 type: yleisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/856
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/856
 year: 2006
 ---
 

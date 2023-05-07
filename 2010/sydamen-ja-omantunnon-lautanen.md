@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:40.863704
 title: "Syd\xE4men ja omantunnon lautanen"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1133
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1133
 year: 2010
 ---
 

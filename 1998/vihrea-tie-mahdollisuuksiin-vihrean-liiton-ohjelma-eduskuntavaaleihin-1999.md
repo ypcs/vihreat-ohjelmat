@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:34:24.312840
 title: "Vihre\xE4 tie mahdollisuuksiin - Vihre\xE4n liiton ohjelma eduskuntavaaleihin\
   \ 1999"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/872
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/872
 year: 1998
 ---
 

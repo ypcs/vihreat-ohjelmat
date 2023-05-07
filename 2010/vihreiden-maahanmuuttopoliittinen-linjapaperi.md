@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:43.696691
 title: Vihreiden maahanmuuttopoliittinen linjapaperi
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1098
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1098
 year: 2010
 ---
 

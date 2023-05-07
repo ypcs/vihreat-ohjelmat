@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:35.221204
 title: "Politiikassa ei ole mit\xE4\xE4n h\xE4vett\xE4v\xE4\xE4! - Vihreiden demokratiaohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1018
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1018
 year: 2012
 ---
 

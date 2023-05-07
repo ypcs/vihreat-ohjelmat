@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:00.559161
 title: Periaateohjelman luonnos
 type: yleisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/858
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/858
 year: 2006
 ---
 

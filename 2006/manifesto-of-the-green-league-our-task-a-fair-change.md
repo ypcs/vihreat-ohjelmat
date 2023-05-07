@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:59.444256
 title: 'Manifesto of the Green League - Our Task: a Fair Change'
 type: yleisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/852
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/852
 year: 2006
 ---
 

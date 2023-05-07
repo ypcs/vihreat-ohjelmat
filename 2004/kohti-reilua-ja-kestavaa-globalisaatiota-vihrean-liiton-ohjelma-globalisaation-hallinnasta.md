@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:34:08.242322
 title: "Kohti reilua ja kest\xE4v\xE4\xE4 globalisaatiota - Vihre\xE4n liiton ohjelma\
   \ globalisaation hallinnasta"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/836
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/836
 year: 2004
 ---
 

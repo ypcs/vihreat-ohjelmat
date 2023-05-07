@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:20.463134
 title: "Det gr\xF6na Europa - Valprogram f\xF6r Europaparlamentsvalet 1999"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/835
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/835
 year: 1999
 ---
 

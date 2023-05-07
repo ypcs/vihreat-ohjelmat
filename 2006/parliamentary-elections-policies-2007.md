@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:00.004977
 title: Parliamentary elections policies 2007
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/829
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/829
 year: 2006
 ---
 

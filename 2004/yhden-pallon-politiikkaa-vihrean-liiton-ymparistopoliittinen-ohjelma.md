@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:12.102693
 title: "Yhden pallon politiikkaa - Vihre\xE4n liiton ymp\xE4rist\xF6poliittinen ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/887
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/887
 year: 2004
 ---
 

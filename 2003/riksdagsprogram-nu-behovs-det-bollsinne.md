@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:14.346212
 title: "Riksdagsprogram - Nu beh\xF6vs det bollsinne!"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/878
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/878
 year: 2003
 ---
 

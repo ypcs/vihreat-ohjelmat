@@ -9,7 +9,7 @@ timestamp: 2022-11-15 17:34:27.627267
 title: "Vihre\xE4n liiton kunnallisvaaliohjelma 1996: Kunta jossa tahtoisin el\xE4\
   \xE4..."
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/844
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/844
 year: 1996
 ---
 

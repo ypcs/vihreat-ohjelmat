@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:02.279959
 title: "Vihre\xE4n eduskuntaryhm\xE4n perint\xF6verolinjaukset"
 type: muu ohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1246
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1246
 year: 2006
 ---
 

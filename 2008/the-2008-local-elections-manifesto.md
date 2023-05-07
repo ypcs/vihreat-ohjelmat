@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:50.927983
 title: The 2008 Local Elections Manifesto
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/848
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/848
 year: 2008
 ---
 

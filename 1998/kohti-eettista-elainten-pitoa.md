@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:34:22.660642
 title: "Kohti eettist\xE4 el\xE4inten pitoa"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1210
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1210
 year: 1998
 ---
 

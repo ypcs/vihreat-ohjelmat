@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:38.037795
 title: "Vihre\xE4t el\xE4kelinjaukset: Vakaa perusturva el\xE4kel\xE4isen tukena"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1112
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1112
 year: 2011
 ---
 

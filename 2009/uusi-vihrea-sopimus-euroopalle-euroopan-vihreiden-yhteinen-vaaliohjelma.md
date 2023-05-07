@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:47.093502
 title: "Uusi Vihre\xE4 sopimus Euroopalle - Euroopan Vihreiden yhteinen vaaliohjelma"
 type: vaaliohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/834
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/834
 year: 2009
 ---
 

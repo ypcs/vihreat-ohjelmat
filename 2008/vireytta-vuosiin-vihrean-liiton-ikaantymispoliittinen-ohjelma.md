@@ -8,7 +8,7 @@ ref: "Puolueohjelmien tietokanta POHTIVA [verkkojulkaisu]. Tampere: Yhteiskuntat
 timestamp: 2022-11-15 17:33:54.346668
 title: "Vireytt\xE4 vuosiin - Vihre\xE4n liiton ik\xE4\xE4ntymispoliittinen ohjelma"
 type: erityisohjelma
-url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1029
+original_url: https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR/1029
 year: 2008
 ---
 
