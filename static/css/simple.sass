@@ -1,0 +1,35 @@
+---
+---
+$font: Arial, Helvetica, sans-serif
+
+
+html, body
+  font-family: $font
+
+#page
+  max-width: 600px
+  >section, >header, >footer
+    padding: 0.25em
+
+section
+  &#content 
+    margin-left: 2em
+
+header, footer
+  clear: both
+
+aside
+  padding: 0.25em
+
+.meta
+  border: 1px dotted #ccc
+ 
+del
+  color: red
+
+  &:before
+    font-weight: bold
+    color: #ccc
+    text-decoration: none
+    font-style: small-caps
+    content: attr(title)
