@@ -1,3 +1,18 @@
+---
+layout: default
+language: FI
+party: "Vihre\xE4 liitto"
+title: Tietopoliittinen ohjelma
+type: erityisohjelma
+original_url: https://www.vihreat.fi/tietopoliittinen-ohjelma/
+year: 2021
+
+valid_after: 2021-05-16
+#valid_until:
+
+approved_by: Vihreän liiton puoluevaltuuskunta
+approved_at: 2021-05-16
+---
 Vihreät De Gröna
 
 **Hyväksytty valtuuskunnan kokouksessa 16.5.2021**
