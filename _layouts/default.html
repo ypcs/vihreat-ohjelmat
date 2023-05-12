@@ -22,14 +22,15 @@
         Hyväksynyt {{ page.approved_by }} {{ page.approved_at|date:"%d.%m.%Y" }}
         {% endif %}
         <p>
-        {% if page.valid_after %}
-        Voimassa alkaen: {{ page.valid_after|date:"%d.%m.%Y" }}.
-        {% endif %}
-        {% if page.valid_until %}
-        Voimassa asti: {{ page.valid_until|date:"%d.%m.%Y" }}.
-        {% endif %}
         </p>
-      {% if page.year %}
+      </aside>
+      <aside class="validity">
+      {% if page.valid_after %}
+      Voimassa alkaen: {{ page.valid_after|date:"%d.%m.%Y" }}.
+      {% endif %}
+      {% if page.valid_until %}
+      Ohjelman voimassaoloaika päättyy: {{ page.valid_until|date:"%d.%m.%Y" }}.
+      {% elsif page.year %}
       {% capture years_since %}{{ site.time |date:"%Y" | minus:page.year }}{% endcapture %}
       {% assign years_since_int = years_since|ceil %}
       {% if years_since_int > 12 %}
