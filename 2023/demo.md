@@ -14,11 +14,21 @@ status:
 # good | fair | bad
   quality: hyvä
 
-validity:
-  after: 2023-05-06
-  until: 2024-05-06
 
-quality: good
+# Mikä elin on hyväksynyt asiakirjan
+approved_by: Puoluevaltuuskunta
+
+# Milloin asiakirja on hyväksytty (VVVV-KK-PP)
+approved_at: 2023-01-01
+
+# Mistä alkaen asiakirja on voimassa (VVVV-KK-PP)
+valid_after: 2023-05-01
+
+# Mihin asti asiakirja on voimassa (VVVV-KK-PP)
+valid_until: 2023-06-01
+
+# Asiakirjan "tila"/laatu (1,2,3)
+quality: 1
 
 history:
  - date: 2023-05-06
@@ -26,8 +36,6 @@ history:
  - date: 2023-05-07
    comment: "Sisältö tarkistettu, merkitty kohta 5.5 vanhentuneeksi."
 ---
-
-*Hyväksytty puoluevaltuuskunnan kokouksessa 21.2.2021*
 
 
 ## Johdanto
