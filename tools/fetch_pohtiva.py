@@ -14,9 +14,7 @@ Usage:
 should produce Markdown files in year-based structure below current directory.
 """
 
-import argparse
 import datetime
-import json
 import os
 import requests
 import sys
@@ -125,9 +123,6 @@ class Pohtiva:
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    args = parser.parse_args()
-
     api = Pohtiva('https://www.fsd.tuni.fi/pohtiva/ohjelmalistat/VIHR')
 
     docs = api.get_document_list()
