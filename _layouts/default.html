@@ -47,7 +47,7 @@
           <p>Alkuperäinen sivu: <a href="{{ page.original_url }}">{{ page.original_url }}</a></p>
         {% endif %}
         {% if page.ref %}
-        <p>Viittaustiedot: {{ page.ref }}</p>
+        <p>Viittaustiedot: {{ page.ref|escape }}</p>
         {% endif %}
       </aside>
     </section>
